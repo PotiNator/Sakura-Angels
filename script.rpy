@@ -791,7 +791,7 @@ label start:
     $ sayaface='happy'
     show Sayaka
 
-    h "H-hey, don't--"
+    h "H-Hey,tuh d-das nicht--"
 
     $ hikaface='embarrassed'
     hide Sayaka
@@ -802,7 +802,7 @@ label start:
 
     "She looks like she's at a loss for words, her mouth opening and closing as her face gradually goes red.{w} I guess she doesn't cope well under the spotlight."
 
-    h "I-I'm... {size=12}Hikari...{w} Nice to m-meet you all...{/size}"
+    h "I-Ich bin... {size=12}Hikari...{w} F-Freut mich euch k-kennenzulernen...{/size}"
 
     $ hikaface='shy'
     show Sayaka at left
@@ -1063,7 +1063,7 @@ label start:
     show Hikari
     with dissolve
 
-    h "Kyaa!{w} Who said you could touch me?!"
+    h "Kyaa!{w} Wer hat gesagt das du mich berühren darfst?!"
 
     hide Hikari
     with dissolve
@@ -1126,14 +1126,14 @@ label start:
 
     "I release both of their wrists simultaneously.{w} Sayaka bounces happily, completely unbothered, while Hikari on the other hand rubs at her wrist as if I had assaulted her."
 
-    h "Next time how about you ask before you go grabbing someone like that?!{w} You're lucky we're in a public place, or I would have sliced you in two!"
+    h "Wie wäre es nächstes mal zu fragen bevor du jemanden anfässt?!{w} Du hast Glück dass wir auf einem öffentlichen Platz sind, sonst hätte ich dich in zwei Teile geschnitten!"
 
     s "Oh, this is exciting!{w} Is this gonna be one of those confessions I've heard so much about?"
 
     $ hikaface='embarrassed'
     show Hikari
 
-    h "E-eh?{w} C-confession?{w} To who?{w} Both of us?!"
+    h "E-eh?{w} E-Ein L-Liebesgeständnis?{w} Zu wem?{w} Wir beide?!"
 
     "What the heck are they even...{w} I shake my head."
 
@@ -1195,11 +1195,11 @@ label rooftopexplanation:
             show Hikari
             with dissolve
 
-            h "I mean really, this whole thing is a complete disaster.{w} Why did you have to cause us so many problems?"
+            h "Ich meine wirklich, diese ganze Sache ist eine komplette Katastrophe.{w} Warum musstest du uns so viele Probleme bereiten?"
 
             p "Hey, it's not my fault!{w} I...I think."
 
-            h "Just be thankful you're so important to me, or we could have left you to get eaten by that thing."
+            h "Sei einfach froh dass du mir so wichtig bist, oder wir hätten dich zurückgelassen um von diesem Ding gefressen zu werden."
 
             $ sayaface='shocked'
             show Sayaka
@@ -1218,7 +1218,7 @@ label rooftopexplanation:
 
             "The realisation of what she said slowly dawns on her.{w} It was quite fun to watch her usually grumpy face gradually go red before she stomps in a fluster."
 
-            h "I-I mean--important to us!{w} {i}Us!{/i}"
+            h "I-Ich meinte w-wichtig für uns!{w} {i}Uns!{/i}"
 
             $ sayaface='joking'
             $ hikaface='shy'
@@ -1328,7 +1328,7 @@ label rooftopexplanation:
             $ hikaface='normal'
             show Hikari
 
-            h "He doesn't need to know any of that.{w} It's better this way.{w} We'll sort out the problem at hand, and then we can finally leave this horrible school."
+            h "Er weiß nichts davon.{w} Es ist besser so.{w} Wie werden das Problem lösen, und endlich diese grausame Schule verlassen."
 
             s "You're no fun.{w} ...You're right, though.{w} Sorry, Kenta."
 
@@ -1382,7 +1382,7 @@ label rooftopexplanation:
             show Hikari
             with dissolve
 
-            h "Ugh, a week?!{w} If it was up to me we'd be gone by tomorrow.{w} I hate this place...{w} It's so noisy."
+            h "Was, eine Woche?!{w} Würde es nach mir gehen, wären wir schon morgen weg.{w} Ich hasse diesen Ort...{w} Er ist so laut."
 
             s "Well, if somebody was more useful, and helped me instead of just complaining all the time, we might get things done quicker, hmm?"
 
@@ -1436,7 +1436,7 @@ label rooftopexplanation:
             $ hikaface='shy'
             show Hikari
 
-            h "...Nothing.{w} It's...nothing."
+            h "...Nichts.{w} Es ist...nichts."
 
             hide Hikari
             with dissolve
