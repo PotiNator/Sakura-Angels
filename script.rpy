@@ -1094,7 +1094,7 @@ label start:
     $ yuzuface='angry'
     show Yuzuki
 
-    dg "...It's fine."
+    dg "...Es ist gut."
 
     "She speaks in a cold tone, her equally cold eyes locked onto my own in an intense stare that completely betrays her words.{w} Yikes.{w} I guess she has a reason to be annoyed given my clumsiness, but this is a look of pure hate."
 
@@ -1684,7 +1684,7 @@ label explanationover:
 
     "At least, I {i}would{/i} call her an angel if it wasn't for that unsettling grin that just now spread across her face at the sight of us."
 
-    dg "Ahhh.{w} There you are."
+    dg "Ahhh.{w} Da bist du ja."
 
     "She murmurs something to herself that I can't make out at all from the distance between us.{w} Whatever it was she said, it was enough to make her shoulders shake with laughter."
 
@@ -1758,7 +1758,7 @@ label explanationover:
 
     "My head rings just trying to focus on her, like that monster from before.{w} Is she...related to them?{w} I clutch a hand to my head and try to steady myself.{w} It's taking all of my willpower just to keep upright at the moment."
 
-    dg "Good evening, girls."
+    dg "Guten Abend, Mädchen."
 
     "She greets them so casually, despite the intense glares directed her way.{w} Somehow...{w} I get the feeling she didn't leap off a freaking {i}roof{/i} just to exchange pleasantries."
 
@@ -1769,11 +1769,11 @@ label explanationover:
     show Yuzuki
     with dissolve
 
-    dg "My, you're a hostile bunch aren't you?"
+    dg "Bist du nicht mein feinlicher Haufen?"
 
     "She lets out a devious giggle, doing little to ease the tension in the air."
 
-    dg "Very well.{w} You may call me Yuzuki.{w} As for what I'm after...{w} Well..."
+    dg "Sehr Gut.{w} Du kannst mich Yuzuki nennen.{w} As for what I'm after...{w} Well..."
 
     $ yuzuface='joking'
     show Yuzuki
