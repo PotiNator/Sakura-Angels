@@ -1773,7 +1773,7 @@ label explanationover:
 
     "She lets out a devious giggle, doing little to ease the tension in the air."
 
-    dg "Sehr Gut.{w} Du kannst mich Yuzuki nennen.{w} As for what I'm after...{w} Well..."
+    dg "Sehr Gut.{w} Du kannst mich Yuzuki nennen.{w} was ich mein ist später...{w} Gut..."
 
     $ yuzuface='joking'
     show Yuzuki
