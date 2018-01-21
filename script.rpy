@@ -6055,11 +6055,11 @@ label explanationover:
 
     p "H-Hikari, are you...?"
 
-    h "...Not one word."
+    h "...Kein einziges Wort."
 
     p "But--"
 
-    h "I said, 'not{w} {i}one{/i}{w} word'."
+    h "Ich sagte, 'kein{w} {i}einziges{/i}{w} Wort'."
 
     "Her shoulders are visibly shaking.{w} Uh-oh.{w} The world might have survived the giant slime, but it looks like we might have someone else that's about to go on a rampage."
 
@@ -6069,17 +6069,17 @@ label explanationover:
 
     "Sayaka chirps, as she slinks from behind the rock too, a grin across her face."
 
-    h "S-Sayaka, don't even..."
+    h "S-Sayaka, nicht einmal..."
 
     s "I wonder what they'd think of all this back home, hmm?"
 
-    h "I wasn't thinking straight!{w} That beach ball you threw at me..."
+    h "Ich habe nich nachgedacht!{w} Denn Strand-Ball denn du nach mir geworfen hast..."
 
     "Sayaka clicks her tongue and nimbly evades the slime across the sand as she approaches her partner, still bearing the same smug look."
 
     s "Excuses, excuses!{w} I didn't think one of the top students would pull a blunder like this."
 
-    h "It's not my fault!"
+    h "Es ist nicht meine Schuld!"
 
     "Wait...{w}something doesn't make sense."
 
@@ -6095,7 +6095,7 @@ label explanationover:
 
     "...Her smile suddenly looks all the more devious.{w} This girl is pure evil!"
 
-    h "Why does this sort of thing always happen to me?!"
+    h "Warum passiert soetwas immer mir?!"
 
     "Hikari lets out a groan as she attempts to pry herself free of the sticky substance that clings to her skin.{w} ...Be strong, Hikari!"
 
@@ -6231,11 +6231,11 @@ label explanationover:
     show Hikari at right
     with fade
 
-    h "Ugh, it's awful out there."
+    h "Ugh, es ist schrecklich dort draußen."
 
     "Hikari gazes out of the window, a look of disgust across her face.{w} With the laundry list of other things that annoy her, I guess it's no surprise she hates rain too."
 
-    h "Do we really have to go to school today, Kenta?"
+    h "Müssen wir heute wirklich in die Schule, Kenta?"
 
     s "Aww, c'mon.{w} It's just a bit of water.{w} You're not gonna melt in it or anything."
 
@@ -6256,11 +6256,11 @@ label explanationover:
     $ hikaface='embarrassed'
     show Hikari
 
-    h "S-Sayaka!{w} Can we just forget that already?{w} I was stupid, I made a mistake.{w} Big deal!"
+    h "S-Sayaka!{w} Können wir das jetzt endlich vergessen?{w} Ich war dumm, Ich hab ein Fehler gemacht.{w} Große Sache!"
 
     "Flustered, Hikari stomps a foot towards her mischievous partner.{w} We haven't even reached school yet, and they're already arguing!{w} I think that's a new record."
 
-    h "And besides, I recall it was {i}you{/i} who was on the verge of being expelled from the academy at some point with your antics."
+    h "Und außerdem weiß ich noch, dass {i}du{/i} es warst, die kurz davor war mit deinen Mätzchen von der Akademie ausgeschlossen zu werden."
 
     $ sayaface='joking'
     $ sayapose='school_1'
@@ -6274,11 +6274,11 @@ label explanationover:
     show Hikari
     with dissolve
 
-    h "Joke?!{w} You almost blew up the entire--"
+    h "Scherz?!{w} Du hast fast alles in die Luft gespr--"
 
     "Realising I am indeed still in the room, Hikari cuts herself short and clamps up.{w} Aww.{w} I guess I'll never be able to hear about this old school of theirs.{w} The 'magic' one that taught them all they know."
 
-    h "Let's just leave it at that for now and agree we've both been stupid at times, okay?"
+    h "Belassen wir es doch jetzt einfach dabei und ich stimme dir zu das wir beide einmal dumm waren, okay?"
 
     $ sayaface='smiling'
     show Sayaka
@@ -6371,7 +6371,7 @@ label explanationover:
     $ hikaface='angry'
     show Hikari
 
-    h "Ugh, watch it!{w} You're like a dog!"
+    h "Ugh, schau es dir an!{w} Du bist fast wie ein Hund!"
 
     $ sayapose='school_2'
     show Sayaka
@@ -6384,7 +6384,7 @@ label explanationover:
     $ hikaface='normal'
     show Hikari
 
-    h "Nevermind."
+    h "Vergiss ess."
 
     hide Hikari
     hide Sayaka
@@ -6463,7 +6463,7 @@ label explanationover:
 
     "Hikari pops up out of nowhere and stifles Sayaka with a hand to her mouth, before she begins dragging her out of the class."
 
-    h "Come on, Sayaka.{w} He doesn't need to know any of that, and the queues are going to get too big if we stand around!"
+    h "Komm schon, Sayaka.{w} Er muss nichts davon wissen, und die Warteschlangen werden zu groß, wenn wir hier nur rumstehen!"
 
     s "Mmmff!"
 
@@ -6786,7 +6786,7 @@ label explanationover:
 
     s "Kyahh!{w} Kenta?"
 
-    h "Wh-what the hell do you think you're doing?!"
+    h "W-Was zur Hölle denkst du was du da tust?!"
 
     "Oh no.{w} I may have made a mistake here.{w} Apparently past experiences have taught me nothing.{w} My jaw drops, and I find myself unable to put together any form of reply at the sight before me."
 
@@ -6810,7 +6810,7 @@ label explanationover:
 
     "Curse my natural instincts!{w} I can't help but look, it's what I'm programmed to do!"
 
-    h "'Just' what?!{w} Being a pervert?!{w} Because I can clearly see that!"
+    h "'Einfach' was?!{w} Ein Perverser sein?!{w} Ich kann das nämlich deutlich sehen!"
 
     "Oh god, I hope none of the neighbours can hear this."
 
@@ -6818,13 +6818,13 @@ label explanationover:
 
     "She cuts me off.{w} Naturally.{w} Of course I was never going to be allowed to explain myself.{w} That's just not how it works with these girls."
 
-    h "N-no more excuses!{w} I let you off last time, but now..."
+    h "K-Keine Entschuldigungen mehr!{w} Ich habe dich letztes Mal in Ruhe gelassen, aber diesmal..."
 
     "With a blanket covering most of her bare body, Hikari marches towards me with a scary expression, all the while Sayaka stands by."
 
     s "Maybe we should hear him out?{w} I'm sure he wouldn't just barge in here without a good reason!"
 
-    h "Oh, he had a good reason alright.{w} A perverted one!"
+    h "Oh, er hatte einen guten Grund? In Ordnung.{w} Ein perversen Grund!"
 
     p "No, Hikari, listen to her, I really do--"
 
@@ -6860,7 +6860,7 @@ label explanationover:
 
     "...I'll pretend I didn't hear that."
 
-    h "It's surprisingly neat..."
+    h "Es ist überraschenderweise ordentlich..."
 
     p "Okay, so...{w} Are you guys finally going to tell me what the heck is going on?"
     play music "bgm/everydayintro.ogg" fadein 5.0
@@ -6899,13 +6899,13 @@ label explanationover:
     $ hikaface='angry'
     show Hikari
 
-    h "Which, by the way, I {i}still{/i} can't believe you didn't tell us about up until now.{w} Do you realise how much danger you put yourself in when you went to face her alone?!"
+    h "Was ich dir {i}immernoch{/i} nicht glauben kann, dass du uns bisher nichts davon erzählt hast.{w} Weißt du in welche Gefahr du dich gebracht hast, als du sie getroffen hat?!"
 
     "Hikari cuts in, and stomps her way across to join Sayaka, fire in her eyes.{w} ...See, this is why I didn't tell her anything."
 
     p "I know, it was stupid...{w}but it was the only way I could learn anything, since you guys weren't being very helpful."
 
-    h "That's..."
+    h "Das..."
 
     $ hikaface='normal'
     $ hikapose='school_2'
@@ -6922,7 +6922,7 @@ label explanationover:
     $ hikaface='angry'
     show Hikari
 
-    h "D-don't side with him!{w} You're supposed to be {i}my{/i} partner!"
+    h "S-Stell dich nicht auf seine Seite!{w} Du sollst {i}mein{/i} Partner sein!"
 
     p "So, all I hear is how time is running short...{w}but why?{w} What exactly will happen tomorrow?"
 
@@ -6957,7 +6957,7 @@ label explanationover:
     show Hikari
     with dissolve
 
-    h "Your blood is the most important thing here!{w} It's why we're even bothering to protect you."
+    h "Dein Blut ist das wichtigste hier!{w} Deshalb beschützen wir dich."
 
     $ sayaface='scared'
     show Sayaka
@@ -6984,7 +6984,7 @@ label explanationover:
     $ hikaface='angry'
     show Hikari
 
-    h "How much more does it need to be spelled out for you?{w} You{w} have{w} mage{w} blood!"
+    h "Wie oft muss ich es dir noch sagen?{w} Du{w} hast{w} Magier{w} Blut!"
 
     "Shouting it into my ear doesn't really help me process it better, you know..."
 
@@ -7067,7 +7067,7 @@ label explanationover:
     show Hikari
     with dissolve
 
-    h "Basically, you're related to the person that had the courage to stand up to this dark queen and put her in her place."
+    h "Im Grunde bist du mit der Person verwandt, die den Mut hat, sich gegen die dunkle Königin zu stellen und sich an ihre Stelle setzt."
 
     $ sayaface='shocked'
     show Sayaka
@@ -7077,7 +7077,7 @@ label explanationover:
     $ hikaface='angry'
     show Hikari
 
-    h "Because if you tell the whole story, we're going to be here until the sun rises!{w} And time is of the essence here."
+    h "Wenn du die ganze Geschichte erzählst, werden wir hier noch bis zum Sonnenaufgang sitzen!{w} Und Zeit ist hier essentiell."
 
     $ sayaface='normal'
     show Sayaka
@@ -7095,9 +7095,9 @@ label explanationover:
 
     p "So...{w}what?{w} My ancestor killed this evil queen person?"
 
-    h "If he did, we wouldn't be here having this conversation right now."
+    h "Wenn er es getan hätte, würden wir nicht hier sein und ein Gespräch führen."
 
-    h "No, with all the power she had, killing her was an impossibility.{w} I wouldn't go as far as to say she was immortal...{w}but I'm sure it's pretty close."
+    h "Nein, mit all der Macht die sie hatte, war es unmöglich sie zu töten.{w} Ich würde nicht so weit gehen zu sagen, dass sie unsterblich war ... {w} aber ich bin mir sicher, dass es ziemlich nah dran ist."
 
     $ sayaface='happy'
     $ sayapose='school_2'
@@ -7113,7 +7113,7 @@ label explanationover:
     $ hikaface='angry'
     show Hikari
 
-    h "I think you should know by now!"
+    h "Ich denke dass soltest du jetzt schon wissen!"
 
     p "Something to do with...{w}my blood, right?"
 
@@ -7160,28 +7160,28 @@ label explanationover:
     show Hikari with dissolve
     show Sayaka
 
-    h "The seal will thankfully never break unless your blood is spilled...{w}but it's been a long time since she's been imprisoned."
+    h "Das Siegel wird glücklicherweise nie brechen, wenn dein Blut nicht vergossen wird ... {w}, aber es ist schon lange her, seit sie eingesperrt wurde."
 
-    h "Meaning that the seal is weakening in its effectiveness with each passing day, and ever so slowly her influence has been creeping into the world."
+    h "Das bedeutet, dass das Siegel mit jedem Tag in seiner Wirksamkeit schwächer wird, und ihr Einfluss schleicht sich so langsam in die Welt ein."
 
     s "Kenta, your headaches..."
 
     p "I see...{w} So she's almost...{w}calling out to me, in a sense?"
 
-    h "It's why the monsters have been as organised as they have.{w} And why that girl, Yuzuki..."
+    h "Deshalb sind die Monster so gut organisiert.{w} Und warum dieses Mädchen, Yuzuki..."
 
-    h "She instilled whatever power she could muster into that girl, and is using her as a puppet until she's finally free herself."
+    h "Sie gab diesem Mädchen die Kraft, die sie aufbringen konnte, und benutzte sie als Marionette, bis sie sich schließlich selbst befreien konnte."
 
     $ hikaface='angry'
     $ hikapose='school_1'
     show Hikari
     with dissolve
 
-    h "I'm not sure what lies she must have fed to that girl in order to get her to obey, but she's infected her mind."
+    h "Ich bin mir nicht sicher, welche Lügen sie diesem Mädchen gesagt haben muss, um sie dazu zu bringen, zu gehorchen, aber ihre Gedanken sind infiziert."
 
-    h "And given the current rate that her vileness has been seeping from her prison...{w}tomorrow will be when she achieves even more influence on the world."
+    h "Und angesichts der gegenwärtigen Rate, dass ihre Niedertracht aus ihrem Gefängnis gesickert ist ... wird sie morgen noch mehr Einfluss auf die Welt bekommen."
 
-    h "The monsters will become more rampant than before...{w} Yuzuki will become more powerful, too."
+    h "Die Monster werden stärker und aggressiver werden...{w} Yuzuki wird auch stärker werden."
 
     $ sayaface='normal'
     show Sayaka
