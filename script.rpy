@@ -1780,7 +1780,7 @@ label explanationover:
 
     "Her eyes flit from the girls and settle straight onto me, her smile enough to send a chill down my spine."
 
-    y "I'll be taking the boy, if you don't mind.{w} See, he's {i}very{/i} important to me."
+    y "Ich werde den Jungen nehmen, wenn es dir nichts ausmacht.{w} Siehst du, er ist {i}sehr{/i} wichtig für mich."
 
     $ hikaface='angry'
     $ sayaface='scared'
@@ -1807,7 +1807,7 @@ label explanationover:
     show Yuzuki
     with dissolve
     stop music fadeout 9.0
-    y "...No?{w} I suppose we have to do things the hard way, hmm?"
+    y "...Nein?{w} Ich denke wir müssen die Dinge auf die harte Tour machen, hmm?"
 
     "The pair stand tall before me, their fists tightened.{w} I think there's only one way this is going to end up."
 
@@ -1917,7 +1917,7 @@ label explanationover:
     $ yuzuface='joking'
     show Yuzuki
 
-    y "Hah, is this all you've got?{w} This is going to be {i}far{/i} easier than I imagined."
+   y "hah, ist das alles was du kannst?{w} Das wird viel {i}einfacher{/i} als ich mir vorgestellt habe."
 
     $ yuzupose='magical_1'
     $ yuzuface='happy'
@@ -1948,7 +1948,7 @@ label explanationover:
     show Yuzuki at right
     with move
 
-    y "Ah, this is so much fun!{w} And here I thought this boy's little 'guardians' might have actually been a threat.{w} Silly me!"
+    y "Ah, das macht so viel Spass! {w}Und da dachte ich, dass die kleinen "Wächter" dieses Jungen tatsächlich eine Bedrohung darstellen könnten. {w} Wie dumm von mir!"
 
     h "S-Sei ruhig!{w} Es ist noch nicht vorrüber!"
 
@@ -2064,7 +2064,8 @@ label explanationover:
     with dissolve
     play music "bgm/evilgirlintro.ogg"
     queue music "bgm/evilgirlloop.ogg"
-    y "Now that they're out of the way...{w} Let's have a little fun, shall we?"
+    
+    y "Jetzt sind sie aus dem Weg...{w} Lass uns ein bisschen Spass haben, sollen wir?"
 
     "{i}Thump.{w} Thump.{w} Thump.{/i}{w} My heart is going to rip out of my chest at this rate."
 
@@ -2082,14 +2083,15 @@ label explanationover:
 
     p "W--...{w}Warum ...?"
 
-    y "Oh, it's nothing personal.{w} This is just the way things have to be if I ever want to get my life back on track."
+    y "Oh, es ist nichts persönliches.{w} So müssen die Dinge sein, wenn ich mein Leben wieder auf Kurs bringen will."
+   
 
     $ yuzupose='magical_1'
     $ yuzuface='angry'
     show Yuzuki
     with dissolve
 
-    y "Now.{w} Say goodnight."
+    y "Jetzt.{w} Sag Gute Nacht."
 
     "She lashes at me like lightning, a clear intent to kill.{w} I can't even lift my arms to try and defend myself.{w} It's...it's over."
 
@@ -3726,7 +3728,7 @@ label explanationover:
 
 
 
-    y "Ah, right on time.{w} You really do make this easy, you know."
+    y "Ah, pünktlich.{w} Du machst das wirklich leicht, weißt du?"
 
     "Of course.{w} We walked right into it!{w} I really need to start to find a new route home..."
 
@@ -3787,11 +3789,12 @@ label explanationover:
     queue music "bgm/evilgirlloop.ogg"
     "Yuzuki lands gracefully before Sayaka and Hikari, an unsettling grin spreading from ear to ear on her face."
 
-    y "I've got to say, I'm surprised you even want to fight.{w} I thought you might just turn tail again.{w} I suppose things are more fun this way!"
+
+ y "Ich muss sagen, ich bin überrascht, dass du überhaupt kämpfen willst.{w} Ich dachte, du würdest einfach wieder den Schwanz drehen.{w} Ich nehme an, dass die Dinge auf diese Weise mehr Spaß machen!"
 
     "Her dark wings erupt into a stream of feathers, which reform into a deadly scythe within her hands."
 
-    y "Now, which one of you wants to die a miserable death first?"
+    y "Nun, wer von euch möchte zuerst einen erbärmlichen Tod sterben?"
 
     s "Hikari, now!"
 
@@ -3812,7 +3815,7 @@ label explanationover:
 
     "Hikari nods and lunges for Yuzuki before she can make the first move.{w} Sayaka kicks off of the ground and flies a good deal backwards as she readies an arrow in her bow.{w} Am I...{w}witnessing team play here?{w} It certainly makes a change after last night's disaster."
 
-    y "It's all useless!"
+    y "Es ist alles nutzlos!"
 
     "Yuzuki reacts like lightning and brings her scythe to a whirl, clashing with Hikari's sword.{w} A shockwave bursts through the street as the two weapons collide, shattering nearby glass and warping street signs; a testament to just how strong these girls are."
 
@@ -3838,7 +3841,7 @@ label explanationover:
 
     "It seems Yuzuki wasn't expecting that at all, as she's reeling back from it all, a hand to her face."
 
-    y "U-ugh.{w} What do you think you're playing at?!"
+    y "U-ugh.{w} Woran denkst du, dass du spielst?!"
 
     scene cg15
     with flash
@@ -4044,7 +4047,7 @@ label explanationover:
     $ yuzuface='scared'
     show Yuzuki
 
-    y "Ah, d-damn it.{w} I so close, as well."
+    y "Ah, verdammt{w} Ich bin so nah dran."
 
     "The dark girl winces and her shoulders sink.{w} It seems like she barely any strength left, as she just barely keeps a hold of her scythe, limply at her side."
 
@@ -4059,7 +4062,7 @@ label explanationover:
 
     "Amber eyes full of hatred, she shifts her gaze to Sayaka and Hikari."
 
-    y "Looks like it's my turn to retreat for the night.{w} Don't think you've won anything just yet!"
+    y "Es sieht so aus, als wäre ich an der Reihe, mich für die Nacht zurückzuziehen.{w} Glaub nichts, du hast noch nichts gewonnen!"
 
     y "You got lucky with that cheap shot, but don't expect it to work a second time.{w} Kenta {i}will{/i} be mine!"
 
