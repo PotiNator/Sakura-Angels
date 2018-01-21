@@ -406,13 +406,13 @@ label start:
 
     "Wielding weapons and costumes taken straight out of a fantasy book, it's all a bit much for my brain to attempt to process."
 
-    p "Wha...{w}what the heck was that?!"
+    p "Wa ...{w} Was zur Hölle war das?!"
 
     cg "A shadow."
 
     "The more cheerful of the two simply says that to me, her stance relaxing some."
 
-    p "H-huh?"
+    p "H-Häh?"
 
     "Was that supposed to explain everything?{w} I glance down at my feet, where my own shadow stretches, but the girl bursts into a giggle."
 
@@ -426,7 +426,7 @@ label start:
 
     cg "You're not hurt, are you?"
 
-    p "No, I'm fine, but--"
+    p "Nein, alles gut, aber--"
 
     tg "As if things weren't bad enough that we had to reveal ourselves to him, now you're just casually blabbing away things that no normal person should have a right to know.{w} Have you lost your mind?!"
 
@@ -453,11 +453,11 @@ label start:
 
     cg "Right, so, Kenta, where were we?"
 
-    p "Uh, we were--"
+    p "Äh, wir waren--"
 
     "Wait..."
 
-    p "How do you know my name?!"
+    p "Woher kennst du überhaupt meinen Namen?!"
 
     $ sayaface='shocked'
     show Sayaka
@@ -477,7 +477,7 @@ label start:
 
     "{i}Whap!{/i} The serious one raps her fist against the other's head, who sticks her tongue out in a sort of... 'Tee-hee, my bad!' kind of way."
 
-    p "So you guys know me?"
+    p "Ihr kennt mich also?"
 
     $ sayaface='smiling'
     $ hikaface='normal'
@@ -492,7 +492,7 @@ label start:
 
     cg "Well, we don't know {i}you{/i} personally, but we've been watching over you for a while now.{w} You've become quite the point of interest recently, you know!"
 
-    p "Me...?"
+    p "Ich ...?"
 
     "What the heck did I ever do to get so much attention?{w} As far I know, I'm just an average student.{w} Who lives an average life.{w} Doing average things.{w} Though, after this, I guess I can't really call my life average anymore."
 
@@ -507,7 +507,7 @@ label start:
 
     "I...{w} She's throwing so much at me here I can hardly think straight."
 
-    p "Just {i}who{/i} the heck are you guys?"
+    p "{i}Wer{/i} seid ihr überhaupt?"
 
     $ sayaface='normal'
     show Sayaka
@@ -528,24 +528,24 @@ label start:
 
     "Wait, are they literally angels?!"
 
-    p "Let me get this straight..."
+    p "Um mal ein paar Dinge abzuklären ..."
 
-    p "To start from the beginning: that thing that attacked me--that monster--you call those shadows?"
+    p "Fangen wir mal von vorne an: das Ding, das mich gerade angegriffen hat - dieses Monster da - nennt ihr Schatten"
 
     $ sayaface='smiling'
     show Sayaka
 
     cg "Yup!"
 
-    p "And, these 'shadows' have supposedly been hunting for me for a while now?"
+    p "Und diese 'Schatten' jagen mich nun schon seit einer geraumen Zeit?"
 
     cg "Mmhmm!"
 
-    p "Because, apparently, if they catch me...{w}it'll be 'bad', for unspecified reasons?"
+    p "Denn, wenn sie mich fangen ...{w} wär das offensichtlich 'nicht gut' ... Einfach so, aus nicht näher beschriebenen Gründen?"
 
     cg "Yup.{w} Really bad!"
 
-    p "And you guys, whoever you are, have been combating them from the shadows to keep me safe from harm?"
+    p "Und ihr, wer auch immer ihr seid, agiert von den Schatten heraus und bekämpft sie, um mich zu beschützen?"
 
     "She nods enthusiastically.{w} It looks like I've just about got a grip on what this whole thing is, even if it was a little sparse on details."
 
@@ -556,14 +556,14 @@ label start:
             "As crazy as this all sounds, I really can't deny the evidence before me.{w} That monster was definitely real, and I have no reason to doubt these girls, who destroyed that thing right before my eyes."
         "These girls have lost it.":
 
-            p "Okay.{w} Yeah.{w} I see how it is now."
+            p "Okay.{w} Ja.{w} Jetzt versteh ich's."
 
             $ sayaface='happy'
             show Sayaka
 
             cg "You do?"
 
-            p "Yeah.{w} You guys have lost it."
+            p "Ja.{w} Ihr habt sie nicht mehr alle."
 
             $ sayaface='shocked'
             $ hikaface='angry'
@@ -574,11 +574,11 @@ label start:
 
             "She looks taken aback by my words.{w} Maybe I'm being harsh, but it's the only real truth I can see here!"
 
-            p "Completely, and utterly.{w} I don't know if you're cosplayers or what, and I've just stumbled into some sort of wacky demonstration...{w}but there's just no way any of this is real."
+            p "Absolut durchgeknallt.{w} Ich weiß nicht, ob ihr nicht einfach nur Cosplayer seid und ich nicht nur in eine Vorführung gestolpert bin ...{w} aber das kann unmöglich real sein."
 
             "It's the only conclusion my frazzled mind can come up with.{w} She didn't really expect me to believe all that junk about them being my 'guardian angels' did she?{w} Hah!"
 
-            p "You guys can stay in your little fantasy world, but leave me out of it, okay?"
+            p "Bleibt ruhig in eurer kleinen Fantasiewelt, aber haltet mich da bitte raus, okay?"
 
             hide Sayaka
             hide Hikari
@@ -611,7 +611,7 @@ label start:
 
             tg "Really?{w} I mean--really?!{w} Are you {i}really{/i} this much of an idiot?!"
 
-            p "I-I...uh..."
+            p "I-Ich ... Äh ..."
 
             "I can feel myself shrink under her powerful glare, her once lithe form now towering over me.{w} Like this, she's even scarier than that monster!"
 
@@ -681,7 +681,7 @@ label start:
     show Sayaka
     show Hikari
 
-    p "Okay, so, uh, what happens now?"
+    p "Okay, also, äh, was passiert jetzt?"
 
     cg "Hmm."
 
@@ -953,11 +953,11 @@ label start:
 
 
 
-    p "What are you guys all looking at?"
+    p "Was guckt ihr denn alle so?"
 
     "I muscle into the crowd that's formed, so I can actually get a good look at the field."
 
-    p "...No way."
+    p "...Das gibt's doch nicht."
 
     "The girls are running on the track, which isn't an amazing thing in itself, but it's {i}who's{/i} running on the track that makes it such an unreal sight."
 
@@ -1013,14 +1013,14 @@ label start:
 
     "She gives me a wave and a cheery smile, but I can hardly say I do the same."
 
-    p "Okay, yeah, hi.{w} Look, can we talk?"
+    p "Okay, ja, hi.{w} Äh, können wir reden?"
 
     $ sayaface='normal'
     show Sayaka
 
     s "Hm?{w} Go for it!"
 
-    p "No, not here, I mean--can we talk somewhere private?"
+    p "Nein, nicht hier, ich mein ... Können wir unter vier Augen reden?"
 
     $ sayaface='shy'
     show Sayaka
@@ -1029,7 +1029,7 @@ label start:
 
     s "Oh my, this is a bit sudden!{w} I don't know what to say..."
 
-    p "Come on, stop messing around.{w} I've been dying to talk to you--both of you--since this morning."
+    p "Komm schon, hör auf rumzualbern.{w} Ich möchte einfach nur mit euch reden, und das schon seid heute morgen."
 
     "Oh god...{w} I made it worse, didn't I?{w} I've somehow turned this into looking like one of the most awkward confessions ever."
 
@@ -1057,7 +1057,7 @@ label start:
     hide Sayaka
     with dissolve
 
-    p "And you too, come with me!"
+    p "Und du kommst auch schön mit!"
 
     $ hikaface='shocked'
     show Hikari
@@ -1087,7 +1087,7 @@ label start:
 
     "They stumble backwards, looking slightly dazed.{w} Thankfully they don't look hurt."
 
-    p "Ahh, are you okay?{w} Sorry about that."
+    p "Ahh, alles in Ordnung?{w} Tut mir leid."
 
     "I offer her an apologetic smile.{w} ...Who is she again?{w} She must be from my class...{w}I can't recall her name at all though."
 
@@ -1098,7 +1098,7 @@ label start:
 
     "She speaks in a cold tone, her equally cold eyes locked onto my own in an intense stare that completely betrays her words.{w} Yikes.{w} I guess she has a reason to be annoyed given my clumsiness, but this is a look of pure hate."
 
-    p "Uhh, o-okay then."
+    p "Ähh, o-okay."
 
     hide Yuzuki
     with dissolve
@@ -1115,7 +1115,7 @@ label start:
 
     "Emerging onto the roof, I'm thankful to see it's devoid of life.{w} Safely walled by tall mesh fences, the roof is technically a spot students can spend their break at, but it really isn't that popular.{w} Works for me!"
 
-    p "Okay, now can you guys explain this whole mess?"
+    p "Okay, könnt ihr mir jetzt erstmal in aller Ruhe dieses Chaos hier erklären?"
 
 
     $ sayaface='happy'
@@ -1137,7 +1137,7 @@ label start:
 
     "What the heck are they even...{w} I shake my head."
 
-    p "This isn't a confession!{w} You know full well what this is about!"
+    p "Das ist kein Geständnis!{w} Ihr wisst genau, worum es geht!"
 
     "I can feel my face burning up.{w} It really is exhausting dealing with them."
 
@@ -1156,7 +1156,7 @@ label start:
     $ hikaface='normal'
     show Hikari
 
-    p "Thank you..."
+    p "Danke ..."
 
     "I let out a sigh, my shoulders drooping.{w} Finally.{w} {i}Finally.{/i}"
 
@@ -1197,7 +1197,7 @@ label rooftopexplanation:
 
             h "Ich meine wirklich, diese ganze Sache ist eine komplette Katastrophe.{w} Warum musstest du uns so viele Probleme bereiten?"
 
-            p "Hey, it's not my fault!{w} I...I think."
+            p "Hey, das ist nicht meine Schuld!{w} G-Glaub ich zumindest ..."
 
             h "Sei einfach froh, dass du mir so wichtig bist, oder wir hätten dich zurückgelassen, um von diesem Ding gefressen zu werden."
 
@@ -1245,7 +1245,7 @@ label rooftopexplanation:
 
             "...Hikari responds in kind by giving her a wallop to the shoulder, with nothing playful about it.{w} Are these two even partners?"
 
-            p "Anyway..."
+            p "Wie auch immer ..."
 
             $ sayaface='smiling'
             show Sayaka
@@ -1256,7 +1256,7 @@ label rooftopexplanation:
 
             s "We're not from around here--rather, we were sent here specifically to ensure your safety."
 
-            p "Do you belong to some sort of group?{w} Wait, are there more of you with these weird powers?!"
+            p "Gehört ihr einer Gruppe an?{w} Wartet, gibt es mehr von eurer Sorte?!"
 
             $ sayaface='joking'
             show Sayaka
@@ -1271,11 +1271,11 @@ label rooftopexplanation:
 
             "I want to know more about what the heck that...{w}thing was that they saved me from earlier.{w} A 'shadow', I think she called it."
 
-            p "I'm guessing there are more of those...things lurking out there?"
+            p "Ich schätze, von diesen Dingern ... gibt es da draußen noch mehr?"
 
             s "Mmhmm."
 
-            p "And they're after me?"
+            p "Und sie sind hinter mir her?"
 
             $ sayaface='happy'
             $ sayapose='school_2'
@@ -1291,7 +1291,7 @@ label rooftopexplanation:
 
             "She falls into thought, leaving Hikari and I to stand awkwardly, exchanging even more awkward glances."
 
-            p "Uh, Sayaka?"
+            p "Äh, Sayaka?"
 
             $ sayapose='school_1'
             $ sayaface='smiling'
@@ -1302,11 +1302,11 @@ label rooftopexplanation:
 
             s "Huh?{w} Oh, sorry!{w} Don't worry, it's nothing."
 
-            p "What the heck did I do to annoy these monsters anyway?"
+            p "Was hab ich verdammt nochmal getan, um diese Monster zu verärgern?"
 
             s "It's not what you did, it's because of who you are."
 
-            p "Who I...am?"
+            p "Wer ... bin ich denn?"
 
             s "Yeah, your bloo--"
 
@@ -1350,7 +1350,7 @@ label rooftopexplanation:
 
             "It's just...{w} As long as they're here, I'm sure there's going to be nothing but trouble in my life."
 
-            p "Aw, come on, I didn't mean it like..."
+            p "Aw, komm schon, so hab ich's auch nicht gemeint ..."
 
             "She suddenly bursts into a bright, beaming smile again, almost blinding me."
 
@@ -1368,7 +1368,7 @@ label rooftopexplanation:
 
             s "We won't be here long, I promise.{w} Just until we've sorted things out."
 
-            p "I guess you can't tell me what needs to be 'sorted out'?"
+            p "Ich schätze, ihr könnt mir nicht sagen, was ihr zuerst 'klären' müsst, oder?"
 
             $ sayapose='school_2'
             show Sayaka
@@ -1431,7 +1431,7 @@ label rooftopexplanation:
 
             h "Hey, umm..."
 
-            p "What's up?"
+            p "Was ist los?"
 
             $ hikaface='shy'
             show Hikari
