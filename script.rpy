@@ -5119,7 +5119,7 @@ label explanationover:
 
         "I...I guess she really gave it her all.{w} But...{w}this can't be called food."
 
-        p "O-oh.{w} It's...{w}uh..."
+        p "O-Oh.{w} Es ist ...{w} äh ..."
 
         "Charred, burnt, crisp remains of what might have been food at some point sit on the plate.{w} It feels like it might be hazardous to even breathe in this stuff."
 
@@ -5131,7 +5131,7 @@ label explanationover:
             "Eat the food.":
                 "I have no choice, do I?{w} I don't want to make her feel bad, after she worked so hard to create...{w}whatever this is."
 
-                p "H-here I go then..."
+                p "D-Dann probier ich mal ..."
 
                 "I give the substance a poke.{w} It crumbles into a fine powder at the slightest touch.{w} Okay."
 
@@ -5152,7 +5152,7 @@ label explanationover:
 
                 "I fight back the urge to choke, and give her smile and a nod."
 
-                p "M-mmm!"
+                p "M-Mmm!"
 
                 $ sayapose='school_1'
                 show Sayaka
@@ -5165,7 +5165,7 @@ label explanationover:
 
                 "Okay, yeah, no.{w} I have to make a stand here, or things are only going to get worse."
 
-                p "Look I'm sorry, Sayaka, but I really can't eat this."
+                p "Schau, es tut mir leid, Sayaka, aber ich krieg das echt nicht runter."
 
                 $ sayaface='normal'
                 show Sayaka
@@ -5174,11 +5174,11 @@ label explanationover:
 
                 "She tilts her head to the side, a small frown beginning to grow on her face.{w} Great, make me feel like a monster why don't you!"
 
-                p "It's...{w}well...{w}how do I put this nicely?"
+                p "Es ist ...{w} naja ...{w} wie soll ich es sagen, ohne ausfällig zu werden?"
 
                 "I give the toxic substance another look, sure that it's beginning to move of its own accord."
 
-                p "If I ate that, I don't think I'd be able to attend school today.{w} Or any day after that, for that matter."
+                p "Würde ich es essen, könnte ich heute nicht mehr zur Schule gehen.{w} Oder den Tag danach."
 
                 s "Oh?"
 
@@ -5198,7 +5198,7 @@ label explanationover:
 
                 "Really?{w} Really?!{w} How could anyone defend this...{w}this...{w} I can't even call it food!"
 
-                p "Okay, why don't you try some first?"
+                p "Okay, warum probierst du dann nicht zuerst?"
 
                 $ sayaface='scared'
                 $ sayapose='school_1'
@@ -5209,7 +5209,7 @@ label explanationover:
 
                 s "U-uhh, I already ate."
 
-                p "See, why don't you just--"
+                p "Schau, warum versuchst du--"
 
                 $ sayaface='happy'
                 show Sayaka
@@ -5296,7 +5296,7 @@ label explanationover:
                 show Sayaka
                 with hpunch
 
-                p "No!"
+                p "Nein!"
 
                 "I bolt upright in my chair, almost taking it up with me in the process.{w} I don't think my house would survive!"
 
@@ -5304,7 +5304,7 @@ label explanationover:
 
                 s "H-huh?"
 
-                p "I mean, no, because we'll be late for school if you start cooking anything else."
+                p "Ich mein, wir würden zu spät zur Schule kommen, wenn ihr noch was kochen würdet."
 
                 s "Oh...{w} You're right.{w} Look at the time!"
 
@@ -5346,7 +5346,7 @@ label explanationover:
 
     "She suddenly thrusts a finger at me, catching me off-guard as I jump a little."
 
-    p "Uh...{w}y-yeah?"
+    p "Äh ...{w} J-Ja?"
 
     $ sayaface='smiling'
     show Sayaka
@@ -5356,7 +5356,7 @@ label explanationover:
     $ hikaface='scared'
     show Hikari
 
-    p "The beach?{w} I don't really--"
+    p "Strand?{w} Ich weiß nicht so recht--"
 
     s "Great!{w} So it's decided."
 
@@ -5390,7 +5390,7 @@ label explanationover:
 
     "She's so fired up about the whole thing now, I don't think I can say no.{w} Heck, even if I said no, I get the feeling she'd just drag me down there anyway."
 
-    p "Okay...{w}okay.{w} But I'm blaming you guys if I ignite into flames the moment we step foot onto the beach.{w} I just don't have the skin for it!"
+    p "Okay ...{w} okay.{w} Aber sollte ich in Flammen aufgehen, sobald ich dem Strand nahekomm, seid ihr schuld.{w} Meine Haut ist da sehr empfindlich!"
 
     $ hikaface='shocked'
     $ hikapose='school_2'
@@ -5543,7 +5543,7 @@ label explanationover:
 
             $ sayaka += 1
 
-            p "I-I guess if I really had to choose, it would be...{w}Sayaka."
+            p "I-Ich schätze, wenn ich mich wirklich entscheiden müsste, dann für ...{w} Sayaka."
 
             "Her face lights up at my answer, going just the slightest tinge of pink."
 
@@ -5597,7 +5597,7 @@ label explanationover:
 
             $ hikari += 1
 
-            p "Well, I suppose...{w}Hikari."
+            p "Na ja, ich schätze ...{w} Hikari."
 
             h "E-eh?!"
 
@@ -5661,7 +5661,7 @@ label explanationover:
             "Hikari throws herself back and lounges in her chair.{w} Let's, uhh...{w}have some fun now?"
         "Meh.":
 
-            p "You know, the heat is killing me right now.{w} So I'd just like to find somewhere nice and shady so that I don't erupt into flames if that's cool with you guys."
+            p "Ihr wisst hoffentlich, dass ich hier gerade gegrillt werde.{w} Und um zu verhindern, dass ich ganz verkohlt werd, würde ich mich liebend gerne irgendwo in den Schatten setzen."
 
             "Shading my eyes as best I can with my hand, I look down the length of the beach, searching for the perfect spot to set all this stuff down."
 
@@ -5688,7 +5688,7 @@ label explanationover:
 
             s "Kenta!{w} You better just be messing around here.{w} After we spent ages picking these out..."
 
-            p "Nope.{w} I'm well and truly lost here.{w} Care to fill me in?"
+            p "Nop.{w} Ich steh gerade echt auf der Leitung.{w} Worum geht's denn?"
 
             $ sayaface='angry'
             show Sayaka
@@ -5697,7 +5697,7 @@ label explanationover:
 
             "Sayaka puts on a scary expression that's similar to that of Hikari's own.{w} Honestly, what did I do wrong?!"
 
-            p "U-uh...{w}anyway.{w} I'm gonna...{w}go find somewhere shady."
+            p "Ä-Äh ...{w} egal.{w} Ich such mir ...{w} erstmal ein schattiges Plätzchen."
 
             "I turn to wander further down the beach, while still feeling the painful, {i}painful{/i} stares of the two girls.{w} I'm not really sure what I did to invoke their ire, but I should probably figure it out soon, unless they just decide they don't want to protect me anymore."
 
@@ -5749,13 +5749,13 @@ label explanationover:
 
     "She pulls out something colourful, and tosses it my way."
 
-    p "Huh?"
+    p "Häh?"
 
     "I wrestle with it for a moment before I finally understand what it is.{w} It's a deflated beach ball.{w} I think.{w} I'm not really an expert with these things."
 
     s "You can handle that, right?"
 
-    p "Of course!"
+    p "Na klar!"
 
     "I say that with confidence, but it really does take me a good moment or two to even find where to inflate it.{w} Argh, it's like trying to solve a damn puzzle.{w} Complicated thing!"
 
@@ -5764,7 +5764,7 @@ label explanationover:
 
     "I just about nearly kill myself in the process of inflating it, as Sayaka continues to rummage around in the bags for whatever treasure it is she has in mind."
 
-    p "O-okay...{w} I think I did it."
+    p "O-Okay ...{w} Nicht nur beinahe."
 
     "I let out a wheeze as I present the beach ball to her, my lungs on the verge of exploding."
 
@@ -5841,7 +5841,7 @@ label explanationover:
 
     s "C'mon!{w} Kenta?{w} What're you waiting for?"
 
-    p "Coming!"
+    p "Komm schon!"
 
     "If I stand around over here any longer, I fear Sayaka might 'accidentally' hurl the beach ball my way, and let me suffer the same fate as her partner."
 
@@ -5915,7 +5915,7 @@ label explanationover:
 
     "I peer out into the deep blue.{w} I'm still not sure what all the fuss is about."
 
-    p "I...{w} I don't get it.{w} Are you guys just messing around?"
+    p "Ich ...{w} Ich versteh's nicht.{w} Verarscht ihr mich gerade?"
 
     $ hikaface='angry'
     $ hikapose='bikini_1'
@@ -5931,7 +5931,7 @@ label explanationover:
 
     "Hang on.{w} That's..."
 
-    p "That's a shadow?!{w} It...{w}it's huge!"
+    p "Das ist ein Schatten?!{w} Der ...{w} ist ja riesig!"
 
     "Something is coming up from the ocean, slowly making its way towards us.{w} Why can't I even get a single day off from all of this madness?!"
 
@@ -5939,7 +5939,7 @@ label explanationover:
 
     "It's a grotesque creature, that lets out a sinister gargle as it sets what I think are its eyes upon us.{w} It towers up so high it eclipses even the sun behind it.{w} It has to be at least as big as a common building, if not more so!"
 
-    p "Are you guys going to fight that thing?{w} ...{i}Can{/i} you even fight it?"
+    p "Und dagegen wollt ihr kämpfen?{w} ... {i}Könnt{/i} ihr dagegen überhaupt kämpfen?"
 
     scene cg18
     with dissolve
@@ -5973,7 +5973,7 @@ label explanationover:
 
     "Something taps at my shoulder."
 
-    p "Huh?{w} Sayaka--"
+    p "Häh?{w} Sayaka--"
 
     s "Shh."
 
@@ -5988,13 +5988,13 @@ label explanationover:
 
     "Eventually we end up behind a large rock cropping up from out of the sand, out of sight from both Hikari and the monster.{w} Understandably, I'm more than a little confused."
 
-    p "What's up?{w} Shouldn't you be helping her?"
+    p "Was ist los?{w} Solltest du ihr nicht helfen?"
 
     "Sayaka stifles a giggle and peeks back out at the scene unfolding on the shore.{w} It looks like Hikari is just about ready to attack."
 
     s "I don't think she's realised it."
 
-    p "Realised what?"
+    p "Was bemerkt?"
 
     $ sayapose='bikini_2'
     show Sayaka
@@ -6004,14 +6004,14 @@ label explanationover:
 
     "I raise an eyebrow.{w} How the heck am I supposed to know something like that?"
 
-    p "Uhh...?"
+    p "Häää ...?"
 
     "Sayaka sighs, before she slaps her hands together."
     play music "bgm/mischiefintro.ogg" fadein 2.0
     queue music "bgm/mischiefloop.ogg"
     s "It'll go boom!{w} Explode!{w} Those kinds of shadows are super volatile when you throw magic into the mix."
 
-    p "I don't get it.{w} Isn't that a good thing?{w} It's one less monster out to get me."
+    p "Das ist mir zu hoch.{w} Ist das nicht gut?{w} Ein Monster weniger, um das wir uns Sorgen machen müssen."
 
     $ sayaface='joking'
     show Sayaka
@@ -6056,11 +6056,11 @@ label explanationover:
 
     "The rain of slime finally comes to an end, making it safe to step out.{w} Though, I have to be careful not to step into any of this slime.{w} Eurgh.{w} I can't even begin to imagine how Hikari must be feeling."
 
-    p "H-Hikari, are you...?"
+    p "H-Hikari, bist du ...?"
 
     h "...Kein einziges Wort."
 
-    p "But--"
+    p "Aber--"
 
     h "Ich sagte, 'kein{w} {i}einziges{/i}{w} Wort'."
 
@@ -6090,7 +6090,7 @@ label explanationover:
 
     s "Hmm?"
 
-    p "If you knew this was going to happen, why didn't you stop her?"
+    p "Wenn du wusstest, dass das passiert, warum hast du sie dann nicht aufgehalten?"
 
     s "Ah, a good point.{w} I could've...{w}but..."
 
@@ -6194,7 +6194,7 @@ label explanationover:
 
     "I thump the door a good several times with the back of my fist."
 
-    p "Hello?{w} Anyone in there?"
+    p "Hallo?{w} Jemand zuhause?"
 
     "..."
 
@@ -6296,22 +6296,22 @@ label explanationover:
     $ sayaface='shocked'
     show Sayaka
 
-    p "No!{w} Absolutely not!"
+    p "Nein!{w} Sicher nicht!"
 
     s "But you didn't even let me--"
 
-    p "I don't need to.{w} If it involves you stepping foot into the kitchen in any way, shape, or form, I already know my answer."
+    p "Brauch ich nicht.{w} Wenn es darum geht, dass du in der Küche das Essen anrührst, egal in welcher Farbe, Form oder sonst was, gibt's nur eine richtige Antwort."
 
     $ sayaface='scared'
     show Sayaka
 
     s "This time it'll really be--"
 
-    p "Nope."
+    p "Nop."
 
     s "I'll be careful--"
 
-    p "Nuh-uh."
+    p "Nööö."
 
     $ sayaface='angry'
     $ sayapose='school_2'
@@ -6320,7 +6320,7 @@ label explanationover:
 
     s "Aww, you're being--"
 
-    p "No!"
+    p "Nein!"
 
     "Yeah, I'm not letting her {i}or{/i} Hikari anywhere near the kitchen again.{w} Even if they do somehow manage to leave the kitchen standing, I'm sure whatever monstrosity they concoct would do more damage to me than any monster lurking out there!"
 
@@ -6442,7 +6442,7 @@ label explanationover:
 
     "I blink.{w} It takes me a good second to register that anything has been said to me."
 
-    p "Huh...?{w} Oh.{w} You guys go ahead.{w} I just have a bit of a headache..."
+    p "Häh ...?{w} Oh.{w} Geht ihr ruhig vor.{w} Mir tut gerade mein Kopf ein bisschen weh ..."
 
     $ sayaface='normal'
     show Sayaka
@@ -6517,7 +6517,7 @@ label explanationover:
 
     "It's hard to keep up with her as the waves of students crash against me--everyone in a frenzy to get their lunch--but I just about manage to catch a glimpse of her heading for the staircase."
 
-    p "Yuzuki, wait!"
+    p "Yuzuki, warte!"
 
     "She pays me no mind, and continues to ascend the stairs."
 
@@ -6538,7 +6538,7 @@ label explanationover:
     scene school roof
     with dissolve
 
-    p "Y-Yuzuki..."
+    p "Y-Yuzuki ..."
 
     scene cg9
     with dissolve
