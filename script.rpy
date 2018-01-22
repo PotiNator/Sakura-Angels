@@ -4063,15 +4063,15 @@ label explanationover:
     "Amber eyes full of hatred, she shifts her gaze to Sayaka and Hikari."
 
     y "Es sieht so aus, als wäre ich an der Reihe, mich für die Nacht zurückzuziehen.{w} Glaub nichts, du hast noch nichts gewonnen!"
-
-    y "You got lucky with that cheap shot, but don't expect it to work a second time.{w} Kenta {i}will{/i} be mine!"
+    
+     y "Du hast Glück mit diesem schlechten Schuss, aber erwarte nicht, dass es ein zweites Mal funktioniert.{w} Kenta {i}wird{/i} mir gehören!"
 
     $ yuzuface='joking'
     $ yuzupose='magical_2'
     show Yuzuki
     with dissolve
 
-    y "But don't worry, I'm not cruel enough as to part ways without leaving you something to play with.{w} Until we meet again!"
+    y "Aber mach dir keine Sorgen, ich bin nicht grausam genug, um Wege zu trennen, ohne dir etwas zum Spielen zu überlassen.{w} Bis wir uns wieder treffen!"
 
     hide Yuzuki
     with dissolve
@@ -6555,7 +6555,7 @@ label explanationover:
 
     "I take a step toward her, my foot splashing into a sizeable puddle."
 
-    y "What do you want?"
+    y "Was willst du?"
 
     "She responds bluntly.{w} I may as well be talking to a completely different person than the girl that went after my life."
 
@@ -6573,11 +6573,11 @@ label explanationover:
 
     "She tenses up for a moment at the sound of my voice.{w} I fear I might have said the wrong thing already, but she gradually relaxes again."
 
-    y "I'm surprised you even noticed me at all, today..."
+    y "Ich bin überrascht, dass du mich heute überhaupt bemerkt hast..."
 
-    y "Tell me, Kenta..."
+    y "Sag es mir Kenta..."
 
-    y "How long is it we've been in the same class together?"
+    y "Wie lange sind wir schon in der gleichen Klasse?"
 
     p "What...?"
 
@@ -6585,35 +6585,35 @@ label explanationover:
 
     "Yuzuki lets out a bitter laugh."
 
-    y "You didn't even realise, did you?"
+    y "Du hast es nicht einmal bemerkt, oder?"
 
     p "I'm not sure I..."
 
-    y "I may as well be a ghost."
+    y Ich kann auch ein Geist sein.""
 
-    y "Do you know what it feels like to be completely invisible?{w} When no one will even so much as glance my way?"
+    y "Weißt du, wie es sich anfühlt, vollkommen unsichtbar zu sein? Wenn niemand auch nur einen Blick in meine Richtung wirft?"
 
     "Her grip tightens on the fence, the wires sinking into her flesh.{w} What is she talking about...?"
 
-    y "To never be picked as a partner for projects...{w}to never be asked to sit with someone for lunch...{w}to even be ignored by the teacher in class."
+    y "Nie als Partner für Projekte ausgewählt werden...{w}niemals gebeten werden, mit jemandem Mittag zu essen...{w}im Unterricht sogar vom Lehrer ignoriert zu werden."
 
-    y "They all might seem like petty, small things.{w} But over the years, they add up.{w} And slowly, the hate began to set in."
+    y "Sie alle scheinen kleine, kleine Dinge zu sein.{w} Aber im Laufe der Jahre summieren sie sich.{w} Und langsam setzte der Hass ein."
 
-    y "People are selfish, rude, arrogant."
+    y "Menschen sind selbstsüchtig, unhöflich, arrogant."
 
-    y "And you're probably just thinking, 'why don't you make the effort to make friends yourself?'"
+    y "Und du denkst wahrscheinlich nur, 'warum machst du dir nicht die Mühe, selbst Freunde zu finden?'"
 
     "I...{w}I guess that thought did come to mind.{w} All I can do is stand and listen as she continues, ignoring the urge to shiver."
 
-    y "Do you think I haven't tried?!{w} I've tried so hard to fit in.{w} To be social, to talk to people."
+    y "Glaubst du, ich habe es nicht versucht ?!{w}Ich habe mich so sehr bemüht, mich einzufügen. {w} Um sozial zu sein, mit Leuten zu reden."
+    
+    y "Aber nach einem gewissen Punkt sind die sozialen Kreise fest und werden zu unpassierbaren Mauern für diejenigen, die mitmachen wollen."
 
-    y "But after a certain point, the social circles are set, and become impassable walls for those looking to join."
+    y "Meine fröhlichen Grüße wurden völlig gleichgültig aufgenommen.{w} Meine Versuche, mit Klassenkameraden zu sprechen, wurden mit schmerzhaften Blicken beantwortet."
 
-    y "My cheerful greetings were met with complete indifference.{w} My attempts to talk with classmates were met with painful stares."
+    y "Und dann ist es wieder zu Hause, um in einem dunklen, einsamen Zuhause zu sitzen, bevor ich mich zwingen muss, wieder zur Schule zu kommen.{w} Ein Ort voller Menschen, doch hier fühle ich mich am einsamsten."
 
-    y "And then it's back home to sit in a dark, lonely home before I have to force myself to come back to school.{w} A place teeming with people, yet it's here I feel the most lonely."
-
-    y "Was it too much to ask for a friend?{w} Someone I could talk to, confide in, and have fun with...{w}just like they do in the TV shows.{w} Is that really so much?!"
+    y "War es zu viel verlangt nach einem Freund zu suchen?{w} Mit jemandem, mit dem ich reden konnte, dem ich mich anvertraue und mit dem ich Spaß habe...{w}genau wie in den TV-Shows.{w} Ist das wirklich zu viel ?!"
 
     scene school roof
     $ yuzuface='normal'
@@ -6629,7 +6629,7 @@ label explanationover:
 
     "She cuts me off as she suddenly spins to meet me eye to eye.{w} The vacant stare is gone, and in its place one of hate.{w} Aimed directly at me."
 
-    y "But don't feel sorry for me.{w} None of that matters anymore.{w} Not after tomorrow.{w} Everything will change."
+    y "Aber es tut mir nicht leid.{w} Nichts davon zählt mehr.{w} Nicht nach morgen.{w} Alles wird sich verändern."
 
     p "Tomorrow?"
 
