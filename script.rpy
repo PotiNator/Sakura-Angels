@@ -387,7 +387,7 @@ label start:
     queue music "bgm/magicalgirlloop.ogg"
     "A cheerful voice chirps.{w} A welcome sound after the terrors of that...{w}that thing."
 
-    tg "Don't talk to him!{w} We have to leave before--"
+    tg "Rede nicht mit ihm!{w} Wir müssen gehen bevor--"
 
     "And then another voice that's...{w}less cheerful.{w} In fact, they sound angry more than anything."
 
@@ -428,7 +428,7 @@ label start:
 
     p "Nein, alles gut, aber--"
 
-    tg "As if things weren't bad enough that we had to reveal ourselves to him, now you're just casually blabbing away things that no normal person should have a right to know.{w} Have you lost your mind?!"
+    tg "Als ob die Dinge nicht schlimm genug wären, dass wir uns ihm offenbaren mussten, jetzt redest du mit im über Sachen, die kein normaler Mensch wissen sollte. {W} Hast du den Verstand verloren ?!"
 
     "I'm cut short by the more aggressive looking of the pair, whose expression had grown darker and darker as the cheerful one had spoken. Looking like she's unable to take it anymore, she exploded, causing both of us to jump."
 
@@ -473,7 +473,7 @@ label start:
     show Sayaka
     show Hikari with dissolve
 
-    tg "You idiot!"
+    tg "Du Idiot!"
 
     "{i}Whap!{/i} The serious one raps her fist against the other's head, who sticks her tongue out in a sort of... 'Tee-hee, my bad!' kind of way."
 
@@ -609,17 +609,17 @@ label start:
 
             "I'm confronted by a scary face, belonging to the more stern of the two girls that had kept generally quiet up until now."
 
-            tg "Really?{w} I mean--really?!{w} Are you {i}really{/i} this much of an idiot?!"
+            tg Wirklich?{w} Ich meine--wirklich?!{w} Bist du {i}wirklich{/i} so ein grßer Idiot?!"
 
             p "I-Ich ... Äh ..."
 
             "I can feel myself shrink under her powerful glare, her once lithe form now towering over me.{w} Like this, she's even scarier than that monster!"
 
-            tg "It's bad enough we had to show ourselves, but now you're just going to act like we're crazy?!"
+            tg "Es ist schon schlimm genug, dass wir uns zeigen mussten, aber jetzt tust du nur so, als wären wir verrückt?!"
 
             "She tightens her fist with a scowl, her knuckle giving off an unsettling crack."
 
-            tg "I don't even know why we bother, if this is how you're going to treat us!{w} Maybe next time we should just let them eat you.{w} Hmph."
+            tg "Ich weiß nicht einmal, warum wir uns um dich kümmern, wenn du uns so behandelst!{w} Vielleicht sollten wir, sie dich nächstes mal einfach fressen lassen.{w} Hmph."
 
             $ hikapose='magical_2'
             $ hikaface='normal'
@@ -648,7 +648,7 @@ label start:
             show Hikari
             with dissolve
 
-            tg "Hmph, whatever.{w} He really is as stupid as he looked from a distance."
+            tg "Hmph, was auch immer.{w} Er ist wirklich so dumm, wie er aussieht."
 
             "Ouch...{w} I {i}am{/i} still here, you know!"
 
@@ -665,7 +665,7 @@ label start:
 
             "{i}Wham.{/i} Her face going a fair shade of crimson, she delivers a solid fist to the cheerful girl's face.{w} And it wasn't a playful bop like before, this time she wasn't holding anything back.{w} It really did look painful..."
 
-            tg "Sh-shut up!{w} I said no such thing!"
+            tg "Halt dein Mund!{w} Ich habe soetwas nicht gesagt!"
 
             $ sayaface='scared'
             show Sayaka
