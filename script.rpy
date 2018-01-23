@@ -6565,11 +6565,11 @@ label explanationover:
 
     "After hesitating for a moment, my voice initially coming out in a croak, I finally confront her."
 
-    p "I...{w} Why are you so set on killing me?{w} I don't understand any of this!"
+    p "Ich ...{w} Warum willst du mich unbedingt umbringen?{w} Ich versteh es einfach nicht!"
 
-    p "What I mean is..."
+    p "Was ich damit mein, ist ..."
 
-    p "Why me?"
+    p "Warum ausgerechnet ich?"
 
     "She tenses up for a moment at the sound of my voice.{w} I fear I might have said the wrong thing already, but she gradually relaxes again."
 
@@ -6579,7 +6579,7 @@ label explanationover:
 
     y "Wie lange sind wir schon in der gleichen Klasse?"
 
-    p "What...?"
+    p "Was ...?"
 
     "Has she really...{w}been in the same class as me?{w} I'm sure I would have pieced together things a lot sooner if that were the case."
 
@@ -6587,7 +6587,7 @@ label explanationover:
 
     y "Du hast es nicht einmal bemerkt, oder?"
 
-    p "I'm not sure I..."
+    p "Ich bin mir nicht ganz sicher ..."
 
     y Ich kann auch ein Geist sein.""
 
@@ -6623,7 +6623,7 @@ label explanationover:
 
     "So she's just lonely...?"
 
-    p "But, why are you..."
+    p "Aber warum ..."
 
 
 
@@ -6631,7 +6631,7 @@ label explanationover:
 
     y "Aber es tut mir nicht leid.{w} Nichts davon zählt mehr.{w} Nicht nach morgen.{w} Alles wird sich verändern."
 
-    p "Tomorrow?"
+    p "Morgen?"
 
 
 
@@ -6644,7 +6644,7 @@ label explanationover:
 
     y "Du kannst es fühlen, oder?{w} Sie ist jetzt so nahe daran, frei zu sein.{w} Mit jedem Tag vergeht ihre Macht."
     
-    p "What are you talking about?{w} Who's going to be free?!"
+    p "Was redest du da?{w} Wer wird frei sein?!"
 
     $ yuzuface='joking'
     $ yuzupose='school_2'
@@ -6662,7 +6662,7 @@ label explanationover:
     hide Yuzuki
     with dissolve
     stop music fadeout 6.0
-    p "W-wait, Yuzuki, what are you--"
+    p "W-Warte, Yuzuki, was hast du--"
 
     "It's too late.{w} She's gone."
 
@@ -6672,7 +6672,7 @@ label explanationover:
 
     with hpunch
 
-    p "Ah-choo!"
+    p "Ha-tschi!"
 
     "...Okay, I should get back inside now."
 
@@ -6698,17 +6698,17 @@ label explanationover:
 
     "Oh.{w} I guess Sayaka came to check up on me since I was taking too long to get to the cafeteria.{w} I turn to meet her with a faint smile, my hair dripping wet."
 
-    p "I, uh..."
+    p "Ich, äh ..."
 
     "If I tell her Yuzuki is here, or that I went to confront her on my own, she might worry needlessly, so I'll keep it a secret for now."
 
-    p "It's nothing, don't worry."
+    p "Alles in Ordnung, mach dir keine Sorgen."
 
     s "Nothing?!{w} Kenta, you're completely drenched!{w} What were you doing?"
 
-    p "I had to go out to get something, but was in too much of a rush to remember my umbrella.{w} I'll be fine, really!"
+    p "Ich war eigentlich schon draußen, um was zu holen, hab aber vor lauter Eile meinen Regenschirm vergessen.{w} Aber mir wird schon nichts passieren!"
 
-    p "Ah...{w}ah-choo!"
+    p "Ah ...{w} Hatschi!"
 
     "Okay, the sneeze isn't really doing me any favours."
 
@@ -6780,7 +6780,7 @@ label explanationover:
 
     "And then, in one swift motion, I unzip the tent's door."
 
-    p "Okay, no more secrets!{w} I want answers, and I want them...{w}uhh...?"
+    p "Okay, von nun an keine Geheimnisse mehr!{w} Ich will Antworten hören, und zwar ...{w} äh ...?"
 
     scene cg10
     with wake
@@ -6807,7 +6807,7 @@ label explanationover:
 
     "Hikari barks, scrambling for something within their oddly spacious tent to cover herself with."
 
-    p "R-right, sorry, I was just..."
+    p "G-Genau, entschuldige, das war ..."
 
     "The right thing to do here would be to zip the tent back up and to wait for them to get dressed, but all I can do is gawk, possibly making the situation much worse than it should be."
 
@@ -6817,7 +6817,7 @@ label explanationover:
 
     "Oh god, I hope none of the neighbours can hear this."
 
-    p "You've got me all wrong, I just wanted to--"
+    p "Das habt ihr komplett falsch verstanden. Ich wollte lediglich--"
 
     "She cuts me off.{w} Naturally.{w} Of course I was never going to be allowed to explain myself.{w} That's just not how it works with these girls."
 
@@ -6829,11 +6829,11 @@ label explanationover:
 
     h "Oh, er hatte einen guten Grund? In Ordnung.{w} Ein perversen Grund!"
 
-    p "No, Hikari, listen to her, I really do--"
+    p "Nein, Hikari, hör ihr zu, ich hab wirklich einen Grund, und zwar einen guten--"
 
     "She cracks her fist."
 
-    p "H-have mercy!"
+    p "H-Hab doch Erbarmen mit mir!"
 
     scene bg black
     with flash
@@ -6865,7 +6865,7 @@ label explanationover:
 
     h "Es ist überraschenderweise ordentlich..."
 
-    p "Okay, so...{w} Are you guys finally going to tell me what the heck is going on?"
+    p "Okay, also ...{w} Wollt ihr mir endlich erzählen, was hier los ist?"
     play music "bgm/everydayintro.ogg" fadein 5.0
     queue music "bgm/everydayloop.ogg"
     $ sayaface='happy'
@@ -6877,7 +6877,7 @@ label explanationover:
 
     "Sayaka reaches over and prods at my laptop."
 
-    p "G-guys, can we focus, please?"
+    p "L-Leute, konzentriert euch, okay?"
 
     $ sayaface='smiling'
     show Sayaka
@@ -6906,7 +6906,7 @@ label explanationover:
 
     "Hikari cuts in, and stomps her way across to join Sayaka, fire in her eyes.{w} ...See, this is why I didn't tell her anything."
 
-    p "I know, it was stupid...{w}but it was the only way I could learn anything, since you guys weren't being very helpful."
+    p "Ich weiß, es war dumm ...{w} aber es war der einzige Weg, damit ich was lern. Ihr wart schließlich nicht gerade hilfreich."
 
     h "Das..."
 
@@ -6927,7 +6927,7 @@ label explanationover:
 
     h "S-Stell dich nicht auf seine Seite!{w} Du sollst {i}mein{/i} Partner sein!"
 
-    p "So, all I hear is how time is running short...{w}but why?{w} What exactly will happen tomorrow?"
+    p "So, alles, was ich immer hör, ist, dass die Zeit davonläuft ...{w}Aber warum?{w} Was passiert morgen?"
 
     $ hikaface='normal'
     $ sayaface='normal'
@@ -6936,7 +6936,7 @@ label explanationover:
 
     s "The start of something really bad."
 
-    p "What, though?!{w} Enough with the cryptic stuff!"
+    p "Ach, echt jetzt?!{w} Jetzt hört endlich auf mit diesem mysteriösen Schwachsinn!"
 
     $ sayaface='scared'
     show Sayaka
@@ -6954,7 +6954,7 @@ label explanationover:
 
     s "Tell me, Kenta, what do you know about your bloodline?{w} Your ancestors?"
 
-    p "Uhh...{w} I don't really...{w} Wait, why is this important?"
+    p "Ähh ...{w} Nicht wirklich viel ...{w} Inwiefern ist das überhaupt wichtig?"
 
     $ hikapose='school_1'
     show Hikari
@@ -6972,7 +6972,7 @@ label explanationover:
 
     s "But...{w}your blood is why we were sent.{w} If it fell into the wrong hands--namely Yuzuki's--we'd all be in a lot of trouble."
 
-    p "Why {i}my{/i} blood...?{w} What's so special about mine?"
+    p "Warum {i}mein{/i} Blut ...?{w} Was ist daran so besonders?"
 
     $ sayapose='school_1'
     show Sayaka
@@ -6980,7 +6980,7 @@ label explanationover:
 
     s "It might be a little hard to believe, but you're...{w}well, you're the descendant of a long running line of mages--people with magical abilities."
 
-    p "...Come again?"
+    p "...Wie bitte?"
 
     "Where on earth did they did that dig that up from?{w} I think if they came to me with that on the first day we met, I would have labelled them as crazy...{w}but after all I've seen, it's a bit easier to believe."
 
@@ -6994,7 +6994,7 @@ label explanationover:
     $ hikaface='normal'
     show Hikari
 
-    p "Why wouldn't I know something like this?{w} It seems pretty important..."
+    p "Und warum wolltet ihr mir das nie sagen?{w} Es hört sich schließlich verdammt wichtig an ..."
 
     $ sayaface='smiling'
     $ sayapose='school_2'
@@ -7005,7 +7005,7 @@ label explanationover:
 
     s "So, y'know, most families with magic in their blood at this point don't even know about it.{w} It's just something that lies dormant now."
 
-    p "Okay.{w} So if a lot of people have this...{w}magic blood, what makes mine so special?{w} ...More special than theirs, anyway."
+    p "Okay.{w} Wenn also viele Leute dieses ...{w} Magierblut in sich tragen, warum ist meines dann so besonders?{w} ... Was macht es so wertvoll?"
 
     $ sayapose='school_1'
     $ sayaface='happy'
@@ -7055,9 +7055,9 @@ label explanationover:
 
     "She leans forward and raises an eyebrow as I let out a yawn."
 
-    p "H-huh?{w} Yeah, totally!{w} I think..."
+    p "H-Häh?{w} Ja, total!{w} Glaub ich zumindest ..."
 
-    p "But what does this person have to do with me?"
+    p "Und was hat diese Person mit mir zu tun?"
 
     $ sayapose='school_1'
     show Sayaka
@@ -7087,7 +7087,7 @@ label explanationover:
 
     s "Aww...{w} I was really getting into it there and everything."
 
-    p "Uhh, thanks, Hikari.{w} I appreciate it."
+    p "Äh, danke, Hikari."
 
     $ hikaface='normal'
     $ hikapose='school_1'
@@ -7096,7 +7096,7 @@ label explanationover:
 
     h "Hmph."
 
-    p "So...{w}what?{w} My ancestor killed this evil queen person?"
+    p "Und...{w}Weiter?{w} Mein Vorfahre hat diese böse Königin getötet?"
 
     h "Wenn er es getan hätte, würden wir nicht hier sein und ein Gespräch führen."
 
@@ -7111,14 +7111,14 @@ label explanationover:
 
     s "Essentially, he tied his fate with hers when locking her away.{w} A seal so powerful that it will only unlock when one strict condition is met!"
 
-    p "And...{w}what condition is that?"
+    p "Und ...{w} wie lautet die?"
 
     $ hikaface='angry'
     show Hikari
 
     h "Ich denke dass soltest du jetzt schon wissen!"
 
-    p "Something to do with...{w}my blood, right?"
+    p "Lass mich raten ... Es hat etwas ...{w} mit meinem Blut zu tun, stimmt's?"
 
     $ hikaface='normal'
     $ sayaface='smiling'
@@ -7133,7 +7133,7 @@ label explanationover:
 
     s "Well, actually, not just {i}any{/i} descendant.{w} It has to be one who has latent magical power residing within them."
 
-    p "So that means..."
+    p "Das heißt dann also ..."
 
     s "It means your dad is safe, and that the shadows have no interest in him.{w} He does have {i}some{/i} magic in his blood, but it's not really enough to realise any abilities."
 
@@ -7149,14 +7149,14 @@ label explanationover:
 
     s "So, are you following so far?"
 
-    p "Yeah.{w} I think.{w} Basically, my blood is the key to unlocking something terrible?"
+    p "Ja.{w} Glaub schon.{w} Um es kurz zusammenzufassen ... Mein Blut ist der Schlüssel dafür, etwas Schreckliches in Bewegung zu setzen?"
 
     $ sayaface='happy'
     show Sayaka
 
     s "Pretty much!"
 
-    p "But then, if it's connected to my blood...{w}why are we running out of time?"
+    p "Aber wenn es mit meinem Blut in Verbindung steht ...{w} Warum läuft uns dann die Zeit davon?"
 
     $ sayaface='smiling'
     $ hikapose='school_2'
@@ -7169,7 +7169,7 @@ label explanationover:
 
     s "Kenta, your headaches..."
 
-    p "I see...{w} So she's almost...{w}calling out to me, in a sense?"
+    p "Verstehe ...{w} Sie ruft also schon nach mir ...{w} um es metaphorisch auszudrücken?"
 
     h "Deshalb sind die Monster so gut organisiert.{w} Und warum dieses Mädchen, Yuzuki..."
 
@@ -7191,7 +7191,7 @@ label explanationover:
 
     s "Basically, our job will become even more difficult than it already is."
 
-    p "That's...{w}that's bad, huh?"
+    p "Das ...{w} Das ist nicht gut, oder?"
 
     s "Very!"
 
@@ -7253,7 +7253,7 @@ label explanationover:
 
     s "Kenta...{w} We...{w}we need your help."
 
-    p "M-me?!{w} How the heck am I supposed to help?{w} You guys are the ones with all the fancy powers!"
+    p "M-Meine?!{w} Wie zum Teufel soll ich helfen?{w} Ihr habt doch die Zauberkräfte, nicht ich!"
 
     h "Es ist nicht gerade ideal, dass wir uns auf dich verlassen müssen, ich weiß, aber wir haben keine Wahl. {W} Und wir haben keine Zeit mehr, nach alternativen Mitteln zu suchen."
 
@@ -7272,7 +7272,7 @@ label explanationover:
 
     "So, in other words, I'm really the only solution here.{w} I'm...{w}I'm not sure how to take this."
 
-    p "I don't know the first thing about this magic business, though.{w} Am I even capable of doing such a thing?"
+    p "Ich hab von diesem Magier-Zeugs überhaupt keinen Plan.{w} Bin ich dazu überhaupt in der Lage?"
 
     $ sayapose='school_1'
     $ sayaface='normal'
@@ -7290,14 +7290,14 @@ label explanationover:
 
     h "Ich hatte {i}kein{/i} Spaß!"
 
-    p "I guess so.{w} But what does that have to do with anything?"
+    p "Kann ich mir vorstellen.{w} Aber was hat das damit zu tun?"
 
     $ hikaface='normal'
     show Hikari
 
     s "You used Hikari's sword, didn't you?"
 
-    p "Yeah.{w} But I don't..."
+    p "Ja.{w} Aber ich ..."
 
     h "Kenta, du musst selbst bemerkt haben, wie leicht das Schwert war, trotz seiner Größe, richtig?"
 
@@ -7314,7 +7314,7 @@ label explanationover:
 
     s "They'd go boom.{w} The magic would be too much for them to handle."
 
-    p "B-boom?"
+    p "B-BUMM?"
 
     s "Well, maybe not explode.{w} But at the very least it'd bring about a messy end."
 
@@ -7334,7 +7334,7 @@ label explanationover:
 
     h "Es würde leichtsinnig sein.{w} Und ein Fehler, kann die ganze Welt in Gefahr bringen."
 
-    p "No pressure then, huh?"
+    p "Wir haben also überhaupt keinen Stress, hm?"
 
     "I try my best to keep things light hearted and force out an awkward laugh, but it's difficult after hearing all of this.{w} To think that somehow I'm both the key to unlocking this woman from her prison, and the only thing that can put her away for good."
 
@@ -7354,7 +7354,7 @@ label explanationover:
 
     h "Das ist es, wenn du uns helfen willst.{w} Ich verstehe es, wenn du dafür nicht bereit bist...{w} Vielleicht können wir einen anderen Weg finden..."
 
-    p "But there isn't another way, is there?{w} That's the whole reason you're telling me all this."
+    p "Anderen Weg gibt's wohl keinen, oder?{w} Sonst würdet ihr mir das alles ja nicht erzählen, oder?"
 
     "I heave out a sigh, and give my guardians a look over.{w} They've done so much for me in this past week.{w} And even more than I realised behind the scenes.{w} If anything, I owe them this."
 
@@ -7362,7 +7362,7 @@ label explanationover:
 
     "But then, if we leave it, things will only get worse.{w} So..."
 
-    p "I guess I have no choice here, do I?{w} I'll...{w}I'll help with this sealing business.{w} If you think I can manage it."
+    p "Dann hab ich wohl keine andere Wahl.{w} Ich ...{w} Ich werd beim Versiegeln helfen.{w} Wenn ihr so zuversichtlich seid, dass ich es kann."
 
     $ sayapose='school_2'
     $ sayaface='happy'
@@ -7374,7 +7374,7 @@ label explanationover:
 
     "Sayaka looks ecstatic as she claps her hands together.{w} Was she not expecting me to help?{w} Hikari looks equally surprised.{w} Jeez, a little faith goes a long way, guys!"
 
-    p "It's the least I can do, after you guys have been risking your lives for me every day.{w} If I finally have a way to help, then I'm not going to waste that chance!"
+    p "Das ist das Mindeste, was ich tun kann, nachdem ihr immer euer Leben für mich riskiert habt.{w} Es ist egal, wie ich euch helfen kann, Hauptsache ich kann helfen!"
 
     h "Kenta..."
 
@@ -7417,7 +7417,7 @@ label explanationover:
 
     "I guess the fear of what's to come if I mess this up is what's keeping me going.{w} A better motivation than any other!"
 
-    p "Okay, let's do this!"
+    p "Okay, dann an die Arbeit!"
 
     "I peer at a pair of determined eyes that stare back at me from the mirror.{w} This is the most focused I've ever been in my life."
 
@@ -7438,7 +7438,7 @@ label explanationover:
 
     s "G'morning.{w} Did you sleep well?"
 
-    p "About as well as I could, knowing what's to come..."
+    p "Wenn ich daran denke, was mich erwartet ... Ja."
 
     $ hikapose='magical_2'
     show Hikari
@@ -7448,25 +7448,25 @@ label explanationover:
 
     "Right, right.{w} Of course.{w} I start for the kitchen and prepare the most simple food I can think of."
 
-    p "So, I think I forgot to ask this last night when we got carried away with other stuff...{w} But where exactly is this 'dark queen' imprisoned?"
+    p "Was ich gestern ganz vergessen hab zu fragen ...{w} Aber wo ist diese 'Königin' überhaupt gefangen?"
 
     $ sayaface='normal'
     show Sayaka
 
     s "Huh?{w} Didn't we say?{w} She's sealed just outside this town."
 
-    p "What?!"
+    p "Was?!"
 
     "I almost drop the plate I'm holding."
 
-    p "She's that close by?!"
+    p "So nah?!"
 
     $ hikaface='angry'
     show Hikari
 
     h "Natürlich.{w} Warum sonst denkst du, dass sich ihr Einfluss hier so leicht ausbreitet??"
 
-    p "I...{w} I didn't really think about any of that.{w} That's a good point..."
+    p "Ich ...{w} Damit hab ich jetzt echt nicht gerechnet.{w} Aber wenn man so sieht, ist es irgendwie logisch ..."
 
     $ hikaface='normal'
     show Hikari
@@ -7491,7 +7491,7 @@ label explanationover:
 
     h "Nichts davon ist wichtig.{w} Wir müssen einfach nur da reinkommen, das Siegel stärken, und dann sollte unser Leben {i}viel{/i} einfacher sein."
 
-    p "Are things really going to just magically fix themselves when we do this?"
+    p "Und wird sich das alles wirklich einfach so von selbst in Ordnung bringen, wenn wir Magie verwenden?"
 
     h "Naja, es wird die Macht, die sie hat, ausschalten .{w} Das heißt, die Monster werden zu ihren geistlosen Hülsen zurückkehren, und die Dinge sollten sich hier unten beruhigen."
 
@@ -7583,7 +7583,7 @@ label explanationover:
 
     h "Ich denke nicht, dass ich perfekt bin!{w} Im Vergleich zu dir, aber--"
 
-    p "Uh, guys?{w} Is this really the time?"
+    p "Äh, Leute?{w} Muss das jetzt sein?"
 
     h "Aber sie...{w} Fein.{w} Du hast recht.{w} Konzentrieren wir uns, Sayaka."
 
@@ -7603,7 +7603,7 @@ label explanationover:
 
     "I know it won't help, but I join the pair in surveying the land.{w} I don't even know what I'm supposed to be looking out for, apart from..."
 
-    p "A cave...?"
+    p "Eine Höhle ...?"
 
     s "Hm?{w} Something up?"
 
@@ -7611,7 +7611,7 @@ label explanationover:
 
     "I've never been here before...{w}yet somehow it seems familiar."
 
-    p "Can we check over there?"
+    p "Können wir da kurz nachsehen?"
 
     $ sayapose='magical_2'
     show Sayaka
@@ -7633,7 +7633,7 @@ label explanationover:
 
     "Circling around the cluster reveals nothing too out of the ordinary, but...{w}there has to be more."
 
-    p "I dunno.{w} I just felt like something was here."
+    p "Weiß nicht.{w} Mir ist vorgekommen, als hätt ich was gespürt."
 
     $ hikaface='angry'
     show Hikari
@@ -7692,7 +7692,7 @@ label explanationover:
 
     s "Wahh!"
 
-    p "Oof..."
+    p "Oof ..."
 
     $ hikaface='normal'
     show Hikari
@@ -7765,7 +7765,7 @@ label explanationover:
 
     s "Welp.{w} Time's a wastin'!{w} In we go!"
 
-    p "H-hey, wait!"
+    p "H-Hey, warte!"
 
     hide Sayaka
     show Hikari at center
@@ -7788,7 +7788,7 @@ label explanationover:
 
     "Hikari's harsh tones sound out from the tunnel, making it all the more frightening."
 
-    p "Okay, okay!{w} I'm coming."
+    p "Okay, okay!{w} Ich komm ja schon."
 
     "It's not like the world is going to end just because I take an extra minute or two to prepare for diving into the heart of evil.{w} At least, I hope it isn't."
 
@@ -7801,13 +7801,13 @@ label explanationover:
 
     "My surroundings are dark.{w} Cold.{w} Slimy to the touch.{w} So far it hasn't been a very pleasant experience."
 
-    p "You know..."
+    p "Weißt du ..."
 
     s "Hmm, something up?"
 
-    p "This wasn't what I had in mind when I pictured myself being a hero."
+    p "Das hab ich mir echt nicht vorgestellt, als ich daran gedacht hab, wie es wär, ein Held zu sein."
 
-    p "Crawling along in a cramped, dark tunnel...{w} Somehow, I thought things were going to be more dramatic."
+    p "In einem engen, kleinen Tunnel rumkriechen ...{w} Ich hab mir das irgendwie Dramatischer vorgestellt."
 
     "Sayaka lets out a giggle as she soldiers on ahead."
 
@@ -7819,7 +7819,7 @@ label explanationover:
 
     "She brings up a good point.{w} However..."
 
-    p "But, what if...{w}there are monsters {i}inside{/i} this tunnel?{w} We can't really do much if we're practically blind."
+    p "Aber was, wenn ...{w} {i}in{/i} diesem Tunnel Monster auf uns warten?{w} Falls das der Fall ist, können wir nicht wirklich viel tun."
 
     h "S-Sag das nicht!{w} Ich hab nichtmal über soetwas nachgedacht..."
 
@@ -7843,15 +7843,15 @@ label explanationover:
 
     h "Warst du das, Kenta?!{w} Ich wusste, ich hätte als Letzt einsteigen sollen..."
 
-    p "Me?!{w} Of course not!{w} I'm way back over here!{w} What sort of guy do you think I am?"
+    p "Ich?!{w} Natürlich nicht!{w} Ich bin ja ganz woanders!{w} Wofür hältst du mich eigentlich?"
 
     h "...Willst du wirklich, dass ich das beantworte, nach dem, was du in den letzten Tagen getan hast??"
 
-    p "Th-those were accidents!"
+    p "D-Das waren Unfälle! UNFÄLLE!"
 
     h "Naja, vielleicht war das wieder einer deiner "Unfälle", hmm?{w} Ein Mädchen greifen whärend sie komplett hilflos ist?"
 
-    p "Come on, I'm nowhere near you!{w} ...Maybe it's just your imagination?"
+    p "Komm schon, ich bin ja nicht mal in deiner Nähe!{w} ... Vielleicht bildest du dir das auch einfach nur ein?"
 
     "I can just about hear Sayaka stifle a giggle as we continue to argue.{w} Hmmm."
 
@@ -7870,7 +7870,7 @@ label explanationover:
 
     "This bizarre series of events continues for longer than I feel is necessary, until finally I feel I have to speak up, or we might be stuck in this tunnel all day."
 
-    p "Okay, come on, Sayaka, that's enough.{w} You've had your fun.{w} We need to focus, okay?"
+    p "Okay, komm, Sayaka, das reicht jetzt.{w} Du hattest deinen Spaß.{w} Jetzt müssen wir uns aber wieder konzentrieren, okay?"
 
     h "W-Was...?{w} Sayaka?{w} Aber sie hätte nicht..."
 
@@ -7974,7 +7974,7 @@ label explanationover:
 
     "Right in the center of the cave.{w} Glimmering in an unnatural light.{w} A crystal."
 
-    p "This is..."
+    p "Das ist ..."
 
     "I don't even need to be told what it is.{w} I already know."
 
@@ -7992,7 +7992,7 @@ label explanationover:
 
     "She's the last obstacle.{w} I can..."
 
-    p "I can do this."
+    p "Ich kann es schaffen."
 
     "I murmur to myself, and tighten my fists in an effort to still the trembling."
 
@@ -8051,13 +8051,13 @@ label explanationover:
 
     h "Du musst dich vor nichts fürchten, solange du an unserer Seite bist."
 
-    p "Yeah."
+    p "Ja."
 
     "I nod, their words calming me."
 
-    p "You're right.{w} We've come this far.{w} It's just a little bit more, and then it's all over."
+    p "Du hast recht.{w} Wir haben es schon so weit geschafft.{w} Nur noch ein bisschen, dann ist alles vorbei."
 
-    p "Thanks, guys.{w} For everything.{w} I wouldn't even be standing here today if it weren't for you two.{w} I owe you both, big time."
+    p "Ich danke euch.{w} Für alles, was ihr für mich getan habt.{w} Ohne euch wär ich jetzt nicht hier.{w} Ich schulde euch was."
 
     $ sayapose='magical_2'
     show Sayaka
@@ -8097,7 +8097,7 @@ label explanationover:
     stop music fadeout 6.0
     s "Right, then!{w} Let's get to it!"
 
-    p "Got it.{w} I-I...{w}I think I remember everything for this resealing."
+    p "Verstanden.{w} I-Ich ...{w} Ich glaub, ich hab mir alles gemerkt."
 
     s "You'll be fine.{w} But, if on the off-chance, you goof things up, we'll help you through it, okay?"
 
@@ -8143,7 +8143,7 @@ label explanationover:
 
     y "Halt den Mund!{w} Du weißt nichts.{w} Ich...{w}Ich brauche das!"
 
-    p "Yuzuki, things don't have to end this way.{w} I know you won't believe me, but I really do understand what you're going through.{w} The pain you feel.{w} Maybe we can--"
+    p "Yuzuki, es muss nicht so enden.{w} Ich weiß, du wirst mir nicht glauben, aber ich weiß, was du durchmachst.{w} Den Schmerz, den du fühlst.{w} Vielleicht können wir--"
 
     with hpunch
 
@@ -8157,7 +8157,7 @@ label explanationover:
 
     "I can't give up so easily!{w} One more try...{w} Maybe I'll get through to her?"
 
-    p "I know you're not a bad person, Yuzuki.{w} Just...{w}lonely, right?"
+    p "Ich weiß, dass du kein schlechter Mensch bist, Yuzuki.{w} Du bist nur ...{w} einsam, oder?"
 
     y "Ich bin nicht allein!{w} Mindestens...{w}Ich werde nie wieder einsam sein, wenn das einmal vorbei ist."
 
@@ -8175,7 +8175,7 @@ label explanationover:
 
     "I let out a heavy sigh."
 
-    p "Okay.{w} You guys do what you have to do."
+    p "Okay.{w} Tut, was ihr tun müsst."
 
     "Sayaka and Hikari nod.{w} They understand that this is going to be a fight with consequences."
 
