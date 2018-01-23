@@ -6642,8 +6642,8 @@ label explanationover:
 
     "Yuzuki smirks at my pain."
 
-    y "You can feel it, can't you?{w} She's so close to being free now.{w} With every passing, day her power grows."
-
+    y "Du kannst es fühlen, oder?{w} Sie ist jetzt so nahe daran, frei zu sein.{w} Mit jedem Tag vergeht ihre Macht."
+    
     p "What are you talking about?{w} Who's going to be free?!"
 
     $ yuzuface='joking'
@@ -6651,13 +6651,13 @@ label explanationover:
     show Yuzuki
     with dissolve
 
-    y "Oh, so they haven't told you?{w} Interesting.{w} I wonder why they're so intent on keeping it a secret?"
+    y "Oh, also haben sie es dir nicht gesagt?{w} Interessant.{w} Ich frage mich, warum sie so sehr darauf bedacht sind, es geheim zu halten?"
 
-    y "Regardless, everything will make sense tomorrow.{w} I'll finally get what I want, and she'll finally get what she wants."
+    y "Egal, alles wird morgen Sinn machen.{w} Ich werde endlich bekommen, was ich will, und sie wird endlich bekommen, was sie will. "
 
     "Yuzuki drifts past me as I struggle to keep upright, the headache refusing to die down."
 
-    y "Goodbye for now.{w} The next time we meet will be the last."
+    y "Auf Wiedersehen für jetzt.{w} Das nächste Mal treffen wir uns als Letztes."
 
     hide Yuzuki
     with dissolve
@@ -8117,7 +8117,7 @@ label explanationover:
 
     "We've pretty much stumbled right into their lair.{w} I'm surprised these 'shadow' things aren't completely swarming us."
 
-    y "Hah, you really are more stupid than I thought!"
+    y "Hah, du bist wirklich dümmer als ich dachte!"
 
     "A familiar voice floats in.{w} Of course.{w} Why {i}wouldn't{/i} she be here?"
 
@@ -8131,9 +8131,9 @@ label explanationover:
 
     "She clutches her scythe in an overwhelmingly hostile stance, and gives us a violent scowl.{w} It seems even she realises the severity of this situation."
 
-    y "To so willingly offer yourself up after I spent all those nights hunting you down.{w} You really do have a death wish."
+    y "So bereitwillig sich anzubieten, nachdem ich all die Nächte damit verbracht habe, dich zu jagen.{w} Du hast wirklich einen Todeswunsch."
 
-    y "But, that's fine.{w} I'll give you a quick and painless end."
+    y "Aber das ist in Ordnung.{w} Ich gebe dir ein schnelles und schmerzloses Ende."
 
     h "Du redest nur mit dirselber!{w} Denk nicht, ich kann nicht sehen das du Angst hast.{w} Du weißt, dass das Ende der Linie für dich ist."
 
@@ -8141,17 +8141,17 @@ label explanationover:
 
     "Yuzuki grits her teeth, a bead of sweat creeping across her brow.{w} So she really is scared...?"
 
-    y "Shut up!{w} You don't know anything.{w} I...{w}I need this!"
+    y "Halt den Mund!{w} Du weißt nichts.{w} Ich...{w}Ich brauche das!"
 
     p "Yuzuki, things don't have to end this way.{w} I know you won't believe me, but I really do understand what you're going through.{w} The pain you feel.{w} Maybe we can--"
 
     with hpunch
 
-    y "I said shut up!"
+    y "Ich sagte sei ruhig!"
 
     "The entire cavern quakes under her rage.{w} Debris rains down from above.{w} This is getting dangerous."
 
-    y "I don't need your help, or your sympathy.{w} I'm fixing things on my own.{w} Everything will be fine once I crack you open like a fire hydrant and let your blood work its magic."
+    y "Ich brauche deine Hilfe oder dein Mitgefühl nicht.{w} Ich repariere Dinge selbst.{w} Alles wird gut, wenn ich dich wie einen Feuerhydranten aufreiße und dein Blut magisch wirken lasse."
 
     "My face grows pale as a maddening laugh escapes her lips.{w} How can she say something so twisted?{w} ...I really did try, but maybe her sanity is too far gone?"
 
@@ -8159,7 +8159,7 @@ label explanationover:
 
     p "I know you're not a bad person, Yuzuki.{w} Just...{w}lonely, right?"
 
-    y "I'm not lonely!{w} At least...{w}I'll never be lonely again once this is over."
+    y "Ich bin nicht allein!{w} Mindestens...{w}Ich werde nie wieder einsam sein, wenn das einmal vorbei ist."
 
     s "Kenta...{w} I understand you want to help her, but...{w}well, just look at her."
 
@@ -8181,19 +8181,19 @@ label explanationover:
 
     "There's no running away.{w} Each side has too much at stake now."
 
-    y "I feel like perhaps you're underestimating me.{w} It's true I had to shamefully turn tail at our last encounter, but..."
+    y "Ich habe das Gefühl, dass du mich vielleicht unterschätzt.{w} Es ist wahr, ich musste bei unserer letzten Begegnung beschämend den Schwanz drehen, aber ..."
 
     "Yuzuki grunts, and a dark aura begins to set in around her.{w} This is new..."
 
-    y "We're fighting on my home turf.{w} I have a direct connection to her here.{w} I can...{w} I can feel her within me."
+    y "Wir kämpfen auf meinem Heimatmarkt.{w} Ich habe hier eine direkte Verbindung zu ihr.{w} Ich kann..{w} Ich kann sie in mir fühlen."
 
-    y "I can't lose now!{w} Not with {i}her{/i} on my side!"
+    y "Ich kann jetzt nicht verlieren!{w} Nicht mit {i}ihr{/i} auf meiner Seite!"
 
     "She lets out another crazed laugh as the cavern gives a violent rumble.{w} I don't think this is all talk...{w} Sayaka and Hikari might really have their work cut out here."
 
     stop music fadeout 2.0
 
-    y "Now then...{w}die!"
+    y "Nun Dann...{w}stirb!"
 
     scene cave
 
@@ -8243,7 +8243,7 @@ label explanationover:
 
     h "Oh nein, das tust du nicht!{w} Bevor du ihn bekommst, musst du erst an {i}mir{/i} vorbei!"
 
-    y "That can be...{w}arranged!"
+    y "Das kann sein...{w}vereinbart worden!"
 
     "The pair grit teeth as they push against one another, the magic practically crackling around them in a fierce storm."
 
@@ -9108,23 +9108,23 @@ label explanationover:
 
     "Slowly, she comes to the realisation of what has happened."
 
-    y "It's...{w}it's over, isn't it?{w} I...{w}lost."
+    y "Es ist...{w}Es ist vorbei, oder?{w} Ich...{w}hab verloren."
 
     s "'Fraid so."
 
-    y "She's...{w}she's gone completely now.{w} My queen...{w} I can't feel her at all."
+    y "Sie ist...{w}Sie ist jetzt komplett weg.{w} Meine Königin...{w} Ich kann sie überhaupt nicht fühlen."
 
     "She seems a lot more subdued now.{w} The madness is gone, and in its place, all I can see is a sad girl.{w} One that was misguided."
 
-    y "But I was so close!{w} I...{w}I could have...{w} Argh, damn it!"
+    y "Aber ich war so nah!{w} Ich...{w}Ich konnte es haben...{w} Argh, verdammt!"
 
     "She thumps a feeble fist against the floor.{w} There's no strength left at all."
 
-    y "So, what?{w} Are you all here to gloat?"
+    y "Na, und?{w} Sind Sie hier, um sich zu freuen?"
 
     h "Hey jetzt!!{w} Du solltest dankbar sein, dass ich dein Leben vorhin verschont habe.{w} Ich hätte dich locker in zwei Teile zerschneiden können, als dich die Kraft verlassen hat!"
 
-    y "Maybe it would have been better if you did.{w} I have no reason to be alive now.{w} I'm...{w}I'm a failure."
+    y "Vielleicht wäre es besser gewesen, wenn du es getan hättest.{w} Ich habe keinen Grund, jetzt zu leben.{w} Ich bin...{w}Ich bin ein Versager."
 
     p "Don't say that!"
 
@@ -9132,21 +9132,21 @@ label explanationover:
 
     "Yuzuki meets me with some surprise in her eyes, but it quickly turns to the same look of defeat she had a moment ago."
 
-    y "Why not?{w} It's the truth, isn't it?"
+    y "Warum nicht?{w} Es ist die Wahrheit, nicht wahr?"
 
-    y "I was so desperate for some kind of companionship in my life that I willingly gave my life to her."
+    y "Ich war so verzweifelt nach einer Art Gesellschaft in meinem Leben, dass ich ihr mein Leben freiwillig gab."
 
-    y "She told me everything I wanted to hear.{w} That everyone would worship and obey me if I helped her..."
+    y Sie erzählte mir alles, was ich hören wollte."{w} Dass jeder mich anbeten und mir gehorchen würde, wenn ich ihr helfen würde..."
 
     h "Was?!{w} Das ist das Dümmste was ich je gehört--"
 
-    y "It does sound stupid, I know.{w} To think that I did all of this in the vain hope it would get me...{w}friends."
+    y "Es klingt dumm, ich weiß.{w} Zu denken, dass ich all das in der vergeblichen Hoffnung getan habe, dass es mich bekommen würde ...{w}Freunde."
 
-    y "I wasn't thinking straight.{w} I became so obsessed with it that I never thought to even once question anything."
+    y "Ich habe gerade nicht nachgedacht.{w} Ich war so besessen davon, dass ich niemals daran dachte, irgendwas zu hinterfragen."
 
     "So she isn't a bad person.{w} Just misguided.{w} And did the wrong things for an innocent enough goal.{w} I can't help but feel sorry for her...{w} for things to have ended up this way."
 
-    y "And now, with the one chance I had at ever obtaining my goal gone.{w} Why should I continue to live?{w} It's hopeless..."
+    y "Und jetzt, mit der einzigen Chance, die ich hatte, war mein Ziel immer dahin.{w} Warum sollte ich weiterleben?{w} Es ist hoffnugslos..."
 
     s "Hmm.{w} I see, I see."
 
@@ -9185,7 +9185,7 @@ label explanationover:
 
     h "Eh?!{w} W-Wier werden?!"
 
-    y "...Really?"
+    y "...Wirklich!?"
 
     $ sayaface='happy'
     $ sayapose='magical_2'
@@ -9207,7 +9207,7 @@ label explanationover:
     $ yuzuface='angry'
     show Yuzuki
 
-    y "I-is this some kind of trick...?{w} Are you mocking me...?"
+    y "I-ist das eine Art Trick?{w} Verspottest du mich...?"
 
     $ sayaface='smiling'
     $ sayapose='magical_1'
@@ -9239,14 +9239,14 @@ label explanationover:
     $ yuzuface='shy'
     show Yuzuki
 
-    y "Y-you guys..."
+    y "I-ihr..."
 
     $ yuzuface='smiling'
     show Yuzuki
 
     "Yuzuki doesn't know how to process this.{w} Her face flickers through a range of emotions before she settles on a smile, the faint trace of tears bubbling up in the corners of her eyes."
 
-    y "I...{w}I don't deserve any of this.{w} Why are you being so nice?"
+    y "Ich...{w}Ich verdiene nichts davon.{w} Warum bist du so nett?"
 
     $ hikaface='normal'
     $ sayaface='happy'
@@ -9325,7 +9325,7 @@ label explanationover:
     show Yuzuki at center
     with dissolve
 
-    y "Wait, you're just going to leave now?!{w} I thought you promised--"
+   y "Warte, du wirst jetzt gehen?!{w} Ich dachte, du hättest es versprochen--"
 
     $ sayaface='smiling'
     $ sayapose='magical_2'
@@ -9416,7 +9416,7 @@ label explanationover:
     $ yuzuface='scared'
     show Yuzuki
 
-    y "You lot are certainly a strange bunch..."
+   y "Du bist sicherlich ein seltsamer Haufen..."
 
     "...Yup.{w} Happy memories."
 
@@ -9616,7 +9616,7 @@ label explanationover:
         $ yuzuface='smiling'
         show Yuzuki
 
-        y "Kenta.{w} Good morning."
+        y "Kenta.{w} Guten Morgen."
 
         "Yuzuki greets me quietly, a faint smile on her face."
 
@@ -9706,7 +9706,7 @@ label explanationover:
         $ sayaface='smiling'
         show Sayaka
 
-        y "Yes.{w} It was nice.{w} I didn't expect you to be such a good cook, Kenta."
+        y "Ja.{w} Es war nett.{w} Ich habe nicht erwartet, dass du so ein guter Koch bist, Kenta."
 
         $ hikaface='angry'
         show Hikari
@@ -9874,7 +9874,7 @@ label explanationover:
 
         s "Ooh, and hand me that, and that.{w} And we've gotta get some of this in there, too!"
 
-        y "Interesting.{w} I never knew you had such an eye for these things, Sayaka."
+        y "Interessant.{w} Ich wusste nie, dass du so ein Auge für diese Dinge hast, Sayaka."
 
         "Yuzuki responds calmly as she hands over whatever Sayaka instructs, only further adding to the mess.{w} She acknowledges me with a nod of her head, before returning to the mayhem."
 
@@ -10233,7 +10233,7 @@ label explanationover:
         hide Hikari
         with dissolve
 
-        y "Good morning."
+        y "Guten Morgen."
 
         "Yuzuki greets me quietly from behind, almost giving me a heart attack.{w} Right.{w} I had almost forgotten she joins us in the mornings now."
 
@@ -10244,7 +10244,7 @@ label explanationover:
 
         p "A-ah.{w} Good morning."
 
-        y "This is...{w}interesting."
+        y "Das ist...{w}interessant."
 
         "She watches over the spectacle with a blank look, the kitchen becoming more and more of a mess with each passing second."
 
@@ -10335,12 +10335,12 @@ label explanationover:
 
         "She makes a complicated face.{w} I think she's struggling to think of what to do in this social situation, as to not lose her newfound friends."
 
-        y "I'll..."
+        y "Ich..."
 
         $ yuzuface='normal'
         show Yuzuki
 
-        y "I'll pass.{w} Sorry."
+        y "Ich passe.{w} Tut mir Leid."
 
         "She looks to me, as if wondering if this was the right move to make.{w} I give her a small nod.{w} If you enable Sayaka and her madness, things would only get worse!"
 
