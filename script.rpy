@@ -96,59 +96,59 @@ label start:
     play music "bgm/ominousintro.ogg" fadein 2.0 
     queue music "bgm/ominousloop.ogg"
 
-    "Every night...{w} I have the same dream."
+    "Jede Nacht ...{w} habe ich denselben Traum."
 
-    "Every night...{w} I'm always brought back to this place, without fail."
+    "Jede Nacht ...{w} werde ich unweigerlich an diesen Ort zurückgebracht."
 
-    "And then every morning, I'll wake up, with no memory of this place at all, until the next time I fall asleep."
+    "Und jeden Morgen wache ich auf, ohne mich an diesen Ort erinnern zu können.{w} Bis ich wieder einschlafe."
 
-    "Not a single night has went by without my consciousness being dragged into this abyss."
+    "Keine Nacht ist vergangen, ohne dass mein Bewusstsein in diesen Abgrund gezogen wurde."
 
-    "This realm is devoid of light, so much so that I can't even see my hand in front of my face, no matter how desperately I wave it."
+    "In diesem Gefilde mangelt es so sehr an Licht, dass ich nicht einmal meine Hand vor meinem Gesicht sehen kann."
 
-    "The concept of sound is just as absent, my steps silent, and my distressed cries swallowed by the bordering darkness as quickly as they had left my mouth."
+    "Die Geräuschkulisse der Umgebung ist ebenso fehlend wie das Geräusch meiner Schritte. Selbst meine verzweifelten Schreie werden unverzüglich von der Dunkelheit verschluckt, sobald sie meinen Mund verlassen."
 
-    "I'm in a bleak, barren wasteland of nothingness.{w} Spending any prolonged amount of time here begins to make me doubt even my own existence."
+    "Ein Ödland des Nichts sozusagen.{w} Verbringt man eine längere Zeit hier, fängt man noch an, an seiner eigenen Existenz zu zweifeln."
 
-    "Yet, despite feeling suffocated by a striking absence of anything, I know I'm not alone."
+    "Und trotz dieses erstickenden Gefühls, weiß ich, dass ich nicht allein bin."
 
-    "Something is watching me.{w} Stalking me from the shadows."
+    "Mich beobachtet etwas.{w} Mich verfolgt etwas.{w} Aus den Schatten."
 
-    "I can't say for sure what it is, but every once in a while I'll catch sight of something from the corner of my view."
+    "Ich kann nicht mit Sicherheit sagen, was es ist, aber hin und wieder sehe ich etwas in der letzten Ecke meines Blickwinkels."
 
-    "A pair of burning, bright eyes, fixated purely on me.{w} They hate me.{w} Despise me.{w} There's an overwhelming sense of animosity radiating from whoever they belong to."
+    "Ein Paar brennender, strahlender Augen, die auf mich fixiert sind.{w} Sie hassen mich.{w} Sie verabscheuen mich.{w} Eine überwältigende Ausstrahlung von Feindseligkeit geht von ihnen aus."
 
-    "I know they want nothing more than to lash out and attack me, but something is holding them back.{w} A force they truly despise.{w} Invisible chains that bind and restrict them from the one thing that is on their mind."
+    "Ich weiß, dass sie nichts anderes wollen, als mich anzugreifen, aber irgendwas hält sie zurück.{w} Eine Kraft, die sie wahrlich verachten.{w} Es sind unsichtbare Ketten, die sie von ihrer Absicht abhalten und in ihren Bewegungen einschränken."
 
-    "At first, when I began dreaming about this place, the eyes were distant, like glimmering stars."
+    "Anfangs, als ich anfing, von diesem Ort zu träumen, waren die Augen noch weit entfernt und sahen aus wie flimmernde Sterne."
 
-    "But, with each passing night, the eyes seem to inch ever closer, and shine ever brighter.{w} I think whatever force has been holding them from me is beginning to fade."
+    "Aber mit jeder Nacht, die verging, kamen sie näher, und das Leuchten der Augen wurde immer stärker.{w} Ich schätze, die Kraft, die sie zurückhielt, wird allmählich schwächer."
 
-    "What will happen when these...{w}eyes...{w}reach me?{w} I shudder to think."
+    "Was wird passieren, wenn mich ...{w} diese Augen ...{w} erreichen?{w} Ich erschaudere, wenn ich daran denke."
 
-    "I know it's just a dream, so I shouldn't be afraid...{w}but everything I experience here is so vivid.{w} None of the usual murky haze that shrouds such dream-like environments seems to exist here at all.{w} I have perfect clarity."
+    "Ich weiß, es ist nur ein Traum, von daher sollte ich keine Angst haben ...{w} aber alles, was ich hier erlebe, ist so lebendig.{w} Keiner der Schleier, die man sonst aus einem Traum kennt, scheint hier zu existieren.{w} Ich nehme alles klar und deutlich wahr."
 
-    "I can feel the stagnant, freezing air all around me, enough to incite a shiver out of me every once in a while."
+    "Ich kann die stagnierende, eiskalte Luft um mich herum spüren, weshalb mir immer wieder ein Schauer über den Rücken läuft."
 
-    "Since I'm so used to this dream, I know how it'll end.{w} I'll wade through the darkness for what seems like an eternity, never finding anything, until the morning finally comes and pulls me out of this nightmare."
+    "Da ich so an diesen Traum gewöhnt bin, weiß ich, wie er enden wird.{w} Ich werde für eine scheinbare Ewigkeit durch die Dunkelheit waten und nie etwas finden, bis endlich der Morgen anbricht und mich aus diesem Albtraum reißt."
 
-    "At least...{w}that was how it usually ended."
+    "Zumindest ...{w} hat er für gewöhnlich so geendet."
 
-    "Something is different tonight."
+    "Aber heute ist etwas anders."
 
-    "Those hateful, burning eyes that always kept just out of sight before...{w}I'm suddenly confronted by them."
+    "Jene hasserfüllten Augen, die sich bisher aus meinem Blickfeld zu verstecken versuchten ...{w} sind plötzlich unmittelbar vor mir."
 
-    "Never before have they been so close.{w} Never before have I stared straight back into them."
+    "Sie waren noch nie zuvor so nahe.{w} Noch nie zuvor habe ich sie so sehr angestarrt."
 
-    "Their narrowed, piercing gaze roots me to the spot and a shooting pain surges through me.{w} I can't move.{w} I can't breathe."
+    "Ihr durchdringender Blick fesselt mich am Boden fest und ein stechender Schmerz drängt sich durch mich hindurch.{w} Ich kann mich nicht bewegen.{w} Ich kann nicht atmen."
 
-    "And then, from out of the darkness, a crooked smile spreads, just as sinister as the eyes."
+    "Und dann, aus der Dunkelheit heraus, breitet sich plötzlich ein schiefes Lächeln aus, welches genauso finster ist wie die Augen."
 
     stop music fadeout 8.0
 
-    dq "So close.{w} I can practically {i}taste{/i} the freedom.{w} ...It won't be long now.{w} Enjoy the peace while you can, boy, for your days are numbered."
+    dq "So nah.{w} Ich kann die Freiheit wahrlich {i}schmecken{/i}.{w} ... Nicht mehr lang.{w} Genieße die Ruhe, solang du noch kannst, Junge, denn deine Tage sind gezählt."
 
-    dq "And then, everything shall change."
+    dq "Und dann wird sich alles ändern."
 
     scene bedroom day with wake
 
