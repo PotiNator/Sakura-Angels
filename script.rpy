@@ -156,63 +156,63 @@ label start:
     play music "bgm/everydayintro.ogg" fadein 2.0
     queue music "bgm/everydayloop.ogg"
 
-    "Ugh.{w} My head is killing me.{w} These morning migraines are the worst."
+    "Ugh.{w} Mein Kopf bringt mich noch um.{w} Diese Cluster-Kopfschmerzen sind echt unerträglich."
 
-    "Every morning, without fail, l always wake up to a sensation not unlike my skull being pounded by a jackhammer."
-
-
-
-    "{i}Thump.{/i}"
+    "Jeden Morgen wache ich ungewollt auf. Dank eines Gefühls, das daran erinnert, als würde jemand mit einem Presslufthammer auf mein Gesicht schlagen."
 
 
 
-    "{i}Thump.{/i}"
+    "{i}Klopf.{/i}"
 
 
 
-    "{i}Thump.{/i}"
+    "{i}Klopf.{/i}"
 
-    "It's almost like a...{w}heart beat."
 
-    "I feel like my head is going to split open."
 
-    "It's weird though, because even though the pain is so intense, it never lasts long.{w} In the space it takes me to get up, and head for school, the pain is usually reduced to just a dull throb at the back of my skull by then."
+    "{i}Klopf.{/i}"
 
-    "So, it isn't {i}too{/i} much of a hassle in the grand scheme of things.{w} But it certainly isn't a fun way to wake up.{w} I just find it odd how consistent it seems to be."
+    "Fast wie ein ...{w} Herzschlag."
 
-    "Anyway.{w} Enough pondering these weird mysteries.{w} It's time to tackle the day!"
+    "Ich habe das Gefühl, als würde sich mein Kopf in zwei Teile spalten."
+
+    "Es ist aber komisch, dass der Schmerz, obwohl er so stark ist, nie lange andauert.{w} Bis ich mich für die Schule fertiggemacht habe, spüre ich nur noch einen leichten Schmerz im Hinterkopf."
+
+    "Im Großen und Ganzen betrachtet ist es also nicht {i}so{/i} schlimm.{w} Aber es ist ein lustiges Gefühl, wegen so was aufzuwachen.{w} Und auch irgendwie merkwürdig, wenn ich bedenke, dass ich mich jeden Tag so fühle."
+
+    "Aber egal.{w} Genug über diese seltsamen Dinge nachgedacht.{w} Es ist Zeit, den Tag in Angriff zu nehmen!"
 
 
 
     with hpunch
 
-    "After a moment of wrestling with my blanket, I swing my legs around and drag myself out of bed.{w} A quick look at my bedside clock tells me it's still early.{w} ...{i}Too{/i} early."
+    "Nach einem kurzen Kampf mit meiner Decke, schwinge ich meine Beine umher und ziehe mich irgendwie aus dem Bett.{w} Ein kurzer Blick auf meine Nachttischuhr belegt, dass es noch früh am Morgen ist.{w} ... {i}Zu{/i} früh."
 
-    "If I had it my way, the world wouldn't start until at least a good way into the afternoon.{w} But sadly, life just isn't that wonderful."
+    "Wenn es nach mir ginge, würde die Welt erst am Nachmittag anfangen, sich zu drehen.{w} Aber wie jeder weiß, das Leben ist kein Wunschkonzert."
 
-    "Pulling back the curtains to let the light flood into my room, I suppress the urge to let out a hiss, almost blinding myself in the process.{w} Too bright!"
+    "Ich ziehe die Vorhänge zur Seite und lasse mein Zimmer vom Sonnenlicht erhellen.{w} Und blende mich dabei fast selbst!"
 
-    "The rest of my time getting ready is spent fighting with my uniform, a tie becoming all the more problematic to put on when you're half asleep.{w} ...Oh god, I think I've actually got my hand stuck in it!"
+    "Der Rest meines Morgens besteht darin, meine Uniform anzuziehen und die Krawatte zu binden. Im Halbschlaf ist das echt nicht einfach!"
 
-    "Almost choking myself to death in the most pathetic fight ever, I finish putting on the tie, the rest of my uniform complying peacefully with me."
+    "Nachdem ich mich fast zu Tode erstickt hätte, schaffte ich es dennoch irgendwann, die Krawatte anzuziehe."
 
-    "Unable to find a comb, I settle for just flattening my hair down with my hands.{w} Blinking into the mirror, I'm left staring back at someone with messy, black hair.{w} ...Eh, it's close enough."
+    "Da ich keinen Kamm finden konnte, müssen meine Haare mit den Händen frisiert werden.{w} Als ich in den Spiegel blicke, starrt mich jemand mit schmutzigen, schwarzen Haaren an.{w} ... Passt doch fast."
 
-    "Somewhat dressed, and somewhat ready, I stumble out of my room, my legs still not fully awake."
+    "Teils angezogen und teils fertig, verlasse ich mein Zimmer."
 
     scene kitchen day with dissolve
 
-    "Uneven steps carry me dangerously down the stairs, and I soon emerge into the kitchen."
+    "Über ungleichmäßige Treppen gelange ich gefährlich hinuntern und in die Küche."
 
-    "I'm greeted by silence.{w} ...The kitchen is empty.{w} A familiar scene for me."
+    "Ich werde von der Stille begrüßt.{w} ... Die Küche ist leer.{w} Aber dieser Anblick ist für mich mittlerweile alltäglich."
 
-    "My parents are what you might call...{w}workaholics?{w} Basically, they spend more time at their respective jobs than they ever do here.{w} I only ever get to catch them during the evening while we're eating, and then everyone is off to bed and the cycle repeats."
+    "Meine Eltern sind das, was man auch gern als {w}Workaholics{w} bezeichnet. Das heißt, sie verbringen mehr Zeit in ihrer Arbeit als zu Hause.{w} Ich sehe sie nur abends, und sobald wir da mit dem Essen fertig sind, geht auch schon wieder jeder schlafen."
 
-    "Don't get me wrong, I understand they have to work in order to keep us living comfortably, so I don't hate them for it.{w} It just gets...{w} I don't know, lonely?"
+    "Versteh mich nicht falsch. Ich verstehe, dass sie arbeiten müssen, dass es uns gut geht, daher hasse ich sie auch nicht.{w} Es ist bloß so ...{w} Ich weiß nicht so genau ... Einsam?"
 
-    "Ah well.{w} There's no use moping about it.{w} It's been like this for years, so I don't know why I was getting all emotional about it now!"
+    "Aber na ja.{w} Es bringt nichts, sich darüber Gedanken zu machen.{w} Es ist schon seit Jahren so, also keine Ahnung, warum ich jetzt wieder daran denke!"
 
-    "The plus side of them not being around, is that I quickly had to learn how to cook for myself.{w} It's amazing how fast you can adapt to that sort of stuff when you're starving!"
+    "Das Gute an der ganzen Sache ist, dass ich lernen musste, wie man kocht.{w} Echt wahnsinnig, wie schnell man so was lernt, wenn man mal kurz davor ist, dem Hungertod zu erliegen!"
 
     "I don't think I have enough time for anything fancy to eat for breakfast, so I'll just settle for toast.{w} You can never go wrong with toast."
 
