@@ -214,27 +214,27 @@ label start:
 
     "Das Gute an der ganzen Sache ist, dass ich lernen musste, wie man kocht.{w} Echt wahnsinnig, wie schnell man so was lernt, wenn man mal kurz davor ist, dem Hungertod zu erliegen!"
 
-    "I don't think I have enough time for anything fancy to eat for breakfast, so I'll just settle for toast.{w} You can never go wrong with toast."
+    "Ich glaube nicht, dass ich noch genug Zeit habe, um mir etwas Prunkvolles zum Frühstück herbeizuzaubern, von daher mache ich mir nur Toast.{w} Mit Toast liegt man nie falsch."
 
-    "...Okay, you {i}might{/i} be able to go wrong with toast.{w} I have sudden traumatic flashbacks to when the toaster erupted into flames.{w} ...Ah, what a day that was."
+    "...Okay, man {i}könnte{/i} damit falsch liegen.{w} Plötzlich werden traumatische Erinnerungen an eine Zeit, als mein Toast in Flammen aufging, in mir wach.{w} ... Ah, das war ein Tag."
 
-    "But I've learned from my mistakes now.{w} It won't happen a second--uh--third time!"
+    "Aber ich habe von meinen Fehlern gelernt.{w} Es wird kein zweites, äh ... drittes Mal mehr passieren!"
 
     with Pause(2.5)
 
-    "Having devoured the only {i}slightly{/i} charred toast, I sling my bag over my shoulder before starting for the front door."
+    "Nachdem ich meinen leicht verkohlten Toast verschlungen habe, werfe ich mir meine Tasche über die Schulter und gehe zur Haustür."
 
-    "I give the empty house one last look over before opening the front door.{w} It's kinda depressing to have no one to say goodbye to...{w} But, again, this has been the same for every weekday morning since forever ago."
+    "Bevor ich aus dem Haus gehe, werfe ich noch einen Blick darauf.{w} Irgendwie einsam, wenn dich keiner verabschiedet ...{w} Aber ich habe es ja schon einmal gesagt, es ist morgens schon seit langer Zeit so."
 
     scene town street day with dissolve
 
-    "The sun is shining high in a cloudless sky, birds are chirping overhead, waves of students are passing by, happily chatting with one another as they all make their way to school."
+    "Die Sonne steht hoch am Himmel, die Vögel zwitschern über mir und Scharen von Schülern überholen mich auf ihrem Weg zur Schule."
 
-    "...It's all so horrible."
+    "...Es ist alles so schrecklich."
 
-    "I'm not much of a morning person, so I can't even begin to fathom how everyone can be so bright-eyed and bushy-tailed right now.{w} I mean, it's taking all of my willpower just to be able to put a foot in front of the other without just crumpling to the ground."
+    "Ich bin nicht gerade ein Morgenmensch, von daher kann ich überhaupt nicht verstehen, wie manche Leute schon in aller Früh so fröhlich sein können.{w} Ich meine, in meinem Fall braucht es all meine Willenskraft, um überhaupt mal einen Fuß vor den anderen zu setzen."
 
-    "I just have to hope the breakfast kicks in and gives me the energy I need before I'm forced to literally drag myself through the school gates."
+    "Ich muss nur hoffen, dass sich die Energie, die ich beim Frühstück zu mir genommen habe, bald bemerkbar macht. Hoffentlich noch, bevor ich die Schule erreiche."
 
     with Pause(2.5)
 
@@ -244,143 +244,143 @@ label start:
 
     with Pause(2.5)
 
-    "While keeping my head down and my eyes glued to the ground as I soldiered on, I suddenly notice that the vibrant atmosphere from before is gone."
+    "Während ich meinen Kopf unten halte und meine Augen an den Boden geklebt sind, bemerke ich plötzlich, dass die lebhafte Atmosphäre auf einmal verschwunden ist."
 
-    "Silence has completely taken over, my steps the only thing making any noise.{w} The air is still.{w} Huh...{w} That's a bit strange."
+    "Die Stille hat die Oberhand gewonnen - meine Schritte sind das Einzige, das ein Geräusch erzeugt.{w} Es geht überhaupt kein Wind.{w} Häh ...{w} Das ist schon ein bisschen komisch."
 
-    "Bringing my head up, I'm met with an unsettling sight."
+    "Als ich meinen Kopf erhebe, erblicken meine Augen etwas Beunruhigendes."
 
-    "The street is deserted."
+    "Die Straße ist menschenleer."
 
-    "No students.{w} No cars.{w} And even the cheerful chirping of the birds is gone."
+    "Keine Schüler.{w} Keine Autos.{w} Selbst das Gezwitscher der Vögel ist auf einmal verschwunden."
     play music "bgm/ominousintro.ogg" fadein 2.0 
     queue music "bgm/ominousloop.ogg"
-    "What...?"
+    "Was ...?"
 
-    "I hurry on forward, hoping to at least run into somebody.{w} {i}Anyone{/i}."
+    "In der Hoffnung, wenigstens irgendjemanden zu treffen, eile ich vorwärts."
 
-    "Even the sun's once golden rays seem muted, the world tinged in dreary tones.{w} But...{w}there still isn't a cloud in the sky."
+    "Sogar die Sonnenstrahlen scheinen verblasst zu sein, wodurch alles in einen düsteren Farbton gefärbt wurde.{w} Aber ...{w} im Himmel ist weit und breit keine Wolke zu sehen."
 
-    "Okay, this is definitely starting to freak me out.{w} I need to just--"
-
-
-
-    "A splitting pain shoots through my head, stopping me in my tracks.{w} Like a searing poker being thrust through my skull."
-
-    "A headache?{w} Now?"
-
-    "Nothing is making any sense!"
-
-    "Desperately trying to keep myself upright as I clutch a hand to my head, I stagger forwards.{w} Unlike the headaches from before that gradually died down, this one only seems to be getting worse!"
+    "Okay, das macht mich jetzt aber wirklich ein wenig verrückt.{w} Ich muss doch nur--"
 
 
 
-    "{i}Thump.{/i}"
+    "Ein spaltender Schmerz schießt durch meinen Kopf und stoppt meine Bewegungen.{w} Wie ein glühender Schürhaken, der durch meinen Schädel gestoßen wird."
+
+    "Kopfschmerzen?{w} Jetzt?"
+
+    "Das ergibt doch alles keinen Sinn!"
+
+    "Verzweifelt versuche ich, mich aufrecht zu halten, während ich eine Hand an meinen Kopf halte.{w} Im Gegensatz zu den Kopfschmerzen am Morgen, die immer schwächer werden, werden diese hier immer schlimmer!"
 
 
 
-    "{i}Thump.{/i}"
+    "{i}Klopf.{/i}"
 
 
 
-    "{i}Thump.{/i}"
-
-    "It won't stop at all."
-
-    "I'm brought to my knees.{w} I can hardly even think straight, my head threatening to explode at any moment."
+    "{i}Klopf.{/i}"
 
 
 
-    "And then...{w}through gritted teeth, and a pained expression...{w}I see it."
+    "{i}Klopf.{/i}"
 
-    "Something that shouldn't exist.{w} Yet, clearly does, as confirmed by my own terrified eyes."
+    "Die Schmerzen möchten nicht mehr aufhören."
+
+    "Sie zwingen mich auf die Knie.{w} Ich kann kaum noch klar denken. Mein Kopf droht jeden Augenblick zu explodieren."
+
+
+
+    "Und dann ...{w} anhand von abgerissenen Zähnen und einen schmerzhaften Ausdruck ...{w} sehe ich es."
+
+    "Etwas, das nicht existieren sollte.{w} Und trotzdem nehme ich es mit meinen eigenen Augen wahr."
 
     scene cg20 with fade
 
-    "A monster.{w} That's the only word that can come to my scrambled mind."
+    "Ein Monster.{w} Das ist das einzige Wort, das mir gerade einfällt."
 
-    "A hulking, grotesque mass of flesh, with gnarled fangs and red, slitted eyes, seething with hate.{w} The closest thing I can relate it to would be a dog, but no dog I know of is three times the size of me, its form practically eclipsing the sun."
+    "Eine groteske Masse aus Fleisch, mit krummen Reißzähnen und roten Schlitzaugen voller Hass.{w} Am ehesten würde ich es als Hund bezeichnen, aber ich kenne keinen Hund, der dreimal so groß ist wie ich."
 
-    "It snorts with flared nostrils, something like steam being exhaled out.{w} Given its tense stance, and the fact it's blocking my way, I can only assume it's here for me."
+    "Das Monster faucht und scheint dabei eine Dampf-ähnliche Substanz auszuatmen.{w} Angesichts der Haltung und der Tatsache, dass es mir den Weg versperrt, kann ich nur vermuten, dass es hinter mir her ist."
 
-    "But...{w}why?"
+    "Aber ...{w} warum?"
 
-    "What the hell is it?{w} Where did it come from?{w} Why does it want me?!"
+    "Was zur Hölle ist das?{w} Wo kommt es her?{w} Warum ist es ausgerechnet hinter mir her?!"
 
-    "A million and one questions race through my head, but I doubt I'm going to get any answers from this...{w}this...{w}thing."
+    "Unzählige Fragen gehen mir gerade durch den Kopf, aber ich bezweifle, dass sie mir irgendjemand beantworten kann. Erst recht nicht ...{w} dieses ...{w} Ding."
 
-    "There's only one thing I can do when presented with such odds, and that is to--"
+    "Es gibt nur eine Sache, die ich in einen solchen Augenblick tun kann--"
 
     menu:
-        "Stand my ground.":
-            "Of course.{w} I don't know what the hell this thing is, or why it's suddenly appeared before me, but I'm not going to let it take me down without a fight!"
+        "Standhaft bleiben.":
+            "Na klar.{w} Ich weiß nicht, was das für ein Ding ist, und schon gar nicht, wo es herkommt, aber ich gebe mich nicht kampflos geschlagen!"
 
-            "Ignoring the pain that threatens to consume my skull, I straighten myself up and stare right back into the hateful eyes of the beast."
+            "Ich ignoriere den Schmerz, der meinen Schädel zu verzehren droht, richte mich auf und starre in die Augen des hasserfüllten Monsters zurück."
 
             play music "bgm/battleintro.ogg" fadein 1.0
             queue music "bgm/battleloop.ogg"
 
-            "And then, tightening a fist, I lash out like lightning, my fist connecting with its head cleanly with a solid impact.{w} Take this, foul beast!"
+            "Dann balle ich meine Hand zu einer Faust, schlage blitzartig nach vorne und lande einen direkten Treffer in der Fresse des Monsters.{w} Nimm das, du scheiß Vieh!"
 
             with hpunch
-            "{i}Wham!{/i}"
+            "{i}BAM!{/i}"
 
             "..."
 
             stop music fadeout 2.0
             scene town street day with fade
 
-            "Okay, no.{w} Bad idea.{w} That did nothing.{w} In fact, it looks even angrier than it did before now."
+            "Okay, nein.{w} Das war 'ne ganz schlechte Idee.{w} Das hat ja überhaupt nichts bewirkt.{w} Das Monster sieht jetzt nur noch wütender aus als vorhin."
             play music "bgm/ominousintro.ogg" fadein 2.0 
             queue music "bgm/ominousloop.ogg"
-            "All I've managed to do is bruise my own fist.{w} I hope I haven't broken anything..."
+            "Das einzige, was mein Schlag bewirkt hat, war, dass ich mir selbst weh getan hab.{w} Ich hoffe, ich hab mir nichts gebrochen ..."
 
-            "I reel back from my brutal attack, giving the fist in question a good shake.{w} It still stings.{w} Ow!"
+            "Ich gehe wieder ein paar Schritte zurück und schüttle meine Hand erstmal aus.{w} Das tut noch immer höllisch weh.{w} Au!"
 
-            "...Now what do I do?"
+            "...Was jetzt?"
 
-            "My blazing surprise attack was met with complete indifference, and now I think it's too late to run, as the creature is gearing itself up for a charge, its front leg digging the ground."
+            "Mein Überraschungsangriff wurde mit völliger Gleichgültigkeit begegnet, und ich schätze, jetzt ist es schon zu spät, um wegzurennen."
 
-            "This might have been a mistake."
+            "Das war wohl ein riesengroßer Fehler."
 
-            "I try to turn tail and begin running, but the beast kicks off of the ground, straight towards me."
+            "Ich versuche, mich umzudrehen und wegzulaufen, aber das Monster stürmt geradewegs auf mich zu."
 
-            "There's nothing else I can do.{w} I brace myself as best I can for the inevitable bone-shattering impact."
-        "Flee.":
+            "Mir bleibt keine andere Wahl.{w} Ich bereite mich bestmöglich auf den unvermeidlichen, knochenbrechenden Zusammenstoß vor."
+        "Flieh.":
 
-            "Yeah.{w} Of course.{w} I would be an idiot to attempt anything else."
+            "Ja.{w} Na klar.{w} Alles andere wäre ja idiotisch."
 
-            "When confronted with something that defies everything I know about nature, and has a look that says 'I'm going to eat you', it's basic human instinct to want to run."
+            "Wenn man mit so was, etwas, das über die Natur hinausgeht, konfrontiert wird, und dessen Blick 'Ich werd dich fressen' ausdrückt, dann läuft man aus Instinkt schon davon."
 
             scene town street day with fade
             with hpunch
             with hpunch
 
-            "Not giving the beast anymore of my time, I spin on my heel and hurtle myself in the opposite direction."
+            "Ich warte keinen Augenblick länger, drehe mich um und laufe in die entgegengesetzte Richtung."
 
-            "Any fatigue I might have felt earlier is magically gone, as I pump my legs frantically.{w} It's amazing what fear can do to pep up your senses!"
+            "Die Ermüdung von vorhin ist wie von Zauberhand verschwunden.{w} Es ist erstaunlich, was Angst bewirken kann!"
 
             "I run as fast as I can, but in my haste, I twist my foot at a bad angle, crumpling into a heap on the floor."
 
             with hpunch
 
-            "Ignoring the nasty scrapes across my knees, I desperately try to heave myself up off of the floor, but it's useless.{w} I'm a complete wreck."
+            "Die Schmerzen meiner Knie ignorierend, versuche ich verzweifelt, mich aufzurichten.{w} Aber ich schaffe es nicht."
 
-            "I can hear the beast rampaging just behind me, having given chase."
+            "Ich höre, wie das Monster hinter mir wütet."
 
-            "The fear of impending death is making my limbs useless, my scattered mind unable to give them any clear commands.{w} The only thing I can do is turn my head around, to meet my incoming demise, the beast stomping so hard across the ground that cracks spread out with each step."
+            "Die Angst vor dem bevorstehenden Tod betäubt meine Gliedmaßen und zerstreut meinen Verstand so sehr, dass ich meinem Körper keine Befehle mehr erteilen kann.{w} Ich kann jetzt nur noch meinen Kopf umdrehen und dem Tod in die Augen sehen."
 
-            "It's...{w}it's over."
+            "Es ...{w} Es ist aus."
 
     stop music fadeout 5.0 
     scene bg white
     with flash
 
-    "Right before the beast can connect with me, and bring my life to a grisly end, a dazzling, radiant light floods my vision, engulfing both me and the monster."
+    "Kurz bevor mich das Monster verspeist und mein Leben zu einem Ende bringt, dringt ein strahlend helles Licht in mein Blickfeld, welches sowohl mich als auch das Monster verschlingt."
 
-    "The beast stops in its tracks, a guttural cry escaping it before it vaporizes before my eyes."
+    "Das Monster bleibt regungslos stehen und schreit, ehe es vor meinen Augen 'verdampft'."
 
-    "...{w}Wha...{w}what the hell just happened?"
+    "...{w}Was ...{w} Was zum Teufel ist da gerade passiert?"
 
     cg "Geez, that was a close one!{w} Are you alright?"
     play music "bgm/magicalgirlintro.ogg" fadein 6.0
