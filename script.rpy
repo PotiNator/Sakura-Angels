@@ -360,7 +360,7 @@ label start:
 
             "Die Ermüdung von vorhin ist wie von Zauberhand verschwunden.{w} Es ist erstaunlich, was Angst bewirken kann!"
 
-            "I run as fast as I can, but in my haste, I twist my foot at a bad angle, crumpling into a heap on the floor."
+            "Ich laufe so schnell ich nur kann, aber in meiner Eile stolpere ich über meinen eigenen Fuß und lande wie ein Häufchen Elend auf dem Boden."
 
             with hpunch
 
@@ -385,36 +385,36 @@ label start:
     cg "Geez, that was a close one!{w} Are you alright?"
     play music "bgm/magicalgirlintro.ogg" fadein 6.0
     queue music "bgm/magicalgirlloop.ogg"
-    "A cheerful voice chirps.{w} A welcome sound after the terrors of that...{w}that thing."
+    "Eine fröhliche Stimme zwitschert.{w} Ein willkommenes Geräusch nach dem Schrecken ...{w} dieses Monsters."
 
     tg "Rede nicht mit ihm!{w} Wir müssen gehen bevor--"
 
-    "And then another voice that's...{w}less cheerful.{w} In fact, they sound angry more than anything."
+    "Und dann eine weitere Stimme, die weniger ...{w} fröhlich klingt.{w} Um ehrlich zu sein, klingt sie sogar eher verägert."
 
     scene cg1 with wake
 
 
-    "The light soon fades, revealing my saviours."
+    "Kurz darauf verlasst das Licht, was meine Retter zum Vorschein bringt."
 
-    "...Though...{w}this is definitely the {i}last{/i} thing I was expecting."
+    "...Wobei ...{w} ich das echt als {i}letztes{/i} erwartet hätte."
 
-    "Two girls, roughly my age, stand before me."
+    "Zwei Mädchen, in etwa in meinem Alter, stehen vor mir."
 
-    "I blink several times before I scrub at my eyes, hoping things might make a little more sense.{w} This can't be real."
+    "Ich blinzle ein paar Mal und wische meine Augen aus, in der Hoffnung, dass all das ein wenig mehr Sinn ergeben würde.{w} Das kann unmöglich wahr sein."
 
-    "I'm having more trouble believing these girls are actually standing before me than I did the monster!"
+    "Um ehrlich zu sein, glaube ich, dass mir meine Augen jetzt gerade einen größeren Streich spielen als sie es vorhin getan haben, als das Monster da war!"
 
-    "Wielding weapons and costumes taken straight out of a fantasy book, it's all a bit much for my brain to attempt to process."
+    "Diese Waffen und Kleidung, die direkt aus einem Fantasy-Buch stammen könnten, sind zu viel für mein kleines Gehirn."
 
     p "Wa ...{w} Was zur Hölle war das?!"
 
     cg "A shadow."
 
-    "The more cheerful of the two simply says that to me, her stance relaxing some."
+    "Das fröhlichere der beiden Mädchen antwortet mir unverblümt und entspannt sich dabei wenig."
 
     p "H-Häh?"
 
-    "Was that supposed to explain everything?{w} I glance down at my feet, where my own shadow stretches, but the girl bursts into a giggle."
+    "Das war jetzt die Erklärung?{w} Ich blicke hinunter zu meinen Füßen, wo sich mein eigener Schatten erstreckt, aber das Mädchen fängt an zu lachen."
 
     cg "Not your own shadow, silly!{w} That thing we just took care of--which you're welcome for, by the way--is what we call a shadow."
 
@@ -430,17 +430,17 @@ label start:
 
     tg "Als ob die Dinge nicht schlimm genug wären, dass wir uns ihm offenbaren mussten, jetzt redest du mit im über Sachen, die kein normaler Mensch wissen sollte. {W} Hast du den Verstand verloren ?!"
 
-    "I'm cut short by the more aggressive looking of the pair, whose expression had grown darker and darker as the cheerful one had spoken. Looking like she's unable to take it anymore, she exploded, causing both of us to jump."
+    "Das aggressivere Mädchen, dessen Ausdruck immer düsterer wurde, während die andere sprach, unterbrach plötzlich. Anscheinend konnte sie es nicht länger ertragen."
 
     cg "Aww, but he looks so confused!{w} And now that he's seen one of the shadows first-hand, don't you think it's just a {i}little{/i} too late for us to quietly slip back into the shadows?"
 
     tg "..."
 
-    "Her eyes narrow into a frightening glare.{w} It's clear she isn't happy...{w}but I don't think she has anything to counter that."
+    "Mit verengten Augen starrt sie uns an.{w} Man erkennt, dass sie eindeutig wütend ist ...{w} aber ich glaube nicht, dass sie etwas dagegen unternehmen kann."
 
     cg "See?{w} You worry too much!{w} We'll only tell him what he needs to know, nothing more, nothing less!"
 
-    "The upbeat girl brings her attention back to me, a sparkle in her eye."
+    "Das fröhliche Mädchen schenkt mir mit einem Funkeln in ihren Augen wieder ihre Aufmerksamkeit."
 
     scene town street day
     $ sayapose='magical_1'
@@ -455,7 +455,7 @@ label start:
 
     p "Äh, wir waren--"
 
-    "Wait..."
+    "Warte ..."
 
     p "Woher kennst du überhaupt meinen Namen?!"
 
@@ -464,7 +464,7 @@ label start:
 
     cg "Huh?{w} Oh...{w} Whoops!"
 
-    "She puts a hand to her mouth as if to try and take back the words.{w} The questions continue to pile up, and I still haven't gotten any answers!"
+    "Mit einer Hand verdeckt sie ihren Mund - so, als wolle sie versuchen, das Gesagte rückgängig zu machen.{w} Es häufen sich immer mehr Fragen an, und ich habe noch immer keine einzige Antwort erhalten!"
 
     with hpunch
     $ hikapose='magical_2'
@@ -475,7 +475,7 @@ label start:
 
     tg "Du Idiot!"
 
-    "{i}Whap!{/i} The serious one raps her fist against the other's head, who sticks her tongue out in a sort of... 'Tee-hee, my bad!' kind of way."
+    "{i}Whap!{/i} Das ernstere Mädchen 'schlägt' mir ihrer Faust auf den Kopf des anderen Mädchens, die gerade in einer 'Tut mir leid, mein Fehler'-Art und Weise ihre Zunge ausstreckt."
 
     p "Ihr kennt mich also?"
 
@@ -485,7 +485,7 @@ label start:
     show Sayaka
     show Hikari with dissolve
 
-    "I've never seen them in my life.{w} And given how they look, I {i}definitely{/i} think I would have remembered them."
+    "Ich hab sie noch nie in meinem Leben gesehen.{w} Und so wie sie aussehen, würde ich mich {i}auf jeden Fall{/i} an sie erinnern."
 
     $ sayapose='magical_2'
     show Sayaka with dissolve
@@ -494,7 +494,7 @@ label start:
 
     p "Ich ...?"
 
-    "What the heck did I ever do to get so much attention?{w} As far I know, I'm just an average student.{w} Who lives an average life.{w} Doing average things.{w} Though, after this, I guess I can't really call my life average anymore."
+    "Was hab ich in meinem Leben bloß falsch gemacht, dass mir so viel Aufmerksamkeit geschenkt wird?{w} Soviel ich weiß, bin ich doch nur ein normaler Schüler.{w} Der ein durchschnittliches Leben führt.{w} Und normale Dinge macht.{w} Wobei, nach all diesen Ereignissen trifft das wohl alles nicht länger zu."
 
     cg "Mmhmm.{w} Can't really go into details, 'cause you know, top secret and all, but let's just say...{w} It's not in our best interest for you to fall into the wrong hands."
 
@@ -503,9 +503,9 @@ label start:
 
     cg "You wouldn't believe how much effort we've been putting into keeping you safe, you know!{w} Actually, I'm kind of relieved we finally get to meet, so you can finally appreciate all our hard work!"
 
-    "She beams at me, leaning in perhaps just a little bit too close."
+    "Sie strahlt mich an und lehnt sich ein wenig zu nah an mich heran."
 
-    "I...{w} She's throwing so much at me here I can hardly think straight."
+    "Ich ...{w} Sie konfrontiert mich mit so viel, dass ich kaum mehr klar denken kann."
 
     p "{i}Wer{/i} seid ihr überhaupt?"
 
@@ -514,7 +514,7 @@ label start:
 
     cg "Hmmm..."
 
-    "She falls deep into thought, her nose scrunching up.{w} I guess she's choosing her words carefully as to avoid another brutal assault from her partner."
+    "Sie fängt an nachzudenken.{w} Ich schätze, sie wählt die Worte, die sie gleich sagen wird, sorgfältig aus, um zu verhindern, dass ihre Partnerin wieder auszuckt."
 
     $ sayaface='happy'
     $ sayapose='magical_1'
@@ -522,11 +522,11 @@ label start:
 
     cg "Think of us as your guardian angels, okay?"
 
-    "Saying that, she gives her bow a flourish, and it shatters between her fingers.{w} Moments later, the shattered pieces of the bow begin to gather behind her, the shards piecing back together rapidly until finally they form a pair of wings on her back."
+    "Als sie das sagt, macht sie mit ihrem Bogen eine schwungvolle Bewegung, woraufhin dieser kurz darauf zwischen ihren Fingern zerbricht.{w} Wenige Augenblicke später bilden sich diese Scherben hinter ihrem Rücken wieder zusammen, bis sich ein paar Flügel gebildet hat."
 
-    "The wings, while not strictly attached to her, at least seem to function as they sway in the breeze and give off a glimmer every now and again."
+    "Die Flügel, die zwar nicht fest mit ihr verbunden sind, scheinen zumindest zu funktionieren. Oder sagen wir so, sie bewegen sich im Wind zumindest hin und her."
 
-    "Wait, are they literally angels?!"
+    "Warte, sind das buchstäblich Engel?!"
 
     p "Um mal ein paar Dinge abzuklären ..."
 
@@ -547,14 +547,14 @@ label start:
 
     p "Und ihr, wer auch immer ihr seid, agiert von den Schatten heraus und bekämpft sie, um mich zu beschützen?"
 
-    "She nods enthusiastically.{w} It looks like I've just about got a grip on what this whole thing is, even if it was a little sparse on details."
+    "Sie nickt begeistert.{w} Es sieht so aus, als hätte ich langsam begriffen, was hier los ist, auch wenn ich die kleinen Details noch nicht zusammenfügen konnte."
 
-    "Knowing all this, it brings me to the conclusion that..."
+    "Mit all diesem Wissen, komme ich zu dem Entschluss, dass ..."
 
     menu:
-        "I have no choice but to believe them.":
-            "As crazy as this all sounds, I really can't deny the evidence before me.{w} That monster was definitely real, and I have no reason to doubt these girls, who destroyed that thing right before my eyes."
-        "These girls have lost it.":
+        "Ich muss ihnen einfach glauben.":
+            "So verrückt es auch klingt, ich kann es nicht leugnen.{w} Das Monster war eindeutig echt und ich habe auch keinen Grund, an diesen Mädchen zu zweifeln, schließlich haben sie mich gerettet."
+        "Diese Mädchen spinnen doch.":
 
             p "Okay.{w} Ja.{w} Jetzt versteh ich's."
 
@@ -572,11 +572,11 @@ label start:
 
             cg "L-lost it?!"
 
-            "She looks taken aback by my words.{w} Maybe I'm being harsh, but it's the only real truth I can see here!"
+            "Meine Worte scheinen sie zu überraschen.{w} Vielleicht bin ich ein bisschen gemein, aber das ist die einzig plausible Erklärung!"
 
             p "Absolut durchgeknallt.{w} Ich weiß nicht, ob ihr nicht einfach nur Cosplayer seid und ich nicht nur in eine Vorführung gestolpert bin ...{w} aber das kann unmöglich real sein."
 
-            "It's the only conclusion my frazzled mind can come up with.{w} She didn't really expect me to believe all that junk about them being my 'guardian angels' did she?{w} Hah!"
+            "Es ist die einzige Schlussfolgerung, zu der mein Verstand kommt.{w} Sie hat doch wohl nicht wirklich erwartet, dass ich ihr den Mist mit dem 'Schutzengel' glaube, oder?{w} Hah!"
 
             p "Bleibt ruhig in eurer kleinen Fantasiewelt, aber haltet mich da bitte raus, okay?"
 
@@ -585,11 +585,11 @@ label start:
             with dissolve
             stop music fadeout 5.0
 
-            "Saying that, I walk past them, now later than ever for school.{w} Jeez, did they really hold me up this long?{w} At this rate I'll be lucky if I can even catch the last part of the morning lesson!"
+            "Mit diesen Worten mache ich mich wieder auf in Richtung Schule.{w} Meine Fresse, haben mich die jetzt wirklich so lang aufgehalten?{w} Wenn ich Glück hab, komm ich noch vor dem Ende der ersten Stunde in die Schule!"
 
             cg "Hey, wait!{w} This is--"
 
-            "I really can't afford to listen to any more of their madness, so I try to shut them out as I continue to make some distance between us."
+            "Ich kann es mir echt nicht leisten, noch mehr von diesem Wahnsinn zu hören, deshalb ignoriere ich sie jetzt einfach und stelle ein wenig Abstand zwischen uns her."
 
             with Pause(2.0)
 
@@ -599,25 +599,25 @@ label start:
             p "Hrrk!"
             play music "bgm/magicalgirlintro.ogg" fadein 3.0
             queue music "bgm/magicalgirlloop.ogg"
-            "Something catches the back of my collar and forces me to a stop, almost choking me in the process."
+            "Irgendwas packt mich am Kragen und zwingt mich dadurch stehenzubleiben. Dass ich fast erstickt wäre, ist unwichtig."
 
-            "Before I can even wonder what could have stopped me, the same rough force moves to my shoulder and forces me to spin around."
+            "Bevor ich überhaupt darüber nachdenken kann, was das war, wandert die Kraft, die mich gerade noch aufhielt, plötzlich zu meiner Schulter und zwingt mich dazu, mich umzudrehen."
 
             $ hikaface='angry'
             show Hikari
             with dissolve
 
-            "I'm confronted by a scary face, belonging to the more stern of the two girls that had kept generally quiet up until now."
+            "Ich werde von einem furcherregenden Gesicht - das Gesicht, welches vorhin noch ruhig war - konfrontiert."
 
             tg Wirklich?{w} Ich meine--wirklich?!{w} Bist du {i}wirklich{/i} so ein grßer Idiot?!"
 
             p "I-Ich ... Äh ..."
 
-            "I can feel myself shrink under her powerful glare, her once lithe form now towering over me.{w} Like this, she's even scarier than that monster!"
+            "Ich spüre, wie mich ihr Blick immer kleiner aussehen lässt.{w} Sie ist eindeutig noch gruseliger als das Monster!"
 
             tg "Es ist schon schlimm genug, dass wir uns zeigen mussten, aber jetzt tust du nur so, als wären wir verrückt?!"
 
-            "She tightens her fist with a scowl, her knuckle giving off an unsettling crack."
+            "Mit einem finsteren Blick ballt sie ihre Fäuse zusammen und hinterlässt den Eindruck, als würde sie am liebsten zuschlagen."
 
             tg "Ich weiß nicht einmal, warum wir uns um dich kümmern, wenn du uns so behandelst!{w} Vielleicht sollten wir, sie dich nächstes mal einfach fressen lassen.{w} Hmph."
 
