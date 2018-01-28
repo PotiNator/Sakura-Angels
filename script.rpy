@@ -626,7 +626,7 @@ label start:
             show Hikari
             with dissolve
 
-            "She folds her arms and turns her head to the side.{w} She really is...{w}an emotional one."
+            "Sie verschränkt ihre Arme und dreht den Kopf zur Seite.{w} Sie gehört echt ...{w} zu der emotionalen Sorte."
 
             $ sayaface='shocked'
             show Sayaka at left
@@ -635,7 +635,7 @@ label start:
 
             cg "Wah!{w} Don't say that!"
 
-            "The cheerful one stumbles as she dashes to get between us and flashes me an apologetic smile."
+            "Das fröhliche Mädchen stolpert, als sie sich zwischen uns drängt, und wirft mir ein entschuldigendes Lächeln zu."
 
             cg "I-I'm sure she didn't mean that!{w} She just gets a little grouchy sometimes."
 
@@ -650,7 +650,7 @@ label start:
 
             tg "Hmph, was auch immer.{w} Er ist wirklich so dumm, wie er aussieht."
 
-            "Ouch...{w} I {i}am{/i} still here, you know!"
+            "Autsch ...{w} Ich {i}bin{/i} noch immer hier, nur damit ihr wisst!"
 
             $ sayaface='joking'
             show Sayaka
@@ -663,7 +663,7 @@ label start:
             show Hikari
             with hpunch
 
-            "{i}Wham.{/i} Her face going a fair shade of crimson, she delivers a solid fist to the cheerful girl's face.{w} And it wasn't a playful bop like before, this time she wasn't holding anything back.{w} It really did look painful..."
+            "{i}BAM.{/i} Da landet die Faust direkt im Gesicht des fröhlichen Mädchens.{w} Und dieses Mal war es ernst gemeint, denn sie hielt kein bisschen zurück.{w} Das sah aus, als hätte es echt weh getan ..."
 
             tg "Halt dein Mund!{w} Ich habe soetwas nicht gesagt!"
 
@@ -672,9 +672,9 @@ label start:
 
             cg "Wahh!{w} Okay, okay, fine!"
 
-            "Jeez...{w} These two are really something.{w} She really did seem serious about this whole thing, though.{w} Maybe I was being a bit rash to just dismiss them as lunatics."
+            "Meine Güte ...{w} Die beiden sind echt komisch.{w} Aber sie schien es wirklich ernst zu meinen.{w} Vielleicht war meine Schlussfolgerung, sie als Verrückte abzustempeln, etwas voreilig."
 
-            "I mean, I still think they're pretty crazy, but maybe there's some truth to their words.{w} I can't really deny the existence that monster after all, as much as I would like to."
+            "Ich mein, sie sind verrückt, das stimmt schon, aber vielleicht steckt ja doch ein Fünkchen Wahrheit darin.{w} Die Existenz dieses Monsters kann ich schließlich auch nicht leugnen, so schwer es mir auch fällt."
 
     $ sayaface='smiling'
     $ hikaface='normal'
@@ -687,7 +687,7 @@ label start:
 
     cg "Well, now that the shadows have gotten more aggressive, I really don't think we can go back to our old job of watching you from afar.{w} We were lucky to just barely catch that thing just now after all."
 
-    "...Somehow I don't like the sound of that, or what it might imply.{w} At all."
+    "...Irgendwie gefällt mir diese Wortwahl nicht.{w} Kein bisschen."
 
     cg "So, we'll be parting ways for now, but expect us to be keeping an {i}extremely{/i} close eye on you from now on, okay?"
 
@@ -700,63 +700,63 @@ label start:
     hide Hikari
     with dissolve
 
-    "She gives me a wink and a wave before taking off in the other direction.{w} Her less enthused partner simply turns her head from me with one last 'hmph' before following after her."
+    "Sie zwinkert und winkt mir zu, bevor sie in die andere Richtung abhebt.{w} Ihre weniger begeisterte Partnerin dreht hingegen einfach nur ihren Kopf von mir weg."
 
-    "I'm soon left completely alone within the street, where just moments ago my entire world had been spun on its head."
+    "Und kurz darauf stehe ich wieder ganz allein in dieser Straße."
 
-    "I..."
+    "Ich ..."
 
-    "Did all of that just happen?"
+    "Ist das gerade wirklich passiert?"
 
-    "Ah, jeez, all of this will have to wait for later though.{w} Right now I have to focus on the bigger issue: being late for school!"
+    "Ah, pfeif drauf, das Ganze muss erstmal warten.{w} Jetzt muss ich mich erstmal auf was anderes konzentrieren: Ich komme noch zu spät zur Schule!"
 
-    "I break into a sprint as I try to make up for lost time, all the while hoping that I'll never run into those two again."
+    "Im Versuch, die verlorengegangene Zeit wieder aufzuholen, sprinte ich los, und hoffe, nicht noch einmal auf die beiden Mädchen zu treffen."
     stop music fadeout 3.0
     scene bg black
     with fade
 
 
 
-    "Somehow, I just about barely make it to class.{w} It was a photo finish through the door, right as the bell went, but I made it!"
+    "Irgendwie geht es sich doch noch rechtzeitig aus.{w} Es kam mir vor wie ein Fotofinish - genau in dem Moment, wo die Glocke läutete!"
 
     scene classroom
     with fade
     play music "bgm/everydayintro.ogg" fadein 5.0
     queue music "bgm/everydayloop.ogg"    
 
-    "Taking a moment to catch my breath, I drag myself over to my desk, the teacher arriving almost seconds after I collapse into the chair.{w} Too close!"
+    "Ich nehme mir einen Moment Zeit, um Luft zu holen, bevor ich mich zum Tisch schleppe. Ein paar Sekunden später kommt auch schon der Lehrer ins Klassenzimmer.{w} War das knapp!"
 
-    "None of the other students seem too bothered by my late entrance.{w} Though, at this point, maybe this is what they expect of me anyway?"
+    "Irgendwie scheint kein anderer Mitschüler mein spätes Erscheinen wahrgenommen zu haben.{w} Vielleicht liegt das daran, dass sie von mir sowieso nichts anderes erwarten würden?"
 
-    "I have been pretty late at times, even missing the bell entirely some days.{w} Mostly due to sleeping in.{w} At least this time I had an actual reason for cutting it so close!"
+    "Manchmal bin ich echt spät dran, und gelegentlich komme ich sogar erst nach dem Glockenläuten.{w} Das passiert meistens, weil ich verschlafe.{w} Aber dieses Mal hätte ich ja einen richtigen Grund, wäre ich zu spät gekommen!"
 
-    "However, after what happened earlier, I think it's going to be impossible for me to focus on the lesson.{w} I'm beginning to wonder if I'll ever get an explanation for whatever the heck that was that just happened."
+    "Aber nach all dem, was vorhin passiert ist, bezweifle ich, dass ich mich auf den Unterricht konzentrieren kann.{w} Ich fange an, mich zu fragen, ob ich jemals eine Erklärung für all das bekommen werde."
 
-    "Impossibly tall creatures...{w} Girls wielding magic weapons...{w} No matter how I look at it, my brain refuses to accept it as reality."
+    "Unvorstellbar große Kreaturen ...{w} Mädchen mit magischen Waffen ...{w} Klar, dass mein Hirn das nicht wahrnehmen möchte."
 
-    "It goes against everything I know!"
+    "Ich glaub, ich bin in einem Film oder so!"
 
-    "I scrub through my hair, a faint headache still ringing at the back of my head."
+    "Am Hinterkopf ist noch immer ein leichter Schmerz zu spüren."
 
-    "Being lucky enough to have a seat situated by the window, I let my gaze wander out, my eyes vacant as I stare into the clear blue sky."
+    "So glücklich wie ich bin, hab ich zumindest einen Platz beim Fenster. SO kann ich zumindest nach draußen und in den blauen Himmel blicken."
 
-    "The teacher is doing his usual morning speech, no doubt talking about the upcoming events for our school, but his words are just a dull mumble in my ears, my mind miles away."
+    "Der Lehrer hält seine übliche Morgenrede und spricht über die bevorstehenden Ereignisse in unserer Schule, aber in meinen Ohren sind seine Worte nur dumpfes Gemurmel."
 
-    "Those girls knew me by name...{w} And no matter how far I delve back through my memories, it's clear I've never seen them in my life.{w} At least, I don't {i}think{/i} I've seen them before."
+    "Diese Mädchen kannten meinen Namen ...{w} Und egal, wie sehr ich auch nachdenke, ich kann mich nicht daran erinnern, sie jemals gesehen zu haben.{w} Zumindest {i}glaube{/i} ich, sie noch zu gesehen zu haben."
 
-    "I think hard.{w} Maybe too hard, to the point my eyes begin to strain."
+    "Ich denke stark nach.{w} Vielleicht sogar zu stark, in Anbetracht dessen, dass der Kopfschmerz wieder stärker wird."
 
-    "...Nope.{w} Nothing.{w} I can't recall a single thing that might shed light on this."
+    "...Nein.{w} Nichts.{w} Mir fällt überhaupt nichts ein."
 
-    "Defeated for now, I tune back into the classroom whilst still keeping my sights set on the sky, the teacher's voice becoming clear once more."
+    "Vorerst besiegt, fokussiere ich mich wieder auf den Unterricht, während ich noch immer nach draußen blicke."
 
     teacher "Now, uh, I know it's a bit sudden, but as of today, we have two transfer students that will be joining our class."
 
-    "Transfer students?{w} At this time of the year?{w} It's a bit late to be joining, don't you think?{w} Even the teacher sounds confused as he announces them."
+    "Schulwechsler?{w} Um diese Zeit?{w} Schon ein bisschen spät, die Schule zu wechseln, oder nicht?{w} Selbst der Lehrer scheint ein bisschen verwirrt zu sein, als er es ankündigt."
 
-    "And not just one, but {i}two{/i}?{w} Why do I get the feeling there's something...off about this?{w} Almost as if it's tied into what happened earlier?"
+    "Und nicht nur einer, sondern {i}zwei{/i}?{w} Warum hab ich bloß das Gefühl ... dass hier etwas vor sich geht?{w} Fast so, als ob es irgendwie mit den Ereignissen vorhin in Zusammenhang steht?"
 
-    "Hah.{w} No.{w} It couldn't be."
+    "Hah.{w} Nein.{w} Das kann unmöglich sein."
 
     teacher "I'd like you all to make them feel welcome as they transition in.{w} Uh, what did you say your names were?"
 
@@ -764,7 +764,7 @@ label start:
 
     stop music fadeout 2.0
 
-    "...!{w} I bolt upright in my seat, my head snapping towards the front of the classroom.{w} That upbeat voice.{w} Is it really...?"
+    "...!{w} Ich setze mich schlagartig aufrecht hin und drehe meinen Kopf nach vorne.{w} Diese fröhliche Stimme.{w} Ist das wirklich ...?"
 
     play music "bgm/magicalgirlintro.ogg" fadein 1.0
     queue music "bgm/magicalgirlloop.ogg"
@@ -778,13 +778,13 @@ label start:
     show Hikari at right
     with dissolve
 
-    "Sure enough, two girls I never thought I'd see again are stood before me.{w} In my school.{w} In my classroom no less, wearing the school's official uniform."
+    "Sie sind es. Die beiden Mädchen, von denen ich hoffte, sie nie wieder zu sehen.{w} In meiner Schule.{w} In meinem Klassenzimmer, und noch dazu in der Schuluniform."
 
-    "The cheerful one--uh, Sayaka, bows politely to the class, flashing me a grin as her eyes pass over me.{w} What...{w}what is this?"
+    "Das fröhliche - äh, Sayaka - verbeugt sich höflich vor der Klasse und wirft mir ein Grinsen zu.{w} Was ...{w} Was soll das?"
 
-    "The other girl is less courteous, her arms crossed and her brow furrowed.{w} She doesn't look pleased to be here.{w} At all.{w} Her gaze passes over me too, but rather than a smile, she gives me a nasty glare."
+    "Das andere Mädchen ist weniger höflich und steht mit verschränkten Armen da.{w} Es sieht so aus, als sei sie nicht freiwillig hier.{w} Auch ihr Blick richtet sich auf mich, aber anstatt mich anzulächeln, starrt sie mich an."
 
-    "Is she blaming me for this?{w} It sure feels like it..."
+    "Gibt sie etwa mir die Schuld dafür?{w} Es fühlt sich echt so an ..."
 
     s "The grumpy one beside me here is Hikari.{w} Go on, say hi!"
 
@@ -798,9 +798,9 @@ label start:
     show Hikari at center
     with dissolve
 
-    "Sayaka gives her a playful push and she stumbles to the center of the classroom, everyone's eyes upon her."
+    "Sayaka verpasst ihr einen spielerischen Schubs, woraufhin sie in die Mitte des Klassenzimmers stolpert und alle Aufmerksamkeit erregt."
 
-    "She looks like she's at a loss for words, her mouth opening and closing as her face gradually goes red.{w} I guess she doesn't cope well under the spotlight."
+    "Sie sieht aus, als hätte sie vergessen, was sie sagen wollte.{w} Auch ihr Gesicht wird allmählich immer roter.{w} Da hat wohl jemand Lampenfieber."
 
     h "I-Ich bin... {size=12}Hikari...{w} F-Freut mich euch k-kennenzulernen...{/size}"
 
@@ -809,7 +809,7 @@ label start:
     show Hikari at right
     with dissolve
 
-    "She trails off into a murmur before spinning on her heel and storming her way back to Sayaka, practically hiding behind her."
+    "Sie nuschelt kurz etwas vor sich hin, ehe sie sich gleich darauf wieder umdreht und sich hinter Sayaka versteckt."
 
     $ sayapose='school_2'
     show Sayaka
