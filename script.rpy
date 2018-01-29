@@ -817,16 +817,17 @@ label start:
 
     s "See, that wasn't so hard was it?"
 
-    "Hikari simmers with silent rage, her hands balled up into tight fists, practically shaking.{w} I'm sure if she wasn't in a classroom full of people, things might have gotten violent here."
+    "Hikari kocht augenscheinlich innerlich nur so vor Wut.{w} Ich bin sicher, dass es mit Sicherheit nicht so ruhig geblieben wäre, wären wir hier nicht in einem Klassenzimmer."
 
     stop music fadeout 4.0
     hide Sayaka
     hide Hikari
     with dissolve
 
-    "With their introductions over, the teacher motions for them to take their seats.{w} Wait a second.{w} I only just realised where the only spare seats in the classroom are."
+    "Nach den Vorstellungen ersuchte der Lehrer die beiden, sich einen freien Platz zu suchen.{w} Warte mal.{w} Da fällt mir gerade ein, dass die einzigen freien Plätze in der Klasse ..."
 
-    "One of them is right behind me, with a window view too, and the other is to my right.{w} So that means they'll both be sitting beside me?"
+    "...Direkt hinter mir, ebenfalls neben dem Fenster, und rechts neben mir, sind.{w} 
+    de me?"
 
     "Actually, this is pretty convenient.{w} I can finally ask them just what the heck they think they're doing!"
     play music "bgm/mischiefintro.ogg" fadein 1.0
