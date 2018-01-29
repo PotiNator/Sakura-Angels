@@ -865,137 +865,137 @@ label start:
         "Sayaka.":
             $ sayaka += 1
 
-            "While it's going to be harder to pass a note to someone directly behind me without looking too suspicious, I get the feeling Sayaka might actually want to respond."
+            "Obwohl es zwar schwieriger ist, den Zettel nach hinten zu reichen, ohne verdächtig zu wirken, versuche ich es trotzdem bei Sayaka ... Irgendwie habe ich das Gefühl, als würde sie mir eher antworten."
 
-            "Kicking back in my chair, I lean backwards and the slip the note onto her desk whilst keeping my eyes forward, as if I were a good student who was actually paying attention to the lesson at hand.{w} At least...{w}I {i}think{/i} I managed to give her the note."
+            "Ich lehne mich zurück und fange an, mit dem Stuhl zu schaukeln und lasse den Zettel auf ihren Tisch fallen.{w} Oder zumindest ...{w}{i}glaube{/i} ich, dass es ihr Tisch war."
 
-            "After a minute or two of twiddling my thumbs, I begin to lose faith in my plan.{w} Maybe this was--"
+            "Nach ein oder zwei Minuten, die ich mit Däumchendrehen verbracht habe, verliere ich langsam die Hoffnung.{w} Vielleicht war das--"
 
             with hpunch
 
-            "Something suddenly taps my shoulder, the same page I had torn out from my pad before floating down to my desk.{w} Success!"
+            "Plötzlich spüre ich etwas an meiner Schulter.{w} Es war derselbe Zettel, den ich Sayaka gab.{w} SIEG!"
 
-            "Written below my own hastily scrawled, just barely legible message, is one in far neater handwriting, and accompanied by a smiley face."
+            "Und meiner hastig geschriebenen und kaum lesbaren Frage steht eine Antwort in einer weitaus ordentlicheren Handschrift."
 
-            "{i}'We're here to protect you, silly!'{/i}"
+            "{i}'Wir sind hier, um dich zu beschützen, Dummerchen!'{/i}"
 
-            "Protect me?{w} Right...{w} I remember her saying something about them being my 'guardian angels', and that they'd be keeping a closer eye on me...but this is ridiculous!"
+            "Mich beschützen?{w} Stimmt ...{w} Ich erinnere mich daran, dass sie so was wie 'Schutzengel' oder so gesagt hatten, und dass sie mich besser im Auge behalten würden ... aber das ist jetzt echt lächerlich!"
 
-            "I scribble down my reply, writing so fast I have to cross out a word several times before I finally get it right."
+            "Ich schreibe meine Antwort drunter. Allerdings muss ich einige Wörter mehrmals schreiben, da ich vor lauter Eile ein paar Fehler eingebaut habe."
 
-            "{i}'Okay, I get that part, but do you really need to be THIS close?{w} How did you guys even manage to get enrolled?'{/i}"
+            "{i}'Okay, das versteh ich ja noch, aber müsst ihr mir dabei so nahe sein?{w} Wie habt ihr es überhaupt geschafft, auf diese Schule zu kommen?'{/i}"
 
-            "{i}Did you forget how close you were to being chomped on this morning?{w} We're not gonna let that happen again!{w} And as for how we got in...{w}well...{w}let's just say we can very persuasive.{w} Eh-heh-heh.{/i}"
+            "{i}Schon vergessen, dass du heute fast als Hundefutter geendet hättest?{w} Das wird nicht nochmal passieren, dafür sorgen wir!{w} Und wegen der Schule ...{w} Na ja ...{w}sagen wir so, wir können ziemlich überredend sein.{w} Eh-heh-heh.{/i}"
 
-            "...Who actually writes 'eh-heh-heh'?{w} Ah, whatever.{w} At least she gave me an answer.{w} Somewhat."
+            "...Ernsthaft, wer schreibt heutzutage noch 'eh-heh-heh'?{w} Ach, scheiß drauf.{w} Sie hat mir zumindest geantwortet.{w} Einigermaßen."
 
-            "Now that I think about it, the teacher {i}did{/i} look a little confused as he introduced them, I'm guessing they wormed their way into here with whatever magic powers they have.{w} That's a bit scary actually..."
+            "Jetzt, wo ich darüber nachdenke, erinnere ich mich daran, dass auch der Lehrer ein bisschen verwirrt war, als er sie vorstellte. Ich wette, sie haben ihre magischen Kräfte spielen lassen.{w} Der Gedanke ist schon irgendwie gruselig ..."
 
-            "'Magic'.{w} I use that word so casually.{w} Am I just accepting its existence now?{w} I guess given the evidence, it's a bit hard not too, but I'm still going to remain skeptical."
+            "'Magie'.{w} Ich verwende dieses Wort so beiläufig.{w} Heißt das, ich akzeptiere damit ihre Existenz?{w} Und auch, wenn die Beweise für die Magie sprechen, werde ich vorerst dennoch skeptisch bleiben."
         "Hikari.":
 
             $ hikari += 1
 
-            "Right.{w} It's easier to pass her the note without looking too suspicious, since she's to my side."
+            "Genau.{w} Es ist leichter, ihr den Zettel zu geben, da sie unmittelbar neben mir sitzt."
 
-            "Keeping my eyes forward, I casually lean out and slide the note onto her desk.{w} I just narrowly avoid the teacher's ever-vigilant gaze as I do so, his eyes sweeping over the class like a searchlight.{w} Phew!"
+            "Mit nach vorne gerichteten Augen lehne ich mich ein wenig zur Seite und 'schubse' den Zettel auf ihren Tisch.{w} Nur knapp entkomme ich den wachsamen Augen des Lehrers.{w} Puh!"
 
             $ hikaface='normal'
             show Hikari at center
             with dissolve
 
-            "I'm hopeful that this might actually work, as I watch Hikari from the corner of my eye.{w} She gives me a sidelong glance, picking up the note with two fingers as if it were contaminated."
+            "Ich bin zuversichtlich, dass sie mir antworten wird.{w} Sie schaut mich seitwärts an und hebt den Zettel mit zwei Fingern auf ... Das kommt mir so vor, als würde sie glauben, sie hätte es mit einem verseuchten Zettel zu tun."
 
-            "She brings it up to face, scans over once, and then..."
+            "Sie bringt ihn in die Nähe ihres Gesicht, überfliegt ihn einmal und dann ..."
 
             $ hikaface='joking'
             show Hikari
 
-            "Crumples it up with a sneer, tossing it back my way before focusing on the lesson.{w} ...Harsh."
+            "...Zerknittert sie ihn und wirft ihn zu mir zurück.{w} ... Das war jetzt echt gemein."
 
             hide Hikari
             with dissolve
 
-            "Well...{w} That was a failure.{w} And I feel like the teacher is keeping a closer eye on me than he did before, so I probably can't get away with passing another note to Sayaka instead."
+            "Was soll man dazu sagen ...{w} Das war ein Misserfolg.{w} Und ich habe das Gefühl, als würde der Lehrer nun vermehrt seine Aufmerksamkeit auf mich richten. Daher ist es wahrscheinlich nicht mehr möglich, Sayaka ebenfalls noch zu fragen."
 
-            "Feeling a little hurt from her crushing rejection, I slump forward, keeping my head propped up lazily with a hand."
+            "Ein bisschen verletzt von ihrer Zurückweisung, lasse ich mich nach vorne fallen und stütze meinen Kopf auf meiner Hand ab."
 
-            "If she's going to be like that, I suppose I should try and piece things together as best I can until I get a chance to talk to them properly."
+            "Wenn sie so drauf ist, sollte ich wohl vorerst versuchen, alle noch so kleinen Details zusammenzusetzen, und dann bei Gelegenheit mit ihnen reden."
 
-            "Let's see..."
+            "Mal sehen ..."
 
-            "They said they were my 'guardian angels' before, right?"
+            "Sie haben gesagt, sie wären meine 'Schutzengel', oder?"
 
-            "And that attack from before must have spooked them, to the point where they feel watching over me from afar just won't cut it anymore...?"
+            "Und dieser Angriff vorhin muss sie so sehr erschreckt haben, dass sie beschlossen haben, es wäre zu unsicher, sollten sie mich weiterhin aus der Ferne beobachten ...?"
 
-            "That's as good a conclusion as I can come up with on my own, anyway.{w} Since the Ice Queen over there refuses to even throw me a scrap of information."
+            "Das ist zumindest die logischste Erklärung, die mir einfällt.{w} Mehr fällt mir momentan nicht ein, da sich die Eiskönigin dort drüben ja weigert, mit mir zu reden."
 
 
     stop music fadeout 4.0
 
-    "The first lesson of the day goes on at an agonisingly slow pace.{w} I can't focus on a thing, no matter how hard I try."
+    "Die erste Stunde des Tages vergeht elends langsam.{w} Ich kann mich überhaupt nicht konzentrieren, egal wie sehr ich es auch versuche."
 
-    "After what seems like an eternity, the bell finally rings, announcing the end of the lesson."
+    "Nach einer gefühlten Ewigkeit ertönt schlussendlich doch noch die Glocke.{w} Die erste Stunde ist endlich vorbei."
 
-    "There's still another lesson to go before break time, though, which makes it impossible to talk with the girls, especially since the next lesson is PE, where the boys and girls are seperated."
+    "Vor der Pause haben wir aber noch eine Stunde. Und wäre das nicht schon schlimm genug, haben wir nächste Stunde auch noch Sportunterricht. Und da Jungen und Mädchen getrennt turnen, kann ich sowieso nicht mit ihnen reden."
 
-    "Argh, why is life so complicated?!"
+    "Argh, warum muss das alles so kompliziert sein?!"
 
     scene bg black
     with fade
     play music "bgm/everydayintro.ogg" fadein 1.0
     queue music "bgm/everydayloop.ogg"
-    "After reluctantly getting changed for PE, I'm soon in the school yard with the male half of our class.{w} Much like the first lesson, I find it hard to pay attention to the PE teacher as he goes through our basic warm-up exercises."
+    "Nachdem ich mir meine Sportsachen angezogen hab, stehe ich nun mit den anderen Jungs meiner Klasse am Schulhof.{w} Genauso wie in der ersten Stunde, konnte ich mich auch im Sportunterricht nicht wirklich konzentrieren."
 
-    "I follow the exercises, just about, with as much enthusiasm as a zombie."
+    "Ich mache die Übungen mit ... mit der Begeisterung eines Zombies."
 
-    "The rest of the lesson is sort of a blur, at least until some of the male students start to look towards the track field, where the girls are.{w} They're staring in amazement, some even rubbing at their eyes as if it couldn't be real.{w} What's so amazing?"
+    "Den Rest der Stunde nehme ich nur noch verschwommen wahr, zumindest bis einige meiner Mitschüler zur Laufbahn schauen, wo gerade die Mädels unterwegs sind.{w} Vor lauter Unglaubwürdigkeit, fangen einige der Schüler sogar an, sich ihre Augen auszureiben.{w} Was ist daran denn so besonders?"
 
 
 
     p "Was guckt ihr denn alle so?"
 
-    "I muscle into the crowd that's formed, so I can actually get a good look at the field."
+    "Ich dränge mich durch die Menge, die sich gebildet hat, damit ich einen guten Überblick habe."
 
     p "...Das gibt's doch nicht."
 
-    "The girls are running on the track, which isn't an amazing thing in itself, but it's {i}who's{/i} running on the track that makes it such an unreal sight."
+    "Die Mädels laufen auf der Bahn, was ja nichts Besonderes ist, aber das Besondere ist, {i}wer{/i} auf der Bahn läuft."
 
     scene cg6
     with fade
 
-    "Sayaka is blazing across the track, practically a blur as she leaves the others in the dust.{w} She's literally running circles around them!"
+    "Sayaka flitzt förmlich über die Strecke und lässt die anderen im Staub zurück.{w} Sie läuft buchstäblich im Kreis um sie herum!"
 
-    "She doesn't look tired or exhausted at all either, save for the beads of sweat creeping up--in fact, she has a big smile on her face, clearly enjoying it all."
+    "Sie sieht, abgesehen von den Schweißtropfen, auch kein bisschen müde oder erschöpft aus - im Gegenteil, sie lächelt sogar."
 
-    "As if it wasn't obvious before, these girls are on a completely different level.{w} I'm sure she's breaking several kinds of records right here."
+    "Wer es vorher noch nicht wusste, sollte spätestens jetzt erkennen, dass diese Mädchen von einer anderen Welt sind.{w} Ich bin sicher, dass sie mit ihrer Leistung gerade einen Rekord nach dem anderen bricht."
 
-    "The other girls in the group helplessly trail behind her, their expressions ranging from sheer confusion to envy."
+    "Die anderen Mädchen versuchen mit Gesichtsausdrücken von purer Verzweiflung bis hin zu Neid, hoffnungslos mit ihr mithalten zu können."
 
-    "Some of those girls are--well, I guess {i}were{/i} now--the top of their class when it came to track too, but she's making them all look like snails in comparison.{w} I can't imagine how they must feel being showed up by someone who hasn't even been here a day."
+    "Einige dieser Mädchen sind - oder besser gesagt {i}waren{/i} - die besten der Klasse, wenn es ums Laufen geht, aber selbst die lässt sie alt aussehen.{w} Ich möchte nicht wissen, wie es sich anfühlt, von jemandem vorgeführt zu werden, der gerade mal einen Tag auf diese Schule geht."
 
-    "I can hardly keep my eyes on her.{w} She seems to get just a little faster with each loop she makes around the track.{w} It won't be long now before she becomes just one big blur encircling the place."
+    "Selbst meine Augen haben Probleme damit, mit ihrer Geschwindigkeit mitzuhalten.{w} Sie scheint mit jeder Runde schneller zu werden."
 
-    "Is she even human?"
+    "Das kann doch unmöglich ein Mensch sein, oder?"
 
-    "I'm seriously beginning to doubt it here, with this superhuman display.{w} I think even the top athletes in this country couldn't compare to her!"
+    "Nach dieser übermenschlichen Leistung fange ich echt an, daran zu zweifeln.{w} Ich glaube, nicht mal die besten Sportler des Landes hätten eine Chance gegen sie!"
 
-    "While Sayaka is hogging the spotlight here, there's someone missing in all of this--her far grumpier counterpart: Hikari.{w} If anything, shouldn't she be neck and neck with Sayaka?"
+    "Und während Sayaka all die Aufmerksamkeit erregt, fehlt jemand - und zwar ihr mürrisches Gegenstück: Hikari.{w} Wenn man jetzt logisch nachdenkt ... Sollte sie nicht auch so schnell sein?"
 
-    "I scan the ones trailing behind, but can't find her either.{w} Just where--oh."
+    "Ich suche die Umgebung ab, kann sie aber nirgends finden.{w} Wo bist du bl--oh."
 
-    "Behind even the other girls being left in Sayaka's dust, I see someone dragging their feet, a sour expression on their face.{w} She's...she's just walking, her arms folded like usual.{w} I wonder if her arms are glued like that?{w} She isn't even trying."
+    "Hinter den Mädchen, die verzweifelt versuchen, mit Sayaka mitzuhalten, sehe ich noch jemanden mit einem sauren Gesichtsausdruck.{w} Sie ... Sie geht einfach nur, und wie immer sind ihre Arme dabei verschränkt.{w} Ich frage mich, ob ihre Arme aneinanderkleben?{w} Sie versucht doch nicht einmal zu laufen."
 
-    "She must really have not wanted to enroll here.{w} It must have been Sayaka's idea entirely."
+    "Anscheinend möchte sie wirklich nicht hier sein.{w} Das war wohl alles Sayakas Idee."
 
     teacher "What are you all staring at?{w} Come on, let's get back to it!"
 
-    "Apparently all forgetting we had our own lesson at hand, the teacher calls us back to reality, forcing us all to reluctantly stop gawking at the girls."
+    "Da wir anscheinend alle vergessen hatten, dass wir selbst Unterricht haben, bringt uns der Lehrer zurück in die Realität.{w} Vorbei ist's mit dem schönen Anblick."
 
     scene bg black
     with fade
 
-    "The rest of the PE lesson goes by without anything much of note happening, and then finally, {i}FINALLY{/i} the lunch break arrives."
+    "Der Rest der Stunde vergeht ohne großartige Ereignisse, und dann endlich, {i}ENDLICH{/i} ... Mittagspause."
 
     scene classroom
     with fade
