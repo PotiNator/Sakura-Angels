@@ -826,41 +826,40 @@ label start:
 
     "Nach den Vorstellungen ersuchte der Lehrer die beiden, sich einen freien Platz zu suchen.{w} Warte mal.{w} Da fällt mir gerade ein, dass die einzigen freien Plätze in der Klasse ..."
 
-    "...Direkt hinter mir, ebenfalls neben dem Fenster, und rechts neben mir, sind.{w} 
-    de me?"
+    "...Direkt hinter mir, ebenfalls neben dem Fenster, und rechts neben mir, sind.{w} Das heißt also, dass beide neben mir sitzen werden?"
 
-    "Actually, this is pretty convenient.{w} I can finally ask them just what the heck they think they're doing!"
+    "Wobei, das trifft sich ja eigentlich ziemlich gut.{w} Jetzt kann ich sie endlich fragen, was die ganze Scheiße soll!"
     play music "bgm/mischiefintro.ogg" fadein 1.0
     queue music "bgm/mischiefloop.ogg"
-    "Sayaka, with a spring in her step, waltzes towards the desk behind me.{w} Hikari stomps her way over and takes the other desk."
+    "Sayaka geht zum Schreibtisch hinter mir und nimmt dort platzt.{w} Hikari setzt sich zum freien Platz rechts neben mir."
 
-    "I lean out from my desk to try and catch their attention, but I'm cut short by the teacher, who resumes whatever it is he was talking about before."
+    "Ich mache mich breit und versuche dadurch, ihre Aufmerksamkeit zu erregen, aber ich werde kurzerhand vom Lehrer daran gehindert, der wieder zu reden begann."
 
-    "Damn it.{w} I don't want to get in trouble for talking during class.{w} I'll have to wait until the break."
+    "Verdammt.{w} Ich möchte echt keinen Ärger hier bekommen, weil ich während des Unterrichts tratsche.{w} Da muss ich wohl oder übel auf die Pause warten."
 
-    "That's two lessons away though...{w}which is practically an eternity!"
+    "Bis dahin sind es aber noch ganze zwei Stunden ...{w} also eine halbe Ewigkeit, um es anders auszudrücken!"
 
-    "I swing back around to the front of my desk.{w} I can't do anything right now, so I'll just pay attention to the teacher and--"
+    "Ich drehe mich wieder nach vorne.{w} Da ich momentan sowieso nichts machen kann, konzentriere ich mich vorerst einfach auf den Lehrer und--"
 
     with hpunch
 
-    "Argh, no!{w} How can I pay attention to anything when two...'magical' girls are sitting near me?!{w} I want answers now!"
+    "Argh, nein!{w} Wie soll ich mich konzentrieren, wenn neben mir zwei so komische Mädchen sitzen?!{w} Ich möchte Antworten, und zwar sofort!"
 
-    "Drumming my fingers against the desk as the teacher continues to drone on, I try to think of a way around this."
+    "Ich trommle mit den Fingern gegen den Schreibtisch und überlege mir, wie ich weiter vorgehen soll."
 
-    "It's better I don't speak during class, so..."
+    "Es ist besser, still zu bleiben, von daher ..."
 
     "..."
 
-    "Ah!{w} Of course, it's so obvious."
+    "Ah!{w} Na klar, das ist ja offensichtlich."
 
-    "I dig into my school bag and pull out my notebook and pencil.{w} I'll just pass them a note!{w} Simple, and silent."
+    "Ich hole einen Notizblock und einen Kugelschreiber aus meiner Schultasche raus.{w} Ich schreib ihnen einfach!{w} Altmodisch, aber zweckdienlich."
 
-    "It's a bit of an immature means of communicating, I'll admit, but I'm desperate here."
+    "Es ist zwar eine eher unreife Art der Kommunikation, das geb ich zu, aber ich bin schließlich auch verzweifelt, da sollte man es mir nicht so übel nehmen."
 
-    "I scribble down my message: {i}'What are you guys doing here?'{/i}{w} I may as well get straight to the point."
+    "Ich schreibe meine Frage: {i}'Was macht ihr hier?'{/i}{w} Kommen wir gleich zur Sache."
 
-    "I tear the page out, almost ripping it in half in the process.{w} Only one question is left--who do I give this note to?"
+    "Ich reiße die Seite heraus - so kräftig, dass ich sie fast in zwei Teile gerissen hätte.{w} Jetzt stellt sich nur noch die Frage ... Wem soll ich den Zettel geben?"
 
     menu:
         "Sayaka.":
