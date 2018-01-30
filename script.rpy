@@ -1002,7 +1002,7 @@ label start:
 
 
 
-    "I spot the 'magic' girls in the classroom, casually chatting away with some of the other students.{w} Huh, I didn't think they'd be able to make friends already.{w} Though after Sayaka's little display earlier, she's probably the talk of the class."
+    "Ich beobachte, wie die beiden Mädchen ganz entspannt im Klassenzimmer mit anderen Schülern plaudern.{w} Ich hätte nicht gedacht, dass sie so schnell Freunde finden würden.{w} Aber nach dem, was Sayaka vorhin abgeliefert hat, ist sie wahrscheinlich sowieso Gesprächsthema der Stunde."
 
     $ sayaface='smiling'
     $ sayapose='school_1'
@@ -1011,7 +1011,7 @@ label start:
 
     s "Oh, Kenta.{w} Hi there!"
 
-    "She gives me a wave and a cheery smile, but I can hardly say I do the same."
+    "Sie winkt und lächelt mir zu, aber meine Reaktion ist nicht mal annähernd so fröhlich."
 
     p "Okay, ja, hi.{w} Äh, können wir reden?"
 
@@ -1025,26 +1025,26 @@ label start:
     $ sayaface='shy'
     show Sayaka
 
-    "...Crap.{w} That might have came out weird.{w} I'm getting weird looks from everyone in the class, a few of them breaking into whispers and giggles.{w} Even Sayaka is feigning surprise, despite full well knowing what I mean!"
+    "...Scheiße.{w} Das hat sich vielleicht etwas komisch angehört.{w} Aus irgendeinem Grund sehen mich manche Schüler schon schief an.{w} Sogar Sayaka tut so, als wäre sie überrascht, obwohl sie genau weiß, was ich meine!"
 
     s "Oh my, this is a bit sudden!{w} I don't know what to say..."
 
     p "Komm schon, hör auf rumzualbern.{w} Ich möchte einfach nur mit euch reden, und das schon seid heute morgen."
 
-    "Oh god...{w} I made it worse, didn't I?{w} I've somehow turned this into looking like one of the most awkward confessions ever."
+    "Oh Gott ...{w} Es wird nicht besser, oder?{w} Irgendwie hab ich aus der Situation das wohl peinlichste Geständnis ever gemacht."
 
     $ sayaface='joking'
     show Sayaka
 
     s "Are you always this forward with girls you've just met?"
 
-    "She giggles, going along with the continued painful, {i}painful{/i} stares from the class."
+    "Sie kichert und streut noch mehr Salz in die bereits tiefe Wunde."
 
-    "Well...{w} If she's going to be like this, I have no choice."
+    "Na ja ...{w} Wenn sie es so haben will, dann bleibt mir wohl keine andere Wahl."
 
-    "This is going to make me look even worse in front of the class, but I need answers!"
+    "Dadurch mache ich mich vor all den anderen wahrscheinlich zum größten Idioten, aber ich brauche Antworten!"
 
-    "I take a deep breath to steel myself.{w} And then..."
+    "Ich hole tief Luft.{w} Und dann ..."
 
     $ sayaface='shocked'
     show Sayaka
@@ -1052,7 +1052,7 @@ label start:
 
     s "Wh-wha--hey, what are you doing?"
 
-    "I grab her by the wrist, pulling her along towards the classroom door whether she likes it or not.{w} Given what I witnessed before, I'm sure she could have me flat on the floor if she was truly opposed to this.{w} I think she's just messing around at this point, though."
+    "...Packe ich sie am Handgelenk und ziehe sie zur Tür hinaus, ob sie will oder nicht.{w} Wäre sie aber wirklich dagegen, dann könnte sie mich, angesichts der Vorführung vorhin, jede Sekunde zu Boden werfen.{w} Aber ich denke, sie albert gerade nur ein wenig herum."
 
     hide Sayaka
     with dissolve
@@ -1068,9 +1068,9 @@ label start:
     hide Hikari
     with dissolve
 
-    "With my free hand I take hold of Hikari's wrist, no doubt cementing myself as some sort of deviant within my class.{w} Thankfully they both follow along without too much resistance."
+    "Mit meiner zweiten Hand packe ich auch Hikaris Handgelenk.{w} Zum Glück leisten sie nicht allzu viel Widerstand."
 
-    "Ignoring the brunt of Hikari's verbal abuse, I continue on to the doorway.{w} I just have to find somewhere quiet where no one will hear us discuss this magic and monster business.{w} The question is--"
+    "Hikaris Beleidigungen ignorierend gehe ich weiter in Richtung Tür.{w} Ich muss nur ein stilles Örtchen finden, wo ich die beiden befragen kann.{w} Die Frage ist nur--"
 
     stop music fadeout 7.0
 
@@ -1083,37 +1083,37 @@ label start:
     with hpunch
     with hpunch
 
-    "In all my haste to escape the classroom with both the girls in tow, I crash into someone who was already making their way through the door."
+    "Durch meine überschnelle Absicht, mit den beiden Mädchen das Klassenzimmer schnellstmöglich zu verlassen, stoße ich mit jemandem zusammen, der gerade durch die Tür kam."
 
-    "They stumble backwards, looking slightly dazed.{w} Thankfully they don't look hurt."
+    "Sie stolpert nach hinten und sieht ein wenig benommen aus.{w} Gott sei Dank sieht es nicht schlimm aus."
 
     p "Ahh, alles in Ordnung?{w} Tut mir leid."
 
-    "I offer her an apologetic smile.{w} ...Who is she again?{w} She must be from my class...{w}I can't recall her name at all though."
+    "Ich entschuldige mich bei ihr.{w} ... Wer ist das nochmal?{w} Sie muss aus meiner Klasse sein ...{w} Ich kann mich aber überhaupt nicht an sie erinnern."
 
     $ yuzuface='angry'
     show Yuzuki
 
     dg "...Es ist gut."
 
-    "She speaks in a cold tone, her equally cold eyes locked onto my own in an intense stare that completely betrays her words.{w} Yikes.{w} I guess she has a reason to be annoyed given my clumsiness, but this is a look of pure hate."
+    "Sie spricht in einer eiskalten Tonlage - ebenso eiskalt, wie ihre Augen, die auf mich fokussiert sind.{w} Ui.{w} Ich schätze, sie hat einen Grund, weshalb sie so verägert aussieht ... oder zumindest hoffe ich das."
 
     p "Ähh, o-okay."
 
     hide Yuzuki
     with dissolve
 
-    "Confirming she's okay, I continue on with Hikari and Sayaka, their protesting--mostly from Hikari's side--increasing in volume.{w} I can't even begin to imagine what this must look like for people passing by."
+    "Nachdem ich sichergestellt habe, dass es ihr gut geht, konzentriere ich mich wieder auf Hikari und Sayaka.{w} Ich will mir gar nicht vorstellen, wie das für Außenstehende gerade aussieht."
 
-    "...I'm sure even as I head for the stairs, that girl is still staring at me.{w} Did I do something to annoy her?{w} I mean, {i}besides{/i} the clumsiness from today of course."
+    "...Und ich bin sicher, das Mädchen von vorhin starrt mir ebenfalls noch hinterher.{w} Ist sie etwa auf mich so wütend?{w} Ich mein, das war doch nur ein {i}Unfall{/i}."
 
-    "Ah, I can't worry about her for now.{w} I have bigger problems to worry about.{w} Namely, two big problems, one in each hand of mine."
+    "Ach, ich muss mich jetzt auf wichtigere Dinge konzentrieren.{w} Und diese zwei Dinge halte ich gerade in meinen Händen."
     play music "bgm/magicalgirlintro.ogg" fadein 5.0
     queue music "bgm/magicalgirlloop.ogg"
     scene school roof
     with fade
 
-    "Emerging onto the roof, I'm thankful to see it's devoid of life.{w} Safely walled by tall mesh fences, the roof is technically a spot students can spend their break at, but it really isn't that popular.{w} Works for me!"
+    "Als wir am Schuldach auftauchten, bin ich froh, dass wir alleine sind.{w} Theoretisch verbringen hier viele Schüler ihre Pausen, aber praktisch gesehen ist der Ort nicht sehr beliebt. Umso besser für mich!"
 
     p "Okay, könnt ihr mir jetzt erstmal in aller Ruhe dieses Chaos hier erklären?"
 
@@ -1124,7 +1124,7 @@ label start:
     show Hikari at right
     with dissolve
 
-    "I release both of their wrists simultaneously.{w} Sayaka bounces happily, completely unbothered, while Hikari on the other hand rubs at her wrist as if I had assaulted her."
+    "Ich lasse sie beide gleichzeitig los.{w} Sayaka hüpft fröhlich herum, während Hikari im Gegenzug an ihrem Handgelenk reibt und so tut, als hätte ich sie angegriffen."
 
     h "Wie wäre es nächstes mal zu fragen bevor du jemanden anfässt?!{w} Du hast Glück dass wir auf einem öffentlichen Platz sind, sonst hätte ich dich in zwei Teile geschnitten!"
 
