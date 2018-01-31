@@ -1135,16 +1135,16 @@ label start:
 
     h "E-eh?{w} E-Ein L-Liebesgeständnis?{w} Zu wem?{w} Wir beide?!"
 
-    "What the heck are they even...{w} I shake my head."
+    "Was zum Teufel denken die beiden überhaupt ...{w} Ich schüttle einfach nur meinen Kopf."
 
     p "Das ist kein Geständnis!{w} Ihr wisst genau, worum es geht!"
 
-    "I can feel my face burning up.{w} It really is exhausting dealing with them."
+    "Ich kann spüren, wie mein Gesicht immer heißer wird.{w} Die beiden sind echt anstrengend."
 
     $ hikaface='shy'
     show Hikari
 
-    "Sayaka gives me a teasing smile before bursting into a giggle.{w} Apparently this is the funniest thing in the world to her."
+    "Sayaka lächelt mir schelmisch zu, ehe sie zu kichern beginnt.{w} Für sie ist das Ganze anscheinend auch noch lustig."
 
     $ sayapose='school_2'
     $ sayaface='smiling'
@@ -1158,7 +1158,7 @@ label start:
 
     p "Danke ..."
 
-    "I let out a sigh, my shoulders drooping.{w} Finally.{w} {i}Finally.{/i}"
+    "Ich seufze und lasse meine Schultern hängen.{w} Endlich.{w} {i}ENDLICH.{/i}"
 
     s "So what did you want to know about first?"
 
@@ -1170,9 +1170,9 @@ label rooftopexplanation:
     show Sayaka
 
     menu:
-        "Just {i}who{/i} exactly are you guys?" if q1 is False:
+        "{i}Wer{/i} seid ihr überhaupt?" if q1 is False:
 
-            "Okay, this should be an obvious one to ask.{w} I asked it before, but only got the vague answer of them being my supposed 'guardian angels'.{w} I'm hoping she feels more generous right now though."
+            "Okay, die Frage ist ja wohl aufgelegt.{w} Ich hab sie zwar schon einmal gestellt, aber die Geschichte mit den 'Schutzengeln' kann unmöglich stimmen.{w} Hoffentlich ist sie jetzt ehrlicher zu mir."
 
             $ sayaface='happy'
             $ sayapose='school_1'
@@ -1181,9 +1181,9 @@ label rooftopexplanation:
 
             s "Well, I'm Sayaka, and this is Hikari.{w} Did you forget our names already, silly?"
 
-            "I might actually rip my hair out here."
+            "Das ist ja zum Haare ausreißen."
 
-            "I open my mouth to once more say that she knows damn well that's not what I mean, but it seems she's way ahead of me."
+            "Ich öffne noch einmal meinen Mund, um ihr klar und deutlich zu sagen, was ich meine, aber es scheint, als wäre sie mir einen Schritt voraus."
 
             $ sayaface='smiling'
             show Sayaka
@@ -1209,14 +1209,14 @@ label rooftopexplanation:
             $ sayaface='laughing'
             show Sayaka
 
-            "Uh...?"
+            "Hä ...?"
 
             $ hikaface='embarrassed'
             $ hikapose='school_1'
             show Hikari
             with dissolve
 
-            "The realisation of what she said slowly dawns on her.{w} It was quite fun to watch her usually grumpy face gradually go red before she stomps in a fluster."
+            "Langsam wird ihr bewusst, was sie gerade sagte.{w} Schon amüsant zuzusehen, wie ihr für gewöhnlich mürrisches Gesicht so ganz plötzlich vor Verlegenheit rot wird."
 
             h "I-Ich meinte w-wichtig für uns!{w} {i}Uns!{/i}"
 
@@ -1227,7 +1227,7 @@ label rooftopexplanation:
 
             s "Smooth."
 
-            "Sayaka giggles and gives her a playful punch on the shoulder."
+            "Sayaka kichert und klopft ihr auf die Schulter."
 
             $ hikaface='normal'
             show Hikari
@@ -1243,14 +1243,14 @@ label rooftopexplanation:
             $ sayaface='scared'
             show Sayaka
 
-            "...Hikari responds in kind by giving her a wallop to the shoulder, with nothing playful about it.{w} Are these two even partners?"
+            "...Als Antwort wiederum klopf Hikari Sayaka auf die Schulter, wobei das nicht mal annähernd als Spaß gedacht war.{w} Gehören die beiden überhaupt zusammen?"
 
             p "Wie auch immer ..."
 
             $ sayaface='smiling'
             show Sayaka
 
-            "I try my best to keep things on track, though I'm sure it won't be long before it devolves into violence again."
+            "Ich versuche mein Bestes, nicht vom Thema abzuschweifen, allerdings bin ich mir nicht sicher, ob diese Unterhaltung friedlich bleiben wird."
 
             s "I think the most we can tell you is...{w} Hmm..."
 
@@ -1263,13 +1263,13 @@ label rooftopexplanation:
 
             s "Eh-heh, I might have said too much already..."
 
-            "She rubs at the back of her head with a grin that pretty much says, 'whoops'.{w} I probably won't be able to get any more out of her on this subject...{w}for today at least.{w} Maybe if I catch her off guard another day, she might let slip more."
+            "Sie kratzt sich meinem Grinsen am Hinterkopf.{w} In der Angelegenheit werd ich wahrscheinlich nichts mehr aus ihr rausbekommen ...{w} Zumindest für heute.{w} Vielleicht erzählt sie mir morgen ja mehr, sofern ich sie überraschen kann."
 
             $ q1 = True
 
-        "What was that monster?" if q2 is False:
+        "Was war das für ein Monster?" if q2 is False:
 
-            "I want to know more about what the heck that...{w}thing was that they saved me from earlier.{w} A 'shadow', I think she called it."
+            "Ich möchte mehr darüber wissen, was das ...{w}für ein Ding war, vor dem sie mich gerettet haben.{w} Ich glaube, sie haben es als 'Schatten' bezeichnet."
 
             p "Ich schätze, von diesen Dingern ... gibt es da draußen noch mehr?"
 
