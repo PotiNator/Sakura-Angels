@@ -1289,7 +1289,7 @@ label rooftopexplanation:
 
             s "It's really weird.{w} I've never seen one so brave as to attack someone in broad daylight.{w} It was like something had gotten it {i}really{/i} riled up.{w} Or...maybe..."
 
-            "She falls into thought, leaving Hikari and I to stand awkwardly, exchanging even more awkward glances."
+            "Sie denkt nach, wodurch sie Hikari und mich ungünstig dastehen lässt, und wirft uns dabei gelegentlich einen Blick zu."
 
             p "Äh, Sayaka?"
 
@@ -1323,7 +1323,7 @@ label rooftopexplanation:
             $ sayaface='smiling'
             show Sayaka
 
-            "Sayaka is cut off by an ear piercing cry from Hikari.{w} Oww...{w} I guess I'll never know now.{w} Hikari seems adamant about keeping this a secret."
+            "Sayaka wird von einem Schrei von Hikari unterbrochen.{w} Au ...{w} Ich schätze, ich werd es nie rausfinden.{w} Hikari möchte dieses Geheimnis anscheinend um jeden Preis geheim halten."
 
             $ hikaface='normal'
             show Hikari
@@ -1332,36 +1332,36 @@ label rooftopexplanation:
 
             s "You're no fun.{w} ...You're right, though.{w} Sorry, Kenta."
 
-            "She gives me an apologetic look.{w} She really sounds sincere too.{w} Like, she's practically bursting to tell me, but just can't.{w} No use pressing it, I suppose.{w} Maybe one day..."
+            "Sie sieht mich entschuldigend an.{w} Und es hört sich auch so an, als würde sie es ernst meinen.{w} So, als würde sie es mir gerne sagen, es mir aber nicht sagen kann.{w} Druck auszuüben wäre jetzt wohl auch nicht richtig."
 
             $ q2 = True
 
-        "How long are you going to stay here?" if q3 is False:
-            "This is an important one.{w} Just exactly how long do they plan on staying here, to, uh, watch over me?"
+        "Wie lange werdet ihr hier bleiben?" if q3 is False:
+            "Die Frage ist ganz wichtig.{w} Wie lange, äh, wollen sie überhaupt auf mich aufpassen?"
 
             $ sayaface='scared'
             show Sayaka
 
-            "Sayaka pulls a frown at my question, a genuinely sad looking one that tugs at my heart strings.{w} ...Was it really that bad?"
+            "Sayaka reagiert mit einem traurigen Blick auf meine Frage.{w} ... Ist die Frage wirklich so schlimm?"
 
             s "It's almost like you don't want us around.{w} Are we that much of a nuisance?"
 
-            "Damn it.{w} Why does she have to phrase it like that?{w} That's clearly not what I meant!{w} ...I think."
+            "Verdammt.{w} Warum muss sie es ausgerechnet so ausdrücken?{w} Das hab ich doch gar nicht gemeint!{w} ... Glaub ich zumindest."
 
-            "It's just...{w} As long as they're here, I'm sure there's going to be nothing but trouble in my life."
+            "Es ist nur ...{w} Solange die beiden in meiner Nähe sind, wird mir wahrscheinlich ein Problem nach dem anderen über den Weg laufen."
 
-            p "Aw, komm schon, so hab ich's auch nicht gemeint ..."
+            p "Ach, komm schon, so hab ich's auch nicht gemeint ..."
 
-            "She suddenly bursts into a bright, beaming smile again, almost blinding me."
+            "Plötzlich zeigt sie mir wieder ihr strahlendes Lächeln."
 
             $ sayaface='happy'
             show Sayaka
 
             s "I know!{w} You're just easy to mess with.{w} I couldn't help myself!"
 
-            "This girl..."
+            "Dieses Mädchen ..."
 
-            "She breaks into a laugh.{w} One I'm sure can be heard by the entire school, from all the way up here."
+            "Sie bricht in ein Gelächter aus.{w} Und dieses Lachen ist so laut, dass man es bestimmt in der ganzen Schule hören kann."
 
             $ sayaface='smiling'
             show Sayaka
@@ -1374,7 +1374,7 @@ label rooftopexplanation:
             show Sayaka
             with dissolve
 
-            "She puts a finger to her nose and winks.{w} I thought so."
+            "Sie zwinkert mir zu.{w} Dachte ich mir schon."
 
             s "Top secret and all that.{w} But we're in the process of figuring this whole mess out.{w} It shouldn't take long.{w} Maybe a couple of days.{w} A week at the most!"
 
@@ -1386,23 +1386,23 @@ label rooftopexplanation:
 
             s "Well, if somebody was more useful, and helped me instead of just complaining all the time, we might get things done quicker, hmm?"
 
-            "Whoa, she said that without her smile faltering one bit, her tone just as cheery despite the biting words.{w} ...That's kind of scary."
+            "Whoa, sie sagte das gerade, ohne ihr Lächeln auch nur ein bisschen 'aufzugeben', und auch ihr Farbton ist trotz der scharfen Worte noch genauso fröhlich.{w} ... Das macht mir irgendwie Angst."
 
             $ hikaface='scared'
             $ hikapose='school_1'
             show Hikari
             with dissolve
 
-            "Even Hikari has no argument against that, those words causing her to fall silent as she shrinks back from her deceptively bright partner."
+            "Nicht mal Hikari war darauf vorbereitet, da auch sie dadurch zum Schweigen gebracht wurde."
 
-            "Uh...{w} Moving on..."
+            "Äh ...{w} Weiter ..."
 
             $ q3 = True
 
-        "That's all for now." if qquit is True:
-            "I guess that's all we have time for now.{w} I think the bell for the second half is about to--"
+        "Das wär's fürs Erste." if qquit is True:
+            "Ich schätze, das reicht fürs Erste.{w} Die Glocke dürfte sowieso gleich--"
 
-            "Yup.{w} There it is."
+            "Jup.{w} Da haben wir sie ja schon."
 
             s "Oh?{w} Time to go back now, is it?"
 
@@ -1410,11 +1410,11 @@ label rooftopexplanation:
             show Sayaka
             with dissolve
 
-            "She stretches her arms into the air, giving a small yawn."
+            "Sie streckt ihre Arme in die Luft und gähnt."
 
             s "Well, I hope we were able to clear things up a little."
 
-            "...Something like that."
+            "...Mehr oder weniger."
 
             $ sayaface='happy'
             show Sayaka
@@ -1425,13 +1425,13 @@ label rooftopexplanation:
             show Hikari at center
             with dissolve
 
-            "Sayaka bounds for the stairs as if we were in some sort of race, her partner trailing behind as she gives me one last look."
+            "Sayaka rast, so als wäre es ein Rennen, auf die Treppe zu, während ihre Partnerin hinter ihr herläuft und mir einen letzten Blick zuwirft."
 
-            "She stops, her eyes cast downward for a moment before flickering back up."
+            "Sie bleibt stehen und blickt einen kurzen Augenblick nach unten, ehe sie ihren Kopf wieder geradeaus richtet."
 
             h "Hey, umm..."
 
-            p "Was ist los?"
+            p "Was ist?"
 
             $ hikaface='shy'
             show Hikari
@@ -1441,13 +1441,13 @@ label rooftopexplanation:
             hide Hikari
             with dissolve
 
-            "And like that, she disappears down the stairs too, leaving me alone on the roof.{w} Huh.{w} I wonder what that was about?"
+            "Und so verschwindet auch sie die Treppe hinunter, wodurch sie mich allein auf dem Dach zurücklässt.{w} Hm.{w} Was sie wohl gerade wollte?"
 
-            "I guess I should follow after them.{w} I don't want to be late again!"
+            "Ich sollte mich aber jetzt besser beeilen.{w} Ich will nicht schon wieder zu spät kommen!"
 
-            "As I start for the stairs, my stomach makes a terrifying sound.{w} One that screams for food."
+            "Als ich mich auf dem Weg zur Treppe mache, macht sich plötzlich mein Magen bemerkbar.{w} Und der schreit nach Essen."
 
-            "Oh, right, in all my haste to figure out what the girls were doing, I neglected to get any lunch at all.{w} Aww..."
+            "Ah, stimmt. Vor lauter Fragerei hab ich komplett auf mein Essen vergessen.{w} Fuck ..."
 
             scene bg black
             with fade
@@ -1468,45 +1468,45 @@ label explanationover:
 
     "..."
 
-    "And so, classes resume."
+    "Und so geht der Unterricht weiter."
 
     "..."
     play music "bgm/everydayintro.ogg" fadein 3.0
     queue music "bgm/everydayloop.ogg"
-    "After all the initial excitement in the morning, not a lot happens throughout the remaining lessons.{w} They drag on at a glacial pace, somehow even more dull than usual."
+    "Nach all dem Wirbel heute morgen, passiert in den restlichen Stunden nicht mehr sonderlich viel.{w} Die Stunden ziehen sich wie Kaugummi."
 
-    "It also hard to keep my mind focused on anything with Sayaka and Hikari on each side.{w} There to protect me."
+    "Umgeben von Sayaka und Hikari fällt es mir auch schwer, mich auf irgendwas zu konzentrieren."
 
-    "I was half expecting a monster to just burst its way through the window and for the whole place to just turn into a battleground.{w} Though...{w} It might have at least made things more lively."
+    "Teilweise habe ich schon damit gerechnet, dass jeden Moment ein Monster durch das Fenster springt und das Klassenzimmer in ein Schlachtfeld verwandelt.{w} Obwohl ...{w} Dann wär zumindest wieder was los hier."
 
     with Pause(2.5)
 
     scene classroom
     with fade
 
-    "With one final ring of the bell, school comes to a close, a hazy amber glow taking over the classroom as the sun begins to set.{w} The majority of the students begin to filter out of the class to start their clubs, or part-time jobs.{w} Not me though, I'm off home!"
+    Mit dem letzten Glockenläuten geht der Unterricht zu Ende.{w} Der Großteil der Schüler verlässt das Klassenzimmer in Richtung Club oder Teilzeit-Job.{w} Aber ich nicht, denn ich geh nach Hause!"
 
-    "While joining a club is certainly encouraged, thankfully this isn't a place where it's enforced.{w} Meaning I'm free to loaf all I want."
+    "Obwohl der Beitritt zu einem Club zwar von der Schule gewünscht ist und gefördert wird, ist es - zum Glück - nicht verpflichtend.{w} Das heißt, ich kann nach dem Unterricht tun, was ich will."
 
-    "It might make me come across as a bit of a slacker in the eyes of the other students, but eh.{w} They're not exactly wrong!"
+    "Für andere seh ich vielleicht aus wie ein Faulpelz, aber pf, da scheiß ich drauf.{w} Sie haben ja schließlich auch recht!"
 
     scene bg black
     with fade
 
-    "Wasting no time, I set out of the school and begin to head home.{w} Something that should have been fairly stress free, but..."
+    "Ohne Zeit zu verschwenden, verlasse ich die Schule und mache mich auf den Weg.{w} Etwas, das eigentlich ziemlich stressfrei sein sollte, aber ..."
 
-    "I mean, I should have expected this, but it's still a bit much."
+    "Ich mein, ich hätte schon damit rechnen können, aber das ist jetzt echt ein bisschen übertrieben."
 
     scene town street night
     with fade
 
-    "The horizon grows darker with each step I make through the quiet streets, a pale moon slowly making its presence known in the sky."
+    "Mit jedem Schritt, den ich durch die ruhigen Straßen mache, wird der Himmel dunkler und der Mond wird immer sichtbarer."
 
-    "{i}Thud, thud, thud.{/i}{w} My heavy steps resound down the narrow road, quickly swallowed into the night.{w} But there's also another set of steps, or rather, two sets of steps that sound to either side of me.{w} Far lighter steps, with far more grace than I could ever hope to achieve. "
+    "{i}Stampf, stampf, stampf.{/i}{w} Meine schweren Schritte hallen durch die Nacht.{w} Aber neben meinen sind auch noch andere Schritte zu hören - von zwei Personen, um genau zu sein.{w} Diese Schritte sind aber weitaus leiser als meine, und sie werden auch mit viel mehr Anmut gesetzt. "
 
-    p "Schau ...{w} Ich weiß, dass ihr mich nur beschützen wollt, aber müsst ihr dafür, äh, so {i}an mir kleben{/i}?"
+    p "Schaut ...{w} Ich weiß, dass ihr mich nur beschützen wollt, aber müsst ihr dafür, äh, so {i}an mir kleben{/i}?"
 
-    "Yes.{w} Those steps belonged to none other than my self professed 'guardian angels'.{w} Sayaka to my left, and Hikari to my right, they practically walk in unison with me, their shoulders inches away from mine."
+    "Ja.{w} Die Schritte gehören zu niemand geringeren als zu meinen selbsternannten 'Schutzengeln'.{w} Sayaka links und Hikari rechts von mir.{w} Und obwohl ihre Schultern zwar Zentimeter von meinen entfernt sind, marschieren wir im Gleichschritt."
 
     $ hikapose='school_2'
     $ hikaface='normal'
