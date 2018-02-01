@@ -1515,7 +1515,7 @@ label explanationover:
 
     h "Sei doch nicht dumm!{w} Nachts alleine heimzugehen wäre der Perfekte Moment, für den Feind, zuzuschlagen.{w} Hier müssen wir am meisten auf der Hut sein."
 
-    "Yikes.{w} She doesn't have to yell so loud right into my ear like that.{w} I think I must be just a little bit deafer just from spending time with her today alone."
+    "Huch.{w} Sie muss mir echt nicht so laut ins Ohr schreien.{w} Ich denke, wenn ich noch mehr Zeit mit ihr verbringe, werd ich noch irgendwann taub."
 
     $ hikaface='angry'
     show Hikari
@@ -1527,7 +1527,7 @@ label explanationover:
     show Hikari
     with dissolve
 
-    "Another 'hmph' and a turn of her head, her vibrant hair swaying gently."
+    "Und wieder dreht sie ihren Kopf einfach gleichgültig weg."
 
     p "Ja, ja ...{w} Entschuldige."
 
@@ -1543,7 +1543,7 @@ label explanationover:
 
     s "Aww, don't be like that, Hikari.{w} Don't think I don't catch you sneaking glances at his face while he's looking elsewhere."
 
-    "As she walks, Sayaka leans across me to smirk at Hikari.{w} This is getting really awkward, guys."
+    "Während sie geht, lehnt sich Sayaka etwas über mich und lächelt Hikari an.{w} Leute, die Situation wird langsam echt komisch."
 
     hide Sayaka
     with dissolve
@@ -1565,7 +1565,7 @@ label explanationover:
     $ sayaface='laughing'
     show Sayaka
 
-    "My left ear is rocked by a mischievous giggle as Sayaka breaks into hysterics, all the while Hikari's face begins to turn an interesting shade of red."
+    "Mein linkes Ohr wird von einem schelmischen Kichern belästigt, da Sayaka anscheinend einen hysterischen Anfall hat. Und Hikari reagiert mit einem knallroten Gesicht darauf."
 
     hide Sayaka
     with dissolve
@@ -1575,7 +1575,7 @@ label explanationover:
 
     h "W-Wie auch immer!{w} Du bist doch diejenige, die immer deine Schulter gegen ihn drückt !{w} Was versuchst du zu tuhen?!"
 
-    "Huh?{w} She...she was doing that?{w} Now that she mentions it, the left side did feel cozier for a time..."
+    "Häh?{w} Das ... hat sie getan?{w} Jetzt, wo sie's erwähnt, fällt mir ein, dass ich auf der linken Schulter wirklich ein eigenartiges Gefühl gespürt hab ..."
 
     hide Hikari
     with dissolve
@@ -1590,7 +1590,7 @@ label explanationover:
 
     with hpunch
 
-    "Without warning she latches onto my arm, pulling herself in and almost sending me toppling to the ground."
+    "Ohne Vorwarnung hängt sie sich an meinen Arm, wodurch sie mich beinahe zu Boden drückt."
 
     s "See~?"
 
@@ -1610,9 +1610,9 @@ label explanationover:
     with dissolve
     with hpunch
 
-    "E-eh?{w} Hikari latches onto my other arm, hooking it within hers in an attempt to tug me away from Sayaka.{w} What the heck did this turn into?"
+    "H-Ha?{w} Als Reaktion darauf krallt sich Hikari meinen anderen Arm und versucht, mich von Sayaka wegzuziehen.{w} Das ist doch hoffentlich ein Traum, oder?"
 
-    p "Mädels, ihr müsst echt nicht--"
+    p "Mädels, ihr müsst euch echt nicht--"
 
     hide Hikari
     with dissolve
@@ -1627,11 +1627,11 @@ label explanationover:
     show Sayaka
     with hpunch
 
-    "Sayaka pulls back on my arm, and soon they both have a firm grip of each of my arms, determination across their faces as I become some sort of human rope."
+    "Sayaka zieht stärker an meinen Arm, woraufhin sie beide meine Arme fest im Griff hatten. Leider voller Entschlossenheit, sie nicht so schnell loszulassen."
 
     with hpunch
 
-    "What is this, tug of war?{w} They're going to rip me apart!"
+    "Spielen die Tauziehen mit mir?{w} Die reißen mich noch auseinander!"
 
     hide Sayaka
     with dissolve
@@ -1644,7 +1644,7 @@ label explanationover:
 
     with hpunch
 
-    "Do they even remember what they were trying to do?!{w} What started innocently enough has now spurred into some sort of contest between them.{w} They really are competiti--ow!{w} Now's not the time to think about stuff like that!"
+    "Haben die schon vergessen, wofür sie eigentlich da sind?!{w} Sie sind eigentlich meine SCHUTZENGEL!"
 
     p "Könntet ihr mich bitte ...{w} LOSLASSEN!?"
 
@@ -1652,11 +1652,11 @@ label explanationover:
     with dissolve
     with hpunch
 
-    "Raising my voice more than I've ever done in a while, I explode, my body at stake here!"
+    "Ich erhebe meine Stimme - so laut, wie schon lange nicht mehr - und versuche, mein Leben zu retten!"
 
-    "And like that, they both let go of my arms at once, leaving me free to ensure they're both still fully intact."
+    "Und kurz darauf lassen sie beide meine Arme los ... Hoffentlich sind sie noch heil."
 
-    "I'm glad they listened to reason.{w} I really thought I was going to die there.{w} Apparently it's not the monsters I have to worry about anymore, it's these two!"
+    "Ich bin froh, dass sie auf mich gehört haben.{w} Ich dachte echt, ich müsste sterben.{w} Anscheinend sind die Monster nicht mal halb so gefährlich wie die beiden!"
 
     p "Äh, Mädels?"
 
@@ -1667,38 +1667,38 @@ label explanationover:
     show Hikari at right
     with dissolve
 
-    "...At least, I had {i}thought{/i} it had been my desperate cry that had gotten through to them, but they seem completely transfixed by something up above."
+    "...Zumindest {i}dachte{/i} ich, es wäre mein Schrei gewesen, der sie zur Vernunft gebracht hat, aber ihre Aufmerksamkeit ist etwas ganz anderem gewidmet."
 
-    "What are they looking at?{w} I squint my eyes and gaze high above the rooftops."
+    "Wo sehen sie hin?{w} Ich konzentriere mich und blicke ebenfalls über die Dächer."
 
-    "And then, as the clouds part and the pale moonlight shines down, I see her."
+    "Und dann, als die Wolken sich teilen und das helle Mondlicht aufleuchtet, sehe ich sie."
 
     scene cg11
     with dissolve
     play music "bgm/evilgirlintro.ogg"
     queue music "bgm/evilgirlloop.ogg"
 
-    "A girl sits on the ledge of the highest point of one of the tallest buildings in the area."
+    "Auf dem Sims eines der höchsten Gebäude der Gegend sitzt ein Mädchen."
 
-    "Silvery hair that seems to glimmer in the moonlight, and an outfit as dark as the night sky, she gives off a awe inspiring look, almost angelic.{w} Like...she's some sort of angel, gazing down from the heavens."
+    "Silbernes Haar, das im Mondschein zu schimmern scheint, ein Outfit so finster wie die Nacht und ein beinahe engelhafter Blick{w} Als ... wäre sie eine Art Engel, der vom Himmel herabblickt."
 
-    "At least, I {i}would{/i} call her an angel if it wasn't for that unsettling grin that just now spread across her face at the sight of us."
+    "Zumindest {i}würde{/i} würde ich sie als Engel betrachten, wäre da nicht dieses beunruhigende Grinsen, dass sie auf einmal aufgesetzt hat."
 
     dg "Ahhh.{w} Da bist du ja."
 
-    "She murmurs something to herself that I can't make out at all from the distance between us.{w} Whatever it was she said, it was enough to make her shoulders shake with laughter."
+    "Sie murmelt etwas vor sich hin - etwas, was ich nicht verstehen konnte.{w} Was auch immer es war, es war zumindest so lustig, dass sie selbst zu lachen beginnen musste."
 
-    "I can't help but feel like I've seen her somewhere before...{w} I wonder why that is?"
+    "Irgendwie bekomme ich das Gefühl, als hätte ich sie schon mal gesehen ...{w} Aber wo nur?"
 
-    "No matter how hard I try to think back, I can't recall her face at all, though."
+    "Egal, wie sehr ich mich auch anstrenge, es fällt mir nicht ein."
 
-    "In a burst of feathers, obsidian wings unfurl from behind her.{w} Now those {i}definitely{/i} aren't holy.{w} I've got a bad feeling about this..."
+    "In einem Federsturm entfalten sich hinter ihr Flügel.{w} Okay, die sind {i}eindeutig{/i} nicht heilig.{w} Ich hab ein ganz schlechtes Gefühl bei der Sache ..."
 
 
 
-    "Amber eyes peer down at the three of us, narrowed in determination as the same unsettling grin remains.{w} ...It might just be my imagination, but I think she's looking at {i}me{/i} specifically.{w} I can...almost feel her stare."
+    "Bernsteinfarbene Augen blicken voller Entschlossenheit auf uns drei herab.{w} ... Vielleicht bilde ich es mir auch nur ein, aber ihr Hauptaugenmerk scheint auf {i}mich{/i} gerichtet zu sein.{w} Sie starrt mich ja schon förmlich an."
 
-    "It's enough to send a chill down my spine, and sparks a faint pulse at the back of my skull."
+    "All das reicht, um mir leichte Schmerzen im Hinterkopf zu verpassen{w} Und dass es mir bereits eiskalt den Rücken runterläuft, muss ich ja hoffentlich nicht extra erwähnen."
 
     p "Eine ... Eine Freundin?"
 
