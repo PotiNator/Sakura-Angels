@@ -1809,17 +1809,17 @@ label explanationover:
     stop music fadeout 9.0
     y "...Nein?{w} Ich denke wir müssen die Dinge auf die harte Tour machen, hmm?"
 
-    "The pair stand tall before me, their fists tightened.{w} I think there's only one way this is going to end up."
+    "Die beiden stehen mit geballten Fäusten vor mir.{w} Ich befürchte langsam, dass ich schon weiß, wie es ausgeht."
 
-    "The air around them seems to crackle, the amount of power contained within them all immense."
+    "Die Menge an Kraft in ihren Fäusten ist so immens, dass sie die Luft um sie herum förmlich zum Knistern bringt."
 
     "..."
 
-    "I'm afraid to even take in a breath, in case I set something off.{w} This is dangerous.{w} Even {i}I{/i} can see that."
+    "Ich trau mich nicht mal zu atmen, weil ich mich nicht einmischen möchte.{w} Das ist gefährlich.{w} Das seh selbst {i}ich{/i}."
 
     with Pause(3.5)
 
-    "I blink, and..."
+    "Ich blinzle und ..."
 
 
     play music "bgm/battleintro.ogg"
@@ -1838,7 +1838,7 @@ label explanationover:
     show Sayaka at offscreenright
     with move
 
-    "Yuzuki lunges for them in a flash, with a scythe seemingly torn out from the air itself."
+    "Yuzuki stürzt sich, mit einer Sense, die sie scheinbar aus dem Nichts herbeigezaubert hätte, blitzschnell auf sie."
 
     $ hikaface='angry'
     $ hikapose='magical_1'
@@ -1847,11 +1847,11 @@ label explanationover:
 
     s "W-wahh!"
 
-    "Sparks fly from the collision of metal against metal.{w} Hikari was just barely able to react in time, changing her outfit in a flash and blocking the blow with her sword.{w} If she had been any slower there, they might not have had their heads still."
+    "Der Aufprall von Metall gegen Metall löst Funken aus.{w} Hikari konnte gerade noch rechtzeitig reagieren, wodurch sie den Schlag mit dem Schwert noch gerade so abwehren konnte.{w} Wäre dem nicht so, wären sie einen Kopf kürzer."
 
     h "Nnngh.{w} Ich wusste es!{w} Du bist einfach nur eine Puppe zu {i}ihr{/i}!"
 
-    "She speaks through gritted teeth, pushing with all her might to try and keep the scythe at bay as it draws ever closer.{w} It seems like a fight she might lose though, as the silver haired girl presses on without even so much as a bead of sweat on her brow."
+    "Sie spricht zähneknirschend und versucht mit aller Kraft, den Abstand zu verkürzen.{w} Es scheint aber, als würde sie den Kampf verlieren, denn das silberhaarige Mädchen lässt sich überhaupt keine Anstrengungen anmerken."
 
     show Yuzuki at center
     show Hikari at center
@@ -1871,27 +1871,27 @@ label explanationover:
 
     s "Huh?{w} Oh, right!"
 
-    "Losing ground quite rapidly, her feet beginning to slide back from the force, Hikari barks at her partner who had just about recovered from the shock of the strike."
+    "Hikari verliert ziemlich schnell an Boden, woraufhin sie ihre Partnerin, die sich gerade vom Schock des Schlags erholt hatte, förmlich anschreit."
 
-    "They really are in trouble here...{w} And all I can do is stand gawking.{w} I know for sure if I go anywhere near them, I'll be torn apart.{w} This is a fight on a completely different level than me."
+    "Das sieht echt nicht gut aus ...{w} Und ich kann nur zusehen.{w} Und ich weiß, dass ich, wenn ich in die Quere komme, als Hackfleisch ende.{w} Ich kann mit denen nicht mal annähernd mithalten."
 
     $ sayaface='normal'
     $ sayapose='magical_1'
     show Sayaka
     with flash
 
-    "There's another blinding flash as Sayaka transforms herself, wielding the same bow I had seen her use this morning."
+    "Mit einem weiteren Aufleuchten verwandelt sich Sayaka erneut - dieses Mal schwingt sie wieder ihren Bogen, den ich auch heute morgen bereits sah."
 
     scene cg15
     with dissolve
 
-    "She dashes back a little from the clashing girls and preps her bow, pulling back the string.{w} I was about to wonder just where the arrow was, but one seems to just blink into reality, already fully nocked onto the bow."
+    "Sie springt ein wenig zurück und spannt den Bogen.{w} Als ich mich gerade fragte, wo der Pfeil sei, bemerkte ich, dass dieser ja bereits am Bogen befestigt ist."
 
-    "She lets the magical arrow fly, her target obvious."
+    "Dann lässt sie ihren magischen Pfeil fliegen."
 
     with flash
 
-    "Caught up in the clash, Yuzuki has no choice but to pull away from Hikari.{w} She kicks back gracefully, the arrow just inches away from grazing her cheek."
+    "Yuzuki hat keine andere Wahl, als von Hikari Abstand zu nehmen.{w} Sie springt anmutig zurück und kann dem Pfeil gerade noch ausweichen."
 
     h "Genau rechtzeitig!"
 
@@ -1900,19 +1900,19 @@ label explanationover:
     show Sayaka at right
     with dissolve
 
-    "Hikari heaves a sigh of relief as she eases her shoulders, finally able to rest, if only for a moment.{w} The fight is clearly {i}far{/i} from over."
+    "Hikari seufzt erleichtert, als sie bemerkt, dass sie sich für einen Moment ausruhen kann.{w} Aber der Kampf ist noch lange nicht vorbei."
 
-    "The girls regroup, and ready themselves, their mysterious opponent now going over them with her unsettlingly cold eyes."
+    "Die Mädels formieren sich neu, während sie von ihrer mysteriösen Gegnerin mit eiskalten Augen angestarrt werden."
 
     h "Sei vorsichtig, Sayaka.{w} Sie ist stark.{w} Ich konnte sie kaum zurückhalten."
 
-    "Sayaka nods, a look of determination painting her face that I wasn't even aware she was capable of."
+    "Sayaka nickt mit einer solchen Entschlossenheit, die ich von ihr überhaupt nicht kannte."
 
     $ yuzupose='magical_2'
     show Yuzuki at left
     with moveinleft
 
-    "Taking just a moment to analyze the situation, the dark girl closes in again for a second round."
+    "Das silberhaarige Mädchen nimmt sich einen kurzen Augenblick Zeit, um die Situation zu analysieren, ehe sie für eine zweite Runde wieder die Distanz verringert."
 
     $ yuzuface='joking'
     show Yuzuki
@@ -1952,11 +1952,11 @@ label explanationover:
 
     h "S-Sei ruhig!{w} Es ist noch nicht vorrüber!"
 
-    "She twirls her scythe with ease and swipes at the pair with the same maniacal expression.{w} Each strike is either just barely dodged by the girls, or just about deflected by Hikari's desperate counter-attacks."
+    "Mit Leichtigkeit und einem wahnsinnigen Gesichtsausdruck schwingt sie ihre Sense.{w} Die Mädels können den Schlägen entweder nur ganz knapp ausweichen oder aber sie werden von Hikari geblockt."
 
-    "This is a completely one-sided fight...{w} If that wasn't already clear from the moment this girl had made her first move."
+    "Der Kampf ist komplett einseitig ...{w} Und das war bereits zu erwarten, als das Mädchen ihren ersten Zug gemacht hat."
 
-    "She's able to take both of them on with no problem, blocking whatever attack Hikari might be able to muster in her position, and chasing after Sayaka whenever she attempts to make some distance between them for her bow."
+    "Sie kann es ohne Probleme mit beiden aufnehmen und blockt jeden Angriff, den Hikari versucht, und immer wenn Sayaka versucht, sie auf Distanz zu halten, jagt sie ihr hinterher."
 
     h "Fein!{w} Mal sehen, ob du bei dieser Geschwindigkeit ausweichen kannst!"
 
@@ -1972,12 +1972,12 @@ label explanationover:
 
     with hpunch
 
-    "They're moving so fast now my eyes can hardly keep up with it all, the action eventually just turning to colorful blurs as the fight drags on, battle cries and the clash of steel filling the air."
+    "Mittlerweile bewegen sie sich so schnell, dass meine Augen gar nicht mehr mitkommen. Im Endeffekt nehme ich die ganze Action nur noch unscharf wahr."
 
     with hpunch
     with hpunch
 
-    "The street around them is becoming completely wrecked.{w} Lampposts are split in two, parked cars are being sent flying, and even chunks of the road itself are being chipped away every time they collide together."
+    "Die Straße um sie herum wird völlig zerstört.{w} Straßenlaternen werden entzweit, geparkte Autos werden durch die Luft geschleudert und selbst Teile der Straße selbst werden gelegentlich zerstört."
 
     show Sayaka at right
     with moveinleft
@@ -1994,7 +1994,7 @@ label explanationover:
     show Yuzuki at left
     with moveinleft
 
-    "Without warning the intense speed grinds to a halt.{w} Sayaka is suddenly sent tumbling to the ground, Hikari shortly following as the silver haired girl stands triumphant, not a single scratch upon her."
+    "Ohne Vorwarnung kommt diese hochgradige Geschwindigkeit plötzlich zum Stillstand.{w} Und während Sayaka und kurz darauf auch Hikari zu Boden gehen, steht das silberhaarige Mädchen triumphierend da."
 
     stop music fadeout 6.0
     scene cg14
@@ -2004,23 +2004,23 @@ label explanationover:
 
     h "Oof!"
 
-    "They end up tangled in a heap together, both of them fairly dazed."
+    "Sie fallen beide ziemlich benommen aufeinander."
 
-    "Thankfully they don't seem too hurt, but they certainly each have their fair share of bruises."
+    "Obwohl sie sichtbare, blaue Flecken haben, scheinen sie zum Glück nicht allzu schwer verletzt zu sein."
 
     p "G-Geht es euch gut?!"
 
-    "Unable to keep myself from cowering any longer, I call out to them, taking a step towards the carnage."
+    "Nicht länger in der Lage, das alles zu ertragen, begebe ich mich aus meiner Deckung und bewege mich schreiend auf sie zu."
 
 
 
-    "I freeze up completely as the silver haired girl's hollow eyes flutter onto me.{w} Her gaze is frightening.{w} Paralyzing.{w} She came here for me.{w} Just like that monster did before."
+    "Als sich die Augen des silberhaarigen Mädchens auf mich fixierten, bleibe ich wie eingefroren stehen.{w} Ihr Blick ist beängstigend.{w} Lähmend.{w} Sie hat es auf mich abgesehen.{w} Genauso wie auch das Monster."
 
-    "Do I have a sign on my back that says 'kill me' or something?!"
+    "Klebt auf meinem Rücken etwa ein Zettel, auf dem 'Bringt mich bitte um' steht?!"
 
     h "Was machst du, du Idiot?!{w} Bleib zurück!{w} W-wir sind ...-- argh -- uns geht es gut!"
 
-    "Hikari rouses me to my senses with her harsh cry.{w} It's a bit hard to believe she's fine when she's completely tangled up with her partner though...{w} They're both flailing helplessly in an effort to get up."
+    "Hikari bringt mich mit einem lauten Schrei wieder zur Besinnung.{w} Schwer vorstellbar, dass es ihnen gut geht, wenn man sie so ansieht ...{w} Wild um sich schlagend, versuchen sie beide aufzustehen."
 
     play music "bgm/mischiefintro.ogg"
     queue music "bgm/mischiefloop.ogg"
