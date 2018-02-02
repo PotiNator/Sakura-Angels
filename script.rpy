@@ -1702,13 +1702,13 @@ label explanationover:
 
     p "Eine ... Eine Freundin?"
 
-    "I force out a laugh, though I know the truth.{w} The air is growing tense, like that time with the monster before, and the looks on both Hikari's and Sayaka's faces can only suggest something bad is about to go down."
+    "Ich zwinge mich zu einem Lachen, obwohl ich die Wahrheit schon kenne.{w} Die Atmosphäre wird immer angespannter, so wie damals mit dem Monster, und die Gesichtsausdrücke von Hikari und Sayaka lassen auf nichts Gutes rückschließen."
 
     s "Hah.{w} 'Fraid not.{w} Kenta, get back.{w} I don't like this at all..."
 
     p "Aber ...{w} Okay, okay."
 
-    "I do as I'm told and retreat back a good distance, not really wanting to argue when they look as scary as they do."
+    "Ich tu, was sie mir gesagt haben, und ziehe mich ein wenig zurück. Schließlich möchte ich in einer solchen Situation nicht mit ihnen zu streiten beginnen."
 
     s "So, what do you think we're dealing with here?"
 
@@ -1724,26 +1724,26 @@ label explanationover:
 
     s "You're so cruel sometimes, Hikari..."
 
-    "The silver haired girl, still high atop the roof, gives me one last look, before turning her gaze to the girls.{w} And then she jumps."
+    "Das silberhaarige Mädchen wirft mir noch einen kurzen Blick zu, bevor es sich auf die Mädchen konzentriert.{w} Und dann springt sie."
 
     scene town street night
     with dissolve
 
-    "...What?!{w} Why did she jump?!{w} I-I can barely watch."
+    "..Was?!{w} Warum ist sie gesprungen?!{w} I-Ich kann es kaum mitansehen."
 
-    "She plummets downwards, towards where my guardians are stood, no hint of even beginning to slow down.{w} Are those wings just for show?"
+    "Dort, wo meine beiden Wächterinnen stehen, stürzt sie nach unten.{w} Wofür hat sie überhaupt ihre Flügel?"
 
-    "Faster and faster she descends, before finally the pavement closes in...{w} I don't want to watch.{w} But...{w} Somehow I get the feeling she wouldn't have jumped without a good reason.{w} At least, I {i}hope{/i} she didn't."
+    "Sie fällt immer schneller und schneller, bis kurz darauf der Boden zum Greifen nahe ist ...{w} Ich möchte nicht zusehen.{w} Aber ...{w} irgendwie hab ich das Gefühl, als hätte sie einen guten Grund für diesen Sprung.{w} Ich {i}hoffe{/i} aber, das ist nicht der Fall."
 
     p "...!"
 
-    "Mere inches from smashing into the ground, her wings spread wide as if brakes, before bringing her to a sudden stop.{w} Not even a gradual halt.{w} She just comes to a complete, grinding halt, as if the laws of gravity don't apply to her."
+    "Nur wenige Zentimeter vor dem Aufprall breitet sie ihre Flügel aus, wodurch sie kurzerhand zum Stillstand kommt.{w} Und das geschieht von einer Sekunde auf die andere - so, als würde sie die Erdanziehungskraft komplett ignorieren."
 
-    "Even with wings, something like that shouldn't be possible.{w} I mean, if a pigeon were to attempt something like that, they'd barely be recognisable on the pavement right now!"
+    "Selbst mit Flügel sollte das nicht machbar sein.{w} Würde eine Taube so was machen, dann wär sie jetzt platt!"
 
-    "In fact, her feet aren't even touching the ground.{w} She hovers above ever so slightly, before stepping onto the solid surface, as if stepping off of an invisible platform."
+    "Aber ihre Füße berühren ja nicht mal den Boden.{w} Sie schwebt über der Oberfläche. Man könnte fast meinen, sie schreitet auf einer unsichtbaren Plattform voran."
 
-    "Part of me is relieved that she isn't hurt from that little stunt.{w} But then part of me is also terrified as to what might happen next."
+    "Ein Teil von mir ist froh, dass ihr nichts passiert ist.{w} Aber ein anderer Teil macht sich bereits Sorgen darüber, was als nächstes passiert."
 
     $ yuzupose='magical_1'
     $ yuzuface='joking'
@@ -1752,15 +1752,15 @@ label explanationover:
     show Hikari at center
     with dissolve
 
-    "The silver haired girl stands before Hikari and Sayaka, her expression still as unsettling as ever.{w} Despite the smile though, there's nothing in her posture that would suggest she has any bad intentions, yet the other two girls are tense."
+    "Das silberhaarige Mädchen steht vor Hikari und Sayaka.{w} Trotz ihres Lächelns lässt nichts auf mögliche böse Absichten hindeuten, und trotzdem sind die beiden Mädchen sichtlich angespannt."
 
 
 
-    "My head rings just trying to focus on her, like that monster from before.{w} Is she...related to them?{w} I clutch a hand to my head and try to steady myself.{w} It's taking all of my willpower just to keep upright at the moment."
+    "Wenn ich versuche, mich auf sie zu konzentrieren, fängt mein Kopf wieder an zu schmerzen.{w} Hat sie ... irgendwas mit den Monstern zu tun?{w} Ich fasse mir mit einer Hand zum Kopf.{w} Es kostet mir schon extrem viel Willenskraft, aufrecht stehenzubleiben."
 
     dg "Guten Abend, Mädchen."
 
-    "She greets them so casually, despite the intense glares directed her way.{w} Somehow...{w} I get the feeling she didn't leap off a freaking {i}roof{/i} just to exchange pleasantries."
+    "Sie begrüßt sie ganz lässig, als würde sie die beiden kennen.{w} Irgendwie ...{w} werd ich das Gefühl nicht los, dass sie nicht für diese Begrüßung von einem Dach gesprungen ist."
 
     h "...Lass uns der auf Jagd gehen, sollen wir?{w} Wer bist du, und was willst du?"
 
@@ -1771,14 +1771,14 @@ label explanationover:
 
     dg "Bist du nicht mein feinlicher Haufen?"
 
-    "She lets out a devious giggle, doing little to ease the tension in the air."
+    "Sie kichert und versucht nichts, die Spannung, die in der Luft liegt, zu beseitigen."
 
     dg "Sehr Gut.{w} Du kannst mich Yuzuki nennen.{w} was ich mein ist später...{w} Gut..."
 
     $ yuzuface='joking'
     show Yuzuki
 
-    "Her eyes flit from the girls and settle straight onto me, her smile enough to send a chill down my spine."
+    "Die Augen der Mädchen richten sich plötzlich alle auf mich. Irgendwie wird das immer merkwürdiger ..."
 
     y "Ich werde den Jungen nehmen, wenn es dir nichts ausmacht.{w} Siehst du, er ist {i}sehr{/i} wichtig für mich."
 
@@ -1791,16 +1791,16 @@ label explanationover:
 
     "...!"
 
-    "I knew it.{w} Of course she would be linked to this whole mess.{w} Why wouldn't she be?"
+    "Ich wusste es.{w} Natürlich hat sie was mit diesem Schlamassel zu tun.{w} Warum auch nicht?"
 
-    "Today is the day where everything apparently wants me dead."
+    "Heute ist wohl der Tag, an dem ich alles und jeder anscheinend tot sehen will."
 
     $ hikaface='normal'
     $ sayaface='normal'
     show Hikari
     show Sayaka
 
-    "Sayaka and Hikari refuse to comply.{w} I mean, of course they wouldn't.{w} They wouldn't be very good guardian angels if they had just stepped aside for this maniacal girl."
+    "Sayaka und Hikari sind aber dagegen.{w} Aber das hoffe ich auch.{w} Ansonsten wären sie auch keine 'Schutzengel'."
 
     $ yuzupose='magical_1'
     $ yuzuface='happy'
