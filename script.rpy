@@ -2067,19 +2067,19 @@ label explanationover:
     
     y "Jetzt sind sie aus dem Weg...{w} Lass uns ein bisschen Spass haben, sollen wir?"
 
-    "{i}Thump.{w} Thump.{w} Thump.{/i}{w} My heart is going to rip out of my chest at this rate."
+    "{i}Klopf.{w} Klopf.{w} Klopf.{/i}{w} Wenn das so weitergeht, springt mein Herz noch aus meinem Körper."
 
-    "I should run.{w} But I can't.{w} Why can't I run?{w} My body isn't listening to anything I tell it at all."
+    "Ich sollte wegrennen.{w} Aber ich kann nicht.{w} Warum kann ich nicht?{w} Ich habe überhaupt keine Kontrolle mehr über meinen Körper."
 
-    "The distance between us is almost gone.{w} Is she going to kill me?{w} ...Why me?{w} What did I ever do to deserve this?!{w} I mean, as far as I know, I've lived a normal, peaceful life."
-
-
-
-    "The closer she gets, the more vivid my headache becomes.{w} The air around me is heavy, suffocating.{w} Even the simple act of taking in a breath is becoming too much for me in this state."
+    "Der Abstand zwischen uns ist gleich Null.{w} Wird sie mich umbringen?{w} ...Warum mich?{w} Womit hab ich das bloß verdient?!{w} Ich mein, bis vor kurzem hab ich noch ein ganz normales Leben geführt."
 
 
 
-    "Her amber eyes narrow.{w} She tightens her grip on her scythe."
+    "Je näher sie kommt, desto stärker werden meine Kopfschmerzen.{w} Die Luft um mich herum ist erdrückend.{w} Selbst der einfache Akt des Atmens fällt mir in diesem Zustand viel zu schwer."
+
+
+
+    "Ihre bernsteinfarbenen Augen werden schmaler.{w} Sie packt ihre Sense immer stärker."
 
     p "W--...{w}Warum ...?"
 
@@ -2093,7 +2093,7 @@ label explanationover:
 
     y "Jetzt.{w} Sag Gute Nacht."
 
-    "She lashes at me like lightning, a clear intent to kill.{w} I can't even lift my arms to try and defend myself.{w} It's...it's over."
+    "Mit einer klaren Absicht, mich zu töten, stürmt sie blitzartig auf mich zu.{w} Ich kann nicht einmal meine Arme heben, um mich zu verteidigen.{w} Das ... Das war's dann wohl."
 
     $ yuzuface='shocked'
     show Yuzuki
@@ -2101,7 +2101,7 @@ label explanationover:
     hide Yuzuki
     with dissolve
 
-    "Right before the wicked blade comes into contact with me, a bright bolt of what I can only assume is magic whizzes in from the side and catches the girl off-guard, knocking her off balance and prolonging my life for just a little while longer."
+    "Kurz bevor mich die Klinge berührt, erscheint ein heller Lichtstrahl von der Seite, der das Mädchen augenscheinlich überascht und sie ins Wanken bringt."
 
     $ sayaface='angry'
     $ hikaface='normal'
@@ -2109,7 +2109,7 @@ label explanationover:
     show Hikari at right
     with dissolve
 
-    "Looking back over at what was once a disaster zone, it appears that Hikari and Sayaka are finally back on their feet.{w} Sayaka has her hand outstretched, plumes of smoke rising from the tips of her fingers.{w} I guess I owe her one here."
+    "Mit einem Blick auf die Stelle, auf der Hikari und Sayaka lagen, sehe ich, dass die beiden wieder auf ihre Beine gekommen sind.{w} Sayaka hat ihre Hand ausgestreckt und lässt Rauchwolken aus ihren Fingern aufsteigen.{w} Da bin ich ihr wohl was schuldig."
 
     $ sayaface='normal'
     show Sayaka
@@ -2127,13 +2127,13 @@ label explanationover:
     hide Sayaka
     with dissolve
 
-    "While our opponent is still reeling from the attack, my saviours take this opportunity to dash toward me, each of them hooking an arm around me as their weapons shatter into crystals and begin reforming into familiar wings upon their backs."
+    "Während sich unsere Gegnerin von diesem Angriff noch immer zu erholen scheint, nutzen meine Retter diese Möglichkeit, um sich bei mir neu zu formieren. Gleichzeitig lösen sich langsam ihre Waffen aus und setzen sich auf ihren Rücken wieder zu Flügeln zusammen."
 
     p "W-Wartet, was macht ihr?"
 
     s "Hold on tight, okay?"
 
-    "Before I can protest any further, they both kick off of the ground, and we...{w}begin to ascend.{w} Up.{w} Into the air.{w} We're...{w}we're flying.{w} We're actually flying."
+    "Bevor ich noch irgendein Wort sagen konnte, heben beide vom Boden ab und ...{w} steigen auf.{w} Hinauf.{w} In die Luft.{w} Wir ...{w} Wir fliegen.{w} Wir FLIEGEN verdammt nochmal."
 
     p "Was?!{w} Hey, nein, lasst mich runter!{w} Können wir nicht einfach weglaufen?!"
 
@@ -2145,13 +2145,13 @@ label explanationover:
 
     h "Hey, wag es nicht, oder du wirst dir wünschen, du wärst noch da unten bei diesem Freak eines Mädchens!"
 
-    "We continue to trail through the sky, bursting through the clouds as if it were nothing."
+    "Wir ziehen weiter durch den Himmel und durchdringen die Wolken, als ob es das Natürlichste der Welt wäre."
 
-    "The wind roaring past me, the glimmering city lights below, the...{w}the turbulence from being carried by the pair...{w} It's all so nauseating.{w} I really don't know if I can stand much more of this."
+    "Der Wind weht an mir vorbei, unten in der Stadt flimmern die Lichter und ...{w} die Unruhe, die sich ergibt, da ich von den beiden getragen werde ...{w} Mir wird schlecht.{w} Ich weiß nicht, ob ich das noch viel länger ertragen kann."
 
     s "Do you think we lost her?"
 
-    "Slowing to a gentle hover, and keeping me firmly in their grip--I hope, at least--they throw a glance over their shoulders only just now being able to catch a breath."
+    "Sie schalten um zu einem sanften Schwebeflug und halten mich fest in der Hand - hoffe ich zumindest - ehe sie sich kurz umdrehen, um zu bemerken, dass sie fürs Erste ein wenig durchatmen können."
 
     h "Ich denke schon.{w} ...Ich kann nicht glauben, dass wir fliehen mussten."
 
@@ -2159,13 +2159,13 @@ label explanationover:
 
     h "Ugh.{w} Nenn es so wie du willst, aber wir hatten Glück dass wir unsere Köpfe intakt gehalten haben."
 
-    "...Silence takes over the pair as they fall into thought."
+    "...Während das Paar in Gedanken versinkt, übernimmt die Stille das Geschehen."
 
     p "Also, äh ..."
 
     s "Huh?{w} Kenta?{w} Oh, I'd almost forgotten about you, sorry!"
 
-    "That's a bit worrying...{w} Considering you're the only thing keeping me from falling to a painful and gruesome death!"
+    "Das macht mir ein bisschen Angst ...{w} Wenn man bedenkt, dass ihr die einzigen seid, die mich vor einem schmerzhaften und grausamen Tod bewahren!"
 
     s "You're not hurt, are you?"
 
@@ -2177,9 +2177,9 @@ label explanationover:
 
     s "Right, right.{w} I think it's safe now.{w} Down we go!"
 
-    "We begin to descend, from out of the clouds, and it isn't long before my feet finally come into contact with the ground again.{w} The safe, wonderful ground!{w} I have to restrain myself from wanting to kiss it."
+    "Aus den Wolken heraus beginnen wir einen langsamen Sinkflug, und es dauert nicht lange, bis ich unter meinen Füßen wieder festen Boden spüre.{w} Ich muss mich echt davon abhalten, ihn nicht gleich zu küssen."
 
-    "I collapse onto my knees, my stomach heaving.{w} Never again.{w} Flying just isn't for me."
+    "Mit einem schweren Magen falle ich auf meine Knie.{w} Nie wieder.{w} Ich bin echt nicht fürs Fliegen gemacht."
 
     $ sayaface='scared'
     show Sayaka at center
@@ -2190,14 +2190,14 @@ label explanationover:
 
     "Sayaka gives me a solid pat on the back, which does little in the way of helping my stomach."
 
-    p "...Hör auf ..."
+    p "...Hört auf ..."
 
     $ sayaface='smiling'
     show Sayaka
 
     s "Hmm?"
 
-    "I can barely get my words out, after such a traumatic experience!{w} I take in a deep breath and try again."
+    "Ich finde kaum Worte, nachdem ich diese traumatische Erfahrung gemacht habe!{w} Ich hole tief Luft und versuche es noch einmal."
 
     p "Macht das ja nicht noch einmal.{w} Zumindest nicht, ohne mich vorher zu fragen!"
 
@@ -2211,13 +2211,13 @@ label explanationover:
 
     with hpunch
 
-    "Hikari takes her turn to pat me on the back.{w} Though, it's more of a thump than anything, like a punch.{w} Urff..."
+    "Hikari klopft mir auf den Rücken.{w} Obwohl, gemessen an der Kraft, die sie einsetzt, ist es schon eher ein Schlag.{w} Uff ..."
 
     h "Glaubst du, ich hab es genossen dich so lange festzuhalten?"
 
     p "Okay, okay, ich versteh schon.{w} Hört bloß auf ...{w} mich zu tätscheln.{w} Urghh ..."
 
-    "Sayaka circles around and bends forward to look at me, concern across her face."
+    "Sayaka kreist umher und beugt sich nach vorne, um mich besorgt anzusehen."
 
     $ hikaface='normal'
     $ sayaface='shocked'
@@ -2228,12 +2228,12 @@ label explanationover:
 
     p "Ach, echt jetzt? Wie kommst du darauf?"
 
-    "I take a moment before finally straightening myself up.{w} Okay.{w} I think I'm good now."
+    "Ich brauche eine Weile, um mich wieder ordentlich aufrichten zu können.{w} Okay.{w} Ich denke, es geht wieder."
 
     $ sayaface='normal'
     show Sayaka
 
-    "While I was recovering, it looks like Sayaka and Hikari were keeping guard, watching deep into the night for any signs of life.{w} But, it looks like they weren't bothered enough to pursue.{w} Weird."
+    "Während ich mich erholte, sah es so aus, als hätten Sayaka und Hikari bis tief in die Nacht Wache gehalten.{w} Aber es sieht so aus, als sie die Verfolgung nicht aufnehmen möchten.{w} Komisch."
 
     p "Okay, ich weiß, dass ich euch seit unserem ersten Treffen nur Fragen gestellt hab, aber--"
 
@@ -2248,7 +2248,7 @@ label explanationover:
     show Hikari
     with dissolve
 
-    "...Whoops.{w} I might have said the wrong thing here.{w} They both turn to me, fire in their eyes.{w} Even Sayaka, who I thought was pretty easy going, seems angry at me here."
+    "...Ups.{w} Da hab ich wohl was Falsches gesagt.{w} Sie drehen sich beide mit Feuer in den Augen zu mir.{w} Selbst die sonst so lockere Sayaka scheint jetzt wütend auf mich zu sein."
 
     h "Hast du uns damit verglichen...{w}dem Ding?!"
 
