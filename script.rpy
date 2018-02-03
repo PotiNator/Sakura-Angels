@@ -2051,11 +2051,11 @@ label explanationover:
 
     h "D-Du bist so ein Wilder!"
 
-    "This is a complete disaster..."
+    "Das ist eine totale Katastrophe ..."
 
     stop music fadeout 1.0
 
-    "With my supposed guardians still trying to sort themselves out, I'm left helpless as Yuzuki advances towards me.{w} She takes slow, deliberate steps, almost as if she was enjoying the look of sheer terror across my face."
+    "Da meine vermeintlichen Wächter noch immer versuchen, wieder auf die Beine zu kommen, bin ich der auf mich zukommenden Yuzuki hilflos ausgeliefert.{w} Sie macht langsame und kleine Schritte und hinterlässt bewusst den Anschein, als würde sie meine Furcht genießen."
 
     scene town street night
     $ yuzupose='magical_2'
