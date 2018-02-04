@@ -2263,7 +2263,7 @@ label explanationover:
     $ hikaface='scared'
     show Hikari
 
-    "Hikari wraps her arms around herself to fight off a shiver."
+    "Hikari wickelt ihre Arme um sich selbst, um ein Frösteln abzuwehren."
 
     h "Schon allein an sie zu denken, macht mir Angst."
 
@@ -2293,16 +2293,16 @@ label explanationover:
 
     s "With her though, it's like it was just..."
 
-    "She falls silent, deep in thought.{w} Man, I really don't get any of this.{w} All I know, is that apparently those monsters aren't the only thing I have to fear now."
+    "Tief in Gedanken versunken verstummt sie.{w} Mein Gott, ich versteh kein bisschen.{w} Ich weiß nur, dass diese Monster nicht das einzige sind, vor dem ich mich fürchten muss."
 
-    "Apparently done thinking, Sayaka snaps back into reality and grins."
+    "Anscheinend fertig mit dem Nachdenken, kommt Sayaka wieder zurück zur Realität und lächelt."
 
     $ sayaface='smiling'
     show Sayaka
 
     s "I think we've had enough excitement for one day, anyway.{w} How about we get you home now?"
 
-    "She reaches out to take a hold of my arm, but I'm one step ahead and jump back.{w} I can already tell what she had in mind!"
+    "Sie streckt ihre Hand aus, um mich am Arm zu nehmen, aber ich springe einen Schritt zurück.{w} Ich weiß schon, was sie vorhatte!"
 
     $ sayaface='shocked'
     show Sayaka
@@ -2316,77 +2316,77 @@ label explanationover:
 
     s "Aww.{w} If you're sure.{w} It's much safer in the skies, though."
 
-    "Like hell it is!{w} I was lucky I didn't have a heart attack when they were dragging me through the clouds like that."
+    "Natürlich!{w} Ich kann froh sein, dass ich beim letzten Mal keinen Herzinfarkt bekommen hab."
 
-    "Completely shattered after all the events of today, we start the journey back home."
+    "Völlig erschüttert nach all den Ereignissen von heute, machen wir uns auf den Weg nach Hause."
 
 
     stop music fadeout 4.0
     scene bg black
     with fade
 
-    "It isn't long before we arrive back at my house.{w} And I can happily say we ran into no more monsters or crazy scythe wielding girls along the way.{w} ...I can't believe I even have to take them into consideration now.{w} What has my life become?!"
+    "Es dauert nicht lange, bis wir bei mir ankommen.{w} Und ich kann mit Freude sagen, dass wir keine Monster oder Mädchen mit Sensen mehr begegnet sind.{w} ... Ich kann nicht glauben, dass ich mich jetzt jeden Tag darum sorgen muss.{w} Was ist nur aus meinem Leben geworden?!"
 
-    "Reaching the front door of my house however, I'm posed with a problem.{w} These two girls insist on protecting me, and were just about to follow me straight into my house before I realised they were still there."
+    "Als ich die Haustüre erreiche, werde ich jedoch vor einen Problem gestellt.{w} Diese beiden Mädchen bestehen darauf, mich zu beschützen, und waren gerade dabei, mich nach drinnen zu begleiten ... In MEIN Zuhause."
     play music "bgm/ominousintro.ogg"
     queue music "bgm/ominousloop.ogg"
-    "Somehow I get the idea my parents might be opposed to me bringing in two complete strangers.{w} Girls, at that.{w} Plus that would just lead to a whole new line of questions from them, and I'd rather not get them involved into this mess too."
+    "Irgendwie hab ich das Gefühl, als wären meine Eltern nicht wirklich damit einverstanden.{w} Es sind schließlich Mädchen.{w} Außerdem würde das nur noch mehr Fragen aufwerfen, und darüber hinaus will ich meine Eltern nur ungern da mitreinziehen."
 
-    "So, it took a while, and a {i}lot{/i} of negotiating--and I really mean a lot, I was pretty much on my knees at one point--but I was able to persuade them that I would be perfectly safe in my house."
+    "Es dauerte also eine Weile und {i}jede Menge{/i} Verhandlungsgeschick, aber letztendlich konnte ich sie doch irgendwie überzeugen, dass ich zu Hause in Sicherheit bin."
 
-    "They finally withdrew for the night, giving me some much needed room to breathe.{w} They did say they wouldn't be too far away, though, if I ever needed them...{w}and that worries me."
+    "Schlussendlich zogen sie sich für die Nacht zurück und gaben mir dadurch etwas Zeit für mich selbst.{w} Wobei sie gesagt haben, sie wären nicht allzu weit weg, sollte etwas sein ...{w} und das bereitet mir Sorgen."
 
     scene kitchen night
     with fade
 
-    "I close the front door and almost collapse against it with a drawn out sigh, any borrowed strength I might have had up until this point draining from me completely."
+    "Ich schließe die Türe und kollabiere fast, da mich selbst die letzte Kraft, die ich noch irgendwie aufbringen konnte, anscheinend verlassen hat."
 
     p "Was für ein Tag."
 
-    "My head aches.{w} My arms throb.{w} My legs feel like they're about to give way.{w} I can't believe I'm even still standing after all that."
+    "Mein Kopf und meine Arme tun weh.{w} Meine Beine fühlen sich an, als würden sie jeden Augenblick den Geist aufgeben.{w} Ich kann nicht glauben, dass ich noch immer stehen kann."
 
-    "The smell of food is heavy in the air, the aroma enough to make my mouth water.{w} Oh.{w} Right.{w} I think I had forgotten to eat today.{w} I should probably fix that, if I want any chance in surviving what tomorrow might bring me."
+    "Der Geruch von Essen liegt und in der Luft und das reicht aus, um mir das Wasser im Mund zusammenlaufen zu lassen.{w} Ah.{w} Genau.{w} Ich hab heute noch gar nichts gegessen.{w} Wenn ich den morgigen Tag überleben will, sollte ich das schnellstmöglich nachholen."
 
-    "Apparently I'm just in time, as the food is all set on the table, with my parents about to dig in."
+    "Anscheinend bin ich gerade noch rechtzeitig, da meine Eltern gerade das Essen hergerichtet haben."
 
-    "This short window of time in the evening is really the only chance I ever get to see my parents outside of the holidays.{w} So I usually cherish these dinners, and try to engage with them as best I can."
+    "Dieses kurze Zeitfenster am Abend ist die einzige Chance, mit meinen Eltern zu essen - abgesehen von Ferien.{w} Aus dem Grund schätze ich jedes dieser Abendessen und versuche ihnen immer Gesellschaft zu leisten."
 
-    "But today I can hardly even get a word out.{w} I sort of just, grunt in their direction before I collapse into the dining chair."
+    "Aber heute kann ich kaum noch ein Wort aussprechen.{w} Und grunze - zumindest hört es sich danach an - gerade mal in Richtung, ehe ich in den Stuhl falle ."
 
-    "As the meal goes on, the usual questions come up between us, such as how our days had went, and if I had been up to much.{w} ...Hah.{w} Despite looking completely shattered, I say it was just like any other day."
+    "Während das Essen andauert, tauchen die üblichen Fragen auf, wie zum Beispiel der Tag war.{w} ... Hah.{w} Obwohl man mir meine Erschöpfung ansieht, sage ich, dass der Tag wie jeder andere war."
 
-    "I get concerned looks, but they don't have any reason to doubt me."
+    "Sie sehen mich besorgt an, aber sie haben keinen Grund, an mir zu zweifeln."
 
-    "Before long, dinner is finished.{w} And after several extra helpings, I can't think of anything better to do than to call it an early night.{w} I make myself excused and head for my room, my steps unsteady."
+    "Bald darauf geht das Abendessen zu Ende.{w} Und nach einigen Extraportionen, kann ich mir nichts Besseres vorstellen, als ins Bett zu springen.{w} Mit unsicheren Schritten gehe ich auf mein Zimmer."
 
     scene bedroom night
     with fade
 
-    "I drop onto my bed, face first, the mattress giving out a groan.{w} It can't be any later than 9PM, and already I want to sleep.{w} Is every day going to be like this from here on out?{w} I hope not."
+    "Mit dem Kopf voraus lasse ich mich ins Bett fallen.{w} Es ist maximal 21:00 Uhr und ich will schon schlafen.{w} Werden meine zukünftigen Tage alle so ablaufen?{w} Ich hoffe nicht."
 
-    "While I could just as easily fall asleep in the current position I'm in, there's probably a good risk I might suffocate, so I guess I might as well do things the proper way.{w} If I have to.{w} Ugh."
+    "Obwohl ich in dieser Position ohne Probleme einschlafen könnte, besteht dennoch die Gefahr, dass ich ersticke, von daher sollte ich mich besser anders hinlegen.{w} Ugh."
 
-    "I push up off of the bed and go to close the curtains."
+    "Ich zwinge mich irgendwie vom Bett auf und ziehe die Vorhänge zu."
 
     "..."
 
-    "Huh.{w} Maybe I already fell asleep."
+    "Hm.{w} Vielleicht bin ich schon eingeschlafen."
 
-    "As I went to close the curtains, my eyes are drawn to an amber glow down in my garden.{w} A fire.{w} A campfire, to be precise.{w} I'll give you three guesses as to who that campfire belongs to."
+    "Als ich die Vorhänge schließe, werden meine Augen von einem bernsteinfarbenen Leuchten im Garten angezogen.{w} Ein Feuer.{w} Ein Lagerfeuer, um genau zu sein.{w} Du hast drei Möglichkeiten, um zu erraten, zu wem das Feuer gehört."
 
-    "Yup.{w} The two 'magical' girls."
+    "Jup.{w} Die beiden 'magischen' Mädchen."
 
-    "Sayaka and Hikari seem to have taken it upon themselves to set up a little base camp in my back garden, complete with a tent and fire.{w} I guess when they said they'd be close by, they {i}really{/i} meant close by."
+    "Sayaka und Hikari scheinen es sich in meinem Garten gemütlich gemacht zu haben, so richtig mit Zelt und Lagerfeuer.{w} Als sie gesagt haben, sie wären in meiner Nähe, dachte ich nicht, dass sie {i}so{/i} nah sind."
 
-    "I think they're trying to cook something, going by the pan over the fire.{w} I didn't realise their lives were so rough, with how glamorous they generally look."
+    "Gemessen an der Pfanne über dem Feuer, schätze ich, dass sie versuchen, etwas zu kochen.{w} Mir war nicht klar, dass ihr Leben so hart war, wenn man bedenkt, wie glamourös sie aussehen."
 
-    "Oh, they saw me.{w} Sayaka gives an enthusiastic wave my way, taking her eyes off the pan.{w} Yeah, okay, hi.{w} I give a feeble wave back."
+    "Ah, sie haben mich gesehen.{w} Sayaka winkt mir enthusiastisch zu und nimmt dabei die Augen von der Pfanne.{w} Ja, okay, hi.{w} Ich winke halbherzig zurück."
 
-    "Somehow I get the feeling I should be worrying about this far more than I am.{w} But.{w} Whatever.{w} This can wait until tomorrow."
+    "Irgendwie habe ich das Gefühl, dass ich mir darüber mehr Sorgen machen sollte, als ich es tu.{w} Aber.{w} Scheiß drauf.{w} Das kann bis morgen warten."
 
-    "I draw the curtains shut, right as whatever Sayaka was cooking in the pan ignites into a tremondous fire.{w} I can just about hear Hikari's cry of terror through the window panes."
+    "Ich ziehe die Vorhänge genau in dem Moment zu, in dem sich unter der Pfanne ein gewaltiges Feuer entfacht.{w} Ich kann Hikaris Schrei des Entsetzens durch das Fenster hören."
 
-    "Letting out one final, mighty yawn, I flop backwards onto my bed, and it's not long before whatever semblance of consciousness I might have had left drifts into the night."
+    "Mit einem letzten, großen Gähner, falle ich rückwärts auf mein Bett, und es dauert nicht lange, bis ich vollständig ins Land der Träume versinke."
     stop music fadeout 4.0
     scene bg black
     with fade
@@ -2399,13 +2399,13 @@ label explanationover:
     with wake
     play music "bgm/everydayintro.ogg"
     queue music "bgm/everydayloop.ogg"
-    "Streams of light filter in from the curtains, rousing me out of sleep that I wanted to last forever."
+    "Lichtströme dringen durch den Vorhang zu mir durch und holen mich aus meinem so heiß ersehnten Schlaf."
 
     p "Blughh ..."
 
-    "I have half a mind to just turn over and wrap myself tighter in my blanket, but I guess I have enough to worry about right now without adding 'being late to school' on top of everything else."
+    "Mein halber Verstand sagt mir, ich solle mich einfach umdrehen und weiterschlafen, aber die andere Hälfte macht sich bereits Sorgen darüber, ob ich nicht zu spät in die Schule komme."
 
-    "Let's...{w}tackle the day.{w} I guess."
+    "Gehen ...{w} wir's an.{w} Zumindest so gut wie möglich."
 
     with hpunch
 
