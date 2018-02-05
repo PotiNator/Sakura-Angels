@@ -2472,7 +2472,7 @@ label explanationover:
 
     h "Wie siehts wohl aus, du Genie?!{w} Jetzt geh weg!"
 
-    "Her face is beet red.{w} She's practically trembling with anger, though still frozen in place.{w} But how am I the one at fault here?"
+    "Ihr Gesicht ist knallrot.{w} Sie bebt fast schon vor Wut, obwohl sie immer noch wie eingefroren am selben Fleck steht.{w} Aber warum bin ich hier der Schuldige?"
 
     p "Hey, werd jetzt bloß nicht wütend!{w} Ich kann mich nicht erinnern, dass ich euch die Erlaubnis gegeben hab, mein Haus zu betreten.{w} Und erst recht nicht meine Dusche!"
 
@@ -2486,16 +2486,16 @@ label explanationover:
 
     p "Okay, aber könntest du ...{w} Äh ..."
 
-    "Her eyes give off a dangerous glow, the room rumbling ever so slightly with a frightening power.{w} ...Uh, I guess this can wait until afterwards.{w} If I want to keep my house intact, at least."
+    "Ihre Augen leuchten gefährlich und im Badezimmer poltert es durch diese erschreckende Kraft förmlich.{w} ... Äh, ich schätze, das kann warten.{w} Zumindest, wenn ich mein Haus noch länger haben möchte."
 
     p "O-Okay, okay!{w} Es tut mir leid ...{w} Wirklich!"
 
-    "Flashing an apologetic smile and laughing nervously, I bring the door to a close once more.{w} As demonstrated last night, sometimes retreating is the best course of action."
+    "Mit einem entschuldigenden Lächeln schließe ich nervös wieder die Tür.{w} Wie sich gestern herausgestellt hat, ist der Rückzug manchmal die beste Entscheidung."
     stop music fadeout 3.0
     scene bg black
     with fade
 
-    "Well.{w} After that little, uh, 'situation'--I find myself downstairs, both of the girls present."
+    Nun.{w} Nach dieser kleinen, äh, 'Situation', finde ich mich unten wieder - in der Gegenwart der beiden Mädchen."
 
     scene kitchen day
     $ sayapose='school_1'
@@ -2508,13 +2508,13 @@ label explanationover:
     play music "bgm/everydayintro.ogg"
     queue music "bgm/everydayloop.ogg"
 
-    "Sayaka has the same cheerful grin as ever, while Hikari looks like she wants to grab the nearest sharp object she can find and gut me with it.{w} Again--that wasn't my fault, how was I supposed to know?!"
+    "Sayaka grinst so fröhlich wie immer, während Hikari so aussieht, als wolle sie nach dem nächstgelegenen, scharfen Objekt greifen und mich in Stücke schneiden.{w} Ich sag's noch einmal ... WARUM ist das meine Schuld?!"
 
     p "So ...{w} Findet ihr nicht, dass ihr mir eine Erklärung schuldig seid?"
 
     s "Hmm?"
 
-    "She tilts her head, giving me a confused look.{w} Oh, come on!{w} How can I be the only one to find something strange with this?"
+    "Sie neigt den Kopf zur Seite und sieht mich verwirrt an.{w} Och, jetzt komm schon!{w} Wie kommt's, dass ich der einzige bin, der das als merkwürdig empfindet?"
 
     p "Na ja, ich mein ...{w} Was macht ihr bei mir Zuhause?{w} Und warum benutzt ihr mein Eigentum!?"
 
@@ -2537,7 +2537,7 @@ label explanationover:
 
     p "WIE BITTE?!"
 
-    "I quickly throw a glance about, looking for any windows in sight.{w} No trace of a break in at least...{w} Jeez, what did they do, throw a brick through one?{w} I thought people who knew magic would be more subtle!"
+    "Ich werfe schnell einen Blick auf alle sichtbaren Fenster.{w} Zumindest ist keines kaputt ...{w} Mein Gott, haben sie etwa einen Stein durch irgendein Fenster geworfen?{w} Und ich dachte, Leute, die die Magie beherrschen, wären schlauer!"
 
     s "See?{w} It's all good."
 
@@ -2546,9 +2546,9 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    "She tries her best to reassure me with her limitless optimism, her hands on her hips with a blinding smile.{w} I can't say I mirror her enthusiasm though."
+    "Sie versucht ihr Bestes, um mich mit ihrem grenzenlosen Optimismus zu beruhigen.{w} Ich kann aber nicht behaupten, dass ich diesen Optimismus mit ihr teile."
 
-    "I bring a palm to my forehead, a headache beginning to set in.{w} And for once, I know the cause of this one."
+    "Kurz darauf breiten sich auch wieder Kopfschmerzen aus.{w} Und ausnahmsweise kenne ich die Ursache dieses Mal."
 
     p "Ist das echt nötig?{w} Könnt ihr euch nicht einfach, ihr wisst schon, sauber zaubern, oder so?"
 
@@ -2559,24 +2559,24 @@ label explanationover:
 
     "..."
 
-    "I get cold stares from both of them.{w} ...I said the wrong thing again, didn't I?"
+    "Sie starren mich beide kalt an.{w} ... Ich hab schon wieder was Falsches gesagt, oder?"
 
     h "Kenta, deine Magie ist nicht einfach nur ein bequemes Werkzeug, dass wir es sorglos im Altag benutzen können!"
 
-    "Hikari finally speaks up again, having got over her mini-sulk."
+    "Hikari spricht endlich mal wieder und scheint über ihre üble Laune hinweg zu sein."
 
     h "Es brauch schon viel Energie, um etwas einfaches wie Fliegen zu tun .{w} Und wir müssen immer sicherstellen, das wir genung Energie auf Reserve haben, im Falle eines Überaschungsangriff wie letzte Nacht."
 
     h "Glaubst du wirklich, es wäre eine kluge Idee, diese kostbare Energie auf etwas zu verschwenden, das mit einer Dusche so leicht gemacht werden kann?"
 
-    "Fair point.{w} But, what I'm getting out of this is..."
+    "Da hat sie recht.{w} Was ich da aber raushöre ..."
 
     p "Ihr wollt damit also sagen, ihr {i}könntet{/i} es?"
 
     $ hikaface='angry'
     show Hikari
 
-    "Her eyes narrow.{w} She takes in a deep breath, her cheeks puffing out dangerously.{w} Why do I suddenly fear for my ears?"
+    "Ihre Augen verengen sich.{w} Sie holt tief Luft und bläst ihre Wangen bedrohlich weit auf.{w} Warum sorge ich mich jetzt plötzlich um meine Ohren?"
 
     $ hikaface='joking'
     show Hikari
@@ -2586,11 +2586,11 @@ label explanationover:
     $ hikaface='normal'
     show Hikari
 
-    "She sighs instead, the air escaping her in one long, drawn out breath of defeat.{w} My eardrums are safe for another day.{w} Phew."
+    "Stattdessen seufzt sie nur.{w} Mein Trommelfell ist somit für einen weiteren Tag in Sicherheit.{w} Puh."
 
     with Pause(3.5)
 
-    "I catch a glance at the clock on the wall.{w} All this drama has really eaten into my free time before school.{w} If I don't start breakfast now, there'll be no way I'll make it in time."
+    "Ich werfe einen Blick auf die Uhr.{w} Dieses ganze Drama hat echt viel Zeit gekostet.{w} Wenn ich jetzt nicht bald was esse, schaffe ich es nie rechtzeitig in die Schule."
 
     p "Dann macht doch, was ihr wollt.{w} Ich mach erstmal was zu futtern."
 
