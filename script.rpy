@@ -2409,30 +2409,30 @@ label explanationover:
 
     with hpunch
 
-    "I roll out from under the covers, and crash to the floor with the grace of a sloth.{w} Ow."
+    "Ich rolle unter der Decke hervor und falle mit dem Anmut eines Faultiers auf den Boden.{w} Autsch."
 
-    "On top of everything else still aching from yesterday, my head thumps once more, right on schedule.{w} I really wish it would cut me a break.{w} Just this one time!"
+    "Zusätzlich zu dem, was mir gestern schon weh getan hat, tut mir nun auch noch der Kopf weh.{w} Ich wünsche mir nichts sehnlicher als eine Pause.{w} Nur dieses eine Mal!"
 
-    "Starting from a crawl along the floor, and gradually pulling myself up into a walk as if I was evolving in real time, I tug the curtains open."
+    "So als würde ich die Evolution der Menschheit nachholen, entwickle auch ich mich weiter - was mit dem Kriechen am Boden angefangen hat, endet in einem leichten Spaziergang."
 
-    "Huh.{w} I look down at the garden to find it completely empty.{w} Not a trace of a fire, the tent, or the girls.{w} Maybe I really was dreaming last night?"
+    "Hm.{w} Ich sehe in den Garten und sehe nichts.{w} Kein Feuer, kein Zelt, und auch keine Mädchen.{w} Vielleicht hab ich das letzte Nacht alles nur geträumt?"
 
-    "I mean, they couldn't really be as stupid as to camp in plain sight like that.{w} The fire alone would be enough for the police to be brought down!"
+    "Ich mein, die sind doch sicherlich nicht so dämlich und übernachten direkt in meinem Garten.{w} Das Feuer allein wär schon Grund genug, die Polizei einzuschalten!"
 
-    "That's one less thing for me to stress about at least.{w} Thank god."
+    "Eine Sorge weniger, um die ich mich kümmern muss.{w} Gott sei Dank."
 
-    "Right!{w} I better not waste any more time, or I'm going to miss my chance to have a proper breakfast like yesterday."
+    "Genau!{w} Ich darf keine Zeit verschwenden, sonst verpasse ich noch meine Chance auf ein ordentliches Frühstück."
 
-    "Pawing at the dust around my eyes, I start for the bathroom.{w} A nice, hot shower should do wonders."
+    "Ich reibe mir meine Augen und gehe ins Badezimmer.{w} Eine schöne, heiße Dusche am Morgen soll ja Wunder bewirken."
 
-    "I pull open the door to the bathroom and--"
+    "Ich öffne die Tür zum Badezimmer und--"
 
     scene cg3
     with wake
 
     p "Wa ..."
 
-    "The bathroom is occupied."
+    "Das Badezimmer ist besetzt."
 
     h "W-Was zum Teufel gaffst du hier?{w} Schließ die Tür!"
 
@@ -2441,22 +2441,22 @@ label explanationover:
     scene bg black
     with fade
 
-    "I slam the door back shut, my heart an erratic mess.{w} That was a close one."
+    "Völlig durcheinander knall ich die Tür wieder zu.{w} Das war echt knapp."
 
-    "...Wait a second.{w} Something isn't adding up here."
+    "...Warte mal 'ne Sekunde.{w} Irgendwas stimmt hier nicht."
 
     scene cg3
     with dissolve
 
-    "I swing open the door again, the sight taking away my breath once more, even though I already knew what to expect."
+    "Ich öffne die Tür noch einmal und der Anblick raubt mir den Atem ... Und das, obwohl ich schon wusste, was mich erwartet ..."
 
     h "Ahh!{w} Was machst du jetzt?!{w} Du Perversling!"
 
-    "I knew it!{w} It {i}is{/i} Hikari!{w} An, uh...{w}rather under-dressed Hikari at that.{w} She's caught like a deer frozen in headlights, her entire body tensing up in a near statuesque pose."
+    "Ich wusst ees!{w} Es {i}ist{/i} Hikari!{w} Eine, äh ...{w} eher unangemessen gekleidete Hikari noch dazu.{w} Sie ist genauso überrascht wie ein Reh, das von einem Scheinwerfer angeleuchtet wird."
 
-    "She's down to her rather extravagant underwear, if you don't count the socks she was in the process of taking off.{w} Huh, they match and everything."
+    "Schenkt man den Socken, die sie gerade auszieht, keine Aufmerksamkeit, trägt sie nur ihre extravagante Unterwäsche.{w} Hm, das passt echt alles zusammen."
 
-    "With how she's bent forwards like this, my eyes can't help but gravitate to her rather ample--"
+    "So wie sie sich nach vorne beugt, können meine Augen nicht anders, als auf ihre--"
 
     with hpunch
 
@@ -2464,7 +2464,7 @@ label explanationover:
 
     p "H-Häh?"
 
-    "I'm snapped out of whatever daze I might have been in by her shrill tone.{w} What...{w}what was I doing again?"
+    "Ihr schriller Ton reißt mich aus der Benommenheit, falls es überhaupt eine solche war.{w} Was ...{w} Was wollte ich nochmal machen?"
 
     h "Was machst du?! Mach jetzt endlich die Tür zu!"
 
