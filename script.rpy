@@ -2806,10 +2806,10 @@ label explanationover:
 
                     s "Really?{w} Yay, I knew it!{w} You should let us cook for you {i}every{/i} morning!"
 
-                    "Oh god.{w} What have I done?{w} And I still have an entire plate of this stuff left!{w} These girls are clearly the real danger to my health and well being right now."
-                "Refuse to eat the 'food'. I don't want to die!":
+                    "Oh Gott.{w} Was hab ich bloß getan?{w} Und von dem ganzen Zeug gibt's noch einen ganzen Teller voll!{w} Diese Mädchen sind für meine Gesundheit und für mein Wohlbefinden eindeutig eine Gefahr."
+                "Weigere dich, das zu essen. Ich möchte nicht sterben!":
 
-                    "Okay, yeah, no.{w} I have to make a stand here, or things are only going to get worse."
+                    "Okay, ja, also nein.{w} Ich muss hier endlich mal Stellung beziehen, sonst wird es nur noch schlimmer."
 
                     p "Schau, es tut mir leid, Sayaka, aber ich krieg das echt nicht runter."
 
@@ -2818,11 +2818,11 @@ label explanationover:
 
                     s "Huh?{w} Why not?"
 
-                    "She tilts her head to the side, a small frown beginning to grow on her face.{w} Great, make me feel like a monster why don't you!"
+                    "Sie neigt ihren Kopf zur Seite und sieht mich finster an.{w} Na großartig, wenn du mich jetzt auch noch wie ein Monster aussehen lässt!"
 
                     p "Es ist ...{w} na ja ...{w} wie soll ich sagen, ohne ausfällig zu werden?"
 
-                    "I give the toxic substance another look, sure that it's beginning to move of its own accord."
+                    "Ich sehe noch einmal zu der giftigen Substanz hin, in der Hoffnung, dass sie nicht noch aufsteht und von selbst abhaut."
 
                     p "Würde ich es essen, könnte ich heute nicht mehr zur Schule gehen.{w} Oder den Tag danach."
 
@@ -2835,14 +2835,14 @@ label explanationover:
 
                     s "Oh."
 
-                    "Her frown deepens.{w} I'm sorry.{w} It had to be done."
+                    "Sie blickt immer finsterer drein.{w} Tut mir leid.{w} Das musste einfach sein."
 
                     $ sayaface='normal'
                     show Sayaka
 
                     s "Are you sure?{w} It can't be {i}that{/i} bad."
 
-                    "Really?{w} Really?!{w} How could anyone defend this...{w}this...{w} I can't even call it food!"
+                    "Wirklich?{w} WIRKLICH?!{w} Wie kann man so was überhaupt in Schutz nehmen? ...{w}Etwas ...{w} das ja nicht mal aussieht wie Essen!"
 
                     p "Okay, warum probierst du dann nicht zuerst?"
 
@@ -2851,7 +2851,7 @@ label explanationover:
                     show Sayaka
                     with dissolve
 
-                    "She pulls a face.{w} I knew it."
+                    "Sie zieht ein langes Gesicht.{w} Wusst' ich's doch."
 
                     s "U-uhh, I already ate."
 
@@ -2870,7 +2870,7 @@ label explanationover:
 
                     h "E-eh?{w} Ich?!"
 
-                    "Hikari jumps as her name is called, still lurking quite a distance away from the 'food' that she had helped give life to."
+                    "Noch immer in auflauernder Position, springt Hikari plötzlich, als ihr Name in Zusammenhang mit dem Essen, bei dem sie mitgeholfen hat, es zum Leben zu erwecken, erwähnt wurde."
 
                     $ sayaface='smiling'
                     show Sayaka at left
@@ -2890,18 +2890,18 @@ label explanationover:
                     show Hikari
                     with dissolve
 
-                    "Sayaka thrusts a finger at the table with enough force that I think the plate rattled.{w} Yikes.{w} Despite the wide grin, though, I can't help but feel there's something sinister behind that."
+                    "Sayaka stößt kraftvoll mit einem Finger auf den Tisch.{w} Trotz des breiten Grinsens habe ich das Gefühl, als würde sich dahinter etwas Unheimliches verbergen."
 
                     h "...Fein."
 
-                    "She approaches the food slowly, each step taking longer than the next, as if she was marching to her death.{w} Actually, that might very well be a possibility here."
+                    "Sie nähert sich langsam dem Essen, wobei jeder Schritt länger dauert als der vorige.{w} Es hinterlässt den Anschein, als würde sie in den Tod marschieren ... Was ja durchaus an das Mögliche grenzt."
 
                     $ sayaface='happy'
                     show Sayaka
 
                     h "Wir haben es geschafft...{w}also kann es nicht so schlecht sein.{w} Es ist einfach nur ein bisschen ...{w}knusprig."
 
-                    "She outstretches a trembling hand towards the food, like it might bite her if she's not careful enough.{w} And then..."
+                    "Sie streckt eine zitternde Hand zum Essen hin aus ... So langsam, wie wenn das Essen beißen würde.{w} Und dann ..."
 
                     $ sayapose='school_1'
                     $ hikapose='school_1'
@@ -2911,23 +2911,23 @@ label explanationover:
                     show Hikari
                     with flash
 
-                    "A bolt of magic erupts from her palm and hits the food, disintegrating it completely.{w} Along with the plate.{w} ...And a good portion of the table."
+                    "...Dringt ein magischer Blitz aus ihrer Handfläche heraus, der das Essen vollständig zersetzt.{w} Leider auch den Teller.{w} ... Und ein gutes Stück vom Esstisch."
 
                     $ hikaface='joking'
                     show Hikari
 
                     h "Oops!{w} Ich bin ja so tolpatschig.{w} Meine Hand ist wohl...{w}ausgerutscht.{w} Was eine Schande!{w} Und ich habe mich schon {i}so{/i} gefreut alles zu essen."
 
-                    "...I'm pretty sure magic doesn't just 'slip'!{w} And wasn't she the one that said they can't waste it on trivial things?"
+                    "...Ich bin mir ziemlich sicher, die Hand ist dir nicht bloß 'ausgerutscht'.{w} Und war nicht sie diejenige, die gesagt hat, sie würde Magie nicht für belanglose Zwecke verschwenden?"
 
-                    "...Maybe it was an emergency in her eyes."
+                    "...Vielleicht war es in ihren Augen ja ein Notfall."
 
                     $ sayaface='scared'
                     show Sayaka
 
                     s "Hikari!"
 
-                    "Sayaka pulls another heartwrenching frown, but it doesn't last long before her usual optimism returns."
+                    "Sayaka schaut ein weiteres Mal böse drein, aber es dauert nicht lang, bis ihr gewohnter Optimismus zurückkehrt."
 
                     $ sayapose='school_2'
                     $ sayaface='happy'
@@ -2944,9 +2944,9 @@ label explanationover:
 
                     p "Nein!"
 
-                    "I bolt upright in my chair, almost taking it up with me in the process.{w} I don't think my house would survive!"
+                    "Ich springe auf, wobei ich meinen Stuhl fast schon mitnehme.{w} Ich mach mir echt Sorgen um mein Haus!"
 
-                    "Maybe being a little louder than intended, I catch her off-guard and she jumps."
+                    "Vielleicht etwas lauter als beabsichtigt, erwische ich sie unvorbereitet."
 
                     s "H-huh?"
 
@@ -2954,12 +2954,12 @@ label explanationover:
 
                     s "Oh...{w} You're right.{w} Look at the time!"
 
-                    "Phew.{w} Good save, me!"
-        "Absolutely not!":
+                    "Puh.{w} Gerade noch mal gerettet"
+        "Sicher nicht!":
 
-            "As if receiving a fiery premonition of what might happen if I do let them cook, I put my foot down without hesitation."
+            "Als ob ich schon eine Vorahnung von dem hätte, was passieren könnte, zögere ich keine Sekunde."
 
-            "Even if I'm not the greatest cook in the world, at least I can be safe in the knowledge that what I make won't bring about the ruination of everything I know and love.{w} ...Most of the time, anyway."
+            "Selbst wenn ich nicht wirklich gut kochen kann, bin ich mir sicher, dass ich dabei nicht mein Haus zerstören werde."
 
             $ sayapose='school_1'
             $ sayaface='normal'
@@ -2972,7 +2972,7 @@ label explanationover:
 
             p "Und wie.{w} Aber ich weiß den Gedanken zu schätzen."
 
-            "She puffs her cheeks out in a rather adorable pout, but it doesn't last long before her usual bright smile returns."
+            "Sie bläst ihre Wangen auf und macht einen hübschen Schmollmund, aber kurz darauf kehrt auch wieder ihr strahlendes Lächeln zurück."
 
             $ sayaface='smiling'
             show Sayaka
@@ -2989,9 +2989,9 @@ label explanationover:
 
             s "In fact, they said I should never cook again, because of how jealous it made other people feel!{w} Can you believe it?"
 
-            "Yeah.{w} I'm definitely happy with my decision now.{w} I feel like I dodged a bullet.{w} A horrible tasting one that might have burned my insides."
+            "Ja.{w} Ich bin glücklich mit meiner Entscheidung.{w} Ich hab das Gefühl, als wär ich einer Kugel ausgewichen.{w} Einen schrecklichen Geschmack, der meine Geschmacksnerven zerstört hätte."
 
-            "I head for the kitchen to make the simplest meal I know, all the while keeping a watchful eye over my shoulder in case either of them attempt to assist me.{w} Which I can totally see in Sayaka's eyes as she fidgets just by counter.{w} I'm on to you!"
+            "Ich mache die einfachste Speise, die mir einfällt, während ich gleichzeitig auf die beiden aufpasse.{w} Und so wie Sayaka herumzappelt, würde sie mir am liebsten dabei helfen.{w} Ich weiß, was du vorhast!"
 
     stop music fadeout 5.0        
     scene bg black
