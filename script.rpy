@@ -2997,26 +2997,26 @@ label explanationover:
     scene bg black
     with fade
 
-    "Breakfast soon comes to a close, with perhaps a more lively start to the morning than I'm generally used to."
+    "Kurz darauf endet das Frühstück, das dieses Mal für einen etwas lebhafteren Start in den Tag sorgte, auch schon wieder."
 
-    "As much of a headache as they can be, it was actually sort of nice to not be completely alone in the morning.{w} I wasn't about to tell them that, though, or I'd only encourage their almost criminal behaviour in just waltzing into my house like that!"
+    "So sehr sie mir auch Kopfzerbrechen bereiten, so war es dennoch schön, mal nicht allein zu sein.{w} Aber das sage ich den beiden natürlich nicht, weil wer weiß, was sie sich dann noch einfallen lassen."
 
-    "I head out for school, my two bodyguards naturally at my side.{w} I'm almost sort of getting used to this.{w} I don't know if that's a good or a bad thing."
+    "Mit meinen beiden Bodyguards an meiner Seite gehe ich zur Schule.{w} Langsam gewöhne ich mich daran.{w} Allerdings weiß ich nicht, ob das gut oder schlecht ist."
     play music "bgm/everydayintro.ogg" fadein 2.0
     queue music "bgm/everydayloop.ogg"
 
     with Pause(3.5)
 
-    "The journey to school goes by peacefully, not a monster in sight.{w} Though, I can't help but shake the feeling that something is watching me."
+    "Die Reise zur Schule verläuft friedlich, ohne auch nur ein einziges Monster zu sehen.{w} Trotzdem hab ich das Gefühl, als würde mich irgendwas oder irgendjemand beobachten."
 
-    "Ah, maybe I'm just getting a little paranoid after, you know, two attempts on my life have been made already.{w} I'm sure it's all in my head!"
+    "Ach, vielleicht werd ich nach den beiden Anschlägen auf mein Leben einfach ein wenig paranoid.{w} Ich bin sicher, ich bilde mir das bloß ein!"
 
 
 
     scene classroom
     with fade
 
-    "I arrive at school with time to spare.{w} Huh.{w} That's a first."
+    "Ich komme sogar überpünktlich in der Schule an.{w} Hm.{w} Das passiert mir auch nicht oft."
 
     $ sayaface='smiling'
     $ hikaface='normal'
@@ -3026,7 +3026,7 @@ label explanationover:
     show Hikari at right
     with dissolve
 
-    "Sayaka and Hikari keep close to my side.{w} So very close.{w} I practically feel the stares of my classmates, their looks ranging from resentful to jealous.{w} I can't imagine what they must think of this whole situation."
+    "Sayaka und Hikari bleiben dicht an meiner Seite.{w} Zu dicht.{w} Ich spüre schon, wie mich meine Klassenkameraden schief anstarren.{w} Ich will gar nicht wissen, wie das für Außenstehende aussieht."
 
     p "Hey, Mädels?"
 
@@ -3044,7 +3044,7 @@ label explanationover:
     $ hikaface='normal'
     show Hikari
 
-    "Hikari falls silent.{w} She narrows her eyes into a glare and folds her arms together, tossing her head to the side."
+    "Hikari wird still.{w} Sie verengt ihre Augen, verschränkt ihre Arme und wirft den Kopf zur Seite."
 
     h "Fein.{w} Was auch immer."
 
@@ -3052,7 +3052,7 @@ label explanationover:
     show Sayaka at center
     with dissolve
 
-    "She storms over to her desk and drops into the chair, her eyes straight forward, leaving me and Sayaka together."
+    "Sie stürmt zu ihrem Tisch und lässt sich in den Stuhl fallen, ihre Augen geradewegs nach vorne gerichtet."
 
     p "Ähh ...{w} Hab ich sie wütend gemacht?"
 
@@ -3067,7 +3067,7 @@ label explanationover:
 
     s "Heck, if I had it my way we wouldn't even let you go to school.{w} We'd just keep you locked up in a nice room until this all blows over."
 
-    "...I don't think she realises how scary that sounded, coupled with her usual grin."
+    "...Ich bin mir nicht sicher, dass sie gemerkt hat, wie beängstigend sich das gerade angehört hat, wenn ich den Grinser in Betracht ziehe."
 
     $ sayaface='smiling'
     show Sayaka
@@ -3076,12 +3076,12 @@ label explanationover:
 
     p "Danke."
 
-    "I let out a sigh.{w} They're finally starting to listen to reason, if only a little!"
+    "Ich seufze.{w} Endlich lassen sie sich mal belehren ... Wenn auch nur ein kleines bisschen!"
 
     hide Sayaka
     with dissolve
 
-    "The bell sounds, signifying the start of class.{w} I pass by a disgruntled Hikari on the way to my own desk.{w} She doesn't even look my way.{w} Harsh."
+    "Die Glocke läutet und signalisiert somit den Beginn des Unterrichts.{w} Auf dem Weg zu meinem Tisch komme ich an einer verärgerten Hikari vorbei.{w} Sie sieht mich nicht mal an.{w} Echt gemein."
 
     scene bg black
     with fade
@@ -3091,9 +3091,9 @@ label explanationover:
     scene classroom
     with fade
 
-    "The morning classes pass by in the blink of an eye, the lunch break soon arriving."
+    "Der Vormittagsunterricht vergeht wie im Flug, wodurch auch die Pause nicht lange auf sich warten lässt."
 
-    "I stand up and let out a yawn, only to find I'm not alone."
+    "Ich stehe auf und gähne, und bemerke dabei, dass ich nicht allein bin."
 
     $ sayapose='school_1'
     $ hikapose='school_2'
@@ -3103,7 +3103,7 @@ label explanationover:
 
     p "...Jetzt kommt schon.{w} Darüber haben wir schon mal geredet!"
 
-    "As if the conversation this morning had never happened, I find both my guardians standing around me, oblivious to my irritation."
+    "Als ob das Gespräch heute Morgen nie stattgefunden hätte, umgeben mich bereits meine beiden Beschützer."
 
     s "What's up, Kenta?{w} Aren't we going to go get lunch now?"
 
@@ -3116,7 +3116,7 @@ label explanationover:
 
     p "Was weiß ich!{w} Irgendetwas.{w} Scheißegal was!{w} Ich hab euch erst gestern kennengelernt, und ihr seid schon so anhänglich.{w} Ich hätte gern etwas Platz für mich selbst!"
 
-    "I really am grateful that they're here.{w} Otherwise, I might have met a grisly end yesterday.{w} But this is borderline stalking.{w} I'm not even going to bring up how they camped outside, and then proceeded to break into my house!"
+    "Ich bin echt dankbar, dass sie hier sind.{w} Anderenfalls hätte ich den gestrigen Tag bestimmt nicht überlebt.{w} Aber das hier grenzt ja an Stalking.{w} Und vom Camping in meinem Garten möchte ich gar nicht erst anfangen!"
 
     $ sayaface='smiling'
     show Sayaka
@@ -3131,7 +3131,7 @@ label explanationover:
 
     s "Come on, Hikari!{w} It might be fun to explore the school a bit, and see what it has to offer.{w} We've never really had the chance to attend one before after all!"
 
-    "She's never been to school...?{w} Just where do these two come from?{w} The more I talk to her, the more she makes herself sound like like an alien."
+    "Sie war nie in der Schule ...?{w} Wo kommen die beiden denn sonst her?{w} Desto mehr ich mit ihr rede, desto mehr hört sich das für mich nach einem Alien an."
 
     s "Alright then, Kenta.{w} We'll go do our own thing for a bit.{w} Just yell if you need us, and try not to die!"
 
@@ -3139,42 +3139,42 @@ label explanationover:
     show Hikari at center
     with dissolve
 
-    "And like that, she marches off, humming a happy tune.{w} Hikari follows in her wake, but not before giving me one last icy look.{w} ...I can almost feel my shoulders begin to frost.{w} Brrr."
+    "Und so marschiert sie los und summt dabei eine fröhliche Melodie vor sich hin.{w} Hikari folgt ihr hinterher, aber nicht, ohne mir einen letzten eisigen Blick zuzuwerfen.{w} ... Irgendwie frieren meine Schultern auf einmal.{w} Brrr."
 
     hide Hikari
     with dissolve
     with Pause(2.5)
 
-    "Well.{w} I did it.{w} I somehow convinced them to give me some peace.{w} For the time being anyway."
+    "Na ja.{w} Ich hab's geschafft.{w} Ich hab die beiden endlich überredet, mir ein wenig Freiraum zu geben.{w} Zumindest fürs Erste."
 
     "..."
 
-    "But now what?"
+    "Aber was jetzt?"
 
-    "First and foremost, I should probably try not to forget about lunch again.{w} Otherwise I might just keel over and have finished the job for whatever dark forces that are lurking out there."
+    "Zuerst sollte ich mal schauen, dass ich nicht wieder auf mein Essen vergesse.{w} Ansonsten haben die dunklen Mächte, die da draußen auf mich lauern, ein leichtes Spiel."
 
-    "I head to the cafeteria."
+    "Ich gehe in die Cafeteria."
 
     scene cafeteria
     with dissolve
 
-    "The cafeteria is as you would expect during lunchtime--completely packed.{w} Throngs of students take up what little walking space might have existed between the tables, equally as populated."
+    "Die Cafeteria ist, wie man es in der Pause erwartet, komplett voll.{w} Die Massen an Schülern beanspruchen selbst den kleinsten freien Platz, der sich zwischen den Tischen noch finden lässt."
 
-    "I stand my ground, and gradually work my way past the crashing waves of students that impede my path.{w} Of course getting food would never be so simple!"
+    "Langsam arbeite ich mich nach vorne durch.{w} Aber es ist schließlich nie einfach, an Essen zu kommen!"
 
-    "Eventually I work my way to the front of the line and approach the counter.{w} Naturally, after all the students before me, there was very little in the way of choice."
+    "Irgendwann nähere ich mich dann dem Schalter.{w} Logisch, dass die Auswahl nach all den Schülern vor mir nur noch sehr beschränkt ist."
 
-    "I guess it's either...{w}this sandwich.{w} Or this other sandwich.{w} Neither of which seem amazingly appetising.{w} Ah, whatever.{w} Anything will do after how much food I've missed out on!"
+    "Na ja, ich schätze, entweder ...{w} dieses Sandwich{w} ... oder das hier.{w} Wobei keines von den beiden ziemlich appetitlich aussieht.{w} Ach, scheiß drauf.{w} Ich hab Hunger, da isst man alles!"
 
-    "Cheap, bland sandwich in hand, I give a look over the tables.{w} Like before, they're all pretty packed.{w} Though I do see one fairly empty table at the far end, with a familiar someone happily digging away at their lunch."
+    "Mit einem billigen Sandwich in der Hand schaue ich mich nach einem Tisch um.{w} Aber sie sind alle besetzt.{w} Außer einer, am anderen Ende, auf dem eine mir vertraute Person sitzt."
 
-    "Even from this distance I can tell it's Sayaka, her vibrant brown hair instantly distinguishable from everyone else's."
+    "Selbst aus der Entfernung kann ich dank dem braunen Haar sofort erkennen, dass es Sayaka ist."
 
-    "I don't see Hikari anywhere in sight.{w} They must have decided to do their own things for the break."
+    "Aber ich sehe Hikari nirgends.{w} Anscheinend haben sich ihre Wege irgendwo getrennt."
 
-    "I guess if I want to sit down here to eat, Sayaka's table is the only choice, but do I really want to eat here?{w} It's so noisy, I can hardly even think."
+    "Ich schätze, Sayakas Tisch ist der einzige, an dem ich einen Platz finde, aber möchte ich dort wirklich sitzen?{w} Es ist so laut, dass es schon wieder nervig ist."
 
-    "She hasn't noticed me either, completely absorbed in the demolition of her food.{w} Maybe I can slip away to the roof, where no doubt it'll be more peaceful."
+    "Völlig versunken in ihrem Essen, hat sie mich anscheinend auch noch nicht entdeckt.{w} Vielleicht schaff ich es noch, auf das Dach zu entkommen, wo es bestimmt ruhiger ist."
 
     menu:
         "Head for the roof.":
