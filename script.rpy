@@ -3177,40 +3177,40 @@ label explanationover:
     "Völlig versunken in ihrem Essen, hat sie mich anscheinend auch noch nicht entdeckt.{w} Vielleicht schaff ich es noch, auf das Dach zu entkommen, wo es bestimmt ruhiger ist."
 
     menu:
-        "Head for the roof.":
+        "Geh aufs Dach.":
 
             $ hikari += 1
 
-            "The roof it is.{w} It's just too noisy here, and I get the feeling sitting with Sayaka will only make things worse."
+            "Also auf zum Dach.{w} Es ist schon so extrem laut hier, und wenn ich mich mit Sayaka rumschlagen müsste, würde das das Ganze noch die Krone aufsetzen."
 
-            "I sneak past her and head for the stairwell.{w} Though, it wasn't exactly difficult with how into her food she was."
+            "Ich schleiche mich an ihr vorbei und gehe zu den Treppen.{w} Allerdings war das nicht sonderlich schwer, wenn man bedenkt, wie vertief sie in ihr Essen ist."
 
             scene bg black
             with fade
 
-            "The higher I scale the stairs, the more quiet my surroundings become, until eventually the bustling racket of the students softens to a dull mumble below.{w} Ah, peace at last."
+            "Desto höher ich die Treppen hinaufsteige, desto ruhiger wird es, bis schließlich überhaupt nichts mehr zu hören ist.{w} Ah, endlich Ruhe."
 
             scene school roof
             with wake
 
-            "I emerge out onto the rooftop.{w} A gentle breeze graces my face as the sun shines high in a near cloudless sky.{w} It's perfect out here."
+            "Ich öffne die Tür.{w} Eine sanfte Brise und ein fast wolkenloser Himmel begrüßt mich.{w} Hier oben ist es perfekt."
 
-            "Only...{w}it seems I wasn't the only one that had decided to come up here."
+            "Nur ...{w} eines stört mich, und das ist die Tatsache, dass ich anscheinend nicht der einzige bin, der diese Idee hatte."
 
             $ hikaface='normal'
             $ hikapose='school_1'
             show Hikari
             with dissolve
 
-            "Hikari stands at the edge of the rooftop, facing outwards as she peers down at the countless people.{w} Given how intently she seems to be analysing them, I can only guess that she's keeping guard."
+            "Hikari steht am Rand des Daches und beobachtet die Menschen unten.{w} So aufmerksam wie sie die Menschen beobachtet, kann ich nur davon ausgehen, dass sie Wache hält."
 
-            "I have to admire her dedication towards this whole thing.{w} I actually do feel pretty safe knowing she's this serious about it all."
+            "Ich muss sie für ihre Hingabe echt bewundern.{w} Wenn sie es so ernst meint, fühle ich mich gleich wesentlich sicherer."
 
-            "She's so absorbed in what she's doing, I don't think she's even noticed me yet."
+            "Da sie mich anscheinend noch nicht bemerkt hat, schätze ich mal, dass sie zu vertieft ist."
 
-            "Making no real effort to conceal myself, I close up right behind her.{w} Still nothing.{w} She's miles away."
+            "Ohne Bemühung, mich vor ihr zu verstecken, gehe ich zu ihr hin.{w} Noch immer nichts.{w} Sieht aus, als wäre sie geistig ganz woanders."
 
-            "I reach out and give a gentle tap to her shoulder."
+            "Ich klopfe ihr sanft auf die Schulter."
 
             p "Yo."
 
@@ -3221,9 +3221,9 @@ label explanationover:
 
             h "Wahh!"
 
-            "She jumps a good several feet into air at my touch, and lets out an ear piercing scream.{w} A...{w}a bit of an overreaction maybe?{w} Or am I just that scary?"
+            "Sie springt ziemlich hoch in die Luft und lässt einen Schrei los, der mein Trommelfell beinahe zerplatzen lässt.{w} Éin ...{w} bisschen übertrieben, oder?{w} Oder muss man wirklich so viel Angst vor mir haben?"
 
-            "A hand to her chest as if to keep her heart from breaking free, she spins around to face me.{w} Her stern expression softens a little as she realises it's me, but only a little.{w} She still seems pretty mad."
+            "Mit einer Hand zur Brust haltend, dreht sie sich zu mir um.{w} Als sie bemerkt, dass ich es bin, entspannt sie sich ein wenig.{w} Aber sie sieht trotzdem noch wütend aus."
 
             $ hikaface='angry'
             $ hikapose='school_2'
@@ -3232,7 +3232,7 @@ label explanationover:
 
             h "Oh, Kenta, du bist es nur.{w} Erschreck mich doch nicht so!{w} Du hattest Glück dass ich dich nicht sofort zerfetzt habe!"
 
-            "I scrub at the back of my head with a grin.{w} I really did spook her."
+            "Mit einem Grinsen kratze ich mich am Hinterkopf.{w} Ich hab sie wirklich erschreckt."
 
             p "Meine Schuld.{w} Hältst du die Stellung?"
 
@@ -3241,7 +3241,7 @@ label explanationover:
 
             h "Huh?"
 
-            "Her eyes flicker back to where she was watching for a moment."
+            "Ihre Augen fixieren sich wieder auf die Stelle, die sie vor einem Moment noch beobachtet hatte."
 
             $ hikapose='school_1'
             show Hikari
@@ -3256,7 +3256,7 @@ label explanationover:
 
             h "E-Es ist kein Problem.{w} Ich mach das für die Sicherheit der Schule, nicht nur für dich !"
 
-            "Her face goes an interesting shade of pink.{w} It doesn't take much to fluster her, huh?"
+            "Ihr Gesicht zeigt einen interessanten Ton von Rosa.{w} Es braucht echt nicht viel, um sie aus der Fassung zu bringen, was?"
 
             p "Klar, schon gut.{w} Ich hab schon verstanden."
 
@@ -3272,24 +3272,24 @@ label explanationover:
 
             h "Ich versteh es einfach nicht.{w} Es wiederspricht allem, was wier bisher über sie wissen."
 
-            "She sighs dramatically and turns to resume watch over the school."
+            "Sie seufzt pathetisch und dreht sich wieder um, um wieder über die Schule zu wachen."
 
             $ hikaface='embarrassed'
             show Hikari
 
-            "I open my mouth to maybe say something to her, but a low, rumbling sound cuts me short."
+            "Ich öffne meinen Mund, um ihr etwas zu sagen, aber ein leises, rumpelndes Geräusch unterbricht mich dabei."
 
             p "...Hikari?"
 
             h "J-Ja...?"
 
-            "She answers without turning around, her ears clearly burning.{w} It wasn't difficult to discern what the sound was, given that I saw no sign of any lunch out here at all."
+            "Sie antwortet, ohne sich umzudrehen.{w} Es war nicht sonderlich schwer, um zu erkennen, was das für ein Geräusch war."
 
             p "Hast du, äh, noch nicht gegessen?"
 
             "..."
 
-            "Silence.{w} I think I hit the nail on the head."
+            "Stille.{w} Da hab ich den Nagel wohl auf den Kopf getroffen."
 
             $ hikaface='normal'
             $ hikapose='school_1'
@@ -3307,7 +3307,7 @@ label explanationover:
             $ hikaface='shy'
             show Hikari
 
-            "Her stomach growls again, arguing against her words."
+            "Und wieder knurrt ihr Magen."
 
             h "..."
 
@@ -3320,13 +3320,13 @@ label explanationover:
 
             h "Okay, ich bin vielleicht etwas hungrig.{w} Aber ich werde nicht in diese Grube zurückkehren."
 
-            "Yeesh.{w} I know that place can get pretty packed sometimes, but she's making it out to be something far worse.{w} She really can't deal with crowds, I guess."
+            "Meine Güte.{w} Ich weiß, dass es dort immer wieder viel los ist, aber so schlimm ist es nun auch wieder nicht.{w} Ich schätze, sie fühlt sich in solchen Menschenmassen einfach nicht wohl."
 
-            "I unwrap the sandwich I had almost forgotten about, and take a bite out of it, not wanting to forget about lunch completely myself."
+            "Und packe das Sandwich, das ich fast vergessen hatte, aus, und beiße einmal ab."
 
-            "Hikari watches me intently as I take several more bites, her eyes flickering to the sandwich every now and again.{w} I can practically see the hunger in her eyes."
+            "Hikari beobachtet mich aufmerksam, wie ich noch ein paar weitere Bissen vom Sandwich nehme.{w} Ich kann den Hunger in ihren Augen förmlich riechen."
 
-            "I stop mid-bite, and offer the sandwich her way, since I'm beginning to feel terrible for eating in front of her.{w} And I think if I don't, she might just snatch it out of my hands at any moment anyway."
+            "Da ich mir fies dabei vorkomme, höre ich mittendrin auf.{w} Wahrscheinlich hätte sie mir das Sandwich anderenfalls sowieso mit Gewalt aus der Hand gerissen."
 
             p "Willst du auch was?{w} Falls ja, ich kann mit dir teilen."
 
