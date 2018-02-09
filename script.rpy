@@ -609,7 +609,7 @@ label start:
 
             "Ich werde von einem furcherregenden Gesicht - das Gesicht, welches vorhin noch ruhig war - konfrontiert."
 
-            tg Wirklich?{w} Ich meine--wirklich?!{w} Bist du {i}wirklich{/i} so ein grßer Idiot?!"
+            tg "Wirklich?{w} Ich meine--wirklich?!{w} Bist du {i}wirklich{/i} so ein grßer Idiot?!"
 
             p "I-Ich ... Äh ..."
 
@@ -1484,7 +1484,7 @@ label explanationover:
     scene classroom
     with fade
 
-    Mit dem letzten Glockenläuten geht der Unterricht zu Ende.{w} Der Großteil der Schüler verlässt das Klassenzimmer in Richtung Club oder Teilzeit-Job.{w} Aber ich nicht, denn ich geh nach Hause!"
+    "Mit dem letzten Glockenläuten geht der Unterricht zu Ende.{w} Der Großteil der Schüler verlässt das Klassenzimmer in Richtung Club oder Teilzeit-Job.{w} Aber ich nicht, denn ich geh nach Hause!"
 
     "Obwohl der Beitritt zu einem Club zwar von der Schule gewünscht ist und gefördert wird, ist es - zum Glück - nicht verpflichtend.{w} Das heißt, ich kann nach dem Unterricht tun, was ich will."
 
@@ -1917,7 +1917,7 @@ label explanationover:
     $ yuzuface='joking'
     show Yuzuki
 
-   y "hah, ist das alles was du kannst?{w} Das wird viel {i}einfacher{/i} als ich mir vorgestellt habe."
+    y "hah, ist das alles was du kannst?{w} Das wird viel {i}einfacher{/i} als ich mir vorgestellt habe."
 
     $ yuzupose='magical_1'
     $ yuzuface='happy'
@@ -1948,7 +1948,7 @@ label explanationover:
     show Yuzuki at right
     with move
 
-    y "Ah, das macht so viel Spass! {w}Und da dachte ich, dass die kleinen "Wächter" dieses Jungen tatsächlich eine Bedrohung darstellen könnten. {w} Wie dumm von mir!"
+    y "Ah, das macht so viel Spass! {w}Und da dachte ich, dass die kleinen 'Wächter' dieses Jungen tatsächlich eine Bedrohung darstellen könnten. {w} Wie dumm von mir!"
 
     h "S-Sei ruhig!{w} Es ist noch nicht vorrüber!"
 
@@ -2064,7 +2064,6 @@ label explanationover:
     with dissolve
     play music "bgm/evilgirlintro.ogg"
     queue music "bgm/evilgirlloop.ogg"
-    
     y "Jetzt sind sie aus dem Weg...{w} Lass uns ein bisschen Spass haben, sollen wir?"
 
     "{i}Klopf.{w} Klopf.{w} Klopf.{/i}{w} Wenn das so weitergeht, springt mein Herz noch aus meinem Körper."
@@ -2085,7 +2084,6 @@ label explanationover:
 
     y "Oh, es ist nichts persönliches.{w} So müssen die Dinge sein, wenn ich mein Leben wieder auf Kurs bringen will."
    
-
     $ yuzupose='magical_1'
     $ yuzuface='angry'
     show Yuzuki
@@ -2495,7 +2493,7 @@ label explanationover:
     scene bg black
     with fade
 
-    Nun.{w} Nach dieser kleinen, äh, 'Situation', finde ich mich unten wieder - in der Gegenwart der beiden Mädchen."
+    "Nun.{w} Nach dieser kleinen, äh, 'Situation', finde ich mich unten wieder - in der Gegenwart der beiden Mädchen."
 
     scene kitchen day
     $ sayapose='school_1'
@@ -3789,8 +3787,7 @@ label explanationover:
     queue music "bgm/evilgirlloop.ogg"
     "Yuzuki lands gracefully before Sayaka and Hikari, an unsettling grin spreading from ear to ear on her face."
 
-
- y "Ich muss sagen, ich bin überrascht, dass du überhaupt kämpfen willst.{w} Ich dachte, du würdest einfach wieder den Schwanz drehen.{w} Ich nehme an, dass die Dinge auf diese Weise mehr Spaß machen!"
+    y "Ich muss sagen, ich bin überrascht, dass du überhaupt kämpfen willst.{w} Ich dachte, du würdest einfach wieder den Schwanz drehen.{w} Ich nehme an, dass die Dinge auf diese Weise mehr Spaß machen!"
 
     "Her dark wings erupt into a stream of feathers, which reform into a deadly scythe within her hands."
 
@@ -4064,7 +4061,7 @@ label explanationover:
 
     y "Es sieht so aus, als wäre ich an der Reihe, mich für die Nacht zurückzuziehen.{w} Glaub nichts, du hast noch nichts gewonnen!"
     
-     y "Du hast Glück mit diesem schlechten Schuss, aber erwarte nicht, dass es ein zweites Mal funktioniert.{w} Kenta {i}wird{/i} mir gehören!"
+    y "Du hast Glück mit diesem schlechten Schuss, aber erwarte nicht, dass es ein zweites Mal funktioniert.{w} Kenta {i}wird{/i} mir gehören!"
 
     $ yuzuface='joking'
     $ yuzupose='magical_2'
@@ -6589,7 +6586,7 @@ label explanationover:
 
     p "Ich bin mir nicht ganz sicher ..."
 
-    y Ich kann auch ein Geist sein.""
+    y "Ich kann auch ein Geist sein."
 
     y "Weißt du, wie es sich anfühlt, vollkommen unsichtbar zu sein? Wenn niemand auch nur einen Blick in meine Richtung wirft?"
 
@@ -7849,7 +7846,7 @@ label explanationover:
 
     p "D-Das waren Unfälle! UNFÄLLE!"
 
-    h "Naja, vielleicht war das wieder einer deiner "Unfälle", hmm?{w} Ein Mädchen greifen whärend sie komplett hilflos ist?"
+    h "Naja, vielleicht war das wieder einer deiner 'Unfälle', hmm?{w} Ein Mädchen greifen whärend sie komplett hilflos ist?"
 
     p "Komm schon, ich bin ja nicht mal in deiner Nähe!{w} ... Vielleicht bildest du dir das auch einfach nur ein?"
 
@@ -7874,7 +7871,7 @@ label explanationover:
 
     h "W-Was...?{w} Sayaka?{w} Aber sie hätte nicht..."
 
-   "Confirming my suspicions, Sayaka lets out another one But, she couldn't possibl of her devious laughs."
+    "Confirming my suspicions, Sayaka lets out another one But, she couldn't possibl of her devious laughs."
 
     s "Aww, okay, okay.{w} I couldn't resist.{w} She's just too easy to mess with!"
 
@@ -8228,7 +8225,7 @@ label explanationover:
     "I must be the top priority.{w} If she gets me, she wins."
 
     $ hikaface='angry'
-    $ hikapose='magical_1
+    $ hikapose='magical_1'
     show Hikari at left
     with moveinleft
     show Hikari at center
@@ -9136,7 +9133,7 @@ label explanationover:
 
     y "Ich war so verzweifelt nach einer Art Gesellschaft in meinem Leben, dass ich ihr mein Leben freiwillig gab."
 
-    y Sie erzählte mir alles, was ich hören wollte."{w} Dass jeder mich anbeten und mir gehorchen würde, wenn ich ihr helfen würde..."
+    y "Sie erzählte mir alles, was ich hören wollte.{w} Dass jeder mich anbeten und mir gehorchen würde, wenn ich ihr helfen würde..."
 
     h "Was?!{w} Das ist das Dümmste was ich je gehört--"
 
@@ -9325,7 +9322,7 @@ label explanationover:
     show Yuzuki at center
     with dissolve
 
-   y "Warte, du wirst jetzt gehen?!{w} Ich dachte, du hättest es versprochen--"
+    y "Warte, du wirst jetzt gehen?!{w} Ich dachte, du hättest es versprochen--"
 
     $ sayaface='smiling'
     $ sayapose='magical_2'
@@ -9416,7 +9413,7 @@ label explanationover:
     $ yuzuface='scared'
     show Yuzuki
 
-   y "Du bist sicherlich ein seltsamer Haufen..."
+    y "Du bist sicherlich ein seltsamer Haufen..."
 
     "...Yup.{w} Happy memories."
 
@@ -9711,7 +9708,7 @@ label explanationover:
         $ hikaface='angry'
         show Hikari
 
-        h "Vielleicht heute ein bisschen übertrieben.{w} Ich mache dir jedoch keine Vorwürfe, dass sich dieses {i}Ding{/i}" in der Küche zu dir gesellt hat.
+        h "Vielleicht heute ein bisschen übertrieben.{w} Ich mache dir jedoch keine Vorwürfe, dass sich dieses {i}Ding{/i} in der Küche zu dir gesellt hat."
 
         s "Careful now, Hikari, your jealousy is showing!"
 
