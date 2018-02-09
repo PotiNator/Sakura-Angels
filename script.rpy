@@ -3333,13 +3333,13 @@ label explanationover:
             $ hikaface='angry'
             show Hikari
 
-            "Her mouth hangs open and her brow furrows in concentration, as if to seriously consider it.{w} I swear, she's almost drooling at this point."
+            "Ihre Fressluke hängt weit geöffnet nach unten.{w} Da fehlt nicht mehr viel, und sie sabbert."
 
             $ hikapose='school_1'
             show Hikari
             with dissolve
 
-            "She comes to her decision with an abrupt 'hmph' and turns her head to the side, her hair whipping along with it.{w} I should have expected that."
+            "Mit einem abrupten 'Hmph' scheint sie ihre Entscheidung getroffen zu haben und dreht daraufhin ihren Kopf zur Seite.{w} Damit hätte ich rechnen sollen."
 
             h "S-Sei doch nicht lächerlich!{w} Warum würde ich etwas wollen, worauf du schon gesabbert hast?"
 
@@ -3348,7 +3348,7 @@ label explanationover:
             $ hikaface='scared'
             show Hikari
 
-            "{i}Gruuuu{/i}.{w} Her stomach beckons for the food."
+            "{i}Gruuuu{/i}.{w} Ihr Magen bettelt förmlich nach Nahrung."
 
             h "O-okay, fein.{w} Vielleicht ein bisschen."
 
@@ -3358,18 +3358,18 @@ label explanationover:
             show Hikari
             with dissolve
 
-            "I break off half, before she snatches it away with reluctance."
+            "Ich breche die Hälfte vom Sandwich ab und gebe es ihr, ehe sie es mir noch widerwillig aus der Hand reißt."
 
             h "Danke dir.{w} I-Ich nehme an."
 
-            "I don't think she's used to saying something like that.{w} We're finally making progress!{w} I can't help but smile."
+            "Ich glaube nicht, dass sie es gewohnt ist, so was zu sagen.{w} Wir machen endlich Fortschritt!{w} Da muss ich doch glatt lächeln."
 
             $ hikaface='angry'
             show Hikari
 
             h "Wisch dieses ekliche Grinsen aus deinem Gesicht.{w} Ich weiß nicht an was du denkst, aber ich bin mir sicher dass es etwas unanständiges ist."
 
-            "She says with a snarl, before she violently rips a chunk of the sandwich away with her teeth."
+            "Sagt sie mit einem Knurren, bevor sie ihren Teil des Sandwichs mit den Zähnen zerfleischt."
 
             p "Und, gut?"
 
@@ -3383,7 +3383,7 @@ label explanationover:
             $ hikaface='shocked'
             show Hikari
 
-            "She stops herself, her eyes widening some.{w} I think she almost let slip something there.{w} I really wish they weren't so secretive about all this stuff."
+            "Sie hört kurz auf zu essen und macht große Augen.{w} Ich glaube, da hätte sie beinahe etwas ausgeplaudert.{w} Ich wünschte wirklich, sie würden daraus nicht so eine Art Staatsgeheimnis machen."
 
             p "Die Akademie, hm?"
 
@@ -3402,30 +3402,30 @@ label explanationover:
 
             h "Du hast nichts gehört! {i}Nichts{i}!"
 
-            "Yikes."
+            "Huch."
 
-            "Despite her small frame, whenever she uses that commanding voice of hers, I feel about the size of a mouse before her.{w} I guess it's no use in pushing her for more information, unless I want to end up like that monster from before."
+            "Trotz ihrer kleinen Figur, komme ich mir dank ihrer dominanten Stimme immer wieder wie eine Maus vor.{w} Sofern ich nicht so enden möchte wie das Monster, sollte ich nicht versuchen, noch mehr Infos aus ihr rauszubekommen."
 
             p "Okay, okay!{w} Ich hab überhaupt nichts gehört.{w} War ...{w} wohl nur der Wind oder so"
 
             $ hikaface='normal'
             show Hikari
 
-            "She sighs as she gives her hair a toss, the anger leaving her as suddenly as it had built."
+            "Sie seufzt und wirft ihr Haar zur Seite, wobei die Wut genauso schnell verschwand, wie sie aufgebaut wurde."
 
             h "Wir halten keine Informationen zurück um einfach nur mysteriös zu sein, weißt du."
 
-            "Could have fooled me!"
+            "Verarsch doch jemand anderen!"
 
             h "Es ist...{w}der einfachere Weg.{w} Es hat keinen Sinn, dich in dieses Durcheinander zu ziehen, wenn wir ihm helfen können.{w} Es ist kein Leben das ich jemandem Wünsche..."
 
-            "Her expression darkens, yet her mouth still works, the majority of her half of the sandwich already gone.{w} I'm not even sure if she realises she's eating it at the moment."
+            "Und obwohl sie noch immer kaut, wird ihr Gesichtsausdruck immer düsterer - wahrscheinlich deshalb, weil das Sandwich immer kleiner wird.{w} Ich bin mir nicht mal sicher, ob sie überhaupt weiß, dass sie gerade isst."
 
-            "She spends a good moment or two debating something in her head, before she finally looks up at me with serious eyes."
+            "Sie denkt ein paar Momente über etwas nach, bevor sie mich mit einem ernsten Blick ansieht."
 
             h "Kenta, was würdst du tuen wenn du..."
 
-            "A group of chatty students emerge out onto the roof from the stairs, lunches in hand.{w} Hikari clamps up at the sight of them and turns back to her guard post."
+            "Eine Gruppe von Schülern taucht plötzlich mit Essen in der Hand auf dem Dach auf.{w} Hikari hingegen wird mucksmäuschenstill und kehrt wieder zu ihrem Wachposter zurück."
 
             $ hikapose='school_1'
             show Hikari
@@ -3435,9 +3435,9 @@ label explanationover:
 
             p "Wenn du, äh, meinst."
 
-            "It sure {i}looked{/i} important, since I don't think I've ever seen her give me that serious a look before.{w} Just my luck that of all the times people would choose to eat here, it would have to be now."
+            "Es {i}sah{/i} extrem wichtig aus, wenn ich bedenke, dass sie mich sonst nie so ernst angesehen hat.{w} Was für ein Gluck, dass die ausgerechnet jetzt auftauchen müssen."
 
-            "Any semblance of a conversation we may have had before is well and truly dashed now.{w} She seems a lot more reserved in the presence of other people.{w} Plus, I guess what we were discussing wasn't exactly appropriate for their ears."
+            "Jeder Anschein eines Gesprächs ist jetzt vernichtet.{w} In der Gegenwart von anderen Menschen scheint sie viel zurückhaltender zu sein.{w} Und ich denke auch, dass das, worüber wir geredet haben, nicht für diese Ohren gedacht ist."
 
             h "...Nebenbei, das Sandwich hat wirklich gut geschmeckt."
 
@@ -3447,43 +3447,43 @@ label explanationover:
             show Hikari
 
             h "N-Nichts."
-        "Sit at Sayaka's table.":
+        "Setz dich zu Sayaka.":
 
 
             $ sayaka += 1
 
-            "Then again...{w} I can't really be bothered to scale all the way up to the roof when there's a seat right before me.{w} And, it might be a wasted journey if for whatever reason, people are up there.{w} The table it is."
+            "Aber ...{w} bin doch wohl nicht so dumm und mache mir die Arbeit, aufs Dach zu gehen, wenn hier ein Platz frei ist.{w} Und wer weiß, vielleicht wäre ich dort sowieso nicht allein.{w} Also auf zum Tisch."
 
             scene cg19
             with dissolve
             play music 'bgm/magicalgirlintro.ogg' fadein 2.0
             queue music 'bgm/magicalgirlloop.ogg'
 
-            "I approach Sayaka, whose eyes light up at the sight of me."
+            "Ihre gehe auf Sayaka, derer Augen beim Anblick von mir aufleichten, zu."
 
             s "Mffgh!"
 
-            "Her cheeks full to bursting, she attempts to address me, frantically waving her hand in the air as food flies everywhere.{w} Yeesh, don't talk with your mouth full."
+            "Mit vollem Mund versucht sie, mich anzusprechen, aber stattdessen fliegt das Essen kreuz und quer.{w} Meine Fresse, mit vollem Mund spricht man nicht."
 
             p "Hey.{w} Kann ich mich hier hinsetzen?"
 
             s "Mgffgh, mff!"
 
-            "She nods enthusiastically, shovelling another mouthful of food in.{w} I'm no expert in the 'mouth full' language, but I think she said 'be my guest'."
+            "Sie nickt energisch und schauffelt dabei weiter Essen in ihren Mund.{w} Ich weiß zwar nicht, was das heißen soll, aber ich nehme mal an, es geht in Ordnung."
 
-            "...I didn't notice it before, but she has {i}tons{/i} of food on her tray.{w} Enough for ten students at least!"
+            "...Ich hab es vorhin nicht wirklich bemerkt, aber auf ihrem Teller ist ja noch mehr Essen als erwartet.{w} Genug für ZEHN Schüler!"
 
-            "I'm not really sure how she got away with so many portions.{w} It's no wonder the pickings were slim by the time I got there."
+            "Ich frage mich, wie sie an so viel gekommen ist.{w} Kein Wunder, dass die Auswahl so mickrig war."
 
-            "I'm wondering if magic was used in persuading them to so willingly give her all of this?{w} ...It's scary to think just how easily she's been wrapping the school around her finger since she arrived."
+            "Vielleicht hat sie ihre Magie eingesetzt, um andere dazu zu überreden, ihr mehr zu geben?{w} ... Gruselig, wenn es wirklich so einfach für sie ist, die Schule um ihren Finger zu wickeln."
 
-            "I mean, right now, she's only used it to enroll herself, and get extra portions.{w} But where does it end?{w} There's almost something...{w}sinister...{w}to it all."
+            "Ich mein, sie hat gerade erst auf diese Schule gewechselt und bekommt schon Extraportionen.{w} Aber wo endet das Ganze?{w} Das lässt Schlimmes erahnen."
 
-            "Joining her at the table, I unwrap my sandwich and take a bite.{w} Yup.{w} Just as bland as I thought it'd be.{w} Just the way I like it."
+            "Mit zu ihr setzend packe ich mein Sandwich aus.{w} Jup.{w} Genauso fad, wie ich es mir vorgestellt hab.{w} Und genauso, wie ich es mag."
 
             s "Hey there!{w} I thought you wanted some time away from us?"
 
-            "Apparently done with whatever food it was she had crammed into her mouth like some kind of hamster, she's finally free to talk.{w} Though, I can see her begin to amass another shovel's worth.{w} She's like a machine."
+            "Anscheinend fertig mit dem Essen, spricht sie schließlich mit mir.{w} Aber ich seh schon, dass das nicht lange dauern wird.{w} Sie ist schließlich wie eine Maschine."
 
             scene cafeteria
             $ sayaface='smiling'
@@ -3500,7 +3500,7 @@ label explanationover:
 
             s "It's okay, you can admit that you just missed me {i}so{/i} much and couldn't bear another moment alone without me.{w} I won't tell Hikari."
 
-            "She grins, and takes another bite."
+            "Sie grinst und beißt noch einmal ab."
 
             p "Hah.{w} Lustig.{w} ... Wo ist Hikari?{w} Ich dachte, sie wär bei dir."
 
@@ -3512,7 +3512,7 @@ label explanationover:
 
             p "Äh, schon okay, nur keine Hektik.{w} Es ist nicht dringend."
 
-            "I bring up my arm to shelter myself from flecks of stray food as she excitedly tries to explain things.{w} ...Gross."
+            "Ich hebe meinen Arm, um mich vor den heranfliegenden Essenresten zu beschützen.{w} ... Widerlich."
 
             $ sayapose='school_2'
             show Sayaka
@@ -3534,7 +3534,7 @@ label explanationover:
             $ sayaface='happy'
             show Sayaka
 
-            "She wolfs down another bite.{w} Less than half of the food left from what I first saw before I sat down.{w} Where is it all going in that slim figure of hers?"
+            "Und noch ein Bissen.{w} Die Hälfte von dem Essen, das noch da war, als ich ankam, ist schon weg.{w} Wo versteckt sie das in ihrem Körper bloß?"
 
             $ sayaface='smiling'
             $ sayapose='school_1'
@@ -3545,7 +3545,7 @@ label explanationover:
 
             p "Das hört man gerne.{w} ... Hoff ich zumindest."
 
-            "So basically, if we feel the entire school rumble, we can assume something has happened to Hikari."
+            "Heißt also, wenn die komplette Schule in Aufruhr verfällt, dann ist Hikari was passiert."
 
             p "Äh, wie gefällt es dir hier?{w} Wenn ich mich recht erinnere, hast du doch gesagt, dass du noch in einer Schule warst, oder?"
 
@@ -3554,7 +3554,7 @@ label explanationover:
 
             s "Oh, yeah!{w} It's great.{w} Everyone is so friendly, and the food is {i}amazing{/i}!"
 
-            "As if to emphasise that point, she stabs into her food, her face practically glowing."
+            "Als ob sie das besonders hervorheben wollte, sticht sie mit einem fast leuchtendem Gesicht in ihr Essen."
 
             $ sayaface='smiling'
             show Sayaka
