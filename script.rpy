@@ -3567,14 +3567,14 @@ label explanationover:
 
             s "Mmhmm!"
 
-            "I wasn't really being serious...{w}and I didn't expect her to answer so honestly either."
+            "Ich meinte es nicht wirklich ernst ...{w} und ich hab auch nicht erwartet, dass sie mit solch einer Entschlossenheit darauf antwortet."
 
             p "W-Wirklich?"
 
             $ sayaface='happy'
             show Sayaka
 
-            "Her mouth full again, she nods, having learned at least some manners.{w} That's a 'really, really!' by the looks of things."
+            "Sie nickt, und das wieder mit vollem Mund.{w} Das soll wohl so was wie 'Ja, echt' bedeuten."
 
             p "Hm.{w} Eine Zauberschule.{w} Wo man ...{w}Magie erlernt?{w} Das hört sich nach Spaß an."
 
@@ -3583,7 +3583,7 @@ label explanationover:
             show Sayaka
             with dissolve
 
-            "Sayaka's expression darkens.{w} ...Did I say the wrong thing {i}again{/i}?!"
+            "Sayakas Gesichtsausdruck wird wieder freudloser.{w} ... Hab ich {i}schon wieder{/i} was Falsches gesagt?!"
 
             s "It's not something I'd ever like to go through again.{w} Let's just say that."
 
@@ -3592,14 +3592,14 @@ label explanationover:
             $ sayaface='scared'
             show Sayaka
 
-            "She clamps her mouth shut and slaps a hand across as if to stop any more words from leaking out.{w} Damn it.{w} She realised."
+            "Sie schließt ihren Mund und schlägt ihre Hand drüber, als wolle sie versuchen, sich davon abzuhalten, noch mehr auszuplaudern.{w} Verdammt.{w} Sie hat's bemerkt."
 
             $ sayaface='smiling'
             show Sayaka
 
             s "Whoops!{w} Silly me.{w} That was a close one."
 
-            "One of these days I'm going to find out just what the heck these two are.{w} Any day now, and she'll slip up completely and spill everything!"
+            "Eines Tages werde ich schon noch herausfinden, wer die beiden wirklich sind.{w} Irgendwann wird sie alles ausplaudern!"
 
             p "Okay, wenn ich schon nichts über eure Organisation erfahren darf, darf ich dann zumindest etwas mehr über dich erfahren?"
 
@@ -3614,7 +3614,7 @@ label explanationover:
 
             s "Hmmm."
 
-            "Man, she really has to think about this.{w} Is it really that difficult for her to think of something that {i}isn't{/i} magic related that she can actually share with me?"
+            "Mein Gott, sie muss wirklich darüber nachdenken.{w} Ist es wirklich so schwer für sie, sich irgendwas auszudenken, das nichts mit Magie zu tun hat, und worüber sie mit mir sprechen kann?"
 
             $ sayaface='smiling'
             show Sayaka
@@ -3623,7 +3623,7 @@ label explanationover:
 
             s "But, you know..."
 
-            "She sweeps her gaze over the cafeteria, a small smile growing on her face."
+            "Mit einem kleinen Lächeln lässt sie ihren Blick über die Cafeteria schweifen."
 
             s "Being assigned to watch over you has actually been one of the most laid back assignments we've had."
 
@@ -3632,7 +3632,7 @@ label explanationover:
 
             s "We've been given the chance to enroll and live out something of a normal life here in the school."
 
-            "Well...{w} I'm not really sure if I'd classify what they did as 'enroll', but I get what she means."
+            "Na ja ...{w} Ich bin mir nicht sicher, ob man das wirklich als 'anmelden' bezeichnen kann."
 
             $ sayaface='smiling'
             show Sayaka
@@ -3644,11 +3644,11 @@ label explanationover:
             $ sayaface='normal'
             show Sayaka
 
-            "She falls silent, her eyes distant.{w} She's lost in another world right now, deep in her thoughts.{w} I never figured her as the kind to do all this deep thinking."
+            "Sie verstummt.{w} Tief in ihren Gedanken verloren.{w} Ich hätte nie gedacht, dass sie der Typ wäre, der über so was so sehr nachdenken würde."
 
-            "'Like a normal girl'...{w} Does that mean she doesn't like her magic way of life?{w} I can see how it might get tiring if you had to battle things constantly like that monster I saw the other day."
+            "'Wie ein normales Mädchen' ...{w} Heißt das, dass sie ihren Lebensstil nicht mag?{w} Ich kann schon einsehen, dass es mit der Zeit anstrengend werden kann, immer gegen diese Monster zu kämpfen."
 
-            "But she chose that lifestyle, right?{w} At least, I think she must have.{w} I can't really ask her, as I don't think I'll get away with more magic related questions for the day."
+            "Aber sie hat diesen Lebensstil doch gewählt, oder?{w} Zumindest bin ich fest davon überzeugt.{w} Ich kann sie aber auch nicht fragen, schließlich wird sie mir heute erstmal keine Fragen mehr zu dem Thema beantworten."
 
             with Pause(2.5)
 
@@ -3663,11 +3663,11 @@ label explanationover:
 
             p "Ja?"
 
-            "Eyes glimmering, and glistening lips parted ever so slightly, she gives me a look that makes my heart throb.{w} Why do I get the feeling she's about to ask me something really important here?"
+            "Ihre glitzernden Augen und funkelnden Lippen bringen mein Herz zum Rasen.{w} Warum habe ich bloß das Gefühl, dass sie mich gleich etwas Wichtiges fragen wird?"
 
             s "Are you gonna...{w}finish that?"
 
-            "Her eyes fall to the sandwich in my hand, still with only one bite in it."
+            "Ihre Augen fallen auf das Sandwich in meiner Hand."
 
             p "Ah, nein, alles in Ordnung.{w} H-Hier."
 
@@ -3676,23 +3676,23 @@ label explanationover:
 
             s "Thanks!{w} You're the best!"
 
-            "Still in a daze from the look she gave me a moment ago, she snatches the sandwich out of my hand without resistance."
+            "Noch immer benommen von dem Anblick, schnappt sie das Sandwich aus meiner Hand - ohne Chance auf Gegenwehr."
 
-            "...Wait, what just happened?"
+            "...Warte, was ist gerade passiert?"
 
-            "I'm left staring blankly at my empty hand, the majority of my sandwich already lost to the black hole that is Sayaka's stomach.{w} I may have made a mistake here."
+            "Ich starre auf meine leere Hand, in der bis vor kurzem noch mein Sandwich war.{w} War wohl ein Fehler, mich zu ihr zu setzen."
 
-            "I notice her tray is completely empty too.{w} Spotless, even.{w} She's a monster!"
+            "Ich bemerke, dass auch ihr Tablett völlig leer ist.{w} Nicht mal ein Krümel ist noch übrig.{w} Sie ist ein MONSTER!"
 
     scene bg black
     with fade
     stop music fadeout 4.0
 
-    "The lunch break soon comes to an end, and we're whisked back to class."
+    "Die Mittagspause neigt sich dem Ende zu und wir werden in die Klassen zurückgeschickt."
 
-    "The rest of the school day goes by fairly normally.{w} No crazy attacks.{w} No monsters."
+    "Der restliche Schultag verläuft ganz normal.{w} Keine verrückten Angriffe.{w} Keine Monster."
 
-    "I still can't shake the feeling something is watching me, though."
+    "Aber ich kann das Gefühl, dass mich etwas beobachtet, noch immer nicht loswerden."
 
 
     play music "bgm/ominousintro.ogg" fadein 4.0
@@ -3706,36 +3706,36 @@ label explanationover:
     show Hikari at right
     with fade
 
-    "Another day down, another walk home.{w} My two guardians by my side."
+    "Ein Tag mehr, ein weiterer Spaziergang nach Hause.{w} Mit meinen zwei Beschützern an meiner Seite."
 
-    "They seem noticably more tense compared to last night.{w} After how close that fight was, I really don't blame them.{w} We were lucky she didn't pursue us back then, or that could have been it for me--no, it would have spelled the end for everyone."
+    "Im Vergleich zu gestern scheinen sie deutlich angespannter zu sein.{w} Aber das kann ich ihnen nicht übel nehmen.{w} Wir hatten Glück, dass sie uns nicht verfolgt hat - sonst würde ich jetzt womöglich nicht mehr leben."
 
-    "The journey back is silent, both the girls' faces mirroring each other in a look of sheer determination.{w} They seem ready to spring to action at the slightest sign of danger, so I don't want to break their concentration with mindless small talk."
+    "Die Reise nach Hause verläuft still und die Gesichter der Mädchen spiegeln ihre Entschlossenheit wider.{w} Sie scheinen bereit zu sein, beim geringsten Anzeichen von Gefahr loszustürmen, von daher möchte ich ihre Konzentration nicht unterbrechen."
 
-    "Gradually, the sun sets on our route ahead, street lights flickering to life overhead one by one.{w} Great.{w} The more the shadows begin to creep in all around us, the more tense I can feel myself become."
+    "Die Sonne auf dem Weg vor uns geht allmählich unter.{w} Großartig.{w} Desto größer unsere Schatten werden, desto angespannter werde ich."
 
-    "I come to a stop.{w} Something doesn't feel right..."
+    "Ich halte an.{w} Irgendwas stimmt hier nicht ..."
 
     s "Kenta?{w} What's wrong?"
 
 
 
-    "There it is again.{w} That damn headache, out of nowhere."
+    "Nicht schon wieder.{w} Wieder diese verdammten Kopfschmerzen."
 
-    "Wait.{w} Hasn't there always been a pattern with these headaches?{w} They don't usually happen during the day, unless--"
+    "Warte.{w} Hatten diese Kopfschmerzen nicht immer etwas gemeinsam?{w} Normalerweise treten sie tagsüber nie auf, außer--"
 
 
 
     y "Ah, pünktlich.{w} Du machst das wirklich leicht, weißt du?"
 
-    "Of course.{w} We walked right into it!{w} I really need to start to find a new route home..."
+    "Natürlich.{w} Direkt in die Falle gelaufen!{w} Ich muss langsam echt mal einen neuen Weg nach Hause finden ..."
 
     $ sayaface='angry'
     $ hikaface='angry'
     show Sayaka
     show Hikari
 
-    "A sultry laugh drifts from out of the darkness, causing both the girls to assume offensive positions.{w} It could only be one person..."
+    "Ein heißblütiges Lachen kommt aus der Finsternis hervor, woraufhin die beiden Mädchen in die Angriffsposition übergehen.{w} Das kann nur eine Person sein ..."
 
     hide Sayaka
     hide Hikari
@@ -3746,13 +3746,13 @@ label explanationover:
 
 
 
-    "Obsidian wings unfurl from amidst the night sky, and the amber eyed adversary from before makes her presence known in a storm of black feathers."
+    "Flügel, die aussehen wie ein Obsidian, entfalten sich inmitten des Nachthimmels, und die bernsteinäugige Gegnerin macht sich bemerkbar."
 
-    "What was her name...?{w} Yuzuki?{w} I guess it doesn't matter.{w} Names mean nothing right now."
+    "Wie war nochmal ihr Name ...?{w} Yuzuki?{w} Aber das ist ja wohl egal.{w} Wen kümmert in einem solchen Moment der Name."
 
-    "She has a maniacal look in her eye--a killer glint.{w} Much like before, she isn't here to play around.{w} There's only one thing she's after."
+    "Sie hat einen wahnsinnigen Blick in ihren Augen - die Lust zum Morden.{w} Sie ist auch sicher heute nicht zum Spielen hier.{w} Sie hat es nur auf eines abgesehen."
 
-    "...Me."
+    "...Auf mich."
 
     $ hikapose='magical_1'
     $ sayapose='magical_1'
