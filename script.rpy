@@ -428,7 +428,7 @@ label start:
 
     p "Nein, alles gut, aber--"
 
-    tg "Als ob die Dinge nicht schlimm genug wären, dass wir uns ihm offenbaren mussten, jetzt redest du mit im über Sachen, die kein normaler Mensch wissen sollte. {W} Hast du den Verstand verloren ?!"
+    tg "Als ob die Dinge nicht schlimm genug wären, dass wir uns ihm offenbaren mussten, jetzt redest du mit im über Sachen, die kein normaler Mensch wissen sollte. {w} Hast du den Verstand verloren ?!"
 
     "Das aggressivere Mädchen, dessen Ausdruck immer düsterer wurde, während die andere sprach, unterbrach plötzlich. Anscheinend konnte sie es nicht länger ertragen."
 
