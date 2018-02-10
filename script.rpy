@@ -3949,15 +3949,15 @@ label explanationover:
 
     s "Ohh, what do I do?!"
     stop music fadeout 4.0
-    "With what should be a fairly troubling scene for her partner, Hikari actually seems more annoyed than anything as she rushes over."
+    "Hikari scheint wirklich sehr verärgert zu sein, als sie zu ihr eilt, und das, obwohl diese Situation eigentlich für ihre Partnerin beunruhigend sein sollte."
 
     h "Komm schon, hör auf herumzualbern!"
 
-    "She stomps her foot, and scolds her half-naked partner.{w} That seems like a rather bizarre way to treat someone in such a state."
+    "Sie stampft auf den Boden und schimpft ihre halbnackte Partnerin.{w} Ziemlich merkwürdig, jemanden so zu behandeln, der sich gerade in einem solchen Zustand befindet."
 
     h "Du weißt verdammt gut, dass du dein Outfit regenerieren kannst."
 
-    "Eh...?{w} She can?{w} So why has she been acting like she has?"
+    "Hä ...?{w} Das kann sie?{w} Warum hat sie sich dann so verhalten?"
 
     s "Ahhh, this is so b--...{w} Huh?{w} Oh.{w} Right!"
 
@@ -3970,11 +3970,11 @@ label explanationover:
     play music "bgm/mischiefintro.ogg"
     queue music "bgm/mischiefloop.ogg"
 
-    "There's another flash, and her outfit is restored to what it once was.{w} Huh.{w} It really was that easy."
+    "Mit einem weiteren Leuchten sieht ihre Kleidung wieder so aus wie vorhin.{w} Hm.{w} Das ging ja wirklich schnell."
 
     s "Eh-heh-heh...{w}my bad.{w} I totally forgot."
 
-    "Hikari hoists her sword up onto her shoulder and lets out a sigh, a dangerous vein just faintly visible on her forehead."
+    "Hikari legt ihr Schwert über ihre Schulter und seufzt."
 
     h "Weißt du, ich denke ein Teil von dir {i}wollte{/i} sich so zeigen.{w}Vielleicht zu jemanden speziellem..."
 
@@ -3990,17 +3990,17 @@ label explanationover:
     show Sayaka
     show Hikari with dissolve
 
-    "{i}Bonk{/i}.{w} Hikari raps her on the head.{w} What is even..."
+    "{i}Bum{/i}.{w} Hikari klopft ihr auf den Kopf.{w} Was ist hier ..."
 
     s "Ow!{w} I was kidding!"
 
-    "Guys, aren't you forgetting something...?"
+    "Mädels, vergesst ihr nicht gerade etwas ...?"
 
     stop music fadeout 3.0
 
-    "I mean, it's not like you were in the middle of a fight or anything."
+    "Ich mein, ihr wart gerade mitten in einem Kampf."
 
-    "Wait, that's a point.{w} Yuzuki could have torn these two up while they were arguing.{w} Where did she go after that attack?"
+    "Warte ...{w} Yuzuki hätte sie in der Zwischenzeit in Stücke zerreißen können.{w} Wo ist sie nach dem Angriff überhaupt hin?"
 
     $ sayaface='normal'
     $ hikaface='normal'
@@ -4008,7 +4008,7 @@ label explanationover:
     show Sayaka
     show Hikari with dissolve
 
-    "As if suddenly realising this fact as well, both the girls jump into 'serious mode'--if that's even really possible--and assume offensive stances once more."
+    "Als ob sie es auch gerade bemerkt hätte, machen sie wieder einen auf Ernst - wenn das überhaupt möglich ist - und nehmen wieder ihre Kampfhaltung ein."
 
     h "Hast du verstanden, wohin sie gegangen ist?"
 
@@ -4019,7 +4019,7 @@ label explanationover:
 
     h "Warum hab ich überhaupt gerfragt?"
 
-    "I'm beginning to grow uneasy...{w} I instinctively throw a glance over my shoulder, only to be met with a maniacal smile."
+    "Ich fange langsam an, mich unwohl zu fühlen ...{w} Ich werfe instinktiv einen Blick über meine Schulter ... nur um von einem wahnsinnigen Lächeln begrüßt zu werden."
     play music "bgm/ominousintro.ogg"
     queue music "bgm/ominousloop.ogg"
     hide Sayaka
@@ -4033,11 +4033,11 @@ label explanationover:
 
     p "D-Du ...!"
 
-    "She's right behind me.{w} How did she manage that?!{w} ...Then again, I guess it probably wasn't {i}that{/i} difficult a feat with how distracted my supposed guardians can get."
+    "Sie ist direkt hinter mir.{w} Wie hat sie das geschafft?!{w} ... Wobei, wenn ich bedenke, wie abgelenkt ich war, war es wahrscheinlich nicht allzu schwer."
 
     with hpunch
 
-    "I stumble backwards with a gasp, just narrowly avoiding her outstretched grasp as she reaches for me with a limp."
+    "Ich stolpere nach hinten und kann ihrer ausgestreckten Hand, mit der sie nach mir griff, noch gerade so entkommen."
 
     s "Kenta!"
 
@@ -4046,18 +4046,18 @@ label explanationover:
 
     y "Ah, verdammt{w} Ich bin so nah dran."
 
-    "The dark girl winces and her shoulders sink.{w} It seems like she barely any strength left, as she just barely keeps a hold of her scythe, limply at her side."
+    "Das Mädchen zuckt zusammen.{w} Gemessen daran, dass sie es kaum noch schafft, ihre Sense in der Hand zu halten, dürfte sie wohl nicht mehr viele Kraftreserven haben."
 
-    "Maybe the combined attack before was more effective than I thought, and it finally all caught up to her, her energy reserves well and truly spent."
+    "Vielleicht war dieser Angriff vorhin effektiver, als ich dachte."
 
-    "This was probably her last ditch attempt to get me.{w} I'm lucky I turned around when I did!"
+    "Das war wahrscheinlich ihr letzter Versuch, mich zu kriegen.{w} Bin ich froh, dass ich mich rechtzeitig umgedreht hab!"
 
     $ yuzuface='angry'
     show Yuzuki
 
-    "She gives me a narrowed glare as she staggers back a few steps, my bodyguards catching up to me."
+    "Mit verengten Augen beobachtet sie mich, als sie ein paar Schritte nach hinten macht, während in der Zwischenzeit meine Beschützer zu mir aufschließen."
 
-    "Amber eyes full of hatred, she shifts her gaze to Sayaka and Hikari."
+    "Sie verlagert ihre bernsteinfarbenen Augen voller Hass auf Sayaka und Hikari."
 
     y "Es sieht so aus, als wäre ich an der Reihe, mich für die Nacht zurückzuziehen.{w} Glaub nichts, du hast noch nichts gewonnen!"
     
@@ -4073,7 +4073,8 @@ label explanationover:
     hide Yuzuki
     with dissolve
 
-    "She begins to sink back into the shadows, giving off another devious laugh despite her limping retreat.{w} That last part of what she said worries me...{w} 'Something to play with'?"
+    "Mit einem Lächeln zieht sie sich langsam in die Schatten zurück.{w} Das, was sie da am Schluss gesagt hat, bereitet mir irgendwie Sorgen ...{w} 'Etwas zum Spielen'?"
+
 
     show Hikari at right
     show Sayaka at left
