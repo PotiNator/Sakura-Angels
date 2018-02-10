@@ -3763,19 +3763,19 @@ label explanationover:
     with flash
     stop music fadeout 6.0
 
-    "Light floods in and dispels the darkness for only a moment as the pair don their battle gear, weapons at hand."
+    "Während die Mädchen ihre Kampfausrüstung anlegen, strömt für einen kurzen Moment Licht herein, welches die Dunkelheit vertreibt."
 
     s "Kenta, get back!"
 
     p "Schon gut.{w} Ich weiß, wie das funktioniert, okay!?"
 
-    "Not needing to be told twice, I sprint a good distance from the three girls as to not get caught up in any crossfire."
+    "Da man es mir kein zweites Mal sagen muss, sprinte ich ein gutes Stück zurück, um nicht ins Kreuzfeuer zu geraten."
 
-    "But...{w}are they going to be able to win?{w} Yuzuki hardly broke a sweat last night, and was able to keep both of them at bay at once with that scythe of hers.{w} The difference in power was just too much."
+    "Aber ...{w} werden sie gewinnen?{w} Gestern Abend kam Yuzuki nicht mal ins Schwitzen und wurde trotzdem fertig mit den beiden.{w} Der Unterschied in Sachen Kräfteverhältnis ist einfach zu enorm."
 
-    "Not to mention my guardians have some serious issues with working together as a team.{w} Last night was a complete disaster!"
+    "Dazu kommt noch, dass meine zwei Beschützer irgendein Problem damit haben, als Team zu arbeiten.{w} Die letzte Nacht war eine totale Blamage!"
 
-    "I fear we might have to take another 'tactical retreat'...{w} And I'm not sure if I have the stomach for it."
+    "Ich befürchte, dass wir auch heute wieder den 'taktischen Rückzug' antreten müssen ...{w} Und ich bin mir nicht sicher, ob ich den Mut dazu habe."
 
     $ yuzuface='smiling'
     $ yuzupose='magical_1'
@@ -3785,11 +3785,11 @@ label explanationover:
     with dissolve
     play music "bgm/evilgirlintro.ogg" fadein 1.0
     queue music "bgm/evilgirlloop.ogg"
-    "Yuzuki lands gracefully before Sayaka and Hikari, an unsettling grin spreading from ear to ear on her face."
+    "Yuzuki landet mit einem beunruhigenden Grinsen anmutig vor Sayaka und Hikari."
 
     y "Ich muss sagen, ich bin überrascht, dass du überhaupt kämpfen willst.{w} Ich dachte, du würdest einfach wieder den Schwanz drehen.{w} Ich nehme an, dass die Dinge auf diese Weise mehr Spaß machen!"
 
-    "Her dark wings erupt into a stream of feathers, which reform into a deadly scythe within her hands."
+    "Ihre dunklen Flügel verwandeln sich in Federn, die sich wiederum in eine tödliche Sense verwandeln."
 
     y "Nun, wer von euch möchte zuerst einen erbärmlichen Tod sterben?"
 
@@ -3810,22 +3810,22 @@ label explanationover:
     with move
 
 
-    "Hikari nods and lunges for Yuzuki before she can make the first move.{w} Sayaka kicks off of the ground and flies a good deal backwards as she readies an arrow in her bow.{w} Am I...{w}witnessing team play here?{w} It certainly makes a change after last night's disaster."
+    "Hikari nickt und stürzt sich auf Yuzuki, bevor diese den ersten Schritt machen kann.{w} Sayaka fliegt eine weitere Strecke nach hinten und hält bereits einen Pfeil in ihrem Bogen bereit.{w} Erlebe ich hier etwa ...{w} Teamplay?{w} Vielleicht wird das ja doch noch was."
 
     y "Es ist alles nutzlos!"
 
-    "Yuzuki reacts like lightning and brings her scythe to a whirl, clashing with Hikari's sword.{w} A shockwave bursts through the street as the two weapons collide, shattering nearby glass and warping street signs; a testament to just how strong these girls are."
+    "Yuzuki reagiert blitzartig und wirbelt mit ihrer Sense herum, die auf Hikaris Schwert prallt.{w} Eine Schockwelle breitet sich in der Straße aus und zerstört Scheiben und Straßenschilder."
 
-    "I'm beginning to see shades of last night's fight.{w} Yuzuki has the advantage in terms of brute strength, so she'll no doubt push back against Hikari's blade.{w} But, Hikari doesn't seem nervous at all.{w} In fact, she seems confident!"
+    "Das erinnert mich teilweise an den letzten Kampf.{w} Yuzuki hat den Vorteil der rohen Gewalt, weshalb sie zweifellos zurückschlagen wird.{w} Aber Hikari scheint kein bisschen nervös zu sein.{w} Im Gegenteil, sie scheint sogar selbstsicher!"
 
     h "Hrghh!{w} Licht, komm hervor!"
 
     scene bg white
     with wake
 
-    "Hikari stands her ground in the clash with gritted teeth, and her sword gives off a vibrant glow at her command.{w} A glow that continues to intensify until it engulfs the clashing pair in a blinding light."
+    "Hikari hält zähneknirschend die Stellung und schwingt ihr Schwert hin und her.{w} Ein Leuchten, das sich so lange verstärkt, bis es zu einem blendenden Licht geworden ist."
 
-    "I'm forced to shield my eyes with my arm, as if I were staring at the sun itself.{w} If it was bad enough for me at this distance, I can't imagine how bad it must have been for both of them."
+    "Ich bin dazu gezwungen, meine Augen mit meinem Arm zu verdecken, um nicht geblendet zu werden.{w} Wenn das für mich auf diese Entfernung schon so schlimm ist, möchte ich nicht wissen, wie es für die beiden ist."
 
     scene town street night
     $ yuzupose='magical_2'
@@ -3834,9 +3834,9 @@ label explanationover:
     show Hikari at right
     with wake
 
-    "From the safety of my sleeve I peer back out at the battle, the light fading slightly."
+    "Da das Licht allmählich verblasst, schaue ich im Augenwinkel wieder zurück auf den Kampf."
 
-    "It seems Yuzuki wasn't expecting that at all, as she's reeling back from it all, a hand to her face."
+    "Es scheint, als hätte Yuzuki überhaupt nicht damit gerechnet, da sie sich mit der Hand vor dem Gesicht zurückzieht."
 
     y "U-ugh.{w} Woran denkst du, dass du spielst?!"
 
@@ -3845,9 +3845,9 @@ label explanationover:
 
     s "Aaaand, Hikari, duck!"
 
-    "Sayaka lets loose the arrow she'd been charging since the pair had clashed.{w} It rockets off with unreal speed, leaving a trail of glimmering sparks in its wake as it homes in on Yuzuki."
+    "Sayaka lässt den Pfeil los, den sie seit Beginn des Kampfes gespannt hatte.{w} Und surrealer Geschwindigkeit fliegt er los in Richtung Yuzuki und hinterlässt dabei Funken."
 
-    "Hikari pulls back at Sayaka's voice, and ducks to just barely avoid the arrow coming her way."
+    "Hikari duckt sich - auf Sayakas Aufforderung hin - um dem Pfeil auszuweichen."
 
     scene town street night
     $ yuzupose='magical_1'
@@ -3860,26 +3860,26 @@ label explanationover:
     show Yuzuki at left
     with MoveTransition(0.2)
 
-    "It's a direct hit!{w} The arrow bursts upon impact and sends Yuzuki skidding backwards as she desperately tries to keep upright."
+    "Ein direkter Treffer!{w} Der Pfeil zerplatzt beim Einschlag und lässt Yuzuki nach hinten rutschen, während sie verzweifelt versucht, aufrecht stehenzubleiben."
 
     show Hikari at right
     with moveinright
 
-    "It doesn't end there, though.{w} Hikari hops to her feet and charges in for a follow-up attack whilst Yuzuki is trying her best to recover from the arrow."
+    "Aber es ist noch nicht vorbei.{w} Während Yuzuki ihr Bestes gibt, um sich von dem Treffer zu erholen, springt Hikari auf sie zu und landet einen Folgetreffer."
 
     scene cg16
     with dissolve
 
-    "Steel sings as Hikari kicks off of the ground and goes for a crushing blow to the head.{w} This should be it.{w} I can't see how she'll escape from Hikari's blade now!"
+    "Hikari springt hoch und führt einen vernichtenden Schlag gegen Yuzukis Kopf aus.{w} Das sollte es gewesen sein.{w} Ich kann mir nicht vorstellen, dass sie jetzt noch entkommen kann!"
 
     h "Es ist vorbei!"
 
     with hpunch
     with hpunch
 
-    "The ground under my feet gives off a quake as she lands.{w} A good half of the road splits under her blade and chunks of concrete rain everywhere."
+    "Als Hikari landet, beginnt der Boden unter mir zu beben.{w} Gut die Hälfte der Straße spaltet sich unter ihrer Klinge entzwei."
 
-    "It was a devastating attack to be sure.{w} Surely no one could have survived a blow like that.{w} But..."
+    "Das war wahrhaftig ein vernichtender Treffer.{w} Einen solchen Schlag hätte niemand auf der Welt überleben können.{w} Aber ..."
 
     scene town street night
     $ hikaface='shocked'
@@ -3888,14 +3888,14 @@ label explanationover:
 
     h "W-Was...?"
 
-    "Hikari is just as bewildered as I am.{w} The dark girl is nowhere to be seen.{w} A single black feather drifts down from where she once stood.{w} She just...{w}vanished."
+    "Hikari ist genauso verwirrt wie ich.{w} Das Mädchen ist nirgends zu sehen.{w} Dort, wo sie stand, treibt nur noch eine einzelne Feder umher.{w} Sie ist einfach ...{w} verschwunden."
 
-    "A sinister giggle echoes from the shadows.{w} Did Yuzuki...{w}teleport?{w} Or is she just so fast I couldn't keep up?"
+    "Ein fieses Kichern ertönt aus den Schatten.{w} Hat sich Yuzuki etwa ...{w} teleportiert?{w} Oder ist sie so schnell ausgewichen, dass es niemand mitbekommen hat?"
 
     $ hikaface='scared'
     show Hikari
 
-    "Hikari bolts up at the sound and shoots Sayaka a frenzied look."
+    "Hikari springt auf das Geräusch zu und wirft Sayaka dabei einen wilden Blick zu."
 
     $ hikaface='shocked'
     show Hikari
@@ -3909,9 +3909,9 @@ label explanationover:
 
     s "Huh?"
 
-    "Something glimmers from out of the darkness behind her and then lashes out with a vicious swing.{w} Sayaka just barely reacts in time, jumping to avoid the fatal slash."
+    "Aus der Dunkelheit hinter ihr schimmert etwas hervor, das anschließend auf sie zukommt.{w} Sayaka kann dem tödlichen Schlag gerade noch ausweichen."
 
-    "At least...{w}I thought she had avoided it."
+    "Zumindest ...{w} dachte ich das."
 
 
     scene cg4
@@ -3919,31 +3919,31 @@ label explanationover:
 
     s "Kyahhh!"
 
-    "There's a sudden burst, and Sayaka lets out a shriek.{w} She herself looks unharmed, but a good portion of her outfit is in tatters."
+    "Plötzlich gibt Sayaka einen Schrei von sich.{w} Sie selbst sieht unverletzt aus, aber ihre Kleidung ist zerfetzt."
 
-    "Fragments of what used to be her outfit rain down from above, well and truly diced by the mad girl's scythe."
+    "Von oben regnen Überreste von dem, was vorhin noch ihre Kleidung war, herab."
 
-    "I mean, it's horrible, there's hardly anything left of her outfit!{w} From where I'm standing I can practically see...{w}huh?{w} I lost track of what I was thinking about there.{w} Sorry."
+    "Ich mein, das ist ja schrecklich ... Da ist ja kaum noch was übrig!{w} Ich kann von hier aus fast alles se...{w} Hm?{w} Jetzt hab ich vergessen, woran ich gerade gedacht hab.{w} Verdammt."
 
-    "Ahem."
+    "Ähem."
 
-    "Fight, bad.{w} Damage, terrible.{w} Okay, I'm back on track."
+    "Kampf, übel.{w} Schaden, schrecklich.{w} Okay, jetzt bin ich wieder auf Kurs."
 
-    "This is insane.{w} If she had reacted just a fraction of a second slower, her outfit wouldn't have been the only thing cut to ribbons by that attack."
+    "Das ist krank.{w} Hätte sie eine Sekunde langsamer reagiert, dann hätte es nicht nur ihre Kleidung zerfetzt."
 
-    "I thought Yuzuki seemed bad before, but if anything tonight she seems even stronger.{w} Or is it just all in my head?"
+    "Ich dachte, Yuzuki schien vorhin ziemlich mitgenommen aus, aber sie ist heute ja noch stärker.{w} Oder bilde ich mir das bloß ein?"
 
-    "The pair learned from their mistakes the previous night and devised something almost resembling teamwork tonight to try and put an end to her, but she hits back twice as hard anyway."
+    "Die beiden haben aus den Fehlern gestern gelernt und haben sich eine Taktik einfallen lassen, um dem Ganzen ein Ende zu bereiten, aber sie schlägt einfach doppelt so hart zurück."
 
-    "Sayaka and Hikari have given it their all and this monster still has the upper hand.{w} I wonder if they have any tricks left?"
+    "Sayaka und Hikari haben ihr Bestes gegeben, trotzdem behält dieses Monster die Oberhand.{w} Ich frage mich, ob sie noch ein Ass im Ärmel haben?"
 
-    "I suppose I should put more faith in my 'guardian angels', even if things look dire right now.{w} They're surely trained for these kinds of intense battles, and must have at least {i}something{/i} to fall back on."
+    "Ich schätze, ich sollte meinen Schutzengeln mehr vertrauen, obwohl es gerade ziemlich düster aussieht.{w} Für solche Kämpfe wurden sie bestimmt ausgebildet, weshalb sie sicherlich noch {i}irgendeinen{/i} Plan haben."
 
-    "...Something that I hope doesn't involve flying again.{w} I really, {i}really{/i} don't want to fly again.{w} At this point, I'll take my chances with Yuzuki."
+    "...Hoffentlich ein Plan, bei dem wir nicht vom Boden abheben.{w} Ich möchte nicht noch einmal fliegen.{w} Bevor das passiert, hofft ein Teil in mir sogar, dass Yuzuki gewinnt."
 
-    "Sayaka hugs herself in an effort to cover up, her face flush with embarrassment.{w} I can't imagine this being convenient at all during a fight.{w} Especially not one as serious as this!"
+    "Sayaka versucht ihr verlegenes Gesicht zu verdecken.{w} Ich kann mir vorstellen, dass das während eines Kampfes sicher nicht praktisch ist.{w} Vor allem in einem Kampf gegen so was!"
 
-    "I feel like I shouldn't be watching this...{w}but this is an important fight I can't afford to take my eyes off of!{w} ...Or something like that."
+    "Eigentlich sollte ich ja nicht hinsehen ...{w} aber ich kann meinen Blick von diesem wichtigen 'Kampf' nicht abwenden!{w} ... Oder so ähnlich."
 
     s "Ahh!{w} Th-this is terrible!{w} I...{w}I can't fight like this!"
 
