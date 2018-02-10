@@ -750,7 +750,7 @@ label start:
 
     "Vorerst besiegt, fokussiere ich mich wieder auf den Unterricht, während ich noch immer nach draußen blicke."
 
-    teacher "Now, uh, I know it's a bit sudden, but as of today, we have two transfer students that will be joining our class."
+    teacher "Nun, äh, ich weiß, dass es etwas plötzlich ist, aber ab heute haben wir zwei Studenten, die sich unserer Klasse anschließen."
 
     "Schulwechsler?{w} Um diese Zeit?{w} Schon ein bisschen spät, die Schule zu wechseln, oder nicht?{w} Selbst der Lehrer scheint ein bisschen verwirrt zu sein, als er es ankündigt."
 
@@ -758,7 +758,7 @@ label start:
 
     "Hah.{w} Nein.{w} Das kann unmöglich sein."
 
-    teacher "I'd like you all to make them feel welcome as they transition in.{w} Uh, what did you say your names were?"
+    teacher "Ich möchte, dass Sie sich alle willkommen fühlen, wenn sie einziehen. {w} Äh, wie haben Sie Ihre Namen genannt?"
 
     cg "I'm Sayaka, it's nice to meet you all.{w} I hope we can all get along!"
 
@@ -988,7 +988,7 @@ label start:
 
     "Anscheinend möchte sie wirklich nicht hier sein.{w} Das war wohl alles Sayakas Idee."
 
-    teacher "What are you all staring at?{w} Come on, let's get back to it!"
+    teacher "Worauf starren Sie alle? {W} Komm, lass uns zurückkommen!"
 
     "Da wir anscheinend alle vergessen hatten, dass wir selbst Unterricht haben, bringt uns der Lehrer zurück in die Realität.{w} Vorbei ist's mit dem schönen Anblick."
 
