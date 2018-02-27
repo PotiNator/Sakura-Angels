@@ -96,7 +96,7 @@ label start:
     play music "bgm/ominousintro.ogg" fadein 2.0 
     queue music "bgm/ominousloop.ogg"
 
-    "Jede Nacht ...{w} habe ich denselben as  Traum."
+    "Jede Nacht ...{w} habe ich denselben Traum."
 
     "Jede Nacht ...{w} werde ich unweigerlich an diesen Ort zurückgebracht."
 
