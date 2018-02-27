@@ -4429,7 +4429,7 @@ label explanationover:
             $ hikapose='magical_1'
             show Hikari with dissolve
 
-            "She takes a good moment to debate things in her mind, even attempting to push herself up off the ground several times only to slip right back down into the puddle of...{w}whatever the heck that monster oozed.{w} I get the feeling she isn't used to accepting help from people."
+            "Sie nimmt sich jede Menge Zeit, um über alles nachzudenken und versucht sogar aufzustehen, nur um gleich wieder hinzufallen.{w} Ich schätze, sie ist es nicht gewohnt, Hilfe von anderen anzunehmen."
 
             $ hikaface='shy'
             show Hikari
@@ -4438,34 +4438,34 @@ label explanationover:
 
             with hpunch
 
-            "She finally grabs hold of my hand, and I hoist her up.{w} ...Eurgh.{w} Her hand is coated in that foul slime.{w} I hope this stuff washes off."
+            "Schlussendlich greift sie doch irgendwann nach meiner Hand und ich helfe ihr auf.{w} Ihre Hand ist voller Schleim.{w} Ich hoffe, dass Zeug lässt sich runterwaschen."
 
             $ hikaface='normal'
             show Hikari
 
-            "Once back on her feet, she takes a good moment to recompose herself.{w} She tries to keep an air of dignity about herself, despite being drenched head to toe in that stuff."
+            "Wieder auf den Beinen, nimmt sie sich kurz Zeit, um sich zu sammeln.{w} Trotz der Tatsache, dass sie von Kopf bis Fuß voller Schleim ist, versucht sie, einen Hauch von Würde zu bewahren."
 
             $ hikaface='shocked'
             show Hikari
 
-            "She surveys the scene, her eyes moving from the wriggling tentacles cast aside on the ground, before finally settling on her sword, still held firmly within my grasp.{w} Her mouth open in shock, having finally pieced together what happened."
+            "Sie beobachtet die Umgebung und bewegt ihre Augen von den zappelnden Tentakeln bis hin zu ihrem Schwert, das ich noch immer in der Hand halte.{w} Schockiert öffnet sie ganz weit ihren Mund."
 
             h "War es...{w}Warst du es der mich gerettet hat, Kenta?"
 
-            "She's completely taken aback.{w} Is it really that unbelievable that I did something useful for once?{w} ...Okay, maybe it is."
+            "Sie ist völlig verblüfft.{w} Ist es wirklich so unglaubwürdig, dass ich einmal nützlich war?{w} ... Okay, vielleicht hat sie recht."
 
             p "Ah, ja.{w} Ich hoffe, ihr habt nichts dagegen, dass ich es ausgeliehen hab."
 
-            "I can't help but feel embarrassed about this all.{w} I was practically like...{w}a hero!{w} It's a bizarre feeling."
+            "Ich bin wegen der ganzen Sache etwas verlegen.{w} Ich war im Grunde genommen gerade ...{w}ein Held!{w} Echt komisch dieses Gefühl."
 
             $ hikaface='normal'
             $ hikapose='magical_2'
             show Hikari
             with dissolve
 
-            "I hold out the sword towards her, still as lightweight as ever.{w} This thing is amazing.{w} It felt like I was swinging a feather back then."
+            "Ich halte ihr das Schwert entgegen.{w} Das Teil ist unglaublich.{w} Es hat sich federleicht angefühlt."
 
-            "She takes it, after a few attempts of grabbing at air, her eyes still focused intently on me.{w} She truly is shocked here."
+            "Sie schnappt mir das Schwert aus der Hand weg.{w} Sie ist echt fassungslos."
 
             h "Das ist gut.{w} Aber wie warst du in der Lage..."
 
@@ -4473,16 +4473,16 @@ label explanationover:
 
             s "Wahh!{w} Down, boy!{w} Get back!"
 
-            "Sayaka's cries of distress cut things short.{w} Uh, whoops.{w} I got so caught up with saving Hikari, I had forgotten about Sayaka completely."
+            "Sayakas Hilfeschrei hat uns unterbrochen.{w} Uh, hoppla.{w} Hikari hat mich so dermaßen abgelenkt, dass ich Sayaka ganz vergessen hab."
 
-            "She's still dancing about, just barely keeping up with the rabid monsters."
+            "Sie ist noch immer damit beschäftigt, den Angriffen der Monster auszuweichen."
 
             $ hikaface='angry'
             $ hikapose='magical_1'
             show Hikari
             with dissolve
 
-            "Hikari sighs and gives her sword a flourish."
+            "Hikari seufzt und schwingt ihr Schwert."
 
             h "Ugh.{w} Das muss bis später warten."
 
@@ -4490,7 +4490,7 @@ label explanationover:
             with MoveTransition(0.2)
             with flash
 
-            "She dashes towards her partner with a burst of speed and makes short work of the offending creatures, killing them all with one precise slash.{w} They erupt into smoke which is whisked away by the night air."
+            "Sie springt blitzartig vorwärts und tötet all die Kreaturen auf einen Streich."
 
             $ sayaface='scared'
             $ sayapose='magical_1'
@@ -4505,7 +4505,7 @@ label explanationover:
 
             s "Huh?{w} Kenta?"
 
-            "Finally able to catch her breath, Sayaka gives me a puzzled look as I wander over to them."
+            "Endlich in der Lage, Luft zu holen, wirft mir Sayaka einen verwirrten Blick zu."
 
             $ hikaface='shy'
             show Hikari
@@ -4517,7 +4517,7 @@ label explanationover:
 
             s "Really?!{w} How on earth did he manage that?!"
 
-            "She's in as much of a state of disbelief as Hikari was."
+            "Sie kann es genauso wenig glauben wie Hikari."
 
             $ hikaface='normal'
             $ hikapose='magical_2'
@@ -4535,7 +4535,7 @@ label explanationover:
 
             h "Ich weiß!{w} Deine Vermutung ist genauso gut wie meine.{w} Lasst uns dankbar sein, dass er es konnte, oder dieser Abend wäre unser letzter gewesen."
 
-            "...I get the feeling I'm missing something really important here.{w} What's so special about me using her sword?{w} I mean, I just picked it up, and swung it.{w} No big deal, right?"
+            "...Ich hab irgendwie das Gefühl, als würde irgendwas an mir vorbeigehen.{w} Was ist so besonders daran, dass ich das Schwert benutze?{w} Ich hab es doch nur aufgehoben und geschwungen.{w} Nichts Besonderes, oder?"
 
     stop music fadeout 4.0
     $ hikaface='normal'
@@ -4543,7 +4543,7 @@ label explanationover:
     show Hikari
     show Sayaka
 
-    "Hikari suddenly lights up, and strikes a pose, blade at the ready."
+    "Hikari leuchtet plötzlich auf und nimmt mit dem Schwert in der Hand eine Pose ein."
 
     h "Oh!{w} Das Mädchen...{w} Hat sie...?"
 
@@ -4555,14 +4555,14 @@ label explanationover:
     queue music "bgm/seriousloop.ogg"
     h "Verdammt!{w} Wir waren zu nah!"
 
-    "She stomps her foot in frustration, the slime that no doubt oozed between her toes giving off a squelch."
+    "Frustriert stampft sie auf den Boden."
 
     $ sayaface='smiling'
     show Sayaka
 
     s "Maybe it's for the best?{w} I don't think either of us are in any kind of condition to fight anymore."
 
-    "Sayaka sighs dramatically and throws her hands up in the air.{w} She's right.{w} I can't imagine how much worse things could have been if that girl had still been around."
+    "Sayaka seufzt dramatisch und wirft die Arme nach oben.{w} Sie hat recht.{w} Ich möchte nicht wissen, wie es weitergegangen wäre, wäre sie noch hier."
 
     $ hikaface='normal'
     $ hikapose='magical_1'
