@@ -4088,101 +4088,101 @@ label explanationover:
     show Sayaka
     show Hikari at offscreenright with MoveTransition(0.3)
 
-    "Hikari disregards her partner's advice and blazes forward, sword at the ready."
+    "Hikari ignoriert den Ratschlag ihrer Partnerin und stürmt mit gezogenem Schwert vorwärts."
 
-    "It seems like her blade is just about to connect with Yuzuki before she can make her escape...{w}but something suddenly whips out, as if appearing out of nowhere, and takes Hikari off of her feet hoisting her high into the air."
+    "Es sieht alles danach aus, als würde sie einen Treffer landen, bevor sie die Flucht ergreifen kann ...{w} aber plötzlich schießt etwas wie aus dem Nichts hervor, woraufhin Hikari hoch in die Luft geschleudert wird."
 
-    "A thick, slimy appendage.{w} A...{w}a tentacle?"
+    "Ein schleimiges Körperglied.{w} Ein ...{w} Ein Tentakel?"
 
     scene cg2
     with dissolve
 
-    "Hikari drops her sword after being blindsided by the beast, and is left wrestling helplessly against the writhing tendrils as they work to ensnare her."
+    "Hikari lässt ihr Schwert fallen und ringt hilflos umher, während das Monster versucht, sie zu fesseln."
 
     h "Wahh!{w} H-hey, nein!{w} Lass mich gehen!"
 
-    "I see her hands give off a glow.{w} That's right!{w} If she doesn't have a weapon, she still has her magic.{w} She should be able to make quick work of this thing, sword or not."
+    "Ich sehe ein Leuchten in ihren Händen.{w} Genau!{w} Sie hat ja noch immer ihre Magie.{w} Mit diesem Ding sollte sie kurzen Prozess machen können, mit Schwert oder nicht ist völlig egal."
 
     h "Jetzt zeig ich dir--huh?!"
 
-    "...Or maybe not.{w} The beast is one step ahead of her, and works to bind her hands, leaving her well and truly helpless.{w} The tentacles creep in ever closer, oozing a pungent substance that coats a good majority of her."
+    "... Oder vielleicht auch nicht.{w} Das Monster ist ihr einen Schritt voraus und versucht ihre Hände zu fesseln.{w} Die Tentakel schleichen sich immer näher an sie heran und träufeln eine ätzende Substanz auf sie, die bereits mehr als die Hälfte von ihr bedeckt."
 
     h "Urghh...{w} Das...{w}ist so eklich!{w} Ich denke nichtmal alle Duschen der Welt werden das Zeug in meinen Harren, rausbekommen!"
 
-    "She bemoans her disgusting predicament as she thrashes around, ultimately only resulting in the tentacles constricting tighter against her."
+    "Sie beklagt ihre missliche Lage und versucht sich noch immer zu befreien, was letztendlich nur dazu führt, dass sich die Tentakel immer enger zusammenziehen."
 
-    "Okay...{w} So she can't save herself.{w} But, her trusty partner should be able to pierce the tentacles with a well placed arrow, right?"
+    "Okay ...{w} Sie kann sich also nicht selbst befreien.{w} Aber ihre treue Partnerin sollte diese Tentakel doch mit einem gut platzierten Pfeil durchbohren können, oder?"
 
-    "Right?!"
+    "STIMMT'S?!"
 
     s "B-bad doggies!{w} Sit!{w} Down!{w} Stay!"
 
-    "What, when did they show up?!{w} Sayaka is surrounded by a pack of those demonic dogs from before--the ones that nearly took my life."
+    "Was, wann sind die denn aufgetaucht?!{w} Sayaka ist von einem Rudel dämonischer Hunde umgeben."
 
-    "They must have charged in at the same time as the tentacle creature made itself known.{w} Were they summoned by Yuzuki, I wonder?{w} Wait...{w}can she control them?"
+    "Sie müssen gleichzeitig mit dem Tentakel-Monster aufgetaucht sein.{w} Ich frage mich, ob Yuzuki dafür verantwortlich ist?{w} Warte ...{w} Kann sie diese Dinger kontrollieren?"
 
     h "H-Hallo?{w} Wird mir irgendjemand helfen?!{w} Es ist nicht so lustig, wie es aussieht!"
 
-    "Hikari keeps up a brave front, but I can see the tentacles are taking their toll on her."
+    "Hikari schlägt sich wacker, aber ich sehe, dass die Tentakel ihren Tribut fordern."
 
-    "This is bad.{w} Both of them are held up by monsters."
+    "Nicht gut.{w} Beide werden von Monstern aufgehalten."
 
-    "While Sayaka is handy with a bow, I don't think she's all that good at close up combat, so she might be in trouble here."
+    "Sayaka kann zwar gut mit dem Bogen umgehen, aber im Nahkampf wird sie wohl kaum so gut sein, dass sie damit fertig wird."
 
-    "And then...{w} Hikari is {i}clearly{/i} in need of assistance, the tentacles might completely crush her if nothing is done soon."
+    "Und ...{w} Hikari braucht {i}eindeutig{/i} Hilfe, ansonsten wird sie von den Tentakeln noch vollkommen zerquetscht."
 
     scene town street night
     with dissolve
 
-    "So with both of them struggling...{w} Who's left to help them?"
+    "In Anbetracht dieser Situation ...{w} Wer kann ihnen da noch helfen?"
 
-    "Me?"
+    "Ich?"
 
-    "But...{w} I haven't ever fought anything in my life.{w} I would have been dead long ago if these two hadn't made themselves known in my life."
+    "Aber ...{w} ich hab noch nie in meinem Leben gekämpft.{w} Ohne die beiden hätte ich doch schon längst ins Gras gebissen."
 
-    "I clench my fists tight and throw a glance between the two girls.{w} They've risked so much to help me before, while I've just stood on on the sidelines like some sort of coward."
+    "Ich balle meine Fäuste und werfe einen Blick auf die Mädchen.{w} Sie haben schon so viel riskiert, um mich zu beschützen, während ich immer nur zugesehen hab."
 
-    "They need my help."
+    "Sie brauchen meine Hilfe."
 
-    "What can I do?{w} I don't have any magic powers.{w} I don't have super strength.{w} I can't fly.{w} I'm useless.{w} Useless!"
+    "Aber was kann ich tun?{w} Ich kann nicht zaubern, so wie sie.{w} Ich hab auch keine übermenschlichen Kräfte.{w} Ich kann nicht fliegen.{w} Ich bin nutzlos.{w} NUTZLOS!"
 
-    "I stomp at the ground, cursing my weak nature."
+    "Ich stampfe auf den Boden und verfluche mich für diese Nutzlosigkeit."
 
-    "Huh...?"
+    "Häh ...?"
 
-    "Something clatters at my foot.{w} Hikari's sword.{w} A sizeable amount of steel that almost rivals Hikari herself in height."
+    "An meinem Fuß klappert etwas.{w} Hikaris Schwert.{w} Ein so großer Haufen an Stahl, der fast schon so groß ist wie Hikari selbst."
 
-    "I crouch down to pick it up.{w} Despite its size, it's surprisingly light.{w} I'm able to take it up with just a single hand."
+    "Ich hebe es auf.{w} Trotz der Größe ist es ziemlich leicht.{w} Ich kann es sogar mit einer Hand aufheben."
 
-    "This is crazy.{w} I can't believe I'm even thinking about doing this."
+    "Das ist doch verrückt.{w} Ich kann nicht glauben, dass ich überhaupt auf diese Idee komme."
 
-    "I straighten up and tighten my hold on the sword, giving it a test swipe into the air.{w} It slices through without much resistance, and gives off a satisfying swish."
+    "Ich richte mich auf, kräftige meinen Griff am Schwert und wirble in der Luft umher.{w} Es lässt sich ohne großen Widerstand führen."
 
-    "It'll be just this easy, right?{w} Air is one thing...{w}but to even think about using this thing on something living...{w} Even if they're monsters."
+    "Ein Kinderspiel, oder?{w} Luft ist eine Sache ...{w} aber dieses Schwert an einem lebenden Wesen zu benutzen ...{w} Selbst, wenn das Monster sind."
 
-    "I'm just not sure if I can follow through with this..."
+    "Ich bin nicht sicher, ob ich das durchziehen kann ..."
 
     s "Kyahh!{w} Don't touch me!{w} Back, back!"
 
     h "E-Es zerdrückt mich!{w} H-Hilfe!"
 
-    "I can hear cries of distress from both sides.{w} Time is running out.{w} I've made up my mind!"
+    "Auf beiden Seiten höre ich Hilfeschreie.{w} Die Zeit läuft davon.{w} Ich habe mich entschieden!"
 
-    "I can't save them both at once, though.{w} Who needs help more urgently?"
+    "Aber ich kann sie nicht beide gleichzeitig retten.{w} Wer braucht meine Hilfe dringender?"
 
     menu:
         "Sayaka.":
 
             $ sayaka += 1
 
-            "Right.{w} Sayaka has numerous, far more threatening foes than just a couple of slimy tentacles.{w} These things might tear her apart if I wait too long!"
+            "Genau.{w} Sayaka hat es mit wesentlich gefährlicheren Gegnern zu tun.{w} Diese Hunde werden sie noch in Stücke zerreißen, wenn ich ihr nicht helfe!"
 
             p "Sayaka, halt durch!"
 
             play music "bgm/battleintro.ogg" fadein 2.0
             queue music "bgm/battleloop.ogg"
 
-            "I kick off and head to Sayaka's side first, the sword held awkwardly at my side.{w} ...I really don't know how to even hold this properly.{w} I must look so stupid right now."
+            "Mit dem Schwert seitwärts hängend sprinte ich los.{w} ... Ich weiß ja nicht mal, wie ich das Teil halten soll.{w} Das muss echt lächerlich aussehen."
 
             $ sayaface='scared'
             show Sayaka at center
@@ -4190,9 +4190,9 @@ label explanationover:
 
             s "Shoo, shoo!"
 
-            "She frantically bobs and weaves her way out of the incoming claws and fangs, unable to find a spare moment to get an arrow out."
+            "Verzweifelt weicht sie irgendwie den Klauen und Reißzähnen aus, allerdings findet sie nicht die Zeit dazu, einen Pfeil abzufeuern."
 
-            "I pick up the pace, nearing the beasts.{w} There isn't a moment to lose!{w} This is my time to shine.{w} I can be the hero--"
+            "Ich nähere mich den Tieren.{w} Ich darf keine Zeit verlieren!{w} Zeit zu zeigen, was ich draufhab.{w} Ich kann ein Held sein--"
 
             hide Sayaka
             with dissolve
@@ -4201,27 +4201,27 @@ label explanationover:
 
             p "Oof!"
 
-            "In my haste to reach Sayaka in time, I put a foot in the wrong place and trip myself up in a spectacular display of heroism."
+            "In meiner Eile, Sayaka rechtzeitig zu erreichen, stolpere ich plötzlich heldenhaft über meine eigenen Füße."
 
-            "I pull into a tumble, and barrel straight into one of the creatures, sword outstretched."
+            "Ich schwanke nach vor und mit ausgestrecktem Schwert falle ich direkt in eines der Monster."
 
-            "It lets out an ear piercing howl as the blade comes into contact with it, and leaps back, distracting all the others in the process."
+            "Das Monster lässt einen ohrenbetäubenden Schrei los, als es von der Klinge erfasst wurde, und lenkt die Aufmerksamkeit der anderen Monster auf sich."
 
-            "Well.{w} Not exactly what I had in mind, but it worked.{w} Somewhat."
+            "Na ja.{w} War zwar nicht so geplant, aber es hat funktioniert.{w} Irgendwie."
 
             scene cg20
             with dissolve
 
-            "After that little stunt, all their burning eyes are on me now.{w} N-no problem."
+            "Einen kurzen Augenblick später sind auf einmal alle Augen auf mich gerichtet.{w} K-Kein Problem."
 
-            "I hold up a shaky sword toward one of them as they begin to circle me, rather than Sayaka.{w} This was what I wanted, right?{w} I...{w}I mean, I saved Sayaka at least."
+            "Zittrig halte ich das Schwert in die Höhe, als sie anfangen, mich zu umzingeln.{w} Das wollte ich doch, oder?{w} Ich ...{w} Ich mein, zumindest konnte ich Sayaka retten."
 
-            "The beasts all leap at once.{w} An assault from four sides.{w} Oh god, this is going to end badly.{w} Even a seasoned swordsman would be at a disadvantage here!"
+            "Plötzlich springen sie alle gleichzeitig los.{w} Ein Angriff von allen Seiten.{w} Oh Gott, das wird so was von hässlich enden.{w} Selbst ein Schwertkämpfer hätte da Probleme!"
 
             scene town street night
             with flash
 
-            "Four arrows fly at once and nail each of the creatures in the head before they can reach me, each of them exploding into a cloud of black smoke."
+            "Bevor sie mich jedoch erreichen, steckt in dem Kopf ein jedes Monsters ein Pfeil fest. Kurzerhand später lösen sie sich in einer Wolke aus schwarzem Rauch auf."
 
             $ sayaface='happy'
             $ sayapose='magical_2'
@@ -4230,9 +4230,9 @@ label explanationover:
 
             s "Phew.{w} Another close call, huh?"
 
-            "Sayaka grins as she lowers her bow.{w} ...Ah, that's right.{w} By taking on the monsters, I was able to give Sayaka the room she needed to launch her arrows.{w} ...All according to plan!"
+            "Sayaka senkt grinsend ihren Bogen {w} ... Ah, genau.{w} Durch meine Hilfe konnte Sayaka ihre Pfeile abfeuern.{w} ... Lief alles nach Plan!"
 
-            p "Was heißt ...{w} Ich frag mich echt, wie ihr das tagtäglich durchhaltet!"
+            p "Ach ne ...{w} Ich frag mich echt, wie ihr das tagtäglich durchhaltet!"
 
             $ sayaface='smiling'
             show Sayaka
