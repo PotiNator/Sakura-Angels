@@ -4249,12 +4249,12 @@ label explanationover:
 
             s "Nothing!{w} Thank you, for real."
 
-            "She beams with an innocent grin.{w} I'm sure she definitely meant {i}something{/i} by that, though..."
+            "Sie strahlt förmlich.{w} Ich bin sicher, dahinter steckte {i}etwas{/i} mehr ..."
 
             $ sayaface='shocked'
             show Sayaka
 
-            "Her mouth opens wide as she looks over Hikari's sword that I still hold in a trembling hand.{w} Even now, I still can't stop shaking after confronting those things!"
+            "Als sie Hikaris Schwert erblickt, das ich gerade in meiner zittrigen Hand halte, öffnet sich ihr Mund ganz weit."
 
             s "Is that...{w}Hikari's?{w} How on earth did you..."
 
@@ -4266,15 +4266,15 @@ label explanationover:
 
             s "Okay, okay.{w} Calm down.{w} We were getting to it!"
 
-            "Sayaka sighs and nocks a magic arrow into her bow, before letting it loose with a bored expression, as if she wasn't even that concerned with Hikari."
+            "Sayaka seufzt und spannt einen magischen Pfeil in ihrem Bogen, bevor sie ihn kurz darauf mit einem gelangweilten Gesichtsausdruck loslässt."
 
             with flash
 
-            "The lazy yet somehow precise arrow pierces through all the tentacles at once, severing them cleanly.{w} The monster still hidden in the shadows lets out some kind of shriek and drops Hikari to the ground before retreating."
+            "Der lahme und doch präzise Pfeil durchdringt alle Tentakel auf einmal.{w} Das Monster, welches sich noch immer in den Schatten versteckt, kreischt und lässt Hikari zu Boden fallen."
 
             h "Oof!"
 
-            "She lands with a slimy splash.{w} ...Eurgh.{w} That can't be pleasant."
+            "Sie landet ... aber ziemlich ungemütlich.{w} ... Iiih.{w} Das ist sicher nicht angenehm."
 
             $ sayaface='happy'
             show Sayaka
@@ -4286,14 +4286,14 @@ label explanationover:
             show Hikari at right
             with dissolve
 
-            "Hikari rises, and takes in a deep breath, about to yell at her partner, but she stops when she notices her sword in my fairly incapable hands."
+            "Hikari steht auf und holt tief Luft, um ihre Partnerin anzuschreien, aber als sie ihr Schwert in meinen Händen erblickt, wird sie still."
 
             $ hikaface='shocked'
             show Hikari
 
             h "Kenta...?"
 
-            "I grin nervously and scrub at the back of my head."
+            "Nervös und grinsend kratze ich mich am Hinterkopf."
 
             p "A-Ah ...{w} Ich hoffe, ihr habt nichts dagegen.{w} Es war ein Notfall."
 
@@ -4314,9 +4314,9 @@ label explanationover:
 
             s "Psh, don't be so modest!{w} You were my hero, Kenta!"
 
-            "Sayaka clasps her hands together and chirps playfully, batting her eyelashes at me with a dreamy expression."
+            "Sayaka klatscht ihre Hände zusammen und blickt mich mit einem verträumten Gesichtsausdruck an."
 
-            "Even though she's clearly just messing around, I still can't help but let out an awkward laugh as my cheeks flare up."
+            "Auch wenn sie eindeutig nur Spaß macht, kann ich mir das Lachen nicht verkneifen."
 
             s "You should have seen him, Hikari.{w} He came in charging and took all four of them on at once!{w} In fact, I think he might be even better than you with a sword!"
 
@@ -4324,9 +4324,9 @@ label explanationover:
             show Hikari
             with dissolve
 
-            "Okay, now she's {i}really{/i} making it obvious that I did nothing."
+            "Okay, jetzt sorgt sie endgültig dafür, dass es so aussieht, als hätte ich gar nichts gemacht."
 
-            "Hikari squelches over to me and snatches the sword back with a sour expression.{w} ...Urgh...{w}she got some of her slime on me."
+            "Hikari schreitet zu mir und schnappt mir mit einem sauren Gesichtsausdruck das Schwert aus der Hand.{w} ... Urgh ...{w} jetzt hat sie mich mit diesem Schleim angesteckt."
 
             $ hikaface='angry'
             show Hikari
@@ -4345,7 +4345,7 @@ label explanationover:
 
             s "What do you say, Kenta?{w} I'm sure I could get you sorted out with a nice magical outfit too!"
 
-            "Hikari continues to simmer as Sayaka goes on.{w} I can't even tell if she's being serious at this point!"
+            "Während Sayaka weitermacht, kocht Hikari weiterhin vor Wurt.{w} Ich kann jetzt nicht mal mehr sagen, ob sie das Ernst meint oder nicht!"
 
             p "Ähh ...{w} Darauf kann ich verzichten."
 
@@ -4354,21 +4354,21 @@ label explanationover:
 
             s "Aww.{w} Okay.{w} I still think you'd look great in one of these outfits!"
 
-            "I wonder...{w} Would my magical outfit be as, uh...{w}light on materials as theirs are?"
+            "Ich frage mich ...{w} ob mein Outfit ...{w} auch so notdürftig ausfallen würde?"
 
-            "...I feel cold just thinking about wearing one.{w} I don't know how they manage."
+            "...Da läuft es mir ja schon kalt den Rücken runter, wenn ich bloß daran denke.{w} Ich frag mich echt, wie die das schaffen."
         "Hikari.":
 
 
             $ hikari += 1
 
-            "I think it's clear that Hikari is the one in danger here.{w} Those tentacles are pretty much squeezing the life out of her!"
+            "Ich denke, Hikari steckt in größerer Gefahr.{w} Diese Tentakel quetschen ihr noch den letzten Hauch ihres Lebens aus dem Körper!"
 
-            "I'm sure Sayaka has been in tougher situations before, so I feel confident in letting her handle those monsters."
+            "Sayaka steckte auch bestimmt früher schon mal in einer solchen Situation, von daher sollten diese Monster kein Problem für sie sein."
 
             p "Hikari, halt durch!"
 
-            "I break into a sprint and head for the writhing mass of tentacles that have laid their assault on an unfortunate Hikari."
+            "Ich sprinte los und bewege mich auf die Tentakeln zu, die unbeirrt ihren Angriff auf Hikari fortführen."
 
             play music "bgm/battleintro.ogg"
             queue music "bgm/battleloop.ogg"
@@ -4378,19 +4378,19 @@ label explanationover:
 
             h "Nngh!{w} D-Dummes Ding!{w} Hättest du mich nicht überrascht, könnte ich es..."
 
-            "She continues to kick and wriggle around in its hold, but if anything, I think she's only making the whole situation worse on herself."
+            "Sie tritt und zappelt weiterhin um sich, aber ich schätze, dass sie dadurch nur noch alles schlimmer macht."
 
-            "I come to a screeching halt as I reach the monster, sword in hand."
+            "Als ich das Monster erreiche, bremse ich mit dem Schwert in der Hand abrupt ab."
 
-            "The tentacles seem like they want nothing to with me, only focused on continuing their attack on Hikari.{w} ...Funny that."
+            "Es scheint, als wollten die Tentakel nichts mit mir zu tun haben.{w} ... Merkwürdig."
 
-            "Okay.{w} This should be easy.{w} It's just like cutting away some weeds, right?{w} ...Wriggling, slimy weeds...{w}but weeds no less!"
+            "Okay.{w} Desto einfacher für mich.{w} Das ist so, als würde man Unkraut schneiden, nicht wahr?{w} ... Ein sich schlängelndes und schleimiges Unkraut ...{w} Aber trotzdem noch Unkraut!"
 
-            "I steel myself as I pull back the sword.{w} I can't hesitate any longer, or it might be too late."
+            "Konzentriert hole ich mit dem Schwert aus.{w} Ich kann nicht länger warten, ansonsten könnte es bereits zu spät sein."
 
-            "One clean swing is all I need to end this."
+            "Ein sauberer Schwung, dann ist alles vorbei."
 
-            "So...{w} Here I go."
+            "Also ...{w} los."
 
             p "Hyahh!"
 
@@ -4398,7 +4398,7 @@ label explanationover:
             with flash
 
 
-            "The sword slices through the tentacles like butter, severing them in two and relinquishing their hold on Hikari."
+            "Das Schwert gleitet durch die Tentakel als wären sie Butter und teilt sie in zwei Hälften."
 
             $ hikaface='scared'
             $ hikapose='magical_1'
@@ -4407,17 +4407,17 @@ label explanationover:
 
             h "Oof!"
 
-            "She lands with a sticky, and slimy splash, looking somewhat dazed from the whole experience."
+            "Hikari landet mit einem spritzenden Geräusch und etwas benommen auf dem Boden."
 
-            "Huh.{w} I did it.{w} I actually did something useful!"
+            "Häh?{w} Ich hab's geschafft.{w} Ich war doch tatsächlich hilfreich!"
 
-            "The monster's body slinks into the shadows with a low groan.{w} I guess it can't really do much when the majority of its tentacles are now writhing around on the ground."
+            "Der Körper des Monsters bewegt sich stöhnend in die Schatten.{w} Ich schätze, mit dem Großteil seiner Tentakel abgetrennt, kann es nicht mehr viel anstellen."
 
             h "Ughnn...{w} Kenta...?"
 
             p "Alles in Ordnung?{w} Hier, nimm meine Hand."
 
-            "I hold my free hand out to her with an exhausted smile."
+            "Mit einem erschöpften Lächeln strecke ich meine freie Hand zu ihr aus."
 
             $ hikaface='angry'
             show Hikari
