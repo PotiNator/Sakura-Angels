@@ -4573,11 +4573,11 @@ label explanationover:
 
     p "Meinst du mich?"
 
-    "Let's see...{w} I'm drenched in sweat and my heart is still thumping like crazy from the adrenaline rush.{w} I think I might throw up.{w} And my head feels like it might split open at any moment."
+    "Mal sehen ...{w} Ich schwitze wie ein Schwein und mein Herz klopft immer noch wie verrückt.{w} Ich könnte jederzeit kotzen.{w} Und mein Kopf fühlt sich an, als würde er sich jederzeit spalten."
 
     p "Ich, äh ...{w} Es geht so, um ehrlich zu sein."
 
-    "Oddly enough, I really do feel fine.{w} Better than fine, in fact.{w} I'm happy I could finally do something, even if it wasn't much, so I'm not as much a burden for these two."
+    "Aber es geht mir trotzdem ziemlich gut.{w} Besser als gut, um ehrlich zu sein.{w} Ich bin froh, dass ich den beiden endlich mal behilflich sein konnte, auch wenn es nicht wirklich viel war."
 
     $ sayapose='magical_2'
     show Sayaka
@@ -4585,7 +4585,7 @@ label explanationover:
 
     s "I think it's safe to say that we should call it a night now, huh?"
 
-    "Hikari peers into the darkness, still holding her sword firmly.{w} She seems reluctant about giving up on the fight so soon."
+    "Hikari hält ihr Schwert weiterhin fest in der Hand und blickt in die Dunkelheit.{w} Sie scheint es nicht akzeptieren zu wollen, dass der Kampf bereits vorbei ist."
 
     $ sayaface='happy'
     $ sayapose='magical_1'
@@ -4594,7 +4594,7 @@ label explanationover:
 
     s "C'mon, Hikari!{w} It's over.{w} We won!"
 
-    "Sayaka slaps a hand down on Hikari's tense shoulder, and she loosens up.{w} Just a little."
+    "Sayaka schlägt mit der Hand auf Hikaris angespannte Schulter, woraufhin sie sich ein wenig entspannt.{w} Aber auch nur ein bisschen."
 
     h "Ich weigere mich zu glauben, dass sie so einfach aufgeben würde.{w} Es macht keinen Sinn."
 
@@ -4602,52 +4602,52 @@ label explanationover:
 
     h "Vielleicht..."
 
-    "Hikari finally gives up, her sword fading with a dim light."
+    "Letztendlich gibt Hikari auf und lockert den Griff um ihr Schwert."
 
-    "She reluctantly joins the pair of us, and we begin the journey home once more."
+    "Widerwillig gesellt sie sich zu uns und gemeinsam starten wir unsere Heimreise."
 
     scene bg black
     with fade
 
-    "And with that, the chaotic night finally comes to an end.{w} I get to live for yet another day!"
+    "Und somit kommt diese chaotische Nacht endlich zu einem Ende.{w} Wieder einen Tag überlebt!"
 
-    "After tonight, I'm more grateful than ever for the existence of my 'guardian angels'...{w} However bizarre they might be at times."
+    "Nach dem heutigen Tag bin ich für die Existenz meiner beiden Schutzengel dankbarer denn je ...{w} So merkwürdig sie auch sein mögen."
 
-    "We part ways once we reach my house...{w} Though I know they'll be just a shout away if I need them, since they'll no doubt be camped in my garden again.{w} ...I really don't understand how they don't get caught."
+    "Zuhause angekommen trennen sich unsere Wege ...{w} Wobei, ich weiß ja, dass sie nur einen Katzensprung entfernt sind, da sie sowieso wieder in meinem Garten campen werden.{w} ... Ich versteh echt nicht, wie sie es schaffen, nicht entdeckt zu werden."
 
     scene kitchen night
     with fade
 
-    "I shut the door behind me, and I'm greeted with the familiar aroma of home cooking."
+    "Ich schließe die Tür hinter mir zu und werde vom vertrauten Duft der Hausmannskost empfangen."
 
-    "Safe at last.{w} ...I think.{w} At least, the monsters haven't attacked me here, anyway.{w} They seem to only want to get me when I'm isolated from mostly everyone else."
+    "Endlich in Sicherheit.{w} ... Hoff ich zumindest.{w} Zumindest haben mich hier noch keine Monster angegriffen.{w} Anscheinend haben sie es nur auf mich abgesehen, wenn sonst fast niemand bei mir ist."
 
-    "Let's hope things stay that way.{w} No one else has to be dragged into this mess.{w} Heck, I still don't even know why {i}I'm{/i} in this situation to begin with."
+    "Hoffentlich bleibt es auch so.{w} Es müssen nicht noch mehr Leute da mitreingezogen werden.{w} Ich weiß ja nicht mal, warum {i}ich{/i} da mitreingezogen wurde."
 
-    "I join my parents at the table, the plates only just being set up.{w} I get the same questioning looks as before, maybe more so today because of how taxing that encounter had been on my body."
+    "Ich setze mich zu meinen Eltern an den Esstisch.{w} Dieselben Blicke wie letztens - vielleicht sogar stärker, wenn man bedenkt, wie erschöpfend das Ganze für mich war."
 
-    "I'm lucky enough to have not suffered any real damage, or at least anything noticeable at first glance, so they don't chase up any further on the matter."
+    "Ich habe Glück, keine wirklichen Schäden davongetragen zu haben, oder zumindest keine sichtbaren."
 
-    "The usual conversations unfold, and once more it becomes my turn to talk about my day.{w} I can only let out an awkward laugh and say it was the same as any other day."
+    "Die üblichen Gespräche beginnen und einmal mehr bin ich an der Reihe, über meinen Tag zu sprechen.{w} Ich lasse aber lediglich ein unangenehmes Lachen los und sage, dass der Tag war wie jeder andere auch."
 
-    "I wonder how they'd react if I told them there are two complete strangers potentially camping in our back yard?"
+    "Ich frage mich, wie sie darauf reagieren würden, wenn ich ihnen erzähle, dass in unserem Garten zwei völlig fremde Personen zelten?"
 
     with Pause(2.0)
     stop music fadeout 5.0
-    "The peaceful, relaxing dinner comes to an end.{w} Much like last night, I make myself scarce and drag myself up to my room, wanting nothing more than to collapse onto my bed for a good several days."
+    "Das friedliche, entspannende Abendessen geht zu Ende.{w} So wie gestern schleppe ich mich irgendwie ins Zimmer und lasse mich ins Bett fallen."
 
     scene bedroom night
     with fade
 
-    "Thankfully it's the weekend tomorrow, at least.{w} So there's no worry about having to get up too early.{w} But, I get the feeling with those two girls around, I'm not going to be able to get much of a lie in."
+    "Zum Glück ist morgen Wochenende.{w} Endlich ausschlafen!{w} Aber irgendwie werd ich das Gefühl nicht los, als würde ich dank diesen beiden nicht wirklich dazu kommen."
 
-    "...Speaking of the girls.{w} Do I even want to check?"
+    "...Wo wir schon dabei sind ...{w} Möchte ich überhaupt nachsehen?"
 
-    "I heave a reluctant sigh and peek through the curtains.{w} Yup.{w} Tent.{w} Camp fire.{w} An over-cooked meal catching alight as the pair scramble to put it out.{w} ...That's about what I expected."
+    "Zurückhaltend blicke ich durch den Vorhang.{w} Jup.{w} Zelt.{w} Lagerfeuer.{w} Und eine Mahlzeit, die schon fast in Flammen aufgeht, die die beiden löschen wollen.{w} ... Was hab ich mir anderes erwartet?"
 
-    "I shut the curtains and ignore the fact the entire garden is in danger from catching fire.{w} I'm far too exhausted to worry about that.{w} I'm sure it'll be fine.{w} Most likely.{w} ...Eh."
+    "Ich ziehe die Vorhänge zusammen und ignoriere die Tatsache, dass mein Garten jederzeit in Flammen aufgehen könnte.{w} Ich bin viel zu müde, um mir darüber Sorgen zu machen.{w} Wird schon schiefgehen.{w} Höchstwahrscheinlich."
 
-    "Crawling into bed, the distressed cries of two supposed 'professionals' are the last thing I hear before I drift off into the world of dreams."
+    "Die verzweifelten Schreie von den beiden vermeintlichen 'Profis' sind das letzte, was ich höre, bevor ich in die Welt der Träume versinke."
 
     scene bg black
     with fade
@@ -4658,89 +4658,89 @@ label explanationover:
     scene bedroom day
     with wake
 
-    "I awake with a groan, warm rays of the sun pulling me out of my slumber whether I like it or not."
+    "Ich wache mit einem Stöhnen auf und warme Sonnenstrahlen reißen mich aus meinem Halbschlaf - was mir ganz und gar nicht gefällt."
 
 
 
-    "Alongside the expected headache, every muscle in my body screams out in protest as I try to push myself up."
+    "Während ich versuche, mein Bett zu verlassen, schmerzt nicht nur mein Kopf, sondern auch jeder einzelne Muskel in meinem Körper."
 
-    "I don't get it.{w} I didn't even exert myself {i}that{/i} much the other day.{w} So why do I feel so weak?"
+    "Ich versteh's nicht.{w} Ich hab mich doch gar nicht {i}so sehr{/i} mehr angestrengt als beim letzten Mal.{w} Warum fühl ich mich also so schwach?"
 
     with hpunch
 
-    "It takes a good moment or so of struggling before my body finally complies, and I tumble out of bed."
+    "Es dauert eine Weile, bevor sich mein Körper meinem Willen endlich fügt."
 
-    "I'm left staring at the ceiling in a daze for a second, before I boot to life once more.{w} What is wrong with me?!"
+    "Bevor ich wieder vollkommen zum Leben erwache, starre ich noch eine Sekunde auf die Decke.{w} Was ist bloß los mit mir?!"
 
-    "Rising on shaky legs, I totter back and forth before I almost crash into the wall in an effort to support myself."
+    "Auf wackeligen Beinen stehe ich auf, ehe ich gegen die Wand krache."
 
-    "Okay.{w} Deep breaths.{w} It appears I may have forgotten how to walk properly.{w} No big deal."
+    "Okay.{w} Tief Luft holen.{w} Anscheinend hab ich vergessen, wie man geht.{w} Kein großes Ding."
 
-    "Let's see if I can remember, before I even {i}think{/i} of attempting the stairs."
+    "Zuerst sollte ich mich mal daran erinnern, bevor ich überhaupt daran {i}denke{/i}, die Stiegen nach unten zu gehen."
 
-    "It's just one foot in front of the other.{w} Left foot.{w} Right foot."
+    "Immer einen Fuß vor den anderen.{w} Linker Fuß.{w} Rechter Fuß."
 
-    "Slowly, but surely, I become steadier with each step I take.{w} Phew.{w} Maybe I'm just more tired than I realise?"
+    "Langsam - aber sicher - kehren die Erinnerungen zurück.{w} Puh.{w} Vielleicht bin ich auch einfach nur müder, als mir bewusst ist?"
 
     with Pause(2.5)
 
-    "Having remembered the basics of human mobility once more, I head for the bathroom."
+    "Nachdem ich die Grundlagen der Mobilität wiedererlangt habe, gehe ich ins Badezimmer."
 
-    "As I approach the door, I can't help but feel a sense of deja vu about the whole thing.{w} Why is that, I wonder?{w} I get the feeling there's something important I'm forgetting.{w} Something potentially life threatening."
+    "Als ich mich der Tür nähere, fällt mir plötzlich etwas ein - Déjà-vu.{w} Warum das?{w} Anscheinend vergesse ich da irgendwas besonders Wichtiges.{w} Etwas Lebensgefährliches."
 
-    "But...{w}I can't recall it at all in such a groggy state.{w} I'm sure I'll remember after a shower!"
+    "Aber ...{w} so wie ich drauf bin, kann ich mich nie und nimmer daran erinnern.{w} Nach einer kalten Dusche sieht das aber sicher ganz anders aus!"
 
     scene cg5
     with wake
 
-    "Shower...{w}shower...{w}shower...?"
+    "Dusche ...{w} Dusche ...{w} Dusche ...?"
 
-    "As I open the door, I'm greeted by a wisp of steam and the sound of running water."
+    "Als ich die Tür öffne, werde ich von Dampf und dem Geräusch von fließendem Wasser begrüßt."
 
-    "It looks like I won't be able to use the shower right now...{w}since it's...{w}being used...?"
+    "Sieht aus, als müsste ich noch etwas warten ...{w} Seit wann ...{w} ist sie überhaupt besetzt ...?"
 
-    "At least I think it is.{w} I'm having a little bit of trouble coming to terms with the sight before me."
+    "Zumindest glaub ich, dass sie besetzt ist.{w} Mein Hirn braucht ein wenig, um den Anblick vor mir zu verarbeiten."
 
     s "Wahh!{w} Kenta?!{w} Wh-what are you doing?"
 
-    "I blink a few times.{w} Yup.{w} Still there."
+    "Ich blinzle ein paar Mal.{w} Jup.{w} Noch immer."
 
-    "Sayaka is really there.{w} ...Using my shower.{w} Huh."
+    "Sayaka steht wirklich vor mir.{w} ... Und noch dazu in meiner Dusche.{w} Hm."
 
-    "I gawk for a while longer, my hand fumbling limply at the door handle.{w} All I have to do is close the door again, and stop this being any more awkward than it's already become for us."
+    "Mit meiner Hand an der Türschnalle glotze ich noch ein wenig länger drein.{w} Ich muss nur die Tür schließen, und schon wird diese Situation nicht noch unangenehmer, als sie eh schon ist."
 
-    "Setting aside the fact they've broke into my house yet again, how is this {i}my{/i} fault?{w} I thought they would have learned how basic locks work after the mishap from yesterday morning!"
+    "Abgesehen davon, dass sie ja anscheinend wieder in mein Haus eingebrochen sind ... Warum ist das {i}meine{/i} Schuld?{w} Ich dachte, nach dem gestrigen Tag hätten sie gelernt, wie einfache Schlösser funktionieren!"
 
-    "If anything, I'm the victim here!{w} It's not fair!"
+    "Ich bin das Opfer, nicht der Täter!{w} Das ist nicht fair!"
 
     s "H-hello?{w} Is anyone there?{w} Y-you can close the door now!"
 
-    "Sayaka breaks me out of my thoughts as she attempts to cover herself the best she can, her face flush with embarrassment."
+    "Während Sayaka versucht, sich so gut wie nur möglich zu bedecken, unterbricht sie meine Gedankengänge."
 
-    "She's a lot more subdued compared to her usual, outgoing self.{w} I guess that's to be expected in an awkward situation like this."
+    "Sie ist viel verhaltener als sonst.{w} Aber vielleicht ist das auch nur auf diese unangenehme Situation rückzuführen."
 
-    "A situation that I'm only making more awkward the longer I stand here wide-eyed by the door."
+    "Eine Situation, die ich mit meiner Anwesenheit nur noch unangenehmer mache."
 
     s "If you don't mind..."
 
     p "Äh, genau.{w} Mein Fehler ..."
 
-    "At least Sayaka is more reasonable about this whole thing.{w} I have a feeling if I had walked in on Hikari like this again, the house might not be standing."
+    "Zumindest ist Sayaka ein bisschen einsichtig.{w} Wäre das wieder Hikari gewesen, würde das Haus hier wohl kaum noch stehen."
 
-    "I avert my gaze--somehow--and pull the door to a close."
+    "Ich wende meinen Blick ab - irgendwie - und schließe die Tür."
 
-    "Locks, people.{w} Locks!{w} They exist for a reason.{w} Sheesh."
+    "Schlösser, Leute.{w} Schlösser!{w} Ihre Existenz hat einen Grund.{w} Meine Fresse."
 
-    "...I'm not sure if I'll ever be able to get that image of her out of my head now."
+    "...Ich bin mir nicht sicher, ob ich diesen Anblick jemals vergessen kann."
 
-    "Her wet hair, the water cascading down her body, the--"
+    "Ihr nasses Haar, das Wasser, das ihren Körper hinunterfloss, ihre--"
 
-    "Argh!{w} I shake my head.{w} Bad Kenta!{w} You're better than this!"
+    "Argh!{w} Ich schüttle meinen Kopf.{w} Schlimmer Kenta!{w} Du bist besser als das!"
 
     scene bg black
     with fade
 
-    "After all the commotion from what I'm hoping won't be a regular thing, I find myself downstairs with both of the girls."
+    "Nach all der Aufregung, von der ich hoffe, dass es nicht zum Alltag wird, finde ich mich unten mit den beiden Mädchen wieder."
 
     scene kitchen day
     $ sayaface='smiling'
