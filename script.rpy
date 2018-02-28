@@ -4763,7 +4763,7 @@ label explanationover:
 
     s "But that's exactly why we're here!"
 
-    "Sayaka beams with a smile almost as bright as the sun itself."
+    "Sayaka strahlt mit einem Lächeln, das selbst der Sonne konkurriert."
 
     p "Was ...?"
 
@@ -4774,7 +4774,7 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    "Where on earth did that come from?{w} She isn't joking around either as she says it with such a sincere look."
+    "Wie kommt sie jetzt darauf?{w} Und das ist auch bestimmt kein Scherz, wenn ich ihren ernsten Blick betrachte."
 
     p "S-Sei doch nicht dumm.{w} Ich hab genug Freunde!"
 
@@ -4783,17 +4783,17 @@ label explanationover:
 
     h "Oh?{w} Nenn mir einen."
 
-    "Hikari, too?{w} I'm beginning to feel ganged up on here..."
+    "Hikari auch noch?{w} Ich fühl mich gerade wie ein Verbrecher ..."
 
     p "Freunde?{w} Das ist einfach!{w} Da hätten wir ..."
 
-    "Uh...{w} Well, let's see.{w} How about...{w}no...{w}I guess I just say good morning to them and that's it."
+    "Äh ...{w} Mal überlegen.{w} Wie wär's mit ...{w} Nein ...{w} Ich schätze, ich wünsch ihnen einfach einen guten Morgen und sonst nichts."
 
-    "But surely--...{w} I guess I can't really count them either, since I've only worked a couple of times on projects with them."
+    "Aber echt jetzt--...{w} Abgesehen davon, dass sie meine Schutzengel sind, kann ich ja nicht mal die beiden mitzählen."
 
-    "Uh-oh.{w} This is bad.{w} I can't actually come up with anybody.{w} The look on my face says it all, as Hikari has a smug look about her."
+    "Oh Gott.{w} Bitter.{w} Mir fällt echt niemand ein.{w} Mein Gesichtsausdruck verrät alles."
 
-    "I better change the subject.{w} Fast!"
+    "Ich sollte lieber das Thema wechseln.{w} Und zwar schnell!"
 
     p "I-Ist doch egal!{w} Wie kommt ihr jetzt überhaupt da drauf?"
 
@@ -4806,7 +4806,7 @@ label explanationover:
 
     p "Naja, das ... äh ... weil ich mich mit euch rumschlagen muss!"
 
-    "Okay, grasping at straws here, but it's the best I can come up with.{w} Somehow I get the feeling they're not convinced.{w} Heck, {i}I'm{/i} not convinced, even by my own words."
+    "Okay, ich greife nach Strohhalmen, aber sonst fällt mir einfach nichts ein.{w} Irgendwie hab ich das Gefühl, als wären sie nicht überzeugt.{w} Verdammt, ich bin ja nicht mal selbst überzeugt."
 
     s "And over the past few weeks we've been watching over you, you only seem to ever leave the house for school, before you come right back."
 
@@ -4819,9 +4819,9 @@ label explanationover:
 
     s "And to add to that, your parents always seem to be away working.{w} So it's just you, all on your own."
 
-    "Hey now, you shouldn't be worried about that part, or you wouldn't be able to use my house as freely as you do!"
+    "Hey, also darüber solltest du dir mal keine Sorgen machen ... Wär es anders, könntet ihr jetzt nicht mal hier sein!"
 
-    "But...{w}I guess she has a point.{w} One I have realised myself, even if I don't want to fully admit it."
+    "Aber ...{w} ich denke, sie hat recht.{w} Es ist traurig, aber es ist die Wahrheit."
 
     $ sayaface='happy'
     $ sayapose='school_1'
@@ -4830,7 +4830,7 @@ label explanationover:
 
     s "Which is why we're going to do something fun today!{w} All three of us!"
 
-    "She claps her hands together and snaps me out of my depressing thoughts."
+    "Sie klatscht ihre Hände zusammen und reißt mich aus meinen deprimierenden Gedanken."
 
     s "Believe it or not, Hikari and I don't really get a lot of free time, so we've never really been able to enjoy a weekend like this."
 
@@ -4853,7 +4853,7 @@ label explanationover:
     show Hikari
     show Sayaka
 
-    "They both smile innocently.{w} ...I'm sure I'm being manipulated here."
+    "Beide lächeln sie unschuldig.{w} ... Ich bin mir sicher, dass ich manipuliert werde."
 
     p "Also, was habt ihr für heute geplant?"
 
@@ -4864,10 +4864,10 @@ label explanationover:
 
     s "Ah!{w} That's a secret.{w} But first, there's the matter of breakfast."
 
-    "Right.{w} Breakfast."
+    "Stimmt.{w} Frühstück."
 
     if cookedpreviously == True:
-        "I have a terrifying flashback to yesterday and their supposed 'breakfast' they had made for me.{w} Not to mention the state they left the kitchen in afterwards.{w} It looked like a bomb had went off in there!"
+        "Plötzlich erinnere ich mich an ein schreckliches Ereignis von gestern und ihr angebliches 'Frühstück'.{w} An die Küche will ich erst gar nicht denken.{w} Selbst eine Bombe hätte weniger Schaden angerichtet!"
 
         s "I think Hikari and I should handle breakfast again today!{w} We've totally got it under control this time."
 
@@ -4880,42 +4880,42 @@ label explanationover:
 
         s "Yep!"
 
-        "Hikari's face grows pale.{w} She shoots me a look that says she wants me to put my foot down and end this madness before it can spiral any further out of control."
+        "Hikaris Gesicht wird blass.{w} Sie wirft mir einen Blick zu, der zeigt, dass sie möchte, dass ich dem Ganzen ein für alle Mal ein Ende setze."
 
         s "How about it, Kenta?"
 
-        "After careful deliberation, I say..."
+        "Nach reiflicher Überlegung sage ich ..."
 
         menu:
-            "No.":
+            "Nein.":
                 jump cookingprevious
             "Nope.":
 
                 jump cookingprevious
-            "Nuh-uh.":
+            "Nö.":
 
                 jump cookingprevious
-            "How about...no.":
+            "Wie wär's mit ... nein?":
 
                 jump cookingprevious
-            "Hah. Ahahaha. Ahahahahahahahaha. No.":
+            "Hah. Ahahaha. Ahahahahahahahaha. Nein.":
 
                 jump cookingprevious
-            "Let's not.":
+            "Lieber nicht.":
 
                 jump cookingprevious
-            "Mmm...no.":
+            "Hmmmm ... Nein.":
 
                 jump cookingprevious
-            "I'll think about it. Okay, I'm done thinking. No.":
+            "Ich denk darüber nach. Okay, fertig mit dem Denken. Nein.":
 
                 jump cookingprevious
-            "Sure, okay.":
+            "Klar, in Ordnung.":
 
 
-                "Well, sure, I can't see any reason why not!"
+                "Klar, es spricht schließlich nichts dagegen!"
 
-                "...Is the complete opposite of what I'm about to say.{w} I'd be insane to consider otherwise!"
+                "...Sag ich bestimmt nicht.{w} Sonst wär ich ja verrückt!"
 
                 jump cookingprevious
 
@@ -4929,7 +4929,7 @@ label explanationover:
 
             s "Aw..."
 
-            "She looks absolutely crushed.{w} But I had to do it!{w} For both Hikari's and my own safety!"
+            "Sie sieht niedergeschlagen aus.{w} Aber ich musste es tun!{w} Für Hikari und meinetwegen!"
 
             p "I-Ich mein, ihr müsst nach dem gestrigen Tag doch echt müde sein.{w} Und mit dem Kochen könnte ich mich auch gleich bedanken!"
 
@@ -4947,7 +4947,7 @@ label explanationover:
 
             s "Well...{w}okay.{w} Your loss!{w} Breakfast really would have been better today, too."
 
-            "Somehow I doubt that.{w} I think destruction just comes naturally to both this girl and her partner in crime."
+            "Das bezweifle ich irgendwie.{w} Für dieses Mädchen und ihre Komplizin steht Zerstörung doch an der Tagesordnung."
 
             p "Bleibt einfach hier sitzen ...{w} und fasst bloß nichts Brennbares an, während ich weg bin, okay?"
 
@@ -4958,35 +4958,35 @@ label explanationover:
 
             stop music fadeout 6.0
 
-            "They both comply and take a seat at the table.{w} Hikari seems relieved and mouths a 'thank you' my way as she passes by.{w} The house is safe for another day!"
+            "Sie halten sich beide an die Regeln und setzen sich.{w} Hikari scheint erleichtert zu sein und murmelt ein 'Dankeschön' vor sich hin.{w} Das Haus ist erstmal für einen weiteren Tag gerettet!"
 
             scene bg black
             with fade
 
-            "I quickly cook up something edible and disaster free."
+            "Ich koche schnell etwas."
 
-            "Several times did I find myself having to shoo Sayaka away from the kitchen as she snuck her way in insisting she could help in some way.{w} I almost had a heart attack at one point as I turned around to find her standing there with a knife and a dangerous expression on her face."
+            "Mehrmals musste ich Sayaka von der Küche wegscheuchen, als sie versuchte, einen Fuß reinzusetzen.{w} Einmal hätte das sogar fast zu einem Herzinfarkt geführt, da sie mit dem Messer da stand, als ich mich umdrehte."
 
-            "I know she's just trying to help, but really now!"
+            "Ich weiß, dass sie doch nur helfen möchte ... aber trotzdem!"
     else:
 
-        "Hmm.{w} I did put my foot down the other day, since we were in a bit of a rush for school."
+        "Hmm.{w} Ich hab schon einmal ein Machtwort gesprochen, da wir es eilig hatten."
 
-        "But I'm sure whatever they can come up can't be {i}that{/i} bad."
+        "Aber ich bin sicher, dass das, was sie machen, nicht {i}so{/i} schlecht sein kann."
 
-        "Plus, Sayaka seems so enthusiastic about the whole thing.{w} I don't think I have it in me to refuse to a face that cute."
+        "Außerdem scheint sich Sayaka wirklich zu freuen.{w} Diesem süßen Gesicht kann ich doch nichts ausschlagen."
 
         p "Okay, okay.{w} Ihr könnt das Frühstück machen.{w} Macht ...{w} nur bitte keinen Saustall, okay?"
 
-        "Sayaka's eyes light up and she claps her hands together."
+        "Sayakas Augen leuchten auf und sie klatscht ihre Hände zusammen."
 
         s "Really?{w} Yay!{w} You won't regret it, I promise!"
 
-        "I sure hope not..."
+        "Hoff ich doch ..."
 
         stop music fadeout 6.0
 
-        "I don't see the harm in it I suppose.{w} She seems to mean well, and it would be nice to take it easy after all of this stress."
+        "Es schadet sicher nicht.{w} Sie scheint es nur gut zu meinen und nach all dem Stress hab ich mir die Pause auch verdient."
 
         p "Klar.{w} Nur zu."
 
@@ -4994,7 +4994,7 @@ label explanationover:
         show Sayaka
         with dissolve
 
-        "Sayaka beams, making me feel confident in my choice.{w} I...I think."
+        "Sayaka strahlt, sodass ich mich von meiner Entscheidung überzeugt fühle.{w} H-Hoffentlich bleibt es auch dabei."
 
         s "You won't regret it!{w} You just sit back, and we'll have something amazing whipped up for you in a flash!"
 
@@ -5004,13 +5004,13 @@ label explanationover:
         show Hikari at offscreenright
         with move
 
-        "With that, she spins on her heel and waltzes into the kitchen, dragging along with her a very reluctant Hikari."
+        "Mit diesen Worten dreht sie sich um und schlenzt in die Küche. Hikari wehrt sich, wird aber einfach mitgeschliffen."
 
-        "I take a seat in the connected dining room and ease myself into a chair.{w} This'll be fine.{w} Right?"
+        "Ich setze mich in das Esszimmer.{w} Das war doch die richtige Entscheidung.{w} Nicht wahr?"
 
         with Pause(2.5)
 
-        "It starts off well enough anyway.{w} I hear plates and utensils clatter about with cupboard doors battering along."
+        "Es fängt zumindest gut an.{w} Ich höre Teller und Besteck klirren."
 
         play music "bgm/mischiefintro.ogg" fadein 3.0
         queue music "bgm/mischiefloop.ogg"
@@ -5019,9 +5019,9 @@ label explanationover:
 
         s "We'll worry about that later!{w} Now put some of this stuff in too!"
 
-        "...I'll pretend I didn't hear that."
+        "...Das ignorier ich jetzt einfach mal."
 
-        "The frantic chopping of vegetables sound out from behind me mixed with Hikari's panicked yelps."
+        "Das hektische Schneiden von Gemüse wird von Hikaris panischen Schrei unterbrochen."
 
         h "Pass auf, wo du das hinschwingst, du wirst mir noch den Kopf abschlagen!"
 
@@ -5039,7 +5039,7 @@ label explanationover:
 
         h "Also werden wir es einfach so machen, wie das?"
 
-        "I hear the unsettling fwoosh of flames.{w} Just how high are they putting it?!"
+        "Plötzlich höre ich Flammen.{w} Wie stark drehen die da drinnen bitte auf?!"
 
         s "Hmm.{w} What do you think this stuff is?"
 
@@ -5049,7 +5049,7 @@ label explanationover:
 
         "..."
 
-        "Things go silent in the kitchen.{w} I can't tell if that's good or bad.{w} I'm too scared to look."
+        "Auf einmal wird es leise.{w} Ich weiß nicht, ob das ein gutes oder schlechtes Zeichen ist.{w} Ich hab ehrlich gesagt auch Angst davor, nachzusehen."
 
         h "I-Ist es wirklich okay?"
 
@@ -5059,7 +5059,7 @@ label explanationover:
 
         s "Wahhh!"
 
-        "Something explodes in the kitchen.{w} Thick plumes of acrid smoke waft into the dining space.{w} Hmm."
+        "Und dann plötzlich eine Explosion.{w} Dicke Rauchschwaden wehen in den Speisesaal.{w} Hmm."
 
         h "Mach es aus, schnell, es wird sich sonst ausbreiten!"
 
@@ -5067,7 +5067,7 @@ label explanationover:
 
         h "I-Ich weiß nicht!{w} Versuch es einfach!"
 
-        "Fwooom.{w} The roar of flames.{w} I can see the flickering of amber in my peripheral vision.{w} {i}Hmmmm{/i}."
+        "Das Lodern der Flammen ist zu hören.{w} Das Flackern kann ich gerade noch so in meinem Augenwinkel wahrnehmen.{w} {i}Hmmmm{/i}."
 
         s "Nope!{w} That made it worse!"
 
@@ -5087,7 +5087,7 @@ label explanationover:
 
         h "A-Ah, du verschüttest es überall!"
 
-        "I hear water splash.{w} A good deal of it.{w} Like, an entire bucket's worth of the stuff."
+        "Ich höre Wasser spritzen.{w} Jede Menge.{w} Mehr als ein ganzer Kübel, um ehrlich zu sein."
 
         h "Ist es...{w}Ist es vorbei?"
 
@@ -5109,21 +5109,21 @@ label explanationover:
 
         with dissolve
 
-        "Apparently done, uh, 'cooking', the pair enter the dining space.{w} Sayaka has a plate in hand, a good amount of steam--or maybe smoke--drifting from it."
+        "Anscheinend fertig mit dem, äh, 'kochen', kommen die beiden aus der Küche.{w} Sayaka hält einen Teller in der Hand, von dem eigentlich nur Rauch aufsteigt."
 
         s "I hope you're hungry, Kenta!{w} We really went all out to make this, you know!"
 
-        "She puts a plate before me, a sincere smile on her face."
+        "Mit einem aufrichtigen Lächeln stellt sie den Teller vor mich hin."
 
-        "I...I guess she really gave it her all.{w} But...{w}this can't be called food."
+        "I...Ich schätze, sie hat wirklich ihr Bestes gegeben.{w} Aber ...{w} das ist alles andere als 'Essen'."
 
         p "O-Oh.{w} Es ist ...{w} äh ..."
 
-        "Charred, burnt, crisp remains of what might have been food at some point sit on the plate.{w} It feels like it might be hazardous to even breathe in this stuff."
+        "Auf dem Teller liegen nur noch Überreste von dem, was anscheinend mal 'Essen' war.{w} Man könnte meinen, es wäre schon giftig, dieses Zeug nur einzuatmen."
 
-        "I can see Hikari lurking further back, clearly ashamed of whatever...{w}substance they had created."
+        "Ich sehe Hikari weiter hinten auflauern ... Offensichtlich beschämt über das, was die beiden da erschaffen haben."
 
-        "I guess this is my fault for letting them anywhere near the kitchen.{w} I should take responsibility, and--"
+        "Ich denke mal, das ist alles meine Schuld ... Hätte ich sie nicht in die Küche gelassen ...{w} Ach, ich sollte einfach die Verantwortung übernehmen und--"
 
         menu:
             "Eat the food.":
