@@ -3496,7 +3496,7 @@ label explanationover:
             show Sayaka
             with dissolve
 
-            s "It's okay, you can admit that you just missed me {i}so{/i} much and couldn't bear another moment alone without me.{w} I won't tell Hikari."
+            s "Es ist okay, du kannst zugeben, dass du mich {i}so{/i} arg vermisst hast und keinen weiteren Moment, ohne mich aushalten konntest.{w} Ich werde es nicht Hikari erzählen."
 
             "Sie grinst und beißt noch einmal ab."
 
@@ -3523,11 +3523,11 @@ label explanationover:
             show Sayaka
             with dissolve
 
-            s "I was saying, she doesn't like all the crowds and noise, so she wandered off on her own, mumbling something about finding a more quiet place."
+            s "Ich sagte, sie mag nicht all die Menschenmengen und den Lärm, also ging sie alleine davon und murmelte etwas über die Suche nach einem ruhigeren Ort."
 
             p "Glaubst du, dass es ihr gut geht?"
 
-            s "Mff--probably."
+            s "Mff--warscheinlich."
 
             $ sayaface='happy'
             show Sayaka
@@ -3539,7 +3539,7 @@ label explanationover:
             show Sayaka
             with dissolve
 
-            s "I think we'll know if something happens to her.{w} Or more like, the whole school will know.{w} She gets crazy strong when she's angry!"
+            s "Ich denke wir werden es wissen, wenn ihr etwas zustößt.{w} Oder besser gesagt, die ganze Schule wird Bescheid wissen.{w} Sie wird unglaublich stark, wenn sie wütend wird!"
 
             p "Das hört man gerne.{w} ... Hoff ich zumindest."
 
@@ -3550,14 +3550,14 @@ label explanationover:
             $ sayaface='happy'
             show Sayaka
 
-            s "Oh, yeah!{w} It's great.{w} Everyone is so friendly, and the food is {i}amazing{/i}!"
+            s "Oh, ja!{w} Es ist super.{w} Jeder ist so freundlich und das Essen ist {i}super{/i}!"
 
             "Als ob sie das besonders hervorheben wollte, sticht sie mit einem fast leuchtendem Gesicht in ihr Essen."
 
             $ sayaface='smiling'
             show Sayaka
 
-            s "And, maybe I should have worded it better.{w} It's not that Hikari and I have never been to a school...{w} We just haven't been to a...{w}well, normal one."
+            s "Und vielleicht hätte ich es besser formulieren sollen.{w} Es ist nicht so als ob ich und Hikari nie zur Schule gegagen wären...{w} Wir waren halt nicht...{w}also, auf einer normalen."
 
             p "Was, wart ihr etwa auf einer Zauberschule, oder so was in der Art?"
 
@@ -3585,9 +3585,9 @@ label explanationover:
 
             "Sayakas Gesichtsausdruck wird wieder freudloser.{w} ... Hab ich {i}schon wieder{/i} was Falsches gesagt?!"
 
-            s "It's not something I'd ever like to go through again.{w} Let's just say that."
+            s "Es ist etwas, wo ich nicht gerne nochmal tuhen würde.{w} Lass uns einfach dass sagen."
 
-            s "Magic isn't something you just pick up in a day.{w} There's years of studying, training, and--"
+            s "Magie ist nicht etwas, was du an einem Tag lernst.{w} Es sind Jahre von studieren, Training und--"
 
             $ sayaface='scared'
             show Sayaka
