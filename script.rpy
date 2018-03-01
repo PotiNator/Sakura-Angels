@@ -5342,7 +5342,7 @@ label explanationover:
 
     s "Kenta!"
 
-    "She suddenly thrusts a finger at me, catching me off-guard as I jump a little."
+    "Plötzlich zeigt sie mit dem Finger auf mich, woraufhin ich aufspringe."
 
     p "Äh ...{w} J-Ja?"
 
@@ -5363,30 +5363,30 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    "But I didn't agree to anything!"
+    "Aber ich hab doch gar nicht zugestimmt!"
 
     h "S-Sayaka!"
 
-    "Hikari is as distraught as I am about the whole thing.{w} Sayaka seems like she's made up her mind, though.{w} It's settled.{w} Whether we like it or not!"
+    "Hikari ist in der Hinsicht genauso verzweifelt wie ich.{w} Sayaka hat sich aber schon darauf vorbereitet.{w} Es ist entschieden.{w} Ob es uns gefällt oder nicht!"
 
     s "Komm schon!{w} Es ist das perfekte Wetter.{w} Es wäre verrückt {i}nicht{/i} zu gehen!"
 
     h "Aber an den Strand zu gehen meint..."
 
-    "Hikari falls into troubled thoughts, her brow furrowing.{w} I'm sure she has her own personal reasons to hate this, as I have my own."
+    "Hikari versinkt in beunruhigende Gedanken.{w} Ich bin sicher, sie hat ihre eigenen Gründe, weshalb sie so sehr dagegen ist ... Und ich hab meine."
 
     s "Es wird alles gut sein!{w} Hört auf euch Sorgen zu machen."
 
-    "I know she said she was doing this for my benefit, since I don't get out that much.{w} But at the moment, I think the only person benefiting from this is Sayaka herself."
+    "Ich weiß, dass sie gesagt hat, sie würde es für mich tun, da ich nicht oft raus komme.{w} Aber im Moment glaube ich, ist Sayaka die einzige Person, die davon profitieren würde."
 
-    "Clearly she just wants to do all the stuff she hasn't been able to do before, and drag me along as the perfect excuse."
+    "Sie will offensichtlich nur all die Dinge machen, die sie bis jetzt nicht tun konnte, und benutzt mich dabei als Ausrede."
 
     $ sayaface='smiling'
     $ sayapose='school_1'
     show Sayaka
     with dissolve
 
-    "She's so fired up about the whole thing now, I don't think I can say no.{w} Heck, even if I said no, I get the feeling she'd just drag me down there anyway."
+    "Jetzt, wo sie schon so aufgeregt ist, kann ich wohl kaum noch Nein sagen.{w} Und selbst wenn ich Nein gesagt hätte, hätte sie mich einfach mitgeschliffen."
 
     p "Okay ...{w} okay.{w} Aber sollte ich in Flammen aufgehen, sobald ich dem Strand nahekomm, seid ihr schuld.{w} Meine Haut ist da sehr empfindlich!"
 
@@ -5425,7 +5425,7 @@ label explanationover:
 
     h "D-Du weißt genau, um was ich mich sorge!"
 
-    "Sayaka takes a moment to think, before she gives a teasing grin."
+    "Sayaka nimmt sich einen Moment Zeit um nachzudenken, bevor sie einen fetten Grinser aufsetzt."
 
     $ sayaface='joking'
     $ sayapose='school_1'
@@ -5442,7 +5442,7 @@ label explanationover:
 
     h "Halt dein Mund!"
 
-    "{i}Wham{/i}.{w} Hikari drives the wind out of her partner with a flashing straight to the stomach.{w} I...{w}don't even get what it is that they were arguing about.{w} Maybe it's for the best."
+    "{i}Bam{/i}.{w} Hikari nimmt ihrer Partnerin mit einem heftigen Schlag in den Magen den Wind aus den Segeln.{w} Ich ...{w} versteh ja nicht mal, worüber sie da diskutieren.{w} Vielleicht ist es auch besser so."
 
     $ sayaface='smiling'
     $ sayapose='school_2'
@@ -5451,14 +5451,14 @@ label explanationover:
 
     s "Hrkk.{w} O-Okay...{w} Du must nicht gewaltätig werden!"
 
-    "Sayaka keeps up her grin, despite the fact she's doubled over and clutching at her core.{w} That really did look painful..."
+    "Sayaka grinst weiterhin, trotz der Tatsache, dass sie starke Magenschmerzen hat.{w} Das hat echt schmerzhaft ausgesehen ..."
 
     $ hikaface='angry'
     $ hikapose='school_2'
     show Hikari
     with dissolve
 
-    "Hikari pulls her arms together and lets out a huff, turning her head to the side.{w} She's really against this thing, huh?"
+    "Hikari dreht ihren Kopf zur Seite.{w} Sie ist wirklich dagegen, was?"
 
     h "Wenn Kenta wirklich gehen will, hab ich keine Wahl...{w} Aber das sollt nicht zu einer normalen Sache werden!"
 
@@ -5467,37 +5467,37 @@ label explanationover:
 
     s "Y-yay!"
 
-    "Sayaka gives a hoarse cheer, still struggling to catch her breath."
+    "Sayaka jubelt heiser und ringt um ihren Atem."
 
     stop music fadeout 2.0
 
     scene bg black
     with fade
 
-    "With everyone coming to an agreement on going to the beach today--some more reluctantly than others--we make preparations before heading out into the world.{w} The blindingly bright and hot world."
+    "Da wir uns alle einig waren, zum Strand zu gehen - einige widerstrebender als andere - treffen wir alle nötigen Vorbereitungen.{w} Auf in die weite Welt."
 
-    "For whatever reason, halfway into the journey to the beach, the girls sprinted ahead and told me they'd be waiting for me there."
+    "Aus welchem Grund auch immer sprinteten die beiden Mädchen auf halbem Wege zum Strand vor und sagten, sie würden auf mich warten."
 
-    "I thought they were supposed to always be by my side and protect me, especially when we were outside...{w} The beach is clearly more important than my own life though, so I'll let it slide this time."
+    "Ich dachte, sie würden immer an meiner Seite bleiben, und erst recht, wenn wir draußen sind ...{w} Aber der Strand scheint den beiden ja noch wichtiger zu sein als ich."
 
-    "And they left me to carry the majority of things too--all of the lunches and towels and whatever else Sayaka loaded up in a frenzy.{w} I'm just about able to keep upright with all these bags weighing down on me."
+    "Und dann haben sie mich auch noch mit all dem Zeug zurückgelassen. Mit dem ganzen Mittagessen und was Sayaka da auch immer eingepackt hat.{w} Ich kann mit all den Taschen ja nicht mal mehr noch gerade gehen."
 
-    "Combine all that with the blazing sun in a near cloudless sky, and I'm lucky I didn't pass out on the way there."
+    "In Kombination mit der prallen Sonne, kann ich mich glücklich schätzen, wenn ich am Weg dorthin nicht ohnmächtig werd."
     play music "bgm/magicalgirlintro.ogg" fadein 2.0
     queue music "bgm/magicalgirlloop.ogg"
     scene beach
     with wake
 
 
-    "I take the first step onto the sand.{w} The beach, at long last!"
+    "Ich betrete zuerst den Sand.{w} Der Strand, endlich!"
 
-    "The waves of the ocean lap gently at the shore, the water itself almost crystal clear as it stretches far into the horizon, merging with the blue sky.{w} It's a beautiful sight to be sure.{w} ...I just wish it wasn't so hot!"
+    "Die Wellen des Meeres kreisen sanft am Ufer entlang.{w} Ein wundervoller Anblick.{w} ... Wär es nur nicht so heiß!"
 
-    "Surprisingly enough, the beach isn't that populated.{w} There's a few people here and there, but it isn't as packed as I thought it would be.{w} I suppose we are nearing the end of the season for this sort of stuff.{w} I hope we don't stick out too much..."
+    "Überraschenderweise ist hier ziemlich wenig los.{w} Hier und dort sind ein paar Leute, aber das war's dann auch schon.{w} Ich schätze mal, die Badesaison ist schon fast wieder zu Ende.{w} Ich hoffe, wir fallen nicht zu sehr auf ..."
 
-    "That's a point.{w} Just where exactly are the girls?{w} I give the beach a scan over.{w} Where could they be...?"
+    "Wo wir schon beim 'wir' sind ...{w} Wo sind die Mädchen überhaupt?{w} Ich schaue mich um.{w} Wo könnten sie nur sein ...?"
 
-    "I wander further onto the beach, the sand threatening to set fire to my feet the more I idle in it."
+    "Ich wandere weiter den Strand entlang und verbrenne mir mit jedem Schritt die Füße."
 
     s "Yoo-hoo, Kenta, hier drüben!"
 
@@ -5508,19 +5508,19 @@ label explanationover:
 
 
 
-    "I turn to the source of the voice to find...{w}oh, wow.{w} Okay, I wasn't expecting {i}that{/i}."
+    "Ich drehe mich zur Stimme, um dort ...{w}Oh, wow.{w} Okay, {i}das{/i} hab ich nicht erwartet."
 
-    "I can see why they ran ahead now.{w} To change into their rather...{w}let's say, flashy...{w}swimsuits."
+    "Jetzt versteh ich, warum sie vorgegangen sind.{w} Um ihre recht ...{w}sagen wir mal auffälligen ...{w} Badeanzüge anzuziehen."
 
-    "They're sharing the same beach chair, hugging together in a pose I can only guess they've been holding for a while as they waited for me to finally catch up."
+    "Sie teilen sich dieselbe Strandliege, und gemessen an ihrer Reaktion vermute ich mal, dass sie schon eine Weile auf mich warten."
 
     s "Guck, Hikari, er ist sprachlos!"
 
-    "Sayaka giggles, and hugs tighter against Hikari, who surprisingly, also has a smile on her face.{w} She must be enjoying this to a degree too, though, her cheeks are definitely burning up."
+    "Sayaka kichert und umarmt Hikari ziemlich fest.{w} Anscheinend gefällt es letztendlich doch beiden."
 
     h "D-Du must mich nicht so anstarren...{w}e-es ist peinlich."
 
-    "She tries to shy away, but she doesn't really have anywhere to go with Sayaka still on top of her.{w} It's...{w}quite the compromising position."
+    "Sie versucht zu entkommen, aber sie kommt nicht weit, da Sayaka sie festhält.{w} Eine ziemlich ...{w}bloßstellende Position."
 
     s "Komm schon, Hikari, du musst nicht so bescheiden sein.{w} Du siehst gut aus und solltest ein bisschen stolz sein!"
 
@@ -5530,32 +5530,32 @@ label explanationover:
 
     s "Es  ist wahr.{w} Ich bin wirklich neidisch.{w} Es sieht so aus, als ob du mir die Show gestohlen hastt!"
 
-    "Sayaka turns her attention to me.{w} Uh-oh.{w} I have a bad feeling about this."
+    "Sayaka richtet ihre Aufmerksamkeit auf mich.{w} Ich hab ein echt schlechtes Gefühl dabei."
 
     s "So, was denkst du, Kenta?{w} Wer sieht besser aus?"
 
-    "Oh, geez.{w} Really?{w} You're going to hit me with that?{w} I should think carefully before I answer..."
+    "Ach, echt jetzt?{w} Das wollt ihr von mir wissen?{w} Jetzt muss ich aufpassen, was ich sage ..."
 
     menu:
-        "It has to be Sayaka!":
+        "Sayaka!":
 
             $ sayaka += 1
 
             p "I-Ich schätze, wenn ich mich wirklich entscheiden müsste, dann für ...{w} Sayaka."
 
-            "Her face lights up at my answer, going just the slightest tinge of pink."
+            "Als Reaktion auf meine Antwort fängt ihr Gesicht zu leuchten an."
 
             s "Aww.{w} Wirklich?{w} Du bist so süß, Kenta."
 
-            "She gives me a smile that's enough to make my heart throb.{w} Hikari, on the other hand..."
+            "Sie wirft mir ein Lächeln zu, das mein Herz zum Klopfen bringt.{w} Hikari hingegen ..."
 
-            "Her rare moment of happiness from before quickly sours, and she turns her head away from me with a 'hmph'.{w} That was to be expected, I suppose.{w} I can't win them all!"
+            "Ihr seltener Glücksmoment von vorhin verschwindet unverzüglich.{w} Das war wohl zu erwarten.{w} Ich kann sie schließlich nicht beide für mich haben!"
 
             s "Auch wenn der Rest des Strandes unter Hikaris Zauber gefallen ist, bin ich froh, dass Kenta immer noch einen Sinn hat."
 
-            "Maybe I fed her ego too much?{w} She continues to glow, and prods at Hikari a couple of times with a smug grin."
+            "Vielleicht hab ich ihr Ego zu sehr gefüttert?{w} Sie leuchtet weiterhin und grinst Hikari ein paar Mal selbstgefällig an."
 
-            "Hikari's expression grows darker with each repeated prod, until..."
+            "Hikaris Gesichtsausdruck wird immer düsterer, bis sie ..."
 
             stop music fadeout 4.0
 
@@ -5566,11 +5566,11 @@ label explanationover:
             show Hikari at center
             with dissolve
 
-            h "Okay, das ist genug!"
+            h "Okay, das reicht!"
 
             s "Wahh!"
 
-            "She pushes Sayaka off of her with one swift shove, her temper exploding."
+            "Plötzlic stoßt sie Sayaka von der Strandliege hinunter."
 
             $ hikapose='bikini_2'
             show Hikari
@@ -5578,7 +5578,7 @@ label explanationover:
 
             h "Das ist so dumm!{w} M-Mich interessiert eh nicht, was Kenta denkt."
 
-            "Sayaka tumbles into the sand face first with a yelp.{w} She lays still for a good moment, making me wonder if perhaps she lost consciousness in that fall.{w} But, as I stretch my hand out to see if she's okay, she bounds to her feet with a grin."
+            "Sayaka klatscht kopfüber in den Sand.{w} Da sie einen kurzen Moment regungslos liegen bleibt, mache ich mir Sorgen, ob sie nicht vielleicht das Bewusstsein verloren hat.{w} Aber als ich meine Hand ausstrecke, grinst sie mich schon wieder an."
 
             hide Hikari
             with dissolve
@@ -5587,9 +5587,9 @@ label explanationover:
             show Sayaka
             with moveinbottom
 
-            s "Ahh, ich bin okay, ich bin okay!"
+            s "Ahh, es geht mir gut, es geht mir gut!"
 
-            "Saying that, she spits out a fair amount of sand.{w} ...Okay, whatever you say."
+            "Sie spuckt jede Menge Sand aus.{w} ... Okay, wenn du meinst."
         "Hikari, of course!":
 
 
@@ -5599,7 +5599,7 @@ label explanationover:
 
             h "E-eh?!"
 
-            "If it was even possible, her face goes a deeper shade of red, and she fidgets some underneath Sayaka."
+            "Ihr Gesicht wird noch roter, was eigentlich gar nicht mehr möglich sein sollte."
 
             h "D-Du kannst das nicht so meinen..."
 
@@ -5607,17 +5607,17 @@ label explanationover:
 
             s "Du und dein perfekter Körper!"
 
-            "Sayaka giggles and begins prodding all over Hikari."
+            "Sayaka kichert und fängt an, Hikari zu kitzeln."
 
             h "Ahh--haha--s-stop, k-kitzel mich nicht d-da!"
 
-            "Hikari tries her best to stifle her own laughing as she writhes underneath Sayaka, who continues to assault her relentlessly.{w} ...I think they've forgotten about me completely."
+            "Hikari versucht ihr Bestes, nicht lachen zu müssen.{w} ... Meine Anwesenheit haben sie anscheinend komplett vergessen."
 
-            s "So...neidisch!"
+            s "So ... neidisch!"
 
             h "O-okay, das reicht...{w} Du kannst jetzt aufhören, S-Sayaka!"
 
-            "Sayaka pays her desperate pleas no mind, and carries on."
+            "Sayaka schenkt ihr überhaupt keine Aufmerksamkeit und macht weiter."
 
             stop music fadeout 4.0
             with hpunch
@@ -5631,7 +5631,7 @@ label explanationover:
 
             s "Huh--waah?!"
 
-            "Having finally had enough, Hikari explodes and pushes her off of the chair.{w} Sayaka tumbles down onto the sand, caught completely off-guard."
+            "Auf einmal explodiert Hikari förmlich, woraufhin sie Sayaka von der Liege stößt.{w} Sayaka fällt völlig unvorbereitet in den Sand."
 
             $ hikapose='bikini_1'
             show Hikari
@@ -5639,7 +5639,7 @@ label explanationover:
 
             h "Ich schwöre, manchmal stimmt etwas nicht mit dir, Sayaka!"
 
-            "Hikari heaves a sigh, finally able to recover after Sayaka's brutal assault of...{w}whatever that just was."
+            "Hikari seufzt vor Erleichterung, dass der Angriff ...{w} oder was auch immer das war, endlich zu Ende ist."
 
             $ sayaface='happy'
             $ sayapose='bikini_1'
@@ -5648,7 +5648,7 @@ label explanationover:
             show Sayaka at left
             with moveinbottom
 
-            "Sayaka leaps up to her feet and holds her arms out wide with a grin, as if to say, \"tah-dah, I'm still alive!\"."
+            "Sayaka springt hoch und streckt grinsend ihre Arme weit nach vor, als wolle sie sagen, \"Tada, ich lebe noch!\"."
 
             s "Yeesh.{w} Sei doch nicht so grimmig.{w} Du hättest mich einfach nett fragen können!"
 
@@ -5656,20 +5656,20 @@ label explanationover:
 
             h "Hmph."
 
-            "Hikari throws herself back and lounges in her chair.{w} Let's, uhh...{w}have some fun now?"
-        "Meh.":
+            "Hikari schmeißt sich wieder in die Liege.{w} Lasst uns, äh ...{w} endlich Spaß haben?"
+        "Mir egal.":
 
             p "Ihr wisst hoffentlich, dass ich hier gerade gegrillt werde.{w} Und um zu verhindern, dass ich ganz verkohlt werd, würde ich mich liebend gerne irgendwo in den Schatten setzen."
 
-            "Shading my eyes as best I can with my hand, I look down the length of the beach, searching for the perfect spot to set all this stuff down."
+            "Die Augen mit meinen Händen verdeckend, suche ich am Strand entlang eine Stelle, an der ich endlich all diese Sachen hinstellen kann."
 
             s "H-huh?{w} Kenta?{w} Du hast dazu nichts zu sagen?"
 
-            "Huh?{w} What's Sayaka so worked up for?"
+            "Häh?{w} Warum ist Sayaka denn so aufgeregt?"
 
             s "Garnichts...?"
 
-            "I shake my head and shrug my shoulders.{w} Am I missing something here?"
+            "Ich schüttle meinen Kopf und zucke mit den Schultern.{w} Hab ich da was verpasst?"
 
             scene beach
             $ hikaface='normal'
