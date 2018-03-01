@@ -5126,29 +5126,29 @@ label explanationover:
         "Ich denke mal, das ist alles meine Schuld ... Hätte ich sie nicht in die Küche gelassen ...{w} Ach, ich sollte einfach die Verantwortung übernehmen und--"
 
         menu:
-            "Eat the food.":
-                "I have no choice, do I?{w} I don't want to make her feel bad, after she worked so hard to create...{w}whatever this is."
+            "Iss es.":
+                "Mir bleibt nichts anderes übrig, oder?{w} Ich möchte nicht, dass sie meinetwegen ein schlechtes Gewissen hat. Außerdem hat sie daran echt hart gearbeitet ...{w} was auch immer das ist."
 
                 p "D-Dann probier ich mal ..."
 
-                "I give the substance a poke.{w} It crumbles into a fine powder at the slightest touch.{w} Okay."
+                "Ich drücke mit meinem Finger dagegen.{w} Schon bei der kleinsten Berührung zerfällt es zu Pulver.{w} Okay."
 
-                "I'm sure even though it {i}looks{/i} absolutely terrifying, it can't be that bad.{w} Maybe there's something good, under all these layers of...{w}burnt stuff."
+                "Ich bin mir sicher, dass es, obwohl es noch so schrecklich {i}aussieht{/i}, nicht so schlecht sein kann.{w} Vielleicht versteckt sich unter diesem verbrannten Zeug ja doch irgendwo was Gutes."
 
-                "I scoop up as much as I can that doesn't crumble away from my hold and force it into my mouth, despite all my instincts screaming at me not to."
+                "Ich gebe so viel wie nur möglich auf den Löffel und stopfe ihn in meinen Mund - trotz meiner Instinkte, die sich alle dagegen wehren."
 
-                "It's...{w}it's..."
+                "Es schmeckt ...{w} Es schmeckt ..."
 
                 $ sayaface='happy'
                 show Sayaka
 
                 s "Also, es ist super oder?"
 
-                "Sayaka leans in expectantly as I swallow it down."
+                "Sayaka lehnt sich erwartungsvoll nach vor."
 
-                "I think this must be what charcoal tastes like."
+                "So muss dann wohl Holzkohle schmecken."
 
-                "I fight back the urge to choke, and give her smile and a nod."
+                "Ich unterdrücke das Gefühl, mich übergeben zu müssen, und lächle sie an."
 
                 p "M-Mmm!"
 
@@ -5158,10 +5158,10 @@ label explanationover:
 
                 s "Wirklich?{w} Yay, ich hab es gewusst!{w} Du solltest uns {i}jeden{/i} Morgen für dich kochen lassen!"
 
-                "Oh god.{w} What have I done?{w} And I still have an entire plate of this stuff left!{w} These girls are clearly the real danger to my health and well being right now."
-            "Refuse to eat the 'food'. I don't want to die!":
+                "Oh Gott.{w} Was hab ich nur getan?{w} Und da steht noch ein ganzer Teller vor mir!{w} Es sind eindeutig diese Mädchen, die eine Gefahr für mein Leben und Wohlbefinden darstellen."
+            "Iss es nicht. Ich möchte noch nicht sterben!":
 
-                "Okay, yeah, no.{w} I have to make a stand here, or things are only going to get worse."
+                "Okay, ja, sicher nicht.{w} Zeit, ein Machtwort zu sprechen, anderenfalls wird es nur noch schlimmer."
 
                 p "Schau, es tut mir leid, Sayaka, aber ich krieg das echt nicht runter."
 
@@ -5170,11 +5170,11 @@ label explanationover:
 
                 s "Huh?{w}Warum nicht?"
 
-                "She tilts her head to the side, a small frown beginning to grow on her face.{w} Great, make me feel like a monster why don't you!"
+                "Sie neigt ihren Kopf stirnrunzelnd zur Seite.{w} Großartig, wegen dir fühl ich mich jetzt auch noch wie ein Monster!"
 
                 p "Es ist ...{w} naja ...{w} wie soll ich es sagen, ohne ausfällig zu werden?"
 
-                "I give the toxic substance another look, sure that it's beginning to move of its own accord."
+                "Ich werfe einen weiteren Blick auf die giftige Substanz auf dem Teller, die mittlerweile anfängt, sich zu bewegen."
 
                 p "Würde ich es essen, könnte ich heute nicht mehr zur Schule gehen.{w} Oder den Tag danach."
 
@@ -5187,14 +5187,14 @@ label explanationover:
 
                 s "Oh."
 
-                "Her frown deepens.{w} I'm sorry.{w} It had to be done."
+                "Ihr Stirnrunzeln wird immer tiefer.{w} Tut mir leid.{w} Es musste sein."
 
                 $ sayaface='normal'
                 show Sayaka
 
                 s "Bist du dir sicher?{w} Es kann nicht {i}so{/i} schlecht sein."
 
-                "Really?{w} Really?!{w} How could anyone defend this...{w}this...{w} I can't even call it food!"
+                "Wirklich?{w} Echt jetzt?!{w} Wie kannst du ...{w} DAS HIER{w} auch noch verteidigen!? Das ist doch gar kein Essen mehr!"
 
                 p "Okay, warum probierst du dann nicht zuerst?"
 
@@ -5203,7 +5203,7 @@ label explanationover:
                 show Sayaka
                 with dissolve
 
-                "She pulls a face.{w} I knew it."
+                "Sie zieht ein langes Gesicht.{w} Ich wusste es."
 
                 s "U-uhh, ich hab schon gegessen."
 
@@ -5222,7 +5222,7 @@ label explanationover:
 
                 h "E-eh?{w} Ich?!"
 
-                "Hikari jumps as her name is called, still lurking quite a distance away from the 'food' that she had helped give life to."
+                "Noch immer auf der Lauer - in der Hoffnung, nicht mitreingezogen zu werden - springt Hikari auf, als sie ihren Namen hört."
 
                 $ sayaface='smiling'
                 show Sayaka at left
@@ -5242,18 +5242,18 @@ label explanationover:
                 show Hikari
                 with dissolve
 
-                "Sayaka thrusts a finger at the table with enough force that I think the plate rattled.{w} Yikes.{w} Despite the wide grin, though, I can't help but feel there's something sinister behind that."
+                "Sayaka stoßt dermaßen stark mit ihrem Finger gegen den Teller, dass dieser zu klappern beginnt.{w} Obwohl sie dabei lächelt, habe ich das Gefühl, als würde etwas Unheimliches dahinterstecken."
 
                 h "...Fein."
 
-                "She approaches the food slowly, each step taking longer than the next, as if she was marching to her death.{w} Actually, that might very well be a possibility here."
+                "Sie geht langsam auf das 'Essen' zu, wobei jeder Schritt länger dauert als der vorige.{w} Sie lässt es aussehen, als begäbe sie sich auf ein Himmelfahrtskommando."
 
                 $ sayaface='happy'
                 show Sayaka
 
                 h "Wir haben es gemacht...{w}also kann es nicht so schlecht sein.{w} Es ist einfach nur ein wenig...{w}knusprig."
 
-                "She outstretches a trembling hand towards the food, like it might bite her if she's not careful enough.{w} And then..."
+                "Zitternd streckt sie ihre Hand nach dem Essen aus.{w} Und dann ..."
 
                 $ sayapose='school_1'
                 $ hikapose='school_1'
@@ -5263,23 +5263,23 @@ label explanationover:
                 show Hikari
                 with flash
 
-                "A bolt of magic erupts from her palm and hits the food, disintegrating it completely.{w} Along with the plate.{w} ...And a good portion of the table."
+                "Plötzlich tritt ein magischer Blitz aus ihrer Hand hervor, der geradewegs auf das 'Essen' zufliegt und dieses vollständig zersetzt.{w} Mit dem Teller.{w} ... Und einen Großteil vom Tisch."
 
                 $ hikaface='joking'
                 show Hikari
 
                 h "Oops!{w} Bin ich tollpatschig.{w} Meine Hand muss ausgerutscht...{w}sein.{w} Was eine Schande!{w} Und ich habe mich schon {i}so{/i} darauf gefreut, alles zu essen."
 
-                "...I'm pretty sure magic doesn't just 'slip'!{w} And wasn't she the one that said they can't waste it on trivial things?"
+                "...Ich bin mir ziemlich sicher, dass Magie nicht einfach so 'ausrutscht'!{w} Und war nicht sie diejenige, die gesagt hat, man solle Magie nicht für solch belanglose Dinge verschwenden?"
 
-                "...Maybe it was an emergency in her eyes."
+                "...Vielleicht war es in ihren Augen ein Notfall."
 
                 $ sayaface='scared'
                 show Sayaka
 
                 s "Hikari!"
 
-                "Sayaka pulls another heartwrenching frown, but it doesn't last long before her usual optimism returns."
+                "Sayaka setzt ein weiteres herzzerreißendes Stirnrunzeln auf, aber es dauert nicht lange, bis ihr üblicher Optimismus zurückkehrt."
 
                 $ sayapose='school_2'
                 $ sayaface='happy'
@@ -5296,9 +5296,9 @@ label explanationover:
 
                 p "Nein!"
 
-                "I bolt upright in my chair, almost taking it up with me in the process.{w} I don't think my house would survive!"
+                "Ich springe von meinem Stuhl so heftig auf, dass ich diesen fast mitgenommen habe.{w} Alter, mein Haus wär fast in die Luft geflogen!"
 
-                "Maybe being a little louder than intended, I catch her off-guard and she jumps."
+                "Ich antworte ihr - vielleicht etwas lauter als sonst."
 
                 s "H-huh?"
 
@@ -5306,7 +5306,7 @@ label explanationover:
 
                 s "Oh...{w} Du hast recht.{w} Guck auf die Uhr!"
 
-                "Phew.{w} Good save, me!"
+                "Puh.{w} Gerettet!"
 
 
 
@@ -5320,11 +5320,11 @@ label explanationover:
     show Hikari at right
     with fade
 
-    "So, with breakfast out of the way, it seems like Sayaka is finally ready to tell me what she had planned for the day."
+    "So, nach dem Frühstück sieht es so aus, als wäre Sayaka endlich bereit, mir zu sagen, was sie für den Tag geplant hatte."
 
-    "I can tell she's had trouble keeping it to herself this entire time, as she looks like she might burst at any moment, practically shaking with excitement."
+    "Ich erkannte schon, dass es ihr schwer fällt, es für sich zu behalten, wenn man bedenkt, dass sie so aussieht, als könne sie vor Aufregung jeden Moment platzen."
 
-    "I don't even think Hikari truly knows what Sayaka has in mind, as she seems uneasy."
+    "Gemessen an ihrer Beunruhigung, glaube ich jedoch auch, dass nicht einmal Hikari weiß, was Sayaka im Sinn hat."
 
     $ sayapose='school_2'
     show Sayaka
