@@ -382,7 +382,7 @@ label start:
 
     "...{w}Was ...{w} Was zum Teufel ist da gerade passiert?"
 
-    cg "Geez, that was a close one!{w} Are you alright?"
+    cg "Meine Güte, das war echt knapp!{w} Alles in Ordnung?"
     play music "bgm/magicalgirlintro.ogg" fadein 6.0
     queue music "bgm/magicalgirlloop.ogg"
     "Eine fröhliche Stimme zwitschert.{w} Ein willkommenes Geräusch nach dem Schrecken ...{w} dieses Monsters."
@@ -408,7 +408,7 @@ label start:
 
     p "Wa ...{w} Was zur Hölle war das?!"
 
-    cg "A shadow."
+    cg "Ein Schatten."
 
     "Das fröhlichere der beiden Mädchen antwortet mir unverblümt und entspannt sich dabei wenig."
 
@@ -416,15 +416,15 @@ label start:
 
     "Das war jetzt die Erklärung?{w} Ich blicke hinunter zu meinen Füßen, wo sich mein eigener Schatten erstreckt, aber das Mädchen fängt an zu lachen."
 
-    cg "Not your own shadow, silly!{w} That thing we just took care of--which you're welcome for, by the way--is what we call a shadow."
+    cg "Nicht dein eigener Schatten, du Idiot!{w} Das Ding, worum wir uns gerade gekümmert haben, bezeichnen wir als Schatten."
 
-    cg "The physical manifestation of all the hatred and negative emotions that might lurk in one's heart."
+    cg "Die physische Manifestation all des Hasses und der negativen Emotionen, die jemand in sich trägt."
 
-    cg "Normally they're not so aggressive during the day, though...{w} It was really out for you!"
+    cg "Normalerweise sind sie tagsüber nicht so aggressiv, aber ...{w} Kurzum, du hattest echt Glück!"
 
-    cg "We're usually pretty good at nabbing them before they get to you, but this one completely took us by surprise.{w} I'm happy we got here in time!"
+    cg "Wir erwischen sie eigentlich immer, bevor sie in deine Nähe kommen, aber der hier hat uns echt überrascht.{w} Ich bin echt froh, dass wir es noch geschafft haben!"
 
-    cg "You're not hurt, are you?"
+    cg "Du bist doch nicht verletzt, oder?"
 
     p "Nein, alles gut, aber--"
 
@@ -432,13 +432,13 @@ label start:
 
     "Das aggressivere Mädchen, dessen Ausdruck immer düsterer wurde, während die andere sprach, unterbrach plötzlich. Anscheinend konnte sie es nicht länger ertragen."
 
-    cg "Aww, but he looks so confused!{w} And now that he's seen one of the shadows first-hand, don't you think it's just a {i}little{/i} too late for us to quietly slip back into the shadows?"
+    cg "Aww, aber er sieht so verwirrt aus!{w} Und denkst du nicht, dass es jetzt, wo er die Schatten schon aus erster Hand erlebt hat, ein {i}wenig{/i} zu spät ist, um wieder abzuhauen?"
 
     tg "..."
 
     "Mit verengten Augen starrt sie uns an.{w} Man erkennt, dass sie eindeutig wütend ist ...{w} aber ich glaube nicht, dass sie etwas dagegen unternehmen kann."
 
-    cg "See?{w} You worry too much!{w} We'll only tell him what he needs to know, nothing more, nothing less!"
+    cg "Siehst du?{w} Du machst dir zu viele Sorgen!{w} Wir erzählen ihm nur, was er wissen muss, mehr nicht!"
 
     "Das fröhliche Mädchen schenkt mir mit einem Funkeln in ihren Augen wieder ihre Aufmerksamkeit."
 
@@ -451,7 +451,7 @@ label start:
     show Hikari at right
     with dissolve
 
-    cg "Right, so, Kenta, where were we?"
+    cg "Genau ... Also Kenta, wo waren wir?"
 
     p "Äh, wir waren--"
 
@@ -462,7 +462,7 @@ label start:
     $ sayaface='shocked'
     show Sayaka
 
-    cg "Huh?{w} Oh...{w} Whoops!"
+    cg "Hm?{w} Oh ...{w} Ups!"
 
     "Mit einer Hand verdeckt sie ihren Mund - so, als wolle sie versuchen, das Gesagte rückgängig zu machen.{w} Es häufen sich immer mehr Fragen an, und ich habe noch immer keine einzige Antwort erhalten!"
 
@@ -490,18 +490,18 @@ label start:
     $ sayapose='magical_2'
     show Sayaka with dissolve
 
-    cg "Well, we don't know {i}you{/i} personally, but we've been watching over you for a while now.{w} You've become quite the point of interest recently, you know!"
+    cg "Na ja, wir kennen {i}dich{/i} nicht persönlich, aber wir beobachten dich schon eine Weile.{w} Du wurdest in letzter Zeit ziemlich beliebt!"
 
     p "Ich ...?"
 
     "Was hab ich in meinem Leben bloß falsch gemacht, dass mir so viel Aufmerksamkeit geschenkt wird?{w} Soviel ich weiß, bin ich doch nur ein normaler Schüler.{w} Der ein durchschnittliches Leben führt.{w} Und normale Dinge macht.{w} Wobei, nach all diesen Ereignissen trifft das wohl alles nicht länger zu."
 
-    cg "Mmhmm.{w} Can't really go into details, 'cause you know, top secret and all, but let's just say...{w} It's not in our best interest for you to fall into the wrong hands."
+    cg "Mmhmm.{w} Ich kann nicht zu viel verraten, weil du weißt schon, streng geheim und so, aber sagen wir mal so ...{w} Es liegt nicht in unserem Interesse, dass dir was zustößt."
 
     $ sayaface='happy'
     show Sayaka
 
-    cg "You wouldn't believe how much effort we've been putting into keeping you safe, you know!{w} Actually, I'm kind of relieved we finally get to meet, so you can finally appreciate all our hard work!"
+    cg "Du glaubst doch sowieso nicht, wie viel Mühe wir uns geben, um dich zu beschützen!{w} Ich bin ehrlich gesagt ziemlich erleichtert, dass wir uns endlich kennenlernen, so lernst du zumindest unsere Arbeit zu schätzen."
 
     "Sie strahlt mich an und lehnt sich ein wenig zu nah an mich heran."
 
@@ -512,7 +512,7 @@ label start:
     $ sayaface='normal'
     show Sayaka
 
-    cg "Hmmm..."
+    cg "Hmmm ..."
 
     "Sie fängt an nachzudenken.{w} Ich schätze, sie wählt die Worte, die sie gleich sagen wird, sorgfältig aus, um zu verhindern, dass ihre Partnerin wieder auszuckt."
 
@@ -520,7 +520,7 @@ label start:
     $ sayapose='magical_1'
     show Sayaka
 
-    cg "Think of us as your guardian angels, okay?"
+    cg "Betrachte uns als deine Schutzengel, okay?"
 
     "Als sie das sagt, macht sie mit ihrem Bogen eine schwungvolle Bewegung, woraufhin dieser kurz darauf zwischen ihren Fingern zerbricht.{w} Wenige Augenblicke später bilden sich diese Scherben hinter ihrem Rücken wieder zusammen, bis sich ein paar Flügel gebildet hat."
 
@@ -535,7 +535,7 @@ label start:
     $ sayaface='smiling'
     show Sayaka
 
-    cg "Yup!"
+    cg "Jup!"
 
     p "Und diese 'Schatten' jagen mich nun schon seit einer geraumen Zeit?"
 
@@ -543,7 +543,7 @@ label start:
 
     p "Denn, wenn sie mich fangen ...{w} wär das offensichtlich 'nicht gut' ... Einfach so, aus nicht näher beschriebenen Gründen?"
 
-    cg "Yup.{w} Really bad!"
+    cg "Jup.{w} Ganz und gar nicht gut!"
 
     p "Und ihr, wer auch immer ihr seid, agiert von den Schatten heraus und bekämpft sie, um mich zu beschützen?"
 
@@ -561,7 +561,7 @@ label start:
             $ sayaface='happy'
             show Sayaka
 
-            cg "You do?"
+            cg "Wirklich?"
 
             p "Ja.{w} Ihr habt sie nicht mehr alle."
 
@@ -570,7 +570,7 @@ label start:
             show Sayaka
             show Hikari
 
-            cg "L-lost it?!"
+            cg "W-Wir haben sie nicht mehr alle?!"
 
             "Meine Worte scheinen sie zu überraschen.{w} Vielleicht bin ich ein bisschen gemein, aber das ist die einzig plausible Erklärung!"
 
@@ -587,7 +587,7 @@ label start:
 
             "Mit diesen Worten mache ich mich wieder auf in Richtung Schule.{w} Meine Fresse, haben mich die jetzt wirklich so lang aufgehalten?{w} Wenn ich Glück hab, komm ich noch vor dem Ende der ersten Stunde in die Schule!"
 
-            cg "Hey, wait!{w} This is--"
+            cg "Hey, warte!{w} Das ist--"
 
             "Ich kann es mir echt nicht leisten, noch mehr von diesem Wahnsinn zu hören, deshalb ignoriere ich sie jetzt einfach und stelle ein wenig Abstand zwischen uns her."
 
@@ -633,16 +633,16 @@ label start:
             show Hikari at right
             with dissolve
 
-            cg "Wah!{w} Don't say that!"
+            cg "Wah!{w} Sag doch so was nicht!"
 
             "Das fröhliche Mädchen stolpert, als sie sich zwischen uns drängt, und wirft mir ein entschuldigendes Lächeln zu."
 
-            cg "I-I'm sure she didn't mean that!{w} She just gets a little grouchy sometimes."
+            cg "I-Ich bin sicher, sie hat es nicht so gemeint!{w} Sie wird nur manchmal ein bisschen griesgrämig."
 
             $ sayaface='angry'
             show Sayaka
 
-            cg "And you--don't get all angry with him.{w} It's only natural he would be skeptical of us at first!"
+            cg "Und du werd nicht so wütend auf ihn.{w} Es ist nur natürlich, dass er uns gegenüber anfangs skeptisch ist!"
 
             $ hikapose='magical_1'
             show Hikari
@@ -655,7 +655,7 @@ label start:
             $ sayaface='joking'
             show Sayaka
 
-            cg "Oh?{w} That's not what I remember.{w} In fact, I remember you saying he looked quite cu--"
+            cg "Oh?{w} Das hör ich zum ersten Mal.{w} Im Gegenteil, ich kann mich noch gut daran erinnern, dass du gesagt hast, er sieht ziemlich sü--"
 
             $ hikaface='embarrassed'
             $ sayaface='shocked'
@@ -670,7 +670,7 @@ label start:
             $ sayaface='scared'
             show Sayaka
 
-            cg "Wahh!{w} Okay, okay, fine!"
+            cg "Wahh!{w} Okay, okay, schon gut!"
 
             "Meine Güte ...{w} Die beiden sind echt komisch.{w} Aber sie schien es wirklich ernst zu meinen.{w} Vielleicht war meine Schlussfolgerung, sie als Verrückte abzustempeln, etwas voreilig."
 
@@ -685,16 +685,16 @@ label start:
 
     cg "Hmm."
 
-    cg "Well, now that the shadows have gotten more aggressive, I really don't think we can go back to our old job of watching you from afar.{w} We were lucky to just barely catch that thing just now after all."
+    cg "Nun, da die Schatten aggressiver wurden, glaub ich kaum, dass wir wieder so weitermachen können wie bisher.{w} Das gerade eben war nur Glück, mehr nicht."
 
     "...Irgendwie gefällt mir diese Wortwahl nicht.{w} Kein bisschen."
 
-    cg "So, we'll be parting ways for now, but expect us to be keeping an {i}extremely{/i} close eye on you from now on, okay?"
+    cg "Von daher trennen sich hier erstmal unsere Wege, aber merk dir, dass wir eine Auge auf dich werfen ... Von {i}ganz nah{/i}, okay?"
 
     $ sayaface='happy'
     show Sayaka
 
-    cg "Bye-bye for now!"
+    cg "Tschüssi!"
 
     hide Sayaka
     hide Hikari
@@ -760,7 +760,7 @@ label start:
 
     teacher "Ich möchte, dass Sie sich alle willkommen fühlen, wenn sie einziehen. {w} Äh, wie haben Sie Ihre Namen genannt?"
 
-    cg "I'm Sayaka, it's nice to meet you all.{w} I hope we can all get along!"
+    cg "Ich bin Sayaka ... Freut mich, euch alle kennenzulernen.{w} Ich hoffe, wir kommen alle gut miteinander aus!"
 
     stop music fadeout 2.0
 
@@ -8526,7 +8526,7 @@ label explanationover:
     if sayaka > hikari:
 
 
-        cg "It's a bit late to be sleeping in, don't ya think?"
+        cg "Schon ein bisschen spät, um einzuschlafen, findest du nicht?"
 
         "A cheerful voice chirps, rousing me to my senses."
 
@@ -8921,13 +8921,13 @@ label explanationover:
     if sayaka == hikari:
 
 
-        cg "There he is, safe and sound!{w} Our hero."
+        cg "Da ist er, gesund und munter!{w} Unser Held."
 
         tg "Ist...{w}ist er wirklich okay?{w} Nach so einem Zauberspruch, besteht die Chance dass es--"
 
         with hpunch
 
-        cg "Yup!{w} Look!{w} Still breathing."
+        cg "Jup!{w} Schau!{w} Er atmet noch."
 
         "Something prods at my face.{w} A warm, tender touch."
 
@@ -8937,13 +8937,13 @@ label explanationover:
 
         tg "Was machst du da?!{w} Du kannst ihn doch nicht einfach so anstupsen!"
 
-        cg "Hmm?{w} Is someone jealous?{w} That I'm getting to be all intimate, and you're not?"
+        cg "Hmm?{w} Ist da jemand eifersüchtig?{w} Eifersüchtig darauf, dass ich ganz intim mit ihm werd?"
 
         tg "B-Bitte!{w} In welcher Welt war dass 'intim'?{w} Du bist ärgerlicher, als alles anderes.{w} Gib ihm ein bisschen Raum!"
 
         cg "Okay, okay!"
 
-        cg "...One last poke!"
+        cg "...Ein Stupser noch!"
 
         "{i}Smush{/i}.{w} The left side of my cheek is pushed a great deal up.{w} Okay, this is weird.{w} I should probably wake up now."
 
@@ -8951,7 +8951,7 @@ label explanationover:
 
         tg "A-ah!{w} Er wacht auf!{w} Sayaka, geh weg!"
 
-        cg "Wahh, okay, okay!{w} You don't need to haul on me like that."
+        cg "Wahh, okay, okay!{w} Du musst mich doch nicht gleich so anbrüllen."
 
         scene cg13_1
         with wake
