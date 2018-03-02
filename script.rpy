@@ -8084,40 +8084,40 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    s "Smooth."
+    s "Geschmeidig."
 
-    "She jabs at Hikari's side with a teasing look.{w} It's probably better I don't ask."
+    "Mit einem hänselnden Blick stößt sie Hikari in die Seite.{w} Ich frag besser nicht nach dem Grund dahinter."
 
     $ sayaface='smiling'
     $ hikaface='normal'
     show Sayaka
     show Hikari
     stop music fadeout 6.0
-    s "Right, then!{w} Let's get to it!"
+    s "Dann fangen wir mal an!"
 
     p "Verstanden.{w} I-Ich ...{w} Ich glaub, ich hab mir alles gemerkt."
 
-    s "You'll be fine.{w} But, if on the off-chance, you goof things up, we'll help you through it, okay?"
+    s "Du wirst es schon schaffen.{w} Aber im Fall der Fälle werden wir dir schon helfen, okay?"
 
-    "That makes me feel a bit better.{w} But, I have to make sure I get it right on the first try.{w} I can't be a burden.{w} Not now."
+    "Da bin ich gleich ein bisschen erleichtert.{w} Aber ich muss trotzdem schauen, dass es gleich beim ersten Versuch klappt.{w} Ich darf den beiden nicht zur Last fallen.{w} Nicht jetzt."
 
     hide Sayaka
     hide Hikari
     with dissolve
 
-    "We carefully make our way to the center of the cave, where my worst nightmares lie."
+    "Achtsam begeben wir uns in die Mitte der Höhle, wo mein schlimmster Alptraum lauert."
 
-    "The cave {i}seems{/i} empty...{w} I think it's too good to be true, however.{w} There's no way it could be this easy."
+    "Die Höhle {i}scheint{/i} leer zu sein ...{w} Das wäre doch zu schön, um wahr zu sein.{w} Unmöglich, dass man es uns so einfach macht."
 
-    "Step after step, we edge closer."
+    "Schritt für Schritt kommen wir näher ran."
 
-    "Sayaka and Hikari keep to my side, weapons at the ready.{w} Who knows what could be lurking behind the rocks in this place."
+    "Sayaka und Hikari sind mit angezogenen Waffen an meiner Seite.{w} Wer weiß, was da alles auf uns lauert."
 
-    "We've pretty much stumbled right into their lair.{w} I'm surprised these 'shadow' things aren't completely swarming us."
+    "Wir sind schließlich direkt in ihr Versteck reinstolziert.{w} Ich bin überrascht, dass uns diese Schatten nicht schon längst angegriffen haben."
 
     y "Hah, du bist wirklich dümmer als ich dachte!"
 
-    "A familiar voice floats in.{w} Of course.{w} Why {i}wouldn't{/i} she be here?"
+    "Eine vertraute Stimme dringt in unsere Ohren.{w} Na klar.{w} {i}Wer{/i} denn sonst?"
 
     p "Yuzuki!"
 
@@ -8125,9 +8125,9 @@ label explanationover:
     play music "bgm/evilgirlintro.ogg" fadein 2.0
     queue music "bgm/evilgirlloop.ogg"
 
-    "In a flurry of feathers black as the night, she appears beside the crystal--beside her mistress."
+    "In einer Ansammlung von Federn, die so schwarz wie die Nacht sind, taucht sie neben dem Kristall auf."
 
-    "She clutches her scythe in an overwhelmingly hostile stance, and gives us a violent scowl.{w} It seems even she realises the severity of this situation."
+    "In einer überaus feindlichen Stellung packt sie ihre Sense.{w} Es scheint, als würde selbst sie die Schwere dieser Situation begreifen."
 
     y "So bereitwillig sich anzubieten, nachdem ich all die Nächte damit verbracht habe, dich zu jagen.{w} Du hast wirklich einen Todeswunsch."
 
@@ -8137,7 +8137,7 @@ label explanationover:
 
     h "Ich weiß nicht, was du von alldem willst, aber was auch für verrückte Fantasien du hast, werden zu einem Ende kommen. {w} Jetzt!"
 
-    "Yuzuki grits her teeth, a bead of sweat creeping across her brow.{w} So she really is scared...?"
+    "Während ihr Schweißperlen über das Gesicht laufen, knirscht sie mit den Zähnen.{w} Sie hat also wirklich Angst ...?"
 
     y "Halt den Mund!{w} Du weißt nichts.{w} Ich...{w}Ich brauche das!"
 
@@ -8147,47 +8147,47 @@ label explanationover:
 
     y "Ich sagte sei ruhig!"
 
-    "The entire cavern quakes under her rage.{w} Debris rains down from above.{w} This is getting dangerous."
+    "Die ganze Höhle fängt zu beben an.{w} Von oben regnen Steinbrocken herab.{w} Das wird echt gefährlich."
 
     y "Ich brauche deine Hilfe oder dein Mitgefühl nicht.{w} Ich repariere Dinge selbst.{w} Alles wird gut, wenn ich dich wie einen Feuerhydranten aufreiße und dein Blut magisch wirken lasse."
 
-    "My face grows pale as a maddening laugh escapes her lips.{w} How can she say something so twisted?{w} ...I really did try, but maybe her sanity is too far gone?"
+    "Mein Gesicht wird blass, als ein verrücktes Lachen über ihre Lippen wandert.{w} Wie kann sie bloß so was Krankes sagen?{w} ... Ich hab es wirklich versucht, aber vielleicht ist sie geistig wirklich nicht mehr zu retten?"
 
-    "I can't give up so easily!{w} One more try...{w} Maybe I'll get through to her?"
+    "Ich darf nicht so schnell aufgeben!{w} Noch ein Versucht ...{w} Vielleicht erreich ich sie ja doch?"
 
     p "Ich weiß, dass du kein schlechter Mensch bist, Yuzuki.{w} Du bist nur ...{w} einsam, oder?"
 
     y "Ich bin nicht allein!{w} Mindestens...{w}Ich werde nie wieder einsam sein, wenn das einmal vorbei ist."
 
-    s "Kenta...{w} I understand you want to help her, but...{w}well, just look at her."
+    s "Kenta ...{w} Ich kann verstehen, wenn du ihr helfen möchtest, aber ...{w} nun ja, sieh sie dir an."
 
-    "Sayaka looks solemnly towards the dark angel."
+    "Sayaka blickt auf den dunklen Engel."
 
-    "...She's right.{w} I give Yuzuki a proper look over for the first time since we arrived here."
+    "...Sie hat recht.{w} Seitdem wir hier angekommen sind, schaue ich Yuzuki zum ersten Mal etwas genauer an."
 
-    "Her face is crooked, her expression unhinged.{w} Every once in a while her head gives off a twitch as she clenches the scythe tightly."
+    "Ihr Gesichtsausdruck ist verwirrt.{w} Gelegentlich zuckt sie mit dem Kopf, wenn sie ihre Sense fest packt."
 
-    "She seems even worse than she did before.{w} Maybe the darkness has fully eaten away at her?{w} Does the old Yuzuki even exist?"
+    "Sie schaut noch schlechter aus als zuvor.{w} Vielleicht hat die Finsternis sie bereits völlig verschlungen?{w} Existiert die alte Yuzuki überhaupt noch?"
 
-    "I have to admit it.{w} We can't save her."
+    "Ich muss es zugeben.{w} Wir können sie nicht mehr retten."
 
-    "I let out a heavy sigh."
+    "Ich seufze."
 
     p "Okay.{w} Tut, was ihr tun müsst."
 
-    "Sayaka and Hikari nod.{w} They understand that this is going to be a fight with consequences."
+    "Sayaka und Hikari nicken.{w} Sie verstehen, dass dieser Kampf Konsequenzen nach sich ziehen wird."
 
-    "There's no running away.{w} Each side has too much at stake now."
+    "Es gibt kein Zurück mehr.{w} Es steht für jeden zu viel auf dem Spiel."
 
     y "Ich habe das Gefühl, dass du mich vielleicht unterschätzt.{w} Es ist wahr, ich musste bei unserer letzten Begegnung beschämend den Schwanz drehen, aber ..."
 
-    "Yuzuki grunts, and a dark aura begins to set in around her.{w} This is new..."
+    "Yuzuki grunzt und wird auf einmal von einer dunklen Aura umgeben.{w} Das seh ich zum ersten Mal ..."
 
     y "Wir kämpfen auf meinem Heimatmarkt.{w} Ich habe hier eine direkte Verbindung zu ihr.{w} Ich kann..{w} Ich kann sie in mir fühlen."
 
     y "Ich kann jetzt nicht verlieren!{w} Nicht mit {i}ihr{/i} auf meiner Seite!"
 
-    "She lets out another crazed laugh as the cavern gives a violent rumble.{w} I don't think this is all talk...{w} Sayaka and Hikari might really have their work cut out here."
+    "Mit einem weiteren verrückten Lächeln löst sie wieder ein heftiges Beben aus.{w} Ich schätze, sie meinst es wirklich ernst ...{w} Sayaka und Hikari werden hier kein leichtes Spiel haben."
 
     stop music fadeout 2.0
 
@@ -8203,27 +8203,27 @@ label explanationover:
     play music "bgm/dramaticintro.ogg" fadein 2.0
     queue music "bgm/dramaticloop.ogg"
 
-    "Yuzuki closes the distance between us in the blink of an eye, and heaves her scythe up high.{w} I can't tell if she's aiming for me specifically, or hoping to catch us all in a single, crushing blow."
+    "Yuzuki schließt mit erhobener Sense im Nu die Distanz zwischen uns.{w} Ich kann nicht sagen, ob sie es gezielt auf mich abgesehen hat, oder ob sie uns alle mit einem einzigen Schlag umbringen möchte."
 
-    s "Wahh, look out!"
+    s "Wahh, pass auf!"
 
     hide Yuzuki
     with dissolve
 
-    "Sayaka tugs at my arm and pulls me away, with Hikari jumping to the opposite side."
+    "Sayaka zerrt an meinem Arm und zieht mich weg, während Hikari auf die andere Seite springt."
 
     with hpunch
 
-    "The ground where I was standing just moments ago is shattered, only a crater and the smouldering of dark magic remaining in the wake of her scythe."
+    "Der Boden, auf dem ich eben noch stand, ist zerschmettert – stattdessen ist nur noch ein Krater, umgeben von dunkler Magie, zu sehen."
 
-    "Unreal.{w} If Sayaka hadn't reacted in time...{w} I shudder to think."
+    "Echt krass.{w} Hätte mich Sayaka nicht gerettet ...{w} Ich will gar nicht darüber nachdenken, was dann passiert wäre."
 
     show Yuzuki at right
     with moveinright
 
-    "Yuzuki sets her sights on me again, lifting the deadly scythe up for another attack.{w} I wonder if the other girls are even registering in her crazed eyes right now?"
+    "Yuzuki nimmt mich wieder ins Visier und hebt ihre Sense für einen weiteren Angriff in die Höhe.{w} Ich frage mich, ob ihre verrückten Augen überhaupt wissen, dass hier auch noch zwei andere Mädchen sind?"
 
-    "I must be the top priority.{w} If she gets me, she wins."
+    "Sie scheint es nur auf mich abgesehen zu haben.{w} Erwischt sie mich, hat sie gewonnen."
 
     $ hikaface='angry'
     $ hikapose='magical_1'
@@ -8237,21 +8237,21 @@ label explanationover:
     show Yuzuki at right
     with move
 
-    "She attempts to kick off of the ground, but Hikari bursts from the side and catches her off-guard, locking blades with her."
+    "Sie versucht, vom Boden abzuheben, aber Hikari überrascht sie von der Seite und hält sie davon ab."
 
     h "Oh nein, das tust du nicht!{w} Bevor du ihn bekommst, musst du erst an {i}mir{/i} vorbei!"
 
     y "Das kann sein...{w}vereinbart worden!"
 
-    "The pair grit teeth as they push against one another, the magic practically crackling around them in a fierce storm."
+    "Die beiden geraten aneinander, während die Magie um sie herum förmlich zu knistern beginnt."
 
-    "Yuzuki must be stronger than ever right now, yet Hikari seems to be able to stand her ground, her feet sinking slightly into the ground as the pressure pushes against her."
+    "Yuzuki muss im Moment stärker sein als je zuvor, aber Hikari scheint mit ihr mithalten zu können – abgesehen davon, dass sie aufgrund des Drucks immer weiter in den Boden einsinkt."
 
-    "She must be pushing well past her limits to even be able to stand a chance against this monster.{w} I can already see the strain it must be putting on her body, as sweat takes over her face."
+    "Sie muss weit über ihre Grenzen hinausgehen, um überhaupt eine Chance gegen dieses Monster zu haben.{w} Als ihr bereits Schweiß über das Gesicht läuft, erkenne ich, dass es echt anstrengend für sie sein muss."
 
     h "Hrghh...{w} L-Los!{w} Ich hab sie...{w}abgehalten!{w} Ihr Typen...{w}beendet das!"
 
-    "She hisses through gritted teeth, her feet beginning to slip."
+    "Sie zischt zähneknirschend und rutscht mit den Beinen allmählich nach hinten."
 
     $ sayaface='shocked'
     hide Hikari
@@ -8259,7 +8259,7 @@ label explanationover:
     show Sayaka at center
     with dissolve
 
-    s "Hikari!{w} You can't possibly--"
+    s "Hikari!{w} Du hast doch wohl nicht wirklich--"
 
     hide Sayaka
     show Hikari at right
@@ -8267,231 +8267,231 @@ label explanationover:
 
     h "Ich sagte los!"
 
-    "Her voice booms and the magic around her violently crackles.{w} I've never seen her like this before..."
+    "Ihre Stimme dröhnt und die Mage um sie herum fängt heftig zu knistern an.{w} Ich hab sie noch nie zuvor so erlebt ..."
 
     h "Oder willst du, das alles hier für nichts ist?!{w} Ich kann...{w}halte sie für eine Weile in Schach.{w} Kein Problem!"
 
-    "That's..."
+    "Das ist ..."
 
-    "I give her a worried look, but Sayaka tugs at my arm once more and urges me towards the crystal."
+    "Ich sehe sie besorgt an, aber Sayaka zerrt mich am Arm und drängt mich zum Kristall."
 
     $ sayaface='normal'
     hide Hikari
     show Sayaka at center
     with dissolve
 
-    s "Come on.{w} She's right.{w} She's tougher than she lets on, and I'm sure she'll be fine!"
+    s "Komm schon.{w} Sie hat recht.{w} Sie ist zäher, als sie aussieht, und ich bin mir sicher, sie schafft das!"
 
-    "Even Sayaka doesn't sound so sure of that herself.{w} ...I just have to trust in Hikari, and end this before she slips up."
+    "Selbst Sayaka scheint nicht komplett davon überzeugt zu sein.{w} ... Mir bleibt wohl nichts anderes übrig, als einfach an Hikari zu glauben."
 
-    "I nod and we hurry ever closer to the center of all this chaos.{w} I can still hear the clash of magic behind me, along with pained cries.{w} I can't look back now, though.{w} She'll be fine."
+    "Ich nicke und gemeinsam kommen wir dem Zentrum all dieses Chaos immer näher.{w} Hinter mir kann ich noch immer das Aufeinanderprallen von Magie, begleitet von schmerzhaften Schreien, hören.{w} Ich darf mich nicht umdrehen.{w} Sie wird es schon schaffen!"
 
-    "We're almost there.{w} Just a few more steps closer, and--"
+    "Wir sind fast da.{w} Nur noch ein paar Schritte, und--"
 
     $ sayaface='scared'
     show Sayaka
 
-    s "Oh, you've got to be kidding me..."
+    s "Oh, du willst mich doch verarschen ..."
 
-    "Sayaka preps her bow and shoots a sharp look towards the rocks scattered around in the distance."
+    "Sayaka bereitet ihren Bogen vor und wirft einen scharfen Blick auf die Steine, die in der Ferne verstreut liegen."
 
     p "H-Häh?{w} Was meinst du damit?"
 
     scene cg20
     with dissolve
 
-    "Harsh, guttural growls fill the air, and several of those demonic, almost dog looking shadows I've encountered before make their presence known.{w} ...And several more."
+    "Dämonisches Knurren von einem fast hundeähnlichen Schatten erfüllt den Raum.{w} ... Und nicht nur einer, sondern mehrere."
 
-    "They circle us and block off the crystal completely.{w} Great."
+    "Sie umzingeln uns und blockieren den Kristall.{w} Großartig."
 
     scene cave
     with dissolve
 
-    s "Okay.{w} This is...{w}not a problem!"
+    s "Okay.{w} Das ist ...{w} überhaupt kein Problem!"
 
-    "We end up back to back and we face off against the ever enclosing circle of shadows.{w} Their fangs are bared, and there's nothing but hate for us in those burning eyes of theirs."
+    "Wir werden mit den Rücken an die Wand gedrängt und werden mit den Schatten konfrontiert.{w} Ihre Reißzähne sind geschärft und in ihren Augen existiert nichts als Hass."
 
-    "I should have known things weren't going to be this easy.{w} Of {i}course{/i} she wasn't going to just rely on Yuzuki to defend her!"
+    "Ich hätte wissen müssen, dass es nicht so einfach wird.{w} {i}Logisch{/i}, dass sie sich nicht nur auf Yuzuki verlassen würde!"
 
     p "Irgendwelche, äh ...{w} Ideen?"
 
-    s "I was going to ask you that!"
+    s "Das wollte ich dich gerade fragen!"
 
-    "...I think we {i}know{/i} we're done for when we have to rely on me for ideas."
+    "...Ich glaub, wir {i}wissen{/i} beide, dass es aus ist, wenn wir uns auf meine Ideen verlassen."
 
     p "Ich hoff doch, dass das ein Scherz ist!"
 
-    "The monsters close in.{w} They're acting like an intelligent pack of sorts, ensuring there's no escape for their prey."
+    "Die Monster kommen näher.{w} In Anbetracht der Tatsache, dass es für ihre Beute kein Entkommen gibt, verhalten sie sich wie ein intelligentes Rudel."
 
-    s "Oh!{w} I've got it!{w} Why didn't I think of it sooner?"
+    s "Oh!{w} Ich hab‘s!{w} Warum hab ich nicht schon früher daran gedacht?"
 
-    "There's a glimmering light as Sayaka's bow fades out of view, and I feel something begin to form on her back."
+    "In Sayakas Augen leuchtet plötzlich ein Licht auf, als sich kurz darauf ihr Bogen auflöst und sich etwas auf ihrem Rücken bildet."
 
-    "Ah, the wings!{w} Of course.{w} We can just fly out of this."
+    "Ah, die Flügel!{w} Natürlich.{w} Wir können einfach davonfliegen."
 
-    "As much as I hate flying, I'm willing to make an exception this one time."
+    "So sehr ich fliegen auch hasse, dieses Mal bin ich bereit, eine Ausnahme zu machen."
 
-    s "Hold on tight, Kenta!"
+    s "Gut festhalten, Kenta!"
 
     with hpunch
 
-    "I take a solid grip of both Sayaka's hands, and she kicks off of the ground, right as the shadows around us decide to make their move."
+    "Ich greife nach Sayakas Händen und sie hebt vom Boden ab – genau in dem Moment, in dem die Monster losspringen."
 
-    "It's a close call.{w} I just about feel the snarling heat from one of the savage beasts' growls as we lift into what little vertical space we have in the cave."
+    "Das war knapp.{w} Als wir hochsteigen, kann ich sogar noch die Hitze von einem dieser ‚Hunde‘ spüren."
 
-    s "That was easy enough!{w} Next stop, the dark queen!"
+    s "Das war doch ein Kinderspiel!{w} Nächster Halt, die dunkle Königin!"
 
-    "We sail through the air, our goal in sight.{w} Okay, I think we might actually make it this time--"
+    "Mit dem Ziel vor Augen segeln wir durch die Lüfte.{w} Okay, dieses Mal könnten wir es tatsächlich schaffen--"
 
     with hpunch
 
     s "Ahh!"
 
-    "Sayaka lets out a pained gasp, and our momentum grinds to a halt.{w} Her grip loosens considerably on one of my hands."
+    "Plötzlich schreit Sayaka schmerzhaft auf.{w} Ihr Griff wird immer schwächer und sie kommt zum Halt."
 
     p "S-Sayaka?"
 
-    s "Ahh, this is no good.{w} One of them must have nicked me on the side before we could get away."
+    s "Ahh, nicht gut.{w} Einer von ihnen hat mich, bevor wir entkommen konnten, wohl noch an der Seite erwischt."
 
-    "She forces out an awkward laugh as we begin to wobble in the air, her grip on my other hand also slipping."
+    "Als unser Flug ruckeliger wird, zwingt sie sich zu einem unangenehmen Lächeln."
 
-    s "I'm not sure how much longer I'll be able to...{w}keep us up here..."
+    s "Ich weiß nicht, wie lange ich ...{w} das noch schaffe ..."
 
-    "I throw a glance down to see the snapping pack of savage monsters almost right at our heels.{w} Things are looking bleak..."
+    "Ich werfe einen Blick nach unten … und sehe dort Dinge, die mir überhaupt nicht gefallen.{w} Es sieht echt düster aus ..."
 
-    s "Hmmm..."
+    s "Hmmm ..."
 
-    "Sayaka debates something as we sink ever lower to our demise.{w} No!{w} We were so close!"
+    "Während wir immer tiefer sinken, denkt Sayaka über etwas nach.{w} Nein!{w} Wir waren so nah dran!"
 
-    s "Well.{w} I trust you'll be able to set everything right, Kenta.{w} I won't be there to help you, like I said I would...{w}but, I believe in you!"
+    s "Nun.{w} Ich vertraue darauf, dass du alles in Ordnung bringst.{w} Ich werde nicht da sein, um dir zu helfen, wie ich es vorhatte ...{w} aber ich glaub an dich!"
 
-    "Her voice is pained.{w} Weak.{w} That little 'nick' must hurt more than she's letting on."
+    "Ihre Stimme klingt voller Schmerz.{w} Schwach.{w} Diese kleine Wunde muss stärker wehtun, als sie zugibt."
 
     p "Sayaka ...?{w} Was sagst du da ...?"
 
-    s "You can do it.{w} I know you can!"
+    s "Du kannst das.{w} Das weiß ich ganz genau!"
 
     p "Was--"
 
     with hpunch
     stop music fadeout 4.0
 
-    "A burst of energy detonates at my back, almost like a gust of wind.{w} It splits me from Sayaka's hold and sends me hurtling towards the crystal, where {i}she{/i} lies."
+    "Hinter meinem Rücken explodiert ein Energieschub, der sich anfühlt wie eine Windböe.{w} Dieser Energieschub trennt mich von Sayaka und befördert mich geradewegs zum Kristall."
 
-    "Sayaka must have known she wouldn't be able to carry me here, so she...{w}boosted me across with magic?{w} But then, what happened to her?"
+    "Sayaka muss gewusst haben, dass sie mich nicht bis dort hin tragen kann, weshalb sie mich ...{w} mit Magie hingeschossen hat?{w} Aber was wird jetzt aus ihr?"
 
     with hpunch
 
     p "Oof!"
     play music "bgm/seriousintro.ogg" fadein 5.0
     queue music "bgm/seriousloop.ogg"
-    "I land with a gentle thud at the foot of the crystal.{w} It seems her magic was even set to cushion my fall.{w} Sayaka..."
+    "Ich lande sanft am Fuße des Kristalls.{w} Sieht aus, als hätte ihre Magie sogar meinen Aufprall gedämpft.{w} Sayaka ..."
 
-    "I throw a glance over my shoulder.{w} She isn't in the air anymore.{w} And right below her was..."
+    "Ich werfe einen Blick über meine Schulter.{w} Sie ist nicht mehr in der Luft.{w} Und direkt darunter, wo wir vorhin waren ..."
 
-    "No!{w} I refuse to believe it.{w} She'll be fine.{w} I just need to end this.{w} Now!"
+    "Nein!{w} Ich möchte es nicht glauben.{w} Es geht ihr bestimmt gut.{w} Ich muss es nur zu Ende bringen.{w} Sofort!"
 
-    "I turn back to face the crystal with more determination than ever."
+    "Ich drehe mich wieder um, um voller Entschlossenheit dem Kristall gegenüberzustehen."
 
-    "They're both out there risking their lives for me.{w} I can't let them down."
+    "Sie riskieren beide ihr Leben, nur für mich.{w} Ich kann sie jetzt nicht hängenlassen."
 
-    "I stare down the crystal and try my best to ignore the headache that thumps like a jackhammer.{w} Naturally, it's the most intense it's ever been.{w} But I can't let the pain get to me.{w} This?{w} This is nothing!"
+    "Ich starre auf den Kristall und versuche die Kopfschmerzen so gut wie nur möglich zu ignorieren.{w} Sie sind so stark wie noch nie.{w} Aber ich darf mich nicht unterkriegen lassen.{w} Das?{w} Das ist doch gar nichts!"
 
-    "I can just about make out a human-like form embedded within the crystal, though I can't make out any discerning features."
+    "Im Kristall kann ich gerade noch eine menschenähnliche Form erkennen."
 
-    "You.{w} This is all your fault.{w} Because of...{w}you...{w}Sayaka and Hikari are hurt.{w} It's unforgivable."
+    "Du.{w} Das ist alles deine Schuld.{w} Wegen dir ...{w} Du{w} hast Sayaka und Hikari weh getan.{w} Das werde ich dir nicht verzeihen."
 
-    "I hold up my right hand and pull back my sleeve.{w} Drawn on the back of my hand is a supposedly mystic symbol.{w} Something that Sayaka and Hikari had scribbled on the night previous."
+    "Ich ziehe meinen rechten Ärmel zurück.{w} Auf meinem Handrücken befindet sich ein angeblich mystisches Symbol.{w} Etwas, das Sayaka und Hikari letzte Nacht noch aufgezeichnet hatten."
 
-    "They said this should help in drawing out any power that might lie dormant in me, if I'm inexperienced enough to not be in full control of it myself.{w} So it's sort of like...{w}a syphon, that can bring up magic with ease."
+    "Sie sagten, dass mir dieses Symbol dabei helfen würde, all die Kräfte zu erwecken, die in mir schlummern."
 
-    "I give the hand a flex, and the symbol glows.{w} Okay.{w} So far, so good."
+    "Ich spanne meine Hand an und das Symbol beginnt zu leuchten.{w} Okay.{w} So weit, so gut."
 
-    "Now, I just have to..."
+    "Jetzt muss ich nur noch ..."
 
-    "I steady my nerves.{w} I'm not sure what's going to happen when I do this, but I have to be prepared."
+    "Ich beruhige mich ein wenig.{w} Ich bin mir nicht sicher, was mit mir passieren wird, wenn ich das tue, aber ich muss auf alles vorbereitet sein."
 
-    "I can't stand around and hesitate forever, though.{w} Not with everything going on around me."
+    "Ich kann aber nicht für immer warten.{w} Nicht in dieser Situation."
 
-    "Sayaka.{w} Hikari.{w} I can do this!"
+    "Sayaka.{w} Hikari.{w} Ich schaff das!"
 
-    "I thrust my hand out and make contact with the crystal."
+    "Ich schlage meine Hand nach vorne und treffe auf den Kristall."
 
     with hpunch
 
-    "There's an immediate response, as a violent current jolts through me.{w} That's fine, though.{w} It was to be expected.{w} No problem."
+    "Als unmittelbare Reaktion darauf läuft ein elektrischer Strom durch mich hindurch.{w} Aber das ist okay.{w} Das war zu erwarten.{w} Kein Problem."
 
-    "It hurts, but I've felt worse.{w} Is this the best you've got?!"
+    "Es tut weh, aber ich bin Schlimmeres gewohnt.{w} Ist das alles, was du drauf hast?!"
 
-    "I press my hand in deeper into the crystal's surface.{w} The pain gradually grows stronger, and a terrified shriek floods my ears."
+    "Ich dringe mit meiner Hand tiefer in die Oberfläche des Kristalls vor.{w} Der Schmerz wird immer stärker und ein erschrockener Schrei überfällt meine Ohren."
 
-    "And it's not from any of the girls in the cavern.{w} It's from {i}her{/i}.{w} She knows what's about to happen."
+    "Dieser Schrei kommt aber nicht von den Mädchen.{w} Er kommt von {i}ihr{/i}.{w} Sie weiß, was gleich passieren wird."
 
-    "Well, she can cry all she wants, but it's not going to change a damn thing!"
+    "Nun, sie kann schreien, so viel sie will, aber das wird auch nichts mehr daran ändern!"
 
     scene bg black
     with fade
 
-    "Amidst all this chaos, I need to clear my mind.{w} Filter out all the noise.{w} A near impossible task with the current state of things, but I have to try."
+    "Inmitten dieses ganzen Chaos muss ich erstmal meinen Geist befreien.{w} All die Geräusche herausfiltern.{w} Beim aktuellen Stand der Dinge eine fast unmögliche Aufgabe, aber ich muss es versuchen."
 
-    "From what I was told, magic is controlled mostly through thought.{w} Spells need to be envisioned--created within the mind."
+    "Laut dem, was mir gesagt wurde, wird Magie hauptsächlich durch Gedanken kontrolliert.{w} Zaubersprüche müssen im Gedanken erschaffen werden."
 
-    "Apparently those with vivid imaginations are often the kind that excel with this sort of thing."
+    "Anscheinend sind es diejenigen, die eine lebhafte Phantasie haben, die sich auch in diesen Dingen auszeichnen."
 
-    "I'm not sure if I've ever been much of a creative type, but there's a first for everything."
+    "Ich hatte noch nie wirklich viel Phantasie, aber es gibt immer ein erstes Mal."
 
-    "I need to envision a prison.{w} A closed off space.{w} Something unbreakable--closed off from the outside world."
+    "Ich muss mir ein Gefängnis vorstellen.{w} Ein abgeschlossener Raum.{w} Etwas Unzerbrechliches, das von der Außenwelt abgeschottet ist."
 
-    "Something so secure that this will never happen again."
+    "Etwas, das so sicher ist, dass so etwas nie wieder vorkommen wird."
 
-    "And then I bind that prison, just like my ancestor did before me, with my own soul.{w} I have to tie myself to all of this, and remain the only key capable of unlocking it."
+    "Und dann verbinde ich dieses Gefängnis, so wie es mein Vorfahre vor mir getan hat, mit meiner eigenen Seele.{w} Ich muss mich daran binden und der einzige Schlüssel bleiben, der in der Lage ist, dieses Gefängnis zu öffnen."
 
     "..."
 
-    "I'm not sure if it's working, but the pain is rising with each passing moment I spend connected to this thing.{w} I feel faint.{w} I might pass out at any moment.{w} But I have to stand strong!"
+    "Ich weiß nicht, ob es funktioniert, aber der Schmerz wird immer stärker.{w} Ich fühle mich schwach.{w} Ich könnte jeden Moment zusammenbrechen.{w} Aber ich muss standhaft bleiben!"
 
-    "I grit my teeth and let out a pained groan."
+    "Ich beiße die Zähne zusammen."
 
-    "Why isn't this working?!"
+    "Warum funktioniert das nicht?!"
 
-    "Am I not imagining the spell correctly?"
+    "Mache ich irgendwas falsch?"
 
-    "I was sure I had it down perfectly."
+    "Ich war mir so sicher, dass der Zauberspruch perfekt war."
 
-    "I continue to repeat the process, my strength sapping rapidly as I struggle to keep upright."
+    "Mit rasch schwindenden Kräften wiederhole ich die ganze Prozedur noch einmal."
 
-    "It's no use.{w} This is completely futile."
+    "Es bringt nichts.{w} Das ist völlig zwecklos."
 
-    "No matter how hard I try, nothing seems to change.{w} Maybe I lack the magical capability, just as I feared?"
+    "Egal, wie sehr ich mich auch anstrenge, es scheint sich nichts zu ändern.{w} Vielleicht mangelt es mir wirklich an magischer Fähigkeit, so wie ich befürchtet hatte?"
 
     p "Argh!{w} Scheiße!"
 
-    "In a fit of rage, I clench my free hand into a fist and give the accursed crystal a good punch."
+    "In einem Wutanfall balle ich meine freie Hand zur Faust zusammen und schlage damit gegen den Kristall."
 
-    "...It responds in turn, and lets out one final jolt of magic through my body before the pain dies down.{w} As does the screaming."
+    "...Als Reaktion darauf gibt dieser einen letzten elektrischen Schlag von sich, ehe der Schmerz nachlässt.{w} Und auch der Geschrei."
 
-    "The resealing has been...completed."
+    "Die Wiederversiegelung … wurde abgeschlossen."
 
     scene cave
     with dissolve
 
-    "...You're kidding me.{w} All I had to do was punch the damn thing?!"
+    "...Du willst mich wohl verarschen.{w} Ich musste die ganze Zeit nur dagegenschlagen?!"
 
-    "I...I don't..."
+    "I…Ich kann’s nicht fa..."
 
-    "Wait.{w} I remember now.{w} From what I was taught that night."
+    "Warte.{w} Jetzt erinnere ich mich.{w} An das, was mir in dieser Nacht beigebracht wurde."
 
-    "While most magic could be done with just the dominant hand, in some cases--like the sealing--the other hand was required to complete the circuit and let the magic properly flow."
+    "Während der Großteil der Magie mit der Haupthand ausgeführt wird, wird in einigen Fällen, so auch bei einer Versiegelung, auch die Nebenhand benötigt, um den Prozess zu beenden."
 
-    "How on earth did I forget something as simple as that at such a crucial time?!"
+    "Wie konnte ich das – gerade in dem Moment – nur vergessen?!"
 
-    "I'm...{w} I'm such an idiot.{w} I almost feel like laughing."
+    "Ich bin ...{w} Ich bin so ein Idiot.{w} Das ist so lächerlich, dass ich selbst darüber lachen muss."
 
-    "In fact..."
+    "Wirklich ..."
 
     p "Hah ...{w} Ahahahaha ..."
 
-    "Having perhaps finally lost it after all the things I've been subjected to in these recent days, I let out a feeble laugh as I topple over backwards, the strength draining from me completely."
+    "Geistig vielleicht völlig zerstört von dem, was ich in den letzten Tagen durchmachen musste, falle ich kraftlos nach hinten."
 
     scene bg black
     with fade
@@ -8541,7 +8541,7 @@ label explanationover:
 
         "I mutter her name, as it seems too good to be true."
 
-        s "Yup.{w} That's me!"
+        s "Jup.{w} Ich bin's!"
 
         "She's kneeling over me, offering a helping hand with the sweetest smile I've ever seen."
 
@@ -8553,23 +8553,23 @@ label explanationover:
 
         p "Hab ich ...?"
 
-        s "...Reseal the dark queen?{w} You betcha.{w} You did a perfect job!"
+        s "...Die dunkle Königin versiegelt?{w} Darauf kannst du einen lassen.{w} Du hast echt gute Arbeit geleistet!"
 
         "She beams as she takes a hold of my limp hand and gently props me up to a sitting position."
 
-        s "I was worried there for a moment, you know.{w} I thought maybe the spell might have been too much for your body to handle..."
+        s "Einen Moment lang habe ich mir echt Sorgen gemacht.{w} Für kurze Zeit dachte ich, der Zauber wäre vielleicht zu viel für dich gewesen ..."
 
         p "W-Warte, du hast dir um {i}mich{/i} Sorgen gemacht?!{w} Ich dachte, diese Monster wären--"
 
-        s "Them?{w} Pff.{w} That was nothing!{w} I took care of them no problem, you just missed it."
+        s "Die?{w} Pff.{w} Das war doch gar nichts!{w} Die hab ich eiskalt ausgelöscht … Du hast es nur verpasst."
 
         p "Ich konnte dich nicht mal sehen!"
 
-        s "I was...{w}playing dead...?"
+        s "Ich hab mich ...{w} totgestellt ...?"
 
         p "Sayaka ..."
 
-        s "Eh-heh-heh..."
+        s "He-hehehe-hehe ..."
 
         "She scrubs at the back of her head and gives me the same goofy grin.{w} This girl..."
 
@@ -8577,9 +8577,9 @@ label explanationover:
 
         p "Wenn dir was passiert wäre ...{w} Ich weiß echt nicht, was ich dann getan hätte ..."
 
-        s "Aww, I didn't know you could get this sappy, Kenta."
+        s "Aww, ich wusste gar nicht, dass du so rührselig werden kannst, Kenta."
 
-        s "Am I going to need an umbrella for all the tears?"
+        s "Brauche ich für all die Tränen etwa einen Regenschirm?"
 
         "It seems words aren't getting through to her, so..."
 
@@ -8590,27 +8590,27 @@ label explanationover:
         with dissolve
         with hpunch
 
-        s "E-eh?{w} Kenta?!"
+        s "H-Hä?{w} Kenta?!"
 
         "I wrap my arms around her and pull her into a tight embrace.{w} It isn't enough just to be able to see her again, I wanted to make sure she was really there."
 
         p "Ich bin froh, dass es dir gut geht."
 
-        s "I, uh..."
+        s "Ich, äh ..."
 
         "She seems to be at a loss for words, as her arms hang limply by her sides.{w} She's really making this awkward for me."
 
         $ sayaface='happy'
         show Sayaka
 
-        s "Aw, what the heck!{w} C'mere, you big ol' softie."
+        s "Aw, was zum Teufel!{w} Komm schon, du alter Softie."
 
         "She brings her arms up and returns the hug, squeezing me in a similarly tight embrace.{w} ...Maybe {i}too{/i} tight."
 
         $ sayaface='joking'
         show Sayaka
 
-        s "Let's hope Hikari doesn't find out about this, huh?{w} Or she's gonna flip."
+        s "Hoffen wir, dass Hikari davon nichts erfährt, hm?{w} Sonst zuckt sie noch aus."
 
         "She stifles a giggle as she nestles into my shoulder."
 
@@ -8625,7 +8625,7 @@ label explanationover:
 
         "Sayaka tilts her head, looking confused for a moment."
 
-        s "Hm?{w} She's fine!"
+        s "Hm?{w} Der geht’s gut!"
 
         p "Und ...{w} Yuzuki ...?"
 
@@ -8635,7 +8635,7 @@ label explanationover:
         show Sayaka
         with dissolve
 
-        s "Follow me!"
+        s "Folge mir!"
 
 
 
@@ -8644,7 +8644,7 @@ label explanationover:
         $ sayaface='happy'
         show Sayaka
 
-        s "Tah-dah!{w} See?{w} One Hikari and one Yuzuki."
+        s "Tada!{w} Siehst du?{w} Eine Hikari und eine Yuzuki."
 
         "Hikari is standing guard, her sword drawn as she keeps the sharp end pointed firmly at a very...{w}tattered...{w}Yuzuki."
 
@@ -8665,7 +8665,7 @@ label explanationover:
         show Sayaka
         with dissolve
 
-        s "Well.{w} We were...{w}eh-heh-heh."
+        s "Na ja.{w} Wir haben ...{w} Heh-hehehe-heh."
         stop music fadeout 5.0
         "Sayaka hides nothing and grins sheepishly, rocking on her heels as she does so."
 
