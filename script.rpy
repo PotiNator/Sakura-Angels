@@ -5682,7 +5682,7 @@ label explanationover:
 
             stop music fadeout 2.0
 
-            "Even Hikari seems offended, and does her usual turn of the head, her hair swishing along with her.{w} But it doesn't really take much for her to do that, so I'm not that surprised."
+            "Selbst Hikari scheint beleidigt zu sein und dreht ihren Kopf einfach zur Seite.{w} Aber bei ihr braucht es dazu nicht viel, von daher wundert es mich nicht wirklich."
 
             s "Kenta!{w} Du solltest besser hier rüberkommen.{w} Wir haben Jahre gebraucht, um diese..."
 
@@ -5693,11 +5693,11 @@ label explanationover:
 
             s "Es...{w}es ist egal."
 
-            "Sayaka puts on a scary expression that's similar to that of Hikari's own.{w} Honestly, what did I do wrong?!"
+            "Sayaka setzt einen so beängstigenden Gesichtsausdruck auf, der dem von Hikari ähnelt.{w} Ehrlich, was hab ich bloß falsch gemacht?!"
 
             p "Ä-Äh ...{w} egal.{w} Ich such mir ...{w} erstmal ein schattiges Plätzchen."
 
-            "I turn to wander further down the beach, while still feeling the painful, {i}painful{/i} stares of the two girls.{w} I'm not really sure what I did to invoke their ire, but I should probably figure it out soon, unless they just decide they don't want to protect me anymore."
+            "Ich drehe mich um und wandere weiter den Strand entlang, während ich hinter mir noch immer ihre Blicke spüre.{w} Ich weiß nicht wirklich, was ich angestellt hab, aber ich werde es wahrscheinlich bald herausfinden."
 
     scene bg black
     with fade
@@ -5708,7 +5708,7 @@ label explanationover:
     play music "bgm/everydayintro.ogg" fadein 2.0
     queue music "bgm/everydayloop.ogg"
 
-    "We finally set up our own little spot on the beach at a fairly shady area away from the general crowds.{w} It's pretty much isolated here.{w} Even peering down both sides of the beach, I only rarely see someone going by.{w} It's perfect!"
+    "Abseits der Massen haben wir schlussendlich doch noch ein schattiges Plätzchen gefunden.{w} Die Stelle ist so abgelegen, dass man nur gelegentlich jemanden vorbeigehen sieht.{w} Perfekt!"
 
     $ sayaface='smiling'
     $ sayapose='bikini_1'
@@ -5717,11 +5717,11 @@ label explanationover:
 
     s "Ahh!"
 
-    "Sayaka stretches her arms high into the sky as she basks in the sun's intense rays."
+    "Sayaka streckt ihre Arme nach oben und sonnt sich."
 
     s "Siehst du?{w} Ist es nicht das beste?{w} Und zu denken, dass ihr nicht hier raus wolltet!"
 
-    "I'm glad someone's enjoying themselves.{w} It really is far too hot, though.{w} Hikari seems to agree with my sentiment, as she keeps to the shade and lounges lazily in the beach chair."
+    "Bin ich froh, dass sich zumindest eine amüsiert.{w} Aber es ist echt zu heiß.{w} Hikari scheint mit mir mitzufühlen, wenn man betrachtet, wie sie im Schatten rumliegt."
 
     $ sayapose='bikini_2'
     show Sayaka
@@ -5729,14 +5729,14 @@ label explanationover:
 
     s "Hmm, was machen wir alls erstes...?"
 
-    "Sayaka mumbles to herself as she makes her way to one of the bags that I was pretty much forced into dragging all the way over here."
+    "Als sich Sayaka zu einer der Taschen aufmacht, die ich bis hierher schleppen musste, murmelt sie etwas vor sich hin."
 
-    "She starts to rustle through the bag.{w} ...I don't even know what she's put in there.{w} But from the sounds of it, there's a {i}lot{/i} of stuff.{w} More than we'll ever need for today, I'm sure."
+    "Sie wühlt in der Tasche rum{w} ... Ich weiß nicht mal, was da drinnen ist.{w} Aber so wie es sich anhört, ist da {i}jede Menge{/i} drinnen.{w} Mehr, als wir heute überhaupt brauchen werden."
 
     $ sayaface='happy'
     show Sayaka
 
-    s "Auf gehts.{w} Perfekt!"
+    s "So.{w} Perfekt!"
 
     s "Fang, Kenta!"
 
@@ -5745,40 +5745,40 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    "She pulls out something colourful, and tosses it my way."
+    "Sieh holt etwas Buntes aus der Tasche und wirft es mir zu."
 
     p "Häh?"
 
-    "I wrestle with it for a moment before I finally understand what it is.{w} It's a deflated beach ball.{w} I think.{w} I'm not really an expert with these things."
+    "Ich brauche einen Moment, um zu erkennen, was es ist.{w} Es ist ein NICHT aufgeblasener Strandball.{w} Glaube ich zumindest."
 
-    s "Du kannst dass übernehmen, richtig?"
+    s "Das kannst du doch, oder?"
 
     p "Na klar!"
 
-    "I say that with confidence, but it really does take me a good moment or two to even find where to inflate it.{w} Argh, it's like trying to solve a damn puzzle.{w} Complicated thing!"
+    "Sage ich völlig zuversichtlich, aber in Wirklichkeit habe ich sogar eine Weile gebraucht, um rauszufinden, wo die Luft reinkommt.{w} Argh, das kommt mir vor, als würde ich ein Rätsel lösen.{w} Ein echt kompliziertes Rätsel!"
 
     with Pause(3.5)
     with fade
 
-    "I just about nearly kill myself in the process of inflating it, as Sayaka continues to rummage around in the bags for whatever treasure it is she has in mind."
+    "Während ich den Strandball aufblase, stöbert Sayaka wieder in der Tasche rum."
 
-    p "O-Okay ...{w} Nicht nur beinahe."
+    p "O-Okay ...{w} Fast fertig."
 
-    "I let out a wheeze as I present the beach ball to her, my lungs on the verge of exploding."
+    "Keuchend präsentiere ich ihr den Strandball ... Meine Lunge hingegen könnte jederzeit platzen."
 
     $ sayaface='happy'
     show Sayaka
 
     s "Oh, gut gemacht!{w} Schmeiß es wieder zurück!"
 
-    "I pass it over to her with a feeble throw.{w} It just barely sails through the air, enough for her to reach out and catch it.{w} ...That was embarrassing."
+    "Ich werfe ihr den Ball zu.{w} Er segelt so irgendwie durch die Luft ... Gerade so weit, dass sie ihn fangen kann.{w} Das war jetzt peinlich."
 
-    "Sayaka clutches the ball as she mulls over how best to use it.{w} She gives me a look, before she gazes over towards Hikari, who seems to be fast asleep on the chair at this point."
+    "Sayaka klammert sich um den Ball und denkt darüber nach, was man damit am Besten machen kann.{w} Zuerst schaut sie mich kurz an, ehe sie zur eingeschlafenen Hikari blickt."
 
     $ sayaface='joking'
     show Sayaka
 
-    "A dangerous expression takes over Sayaka's face.{w} She couldn't possibly think to--"
+    "Auf Sayakas Gesicht formt sich ein gefährlicher Ausdruck.{w} Sie möchte doch wohl nicht allen Ernstes--"
 
     $ sayaface='happy'
     $ sayapose='bikini_2'
@@ -5789,7 +5789,7 @@ label explanationover:
 
     with hpunch
 
-    "She flings the ball at her partner, and it rebounds off of her skull with a far heavier impact than something that's inflated should have."
+    "Sie schleudert den Ball zu ihrer Partnerin, von deren Schädel er weitaus stärker abprallt, als etwas Aufgeblasenes eigentlich abprallen würde."
 
     hide Sayaka
     $ hikaface='shocked'
@@ -5797,9 +5797,9 @@ label explanationover:
     show Hikari
     with dissolve
 
-    "Hikari awakes with a start, and lets out a pained yelp, almost falling off of the chair completely."
+    "Hikari wacht mit einem schmerzhaften Geheule auf und fällt dabei fast von der Liege."
 
-    h "H-huh...?{w} Wer...Was?!"
+    h "H-Häh ...?{w} Wer ... Was?!"
 
     $ sayapose='bikini_1'
     show Hikari at right
@@ -5808,42 +5808,42 @@ label explanationover:
 
     s "Ich sagt dass du es fangen sollst, Hikari!{w} Ich hab dir eine faire Chance gegeben und so."
 
-    "Sayaka lets out an exaggerated sigh, a dangerous glint behind her cheerful eyes.{w} ...Was that payback for what happened earlier?{w} Remind me to never get on Sayaka's bad side."
+    "Sayaka seufzt übertrieben ... Mit einem alarmierenden Schimmer in ihren Augen{w} ... War das die Rache für vorhin?{w} Ich sollte mir merken, mich nie mit Sayaka anzulegen."
 
     $ hikaface='normal'
     show Hikari
 
     h "Was?{w} Ich erinnere mich nicht..."
 
-    "Hikari gives us both a startled and confused look.{w} She still has no idea what happened.{w} Maybe it's better this way, so the pair don't break out into a fight again.{w} We're here to have fun after all!"
+    "Hikari blickt verwirrt drein.{w} Sie hat noch immer keinen Plan, was gerade passiert ist.{w} Vielleicht ist es auch besser so.{w} Wir sind schließlich hier, um Spaß zu haben, und nicht um zu kämpfen!"
 
     $ sayaface='smiling'
     show Sayaka
 
-    s "Genug rumgehangen!{w} Kommt schon, lasst uns richtig spielen!"
+    s "Genug rumgehangen!{w} Kommt schon, lasst uns spielen!"
 
     hide Sayaka
     show Hikari at center
     with dissolve
 
-    "Sayaka collects the ball from the ground and dashes out from under the shade, and into the hot sun.{w} She beckons for both of us to follow after her."
+    "Sayaka sammelt den Ball auf.{w} Sie deutet uns beiden, dass wir ihr folgen sollen."
 
     h "..."
 
-    "A dazed Hikari totters from out of her chair and goes to join Sayaka.{w} She blinks unevenly as she passes by me.{w} ...Is she okay?"
+    "Eine verwirrte Hikari torkelt von ihrer Liege und geht zu Sayaka.{w} Sie blinzelt mich ungleichmäßig an, als sie an mir vorbeikommt{w} ... Ist mit ihr auch alles in Ordnung?"
 
     hide Hikari
     with dissolve
 
-    "I'm...{w} I'm sure she's fine."
+    "Ich bin sicher ...{w} es geht ihr gut."
 
     s "Komm schon!{w} Kenta?{w} Auf was wartest du?"
 
     p "Komm schon!"
 
-    "If I stand around over here any longer, I fear Sayaka might 'accidentally' hurl the beach ball my way, and let me suffer the same fate as her partner."
+    "Wenn ich hier noch länger rumstehe, befürchte ich, dass Sayaka den Ball auch noch 'versehentlich' in meine Richtung wirft."
 
-    "I dash out onto the hot sand, taking care not to stand in one place for too long in fear of catching alight.{w} Did I mention how hot is it was?{w} Hot, hot, hot!"
+    "Ich stürze mich in den heißen Sand und achte darauf, nicht zu lange an einem Fleck stehenzubleiben.{w} Hab ich schon erwähnt, dass es sau heiß ist?{w} Heiß, heiß, heiß!"
 
     $ sayaface='happy'
     $ sayapose='bikini_1'
@@ -5852,41 +5852,41 @@ label explanationover:
 
     s "Kopf hoch, Kenta!"
 
-    "She tosses the ball into the air, leaps, and then spikes it towards me with a heavy fist.{w} Oh god, that thing is going way too fast.{w} There's no possible way I can--"
+    "Sie wirft den Ball in die Luft und schlägt ihn mit ihrer Faust auf mich zu.{w} Oh Gott, ist der schnell.{w} Viel zu schne--"
 
     with hpunch
 
     p "Oof!"
 
-    "Yup.{w} That's about what I expected."
+    "Jup.{w} Genau das hab ich erwartet."
 
-    "The ball bounces off my head with enough force to leave me seeing stars, and rebounds back towards Sayaka.{w} I...{w}I sort of hit it back.{w} That counts for something, right?"
+    "Der Ball prallt von meinem Kopf ab und fliegt zurück zu Sayaka ... und ich sehe Sterne.{w} Ich ...{w} Ich hab ihn irgendwie zurückgeschlagen.{w} Darum geht's doch, oder?"
 
     $ sayaface='smiling'
     show Sayaka
 
-    s "Okay, dein Zug Hikari!"
+    s "Okay, du bist dran, Hikari!"
 
-    "Not content with just bludgeoning me, she sets her sights on poor Hikari again, giving the ball another good thwack."
+    "Als wäre sie mit meinem Opfer noch nicht zufrieden genug, setzt sie gleich wieder an ... Dieses Mal mit Hikari im Visier."
 
     hide Sayaka
     show Hikari at center
     with dissolve
 
-    h "H-huh?"
+    h "H-Häh?"
 
-    "Still not all quite there, she bops it away with an awkward slap.{w} The ball sails past both of us and lands with a splash, just at the water's edge."
+    "Noch immer ein wenig benommen, schlägt sie den Ball unbeholfen weg.{w} Der Ball segelt an uns beiden vorbei und - PLATSCH - landet im Wasser."
 
-    h "Oh.{w} Oops.{w} Ich werde es holen!"
+    h "Oh.{w} Ups.{w} Ich werde ihn holen!"
 
     $ hikaface='shocked'
     $ hikapose='bikini_2'
     show Hikari
     with dissolve
 
-    "She hurries on over to collect the ball, but stops in her tracks as her eyes fixate onto something in the sea.{w} At first, she squints, as if unsure...{w}but very slowly her eyes widen in shock."
+    "Sie eilt hinüber, um den Ball zu holen, bleibt aber plötzlich stehen, während ihre Augen auf etwas im Meer fixiert sind.{w} Zuerst blinzelt sie nur ...{w} aber ihre Augen werden immer größer."
 
-    h "Uhhh...{w} Ich denke ihr zwei solltet rüberkommen."
+    h "Ähhh ...{w} Ich denke, ihr zwei solltet mal rüberkommen."
 
     $ sayaface='smiling'
     show Sayaka at left
@@ -5898,20 +5898,20 @@ label explanationover:
 
     stop music fadeout 4.0
 
-    "I feel a twinge of pain strike my skull, my vision blurring for just a moment.{w} Oh, you've got to be kidding me..."
+    "Auf einmal wird mein Schädel von einem stechenden Schmerz heimgesucht.{w} Ach komm ..."
 
-    "I hope in vain that it's just a normal headache, maybe started from the beach ball.{w} But as I look at Hikari's face as she stares into the ocean, I know it's going to be something worse."
+    "Ich hoffe vergeblich, dass das normale Kopfschmerzen sind, vielleicht sogar noch Übrigbleibsel vom Ball ...{w} aber als ich Hikari ansehe, weiß ich, dass es weitaus schlimmer ist."
 
-    h "Sagt mir, ich bin nicht der Einzige der, das sieht..."
+    h "Sagt mir, ich bin nicht die Einzige, die das sieht ..."
 
     $ sayaface='shocked'
     show Sayaka
 
-    s "Was bist du...{w}wahh!"
+    s "Was siehst du de...{w} Wahh!"
 
-    "I join the pair by the shore.{w} What on earth are they staring at?"
+    "Ich stelle mich zu den beiden.{w} Was sehen die beiden denn?"
 
-    "I peer out into the deep blue.{w} I'm still not sure what all the fuss is about."
+    "Ich starre auf das weite Meer hinaus.{w} Verstehe aber noch immer nicht, was der ganze Wirbel soll."
 
     p "Ich ...{w} Ich versteh's nicht.{w} Verarscht ihr mich gerade?"
 
@@ -5921,21 +5921,21 @@ label explanationover:
     with dissolve
     play music "bgm/ominousintro.ogg" fadein 2.0
     queue music "bgm/ominousloop.ogg"
-    h "Nein!{w} Schau untem im Wasser!{w} Siehst du es nicht?"
+    h "Nein!{w} Schau, untem im Wasser!{w} Siehst du es nicht?"
 
-    "Eh?{w} Under?"
+    "Hä?{w} Im Wasser?"
 
-    "Wait...{w}was the water always that dark?"
+    "Warte ...{w} War das Wasser schon immer so dunkel?"
 
-    "Hang on.{w} That's..."
+    "Moment mal ... Das ist doch ..."
 
-    p "Das ist ein Schatten?!{w} Der ...{w} ist ja riesig!"
+    p "Ist das ein Schatten?!{w} Der ...{w} ist ja riesig!"
 
-    "Something is coming up from the ocean, slowly making its way towards us.{w} Why can't I even get a single day off from all of this madness?!"
+    "Unter dem Wasser kommt langsam etwas auf uns zu.{w} Kann mir dieser Wahnsinn nicht mal einen Tag erspart bleiben?!"
 
-    "What can only be described as a gargantuan mass of ooze begins to emerge, bringing up half the sea with it as it towers...{w}and towers...{w}and towers over us."
+    "Etwas, was man nur als gigantische Masse an Schlamm bezeichnen kann, türmt sich allmählich vor uns auf."
 
-    "It's a grotesque creature, that lets out a sinister gargle as it sets what I think are its eyes upon us.{w} It towers up so high it eclipses even the sun behind it.{w} It has to be at least as big as a common building, if not more so!"
+    "Eine groteske Kreatur, die plötzlich etwas öffnet, von dem  ich denke, dass es die Augen sind.{w} Mittlerweile verdeckt sie selbst die Sonne.{w} Die Kreatur ist mindestens so groß wie ein Gebäude, wenn nicht sogar noch größer!"
 
     p "Und dagegen wollt ihr kämpfen?{w} ... {i}Könnt{/i} ihr dagegen überhaupt kämpfen?"
 
@@ -5943,39 +5943,39 @@ label explanationover:
     with dissolve
 
 
-    "It continues to drag itself from out of the sea, slimy tendrils thrashing as it draws ever closer.{w} I can't imagine conventional weapons even scratching something as big as this."
+    "Das Wesen rückt immer näher.{w} Ich kann mir keine einzige herkömmliche Waffe vorstellen, die dagegen etwas anrichten kann."
 
-    h "Das?{w} Hah.{w} Das ist...{w}kein Problem!"
+    h "Das?{w} Hah.{w} Das ist ...{w} kein Problem!"
 
-    "She doesn't sound very sure of herself there.{w} I don't blame her, at all."
+    "Sie klingt nicht wirklich zuversichtlich.{w} Aber in Anbetracht der Situation nehme ich ihr das nicht übel."
 
-    "Hmm.{w} It moves so slow...{w}maybe we could just walk away from it?"
+    "Hmm.{w} Es bewegt sich ziemlich langsam ...{w} Vielleicht können wir einfach abhauen?"
 
-    "But, then it might cause complete mayhem if it were to get anywhere further than the beach.{w} I shudder to imagine the chaos that thing could cause in a busy street."
+    "Aber wenn es erstmal über den Strand hinaus ist, geht der richtige Krawall erst los.{w} Ich schaudere, als ich mir vorstelle, was dieses Ding anstellen könnte."
 
-    h "Wir haben das!{w} Wirklich!"
+    h "Wir schaffen das schon!{w} Wirklich!"
 
-    "Again, you're not filling me with confidence here."
+    "Ehrlich, das hört sich für mich nicht wirklich zuversichtlich an."
 
-    "And Sayaka hasn't even donned her battle gear yet.{w} Does she maybe realise how useless it is?{w} She's simply analysing it, a finger to her chin."
+    "Und Sayaka hat noch nicht mal ihre Ausrüstung parat.{w} Hat sie vielleicht schon eingesehen, wie aussichtlos es ist?{w} Mit einem Finger am Kinn analysiert sie einfach nur die Situation."
 
-    h "Diese Art von Dingen mag gegen physische Angriffe resistent sein, aber Magie sollte sie durchbrechen! {W} ... Zumindest in der Theorie."
+    h "Diese Dinger mögen gegen physische Angriffe resistent sein, aber Magie sollte sie durchbrechen! {w} ... Zumindest in der Theorie."
 
-    "Her hand gives off a faint glow and she furrows her brow in determination."
+    "Ihre Hand gibt ein schwaches Leuchten von sich."
 
-    h "Ja.{w} Das sollte funktionieren.{w} Guck, ich werde es mit einer einzigen Explosion beenden!"
+    h "Ja.{w} Das sollte funktionieren.{w} Schau gut zu ... Ich werde es mit einer einzigen Explosion beenden!"
 
-    "The light in her hand intensifies, growing into a pulsating orb that hovers just above her palm.{w} I wonder how this magic stuff works anyway?{w} It's always so surreal whenever I see them just casually wield it like this."
+    "Das Licht in ihrer Hand wird stärker und wächst zu einer pulsierenden Kugel heran.{w} Ich frage mich, wie diese Magie funktioniert?{w} Es sieht immer so surreal aus, wenn ich so zuschaue."
 
     with hpunch
 
-    "Something taps at my shoulder."
+    "Auf einmal klopft mir etwas auf die Schulter."
 
     p "Häh?{w} Sayaka--"
 
     s "Shh."
 
-    "She shushes me with a finger to her mouth, before taking hold of my wrist and dragging me a good distance from Hikari, who is still focused fully on the slime."
+    "Sie hält mir ihren Finger vor den Mund und greift nach meiner Hand, um mich von Hikari wegzuziehen."
 
     stop music fadeout 7.0
     scene beach
@@ -5984,13 +5984,13 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    "Eventually we end up behind a large rock cropping up from out of the sand, out of sight from both Hikari and the monster.{w} Understandably, I'm more than a little confused."
+    "Schließlich verstecken wir uns hinter einem großen Felsen, von dem aus wir die Situation beobachten.{w} Verständlicherweise bin ich gerade ein wenig verwirrt."
 
     p "Was ist los?{w} Solltest du ihr nicht helfen?"
 
-    "Sayaka stifles a giggle and peeks back out at the scene unfolding on the shore.{w} It looks like Hikari is just about ready to attack."
+    "Sayaka kichert und starrt auf die Szene vor uns.{w} Sieht aus, als stehe Hikari kurz vor dem Angriff."
 
-    s "Ich denke, sie hat es nicht realisiert."
+    s "Ich denke, sie hat es nicht bemerkt."
 
     p "Was bemerkt?"
 
@@ -5998,9 +5998,9 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    s "Also, denk darüber nach.{w} Das Ding ist groß.{w} Und sie ist dabei, mit einer Explosion reiner Magie, ihren Kern zu treffen.{w} Was denkst du, was passieren wird?"
+    s "Na denk darüber nach.{w} Das Ding ist groß.{w} Und sie ist dabei, mit einer Explosion reiner Magie, den Kern zu treffen.{w} Was denkst du, was passieren wird?"
 
-    "I raise an eyebrow.{w} How the heck am I supposed to know something like that?"
+    "Wie zur Hölle soll ich so was denn wissen?"
 
     p "Häää ...?"
 
