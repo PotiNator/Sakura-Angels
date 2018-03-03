@@ -120,7 +120,9 @@ label start:
 
     "Ein Paar brennender, strahlender Augen, die auf mich fixiert sind.{w} Sie hassen mich.{w} Sie verabscheuen mich.{w} Eine überwältigende Ausstrahlung von Feindseligkeit geht von ihnen aus."
 
-    "Ich weiß, dass sie nichts anderes wollen, als mich anzugreifen, aber irgendwas hält sie zurück.{w} Eine Kraft, die sie wahrlich verachten.{w} Es sind unsichtbare Ketten, die sie von ihrer Absicht abhalten und in ihren Bewegungen einschränken."
+    "Ich weiß, dass sie nichts anderes wollen, als mich anzugreifen, aber irgendwas hält sie zurück.{w} Eine Kraft, die sie wahrlich verachten."
+    
+    "Es sind unsichtbare Ketten, die sie von ihrer Absicht abhalten und in ihren Bewegungen einschränken."
 
     "Anfangs, als ich anfing, von diesem Ort zu träumen, waren die Augen noch weit entfernt und sahen aus wie flimmernde Sterne."
 
@@ -128,11 +130,15 @@ label start:
 
     "Was wird passieren, wenn mich ...{w} diese Augen ...{w} erreichen?{w} Ich erschaudere, wenn ich daran denke."
 
-    "Ich weiß, es ist nur ein Traum, von daher sollte ich keine Angst haben ...{w} aber alles, was ich hier erlebe, ist so lebendig.{w} Keiner der Schleier, die man sonst aus einem Traum kennt, scheint hier zu existieren.{w} Ich nehme alles klar und deutlich wahr."
+    "Ich weiß, es ist nur ein Traum, von daher sollte ich keine Angst haben ...{w} aber alles, was ich hier erlebe, ist so lebendig."
+    
+    "Keiner der Schleier, die man sonst aus einem Traum kennt, scheint hier zu existieren.{w} Ich nehme alles klar und deutlich wahr."
 
     "Ich kann die stagnierende, eiskalte Luft um mich herum spüren, weshalb mir immer wieder ein Schauer über den Rücken läuft."
 
-    "Da ich so an diesen Traum gewöhnt bin, weiß ich, wie er enden wird.{w} Ich werde für eine scheinbare Ewigkeit durch die Dunkelheit waten und nie etwas finden, bis endlich der Morgen anbricht und mich aus diesem Albtraum reißt."
+    "Da ich so an diesen Traum gewöhnt bin, weiß ich, wie er enden wird."
+    
+    "Ich werde für eine scheinbare Ewigkeit durch die Dunkelheit waten und nie etwas finden, bis endlich der Morgen anbricht und mich aus diesem Albtraum reißt."
 
     "Zumindest ...{w} hat er für gewöhnlich so geendet."
 
@@ -208,7 +214,9 @@ label start:
 
     "Ich werde von der Stille begrüßt.{w} ... Die Küche ist leer.{w} Aber dieser Anblick ist für mich mittlerweile alltäglich."
 
-    "Meine Eltern sind das, was man auch gern als {w}Workaholics{w} bezeichnet. Das heißt, sie verbringen mehr Zeit in ihrer Arbeit als zu Hause.{w} Ich sehe sie nur abends, und sobald wir da mit dem Essen fertig sind, geht auch schon wieder jeder schlafen."
+    "Meine Eltern sind das, was man auch gern als {w}Workaholics{w} bezeichnet. Das heißt, sie verbringen mehr Zeit in ihrer Arbeit als zu Hause."
+    
+    "Ich sehe sie nur abends, und sobald wir da mit dem Essen fertig sind, geht auch schon wieder jeder schlafen."
 
     "Versteh mich nicht falsch. Ich verstehe, dass sie arbeiten müssen, dass es uns gut geht, daher hasse ich sie auch nicht.{w} Es ist bloß so ...{w} Ich weiß nicht so genau ... Einsam?"
 
@@ -234,7 +242,9 @@ label start:
 
     "...Es ist alles so schrecklich."
 
-    "Ich bin nicht gerade ein Morgenmensch, von daher kann ich überhaupt nicht verstehen, wie manche Leute schon in aller Früh so fröhlich sein können.{w} Ich meine, in meinem Fall braucht es all meine Willenskraft, um überhaupt mal einen Fuß vor den anderen zu setzen."
+    "Ich bin nicht gerade ein Morgenmensch, von daher kann ich überhaupt nicht verstehen, wie manche Leute schon in aller Früh so fröhlich sein können ..."
+    
+    "Ich meine, in meinem Fall braucht es all meine Willenskraft, um überhaupt mal einen Fuß vor den anderen zu setzen."
 
     "Ich muss nur hoffen, dass sich die Energie, die ich beim Frühstück zu mir genommen habe, bald bemerkbar macht. Hoffentlich noch, bevor ich die Schule erreiche."
 
@@ -273,7 +283,9 @@ label start:
 
     "Das ergibt doch alles keinen Sinn!"
 
-    "Verzweifelt versuche ich, mich aufrecht zu halten, während ich eine Hand an meinen Kopf halte.{w} Im Gegensatz zu den Kopfschmerzen am Morgen, die immer schwächer werden, werden diese hier immer schlimmer!"
+    "Verzweifelt versuche ich, mich aufrecht zu halten, während ich eine Hand an meinen Kopf halte."
+    
+    "Im Gegensatz zu den Kopfschmerzen am Morgen, die immer schwächer werden, werden diese hier immer schlimmer!"
 
 
 
@@ -311,7 +323,7 @@ label start:
 
     "Unzählige Fragen gehen mir gerade durch den Kopf, aber ich bezweifle, dass sie mir irgendjemand beantworten kann. Erst recht nicht ...{w} dieses ...{w} Ding."
 
-    "Es gibt nur eine Sache, die ich in einen solchen Augenblick tun kann--"
+    "Es gibt nur eine Sache, die ich in einem solchen Augenblick tun kann--"
 
     menu:
         "Standhaft bleiben.":
@@ -370,7 +382,9 @@ label start:
 
             "Ich höre, wie das Monster hinter mir wütet."
 
-            "Die Angst vor dem bevorstehenden Tod betäubt meine Gliedmaßen und zerstreut meinen Verstand so sehr, dass ich meinem Körper keine Befehle mehr erteilen kann.{w} Ich kann jetzt nur noch meinen Kopf umdrehen und dem Tod in die Augen sehen."
+            "Die Angst vor dem bevorstehenden Tod betäubt meine Gliedmaßen und zerstreut meinen Verstand so sehr, dass ich meinem Körper keine Befehle mehr erteilen kann ..."
+            
+            "Ich kann jetzt nur noch meinen Kopf umdrehen und dem Tod in die Augen sehen."
 
             "Es ...{w} Es ist aus."
 
@@ -496,7 +510,9 @@ label start:
 
     p "Ich ...?"
 
-    "Was hab ich in meinem Leben bloß falsch gemacht, dass mir so viel Aufmerksamkeit geschenkt wird?{w} Soviel ich weiß, bin ich doch nur ein normaler Schüler.{w} Der ein durchschnittliches Leben führt.{w} Und normale Dinge macht.{w} Wobei, nach all diesen Ereignissen trifft das wohl alles nicht länger zu."
+    "Was hab ich in meinem Leben bloß falsch gemacht, dass mir so viel Aufmerksamkeit geschenkt wird?{w} Soviel ich weiß, bin ich doch nur ein normaler Schüler.{w} Der ein durchschnittliches Leben führt ..."
+    
+    "Und normale Dinge macht.{w} Wobei, nach all diesen Ereignissen trifft das wohl alles nicht länger zu."
 
     cg "Mmhmm.{w} Ich kann nicht zu viel verraten, weil du weißt schon, streng geheim und so, aber sagen wir mal so ...{w} Es liegt nicht in unserem Interesse, dass dir was zustößt."
 
@@ -524,7 +540,9 @@ label start:
 
     cg "Betrachte uns als deine Schutzengel, okay?"
 
-    "Als sie das sagt, macht sie mit ihrem Bogen eine schwungvolle Bewegung, woraufhin dieser kurz darauf zwischen ihren Fingern zerbricht.{w} Wenige Augenblicke später bilden sich diese Scherben hinter ihrem Rücken wieder zusammen, bis sich ein paar Flügel gebildet hat."
+    "Als sie das sagt, macht sie mit ihrem Bogen eine schwungvolle Bewegung, woraufhin dieser kurz darauf zwischen ihren Fingern zerbricht."
+    
+    "Wenige Augenblicke später bilden sich diese Scherben hinter ihrem Rücken wieder zusammen, bis sich ein paar Flügel gebildet hat."
 
     "Die Flügel, die zwar nicht fest mit ihr verbunden sind, scheinen zumindest zu funktionieren. Oder sagen wir so, sie bewegen sich im Wind zumindest hin und her."
 
@@ -730,7 +748,9 @@ label start:
 
     "Irgendwie scheint kein anderer Mitschüler mein spätes Erscheinen wahrgenommen zu haben.{w} Vielleicht liegt das daran, dass sie von mir sowieso nichts anderes erwarten würden?"
 
-    "Manchmal bin ich echt spät dran, und gelegentlich komme ich sogar erst nach dem Glockenläuten.{w} Das passiert meistens, weil ich verschlafe.{w} Aber dieses Mal hätte ich ja einen richtigen Grund, wäre ich zu spät gekommen!"
+    "Manchmal bin ich echt spät dran, und gelegentlich komme ich sogar erst nach dem Glockenläuten.{w} Das passiert meistens, weil ich verschlafe."
+    
+    "Aber dieses Mal hätte ich ja einen richtigen Grund, wäre ich zu spät gekommen!"
 
     "Aber nach all dem, was vorhin passiert ist, bezweifle ich, dass ich mich auf den Unterricht konzentrieren kann.{w} Ich fange an, mich zu fragen, ob ich jemals eine Erklärung für all das bekommen werde."
 
@@ -887,11 +907,15 @@ label start:
 
             "{i}'Okay, das versteh ich ja noch, aber müsst ihr mir dabei so nahe sein?{w} Wie habt ihr es überhaupt geschafft, auf diese Schule zu kommen?'{/i}"
 
-            "{i}Schon vergessen, dass du heute fast als Hundefutter geendet hättest?{w} Das wird nicht nochmal passieren, dafür sorgen wir!{w} Und wegen der Schule ...{w} Na ja ...{w}sagen wir so, wir können ziemlich überredend sein.{w} Eh-heh-heh.{/i}"
+            "{i}Schon vergessen, dass du heute fast als Hundefutter geendet hättest?{w} Das wird nicht nochmal passieren, dafür sorgen wir!{w} Und wegen der Schule ...{/i}"
+            
+            "{i}Na ja ...{w}sagen wir so, wir können ziemlich überredend sein.{w} Eh-heh-heh.{/i}"
 
             "...Ernsthaft, wer schreibt heutzutage noch 'eh-heh-heh'?{w} Ach, scheiß drauf.{w} Sie hat mir zumindest geantwortet.{w} Einigermaßen."
 
-            "Jetzt, wo ich darüber nachdenke, erinnere ich mich daran, dass auch der Lehrer ein bisschen verwirrt war, als er sie vorstellte. Ich wette, sie haben ihre magischen Kräfte spielen lassen.{w} Der Gedanke ist schon irgendwie gruselig ..."
+            "Jetzt, wo ich darüber nachdenke, erinnere ich mich daran, dass auch der Lehrer ein bisschen verwirrt war, als er sie vorstellte."
+            
+            "Ich wette, sie haben ihre magischen Kräfte spielen lassen.{w} Der Gedanke ist schon irgendwie gruselig ..."
 
             "'Magie'.{w} Ich verwende dieses Wort so beiläufig.{w} Heißt das, ich akzeptiere damit ihre Existenz?{w} Und auch, wenn die Beweise für die Magie sprechen, werde ich vorerst dennoch skeptisch bleiben."
         "Hikari.":
@@ -906,7 +930,9 @@ label start:
             show Hikari at center
             with dissolve
 
-            "Ich bin zuversichtlich, dass sie mir antworten wird.{w} Sie schaut mich seitwärts an und hebt den Zettel mit zwei Fingern auf ... Das kommt mir so vor, als würde sie glauben, sie hätte es mit einem verseuchten Zettel zu tun."
+            "Ich bin zuversichtlich, dass sie mir antworten wird.{w} Sie schaut mich seitwärts an und hebt den Zettel mit zwei Fingern auf ..."
+            
+            "Das kommt mir so vor, als würde sie glauben, sie hätte es mit einem verseuchten Zettel zu tun."
 
             "Sie bringt ihn in die Nähe ihres Gesicht, überfliegt ihn einmal und dann ..."
 
@@ -918,7 +944,9 @@ label start:
             hide Hikari
             with dissolve
 
-            "Was soll man dazu sagen ...{w} Das war ein Misserfolg.{w} Und ich habe das Gefühl, als würde der Lehrer nun vermehrt seine Aufmerksamkeit auf mich richten. Daher ist es wahrscheinlich nicht mehr möglich, Sayaka ebenfalls noch zu fragen."
+            "Was soll man dazu sagen ...{w} Das war ein Misserfolg.{w} Und ich habe das Gefühl, als würde der Lehrer nun vermehrt seine Aufmerksamkeit auf mich richten ..."
+            
+            "Daher ist es wahrscheinlich nicht mehr möglich, Sayaka ebenfalls noch zu fragen."
 
             "Ein bisschen verletzt von ihrer Zurückweisung, lasse ich mich nach vorne fallen und stütze meinen Kopf auf meiner Hand ab."
 
@@ -939,7 +967,9 @@ label start:
 
     "Nach einer gefühlten Ewigkeit ertönt schlussendlich doch noch die Glocke.{w} Die erste Stunde ist endlich vorbei."
 
-    "Vor der Pause haben wir aber noch eine Stunde. Und wäre das nicht schon schlimm genug, haben wir nächste Stunde auch noch Sportunterricht. Und da Jungen und Mädchen getrennt turnen, kann ich sowieso nicht mit ihnen reden."
+    "Vor der Pause haben wir aber noch eine Stunde. Und wäre das nicht schon schlimm genug, haben wir nächste Stunde auch noch Sportunterricht."
+    
+    "Und da Jungen und Mädchen getrennt turnen, kann ich sowieso nicht mit ihnen reden."
 
     "Argh, warum muss das alles so kompliziert sein?!"
 
@@ -947,11 +977,15 @@ label start:
     with fade
     play music "bgm/everydayintro.ogg" fadein 1.0
     queue music "bgm/everydayloop.ogg"
-    "Nachdem ich mir meine Sportsachen angezogen hab, stehe ich nun mit den anderen Jungs meiner Klasse am Schulhof.{w} Genauso wie in der ersten Stunde, konnte ich mich auch im Sportunterricht nicht wirklich konzentrieren."
+    "Nachdem ich mir meine Sportsachen angezogen hab, stehe ich nun mit den anderen Jungs meiner Klasse am Schulhof."
+    
+    "Genauso wie in der ersten Stunde, konnte ich mich auch im Sportunterricht nicht wirklich konzentrieren."
 
     "Ich mache die Übungen mit ... mit der Begeisterung eines Zombies."
 
-    "Den Rest der Stunde nehme ich nur noch verschwommen wahr, zumindest bis einige meiner Mitschüler zur Laufbahn schauen, wo gerade die Mädels unterwegs sind.{w} Vor lauter Unglaubwürdigkeit, fangen einige der Schüler sogar an, sich ihre Augen auszureiben.{w} Was ist daran denn so besonders?"
+    "Den Rest der Stunde nehme ich nur noch verschwommen wahr, zumindest bis einige meiner Mitschüler zur Laufbahn schauen, wo gerade die Mädels unterwegs sind."
+    
+    "Vor lauter Unglaubwürdigkeit, fangen einige der Schüler sogar an, sich ihre Augen auszureiben.{w} Was ist daran denn so besonders?"
 
 
 
@@ -974,7 +1008,9 @@ label start:
 
     "Die anderen Mädchen versuchen mit Gesichtsausdrücken von purer Verzweiflung bis hin zu Neid, hoffnungslos mit ihr mithalten zu können."
 
-    "Einige dieser Mädchen sind - oder besser gesagt {i}waren{/i} - die besten der Klasse, wenn es ums Laufen geht, aber selbst die lässt sie alt aussehen.{w} Ich möchte nicht wissen, wie es sich anfühlt, von jemandem vorgeführt zu werden, der gerade mal einen Tag auf diese Schule geht."
+    "Einige dieser Mädchen sind - oder besser gesagt {i}waren{/i} - die besten der Klasse, wenn es ums Laufen geht, aber selbst die lässt sie alt aussehen."
+    
+    "Ich möchte nicht wissen, wie es sich anfühlt, von jemandem vorgeführt zu werden, der gerade mal einen Tag auf diese Schule geht."
 
     "Selbst meine Augen haben Probleme damit, mit ihrer Geschwindigkeit mitzuhalten.{w} Sie scheint mit jeder Runde schneller zu werden."
 
@@ -986,7 +1022,9 @@ label start:
 
     "Ich suche die Umgebung ab, kann sie aber nirgends finden.{w} Wo bist du bl--oh."
 
-    "Hinter den Mädchen, die verzweifelt versuchen, mit Sayaka mitzuhalten, sehe ich noch jemanden mit einem sauren Gesichtsausdruck.{w} Sie ... Sie geht einfach nur, und wie immer sind ihre Arme dabei verschränkt.{w} Ich frage mich, ob ihre Arme aneinanderkleben?{w} Sie versucht doch nicht einmal zu laufen."
+    "Hinter den Mädchen, die verzweifelt versuchen, mit Sayaka mitzuhalten, sehe ich noch jemanden mit einem sauren Gesichtsausdruck.{w} Sie ..."
+    
+    "Sie geht einfach nur, und wie immer sind ihre Arme dabei verschränkt.{w} Ich frage mich, ob ihre Arme aneinanderkleben?{w} Sie versucht doch nicht einmal zu laufen."
 
     "Anscheinend möchte sie wirklich nicht hier sein.{w} Das war wohl alles Sayakas Idee."
 
@@ -1004,7 +1042,9 @@ label start:
 
 
 
-    "Ich beobachte, wie die beiden Mädchen ganz entspannt im Klassenzimmer mit anderen Schülern plaudern.{w} Ich hätte nicht gedacht, dass sie so schnell Freunde finden würden.{w} Aber nach dem, was Sayaka vorhin abgeliefert hat, ist sie wahrscheinlich sowieso Gesprächsthema der Stunde."
+    "Ich beobachte, wie die beiden Mädchen ganz entspannt im Klassenzimmer mit anderen Schülern plaudern.{w} Ich hätte nicht gedacht, dass sie so schnell Freunde finden würden."
+    
+    "Aber nach dem, was Sayaka vorhin abgeliefert hat, ist sie wahrscheinlich sowieso Gesprächsthema der Stunde."
 
     $ sayaface='smiling'
     $ sayapose='school_1'
@@ -1027,7 +1067,9 @@ label start:
     $ sayaface='shy'
     show Sayaka
 
-    "...Scheiße.{w} Das hat sich vielleicht etwas komisch angehört.{w} Aus irgendeinem Grund sehen mich manche Schüler schon schief an.{w} Sogar Sayaka tut so, als wäre sie überrascht, obwohl sie genau weiß, was ich meine!"
+    "...Scheiße.{w} Das hat sich vielleicht etwas komisch angehört.{w} Aus irgendeinem Grund sehen mich manche Schüler schon schief an."
+    
+    "Sogar Sayaka tut so, als wäre sie überrascht, obwohl sie genau weiß, was ich meine!"
 
     s "Oh, das ist aber schon ein bisschen plötzlich!{w} Ich weiß nicht was ich sagen soll..."
 
@@ -1054,7 +1096,9 @@ label start:
 
     s "Wh-wha--hey, was machst du da?"
 
-    "...Packe ich sie am Handgelenk und ziehe sie zur Tür hinaus, ob sie will oder nicht.{w} Wäre sie aber wirklich dagegen, dann könnte sie mich, angesichts der Vorführung vorhin, jede Sekunde zu Boden werfen.{w} Aber ich denke, sie albert gerade nur ein wenig herum."
+    "...Packe ich sie am Handgelenk und ziehe sie zur Tür hinaus, ob sie will oder nicht.{w} Wäre sie aber wirklich dagegen, dann könnte sie mich, angesichts der Vorführung vorhin, jede Sekunde zu Boden werfen."
+    
+    "Aber ich denke, sie albert gerade nur ein wenig herum."
 
     hide Sayaka
     with dissolve
@@ -1265,7 +1309,9 @@ label rooftopexplanation:
 
             s "Eh-heh, ich hab vielleicht schon zuviel gesagt..."
 
-            "Sie kratzt sich meinem Grinsen am Hinterkopf.{w} In der Angelegenheit werd ich wahrscheinlich nichts mehr aus ihr rausbekommen ...{w} Zumindest für heute.{w} Vielleicht erzählt sie mir morgen ja mehr, sofern ich sie überraschen kann."
+            "Sie kratzt sich meinem Grinsen am Hinterkopf.{w} In der Angelegenheit werd ich wahrscheinlich nichts mehr aus ihr rausbekommen ...{w} Zumindest für heute."
+            
+            "Vielleicht erzählt sie mir morgen ja mehr, sofern ich sie überraschen kann."
 
             $ q1 = True
 
@@ -1479,7 +1525,9 @@ label explanationover:
 
     "Umgeben von Sayaka und Hikari fällt es mir auch schwer, mich auf irgendwas zu konzentrieren."
 
-    "Teilweise habe ich schon damit gerechnet, dass jeden Moment ein Monster durch das Fenster springt und das Klassenzimmer in ein Schlachtfeld verwandelt.{w} Obwohl ...{w} Dann wär zumindest wieder was los hier."
+    "Teilweise habe ich schon damit gerechnet, dass jeden Moment ein Monster durch das Fenster springt und das Klassenzimmer in ein Schlachtfeld verwandelt."
+    
+    "Obwohl ...{w} Dann wär zumindest wieder was los hier."
 
     with Pause(2.5)
 
@@ -1504,11 +1552,15 @@ label explanationover:
 
     "Mit jedem Schritt, den ich durch die ruhigen Straßen mache, wird der Himmel dunkler und der Mond wird immer sichtbarer."
 
-    "{i}Stampf, stampf, stampf.{/i}{w} Meine schweren Schritte hallen durch die Nacht.{w} Aber neben meinen sind auch noch andere Schritte zu hören - von zwei Personen, um genau zu sein.{w} Diese Schritte sind aber weitaus leiser als meine, und sie werden auch mit viel mehr Anmut gesetzt. "
+    "{i}Stampf, stampf, stampf.{/i}{w} Meine schweren Schritte hallen durch die Nacht.{w} Aber neben meinen sind auch noch andere Schritte zu hören - von zwei Personen, um genau zu sein."
+    
+    "Diese Schritte sind aber weitaus leiser als meine, und sie werden auch mit viel mehr Anmut gesetzt. "
 
     p "Schaut ...{w} Ich weiß, dass ihr mich nur beschützen wollt, aber müsst ihr dafür, äh, so {i}an mir kleben{/i}?"
 
-    "Ja.{w} Die Schritte gehören zu niemand geringeren als zu meinen selbsternannten 'Schutzengeln'.{w} Sayaka links und Hikari rechts von mir.{w} Und obwohl ihre Schultern zwar Zentimeter von meinen entfernt sind, marschieren wir im Gleichschritt."
+    "Ja.{w} Die Schritte gehören zu niemand geringeren als zu meinen selbsternannten 'Schutzengeln'.{w} Sayaka links und Hikari rechts von mir."
+    
+    "Und obwohl ihre Schultern zwar Zentimeter von meinen entfernt sind, marschieren wir im Gleichschritt."
 
     $ hikapose='school_2'
     $ hikaface='normal'
@@ -1698,13 +1750,17 @@ label explanationover:
 
 
 
-    "Bernsteinfarbene Augen blicken voller Entschlossenheit auf uns drei herab.{w} ... Vielleicht bilde ich es mir auch nur ein, aber ihr Hauptaugenmerk scheint auf {i}mich{/i} gerichtet zu sein.{w} Sie starrt mich ja schon förmlich an."
+    "Bernsteinfarbene Augen blicken voller Entschlossenheit auf uns drei herab."
+    
+    "Vielleicht bilde ich es mir auch nur ein, aber ihr Hauptaugenmerk scheint auf {i}mich{/i} gerichtet zu sein.{w} Sie starrt mich ja schon förmlich an."
 
     "All das reicht, um mir leichte Schmerzen im Hinterkopf zu verpassen{w} Und dass es mir bereits eiskalt den Rücken runterläuft, muss ich ja hoffentlich nicht extra erwähnen."
 
     p "Eine ... Eine Freundin?"
 
-    "Ich zwinge mich zu einem Lachen, obwohl ich die Wahrheit schon kenne.{w} Die Atmosphäre wird immer angespannter, so wie damals mit dem Monster, und die Gesichtsausdrücke von Hikari und Sayaka lassen auf nichts Gutes rückschließen."
+    "Ich zwinge mich zu einem Lachen, obwohl ich die Wahrheit schon kenne.{w} Die Atmosphäre wird immer angespannter, so wie damals mit dem Monster ..."
+    
+    "... und die Gesichtsausdrücke von Hikari und Sayaka lassen auf nichts Gutes rückschließen."
 
     s "Hah.{w} Ich hab keine Angst.{w} Kenta, komm zurück.{w} Ich mag das nicht..."
 
@@ -1731,15 +1787,19 @@ label explanationover:
     scene town street night
     with dissolve
 
-    "..Was?!{w} Warum ist sie gesprungen?!{w} I-Ich kann es kaum mitansehen."
+    "Was?!{w} Warum ist sie gesprungen?!{w} I-Ich kann es kaum mitansehen."
 
     "Dort, wo meine beiden Wächterinnen stehen, stürzt sie nach unten.{w} Wofür hat sie überhaupt ihre Flügel?"
 
-    "Sie fällt immer schneller und schneller, bis kurz darauf der Boden zum Greifen nahe ist ...{w} Ich möchte nicht zusehen.{w} Aber ...{w} irgendwie hab ich das Gefühl, als hätte sie einen guten Grund für diesen Sprung.{w} Ich {i}hoffe{/i} aber, das ist nicht der Fall."
+    "Sie fällt immer schneller und schneller, bis kurz darauf der Boden zum Greifen nahe ist ...{w} Ich möchte nicht zusehen."
+    
+    "Aber ...{w} irgendwie hab ich das Gefühl, als hätte sie einen guten Grund für diesen Sprung.{w} Ich {i}hoffe{/i} aber, das ist nicht der Fall."
 
     p "...!"
 
-    "Nur wenige Zentimeter vor dem Aufprall breitet sie ihre Flügel aus, wodurch sie kurzerhand zum Stillstand kommt.{w} Und das geschieht von einer Sekunde auf die andere - so, als würde sie die Erdanziehungskraft komplett ignorieren."
+    "Nur wenige Zentimeter vor dem Aufprall breitet sie ihre Flügel aus, wodurch sie kurzerhand zum Stillstand kommt."
+    
+    "Und das geschieht von einer Sekunde auf die andere - so, als würde sie die Erdanziehungskraft komplett ignorieren."
 
     "Selbst mit Flügel sollte das nicht machbar sein.{w} Würde eine Taube so was machen, dann wär sie jetzt platt!"
 
@@ -1758,7 +1818,9 @@ label explanationover:
 
 
 
-    "Wenn ich versuche, mich auf sie zu konzentrieren, fängt mein Kopf wieder an zu schmerzen.{w} Hat sie ... irgendwas mit den Monstern zu tun?{w} Ich fasse mir mit einer Hand zum Kopf.{w} Es kostet mir schon extrem viel Willenskraft, aufrecht stehenzubleiben."
+    "Wenn ich versuche, mich auf sie zu konzentrieren, fängt mein Kopf wieder an zu schmerzen.{w} Hat sie ... irgendwas mit den Monstern zu tun?{w} Ich fasse mir mit einer Hand zum Kopf."
+    
+    "Es kostet mir schon extrem viel Willenskraft, aufrecht stehenzubleiben."
 
     dg "Guten Abend, Mädchen."
 
@@ -1849,11 +1911,15 @@ label explanationover:
 
     s "W-wahh!"
 
-    "Der Aufprall von Metall gegen Metall löst Funken aus.{w} Hikari konnte gerade noch rechtzeitig reagieren, wodurch sie den Schlag mit dem Schwert noch gerade so abwehren konnte.{w} Wäre dem nicht so, wären sie einen Kopf kürzer."
+    "Der Aufprall von Metall gegen Metall löst Funken aus.{w} Hikari konnte gerade noch rechtzeitig reagieren, wodurch sie den Schlag mit dem Schwert noch gerade so abwehren konnte."
+    
+    "Wäre dem nicht so, wären sie einen Kopf kürzer."
 
     h "Nnngh.{w} Ich wusste es!{w} Du bist einfach nur eine Puppe zu {i}ihr{/i}!"
 
-    "Sie spricht zähneknirschend und versucht mit aller Kraft, den Abstand zu verkürzen.{w} Es scheint aber, als würde sie den Kampf verlieren, denn das silberhaarige Mädchen lässt sich überhaupt keine Anstrengungen anmerken."
+    "Sie spricht zähneknirschend und versucht mit aller Kraft, den Abstand zu verkürzen."
+    
+    "Es scheint aber, als würde sie den Kampf verlieren, denn das silberhaarige Mädchen lässt sich überhaupt keine Anstrengungen anmerken."
 
     show Yuzuki at center
     show Hikari at center
@@ -2057,7 +2123,9 @@ label explanationover:
 
     stop music fadeout 1.0
 
-    "Da meine vermeintlichen Wächter noch immer versuchen, wieder auf die Beine zu kommen, bin ich der auf mich zukommenden Yuzuki hilflos ausgeliefert.{w} Sie macht langsame und kleine Schritte und hinterlässt bewusst den Anschein, als würde sie meine Furcht genießen."
+    "Da meine vermeintlichen Wächter noch immer versuchen, wieder auf die Beine zu kommen, bin ich der auf mich zukommenden Yuzuki hilflos ausgeliefert."
+    
+    "Sie macht langsame und kleine Schritte und hinterlässt bewusst den Anschein, als würde sie meine Furcht genießen."
 
     scene town street night
     $ yuzupose='magical_2'
@@ -2109,7 +2177,9 @@ label explanationover:
     show Hikari at right
     with dissolve
 
-    "Mit einem Blick auf die Stelle, auf der Hikari und Sayaka lagen, sehe ich, dass die beiden wieder auf ihre Beine gekommen sind.{w} Sayaka hat ihre Hand ausgestreckt und lässt Rauchwolken aus ihren Fingern aufsteigen.{w} Da bin ich ihr wohl was schuldig."
+    "Mit einem Blick auf die Stelle, auf der Hikari und Sayaka lagen, sehe ich, dass die beiden wieder auf ihre Beine gekommen sind."
+    
+    "Sayaka hat ihre Hand ausgestreckt und lässt Rauchwolken aus ihren Fingern aufsteigen.{w} Da bin ich ihr wohl was schuldig."
 
     $ sayaface='normal'
     show Sayaka
@@ -2127,7 +2197,9 @@ label explanationover:
     hide Sayaka
     with dissolve
 
-    "Während sich unsere Gegnerin von diesem Angriff noch immer zu erholen scheint, nutzen meine Retter diese Möglichkeit, um sich bei mir neu zu formieren. Gleichzeitig lösen sich langsam ihre Waffen aus und setzen sich auf ihren Rücken wieder zu Flügeln zusammen."
+    "Während sich unsere Gegnerin von diesem Angriff noch immer zu erholen scheint, nutzen meine Retter diese Möglichkeit, um sich bei mir neu zu formieren."
+    
+    "Gleichzeitig lösen sich langsam ihre Waffen aus und setzen sich auf ihren Rücken wieder zu Flügeln zusammen."
 
     p "W-Wartet, was macht ihr?"
 
@@ -2147,7 +2219,9 @@ label explanationover:
 
     "Wir ziehen weiter durch den Himmel und durchdringen die Wolken, als ob es das Natürlichste der Welt wäre."
 
-    "Der Wind weht an mir vorbei, unten in der Stadt flimmern die Lichter und ...{w} die Unruhe, die sich ergibt, da ich von den beiden getragen werde ...{w} Mir wird schlecht.{w} Ich weiß nicht, ob ich das noch viel länger ertragen kann."
+    "Der Wind weht an mir vorbei, unten in der Stadt flimmern die Lichter und ...{w} die Unruhe, die sich ergibt, da ich von den beiden getragen werde ..."
+    
+    "Mir wird schlecht.{w} Ich weiß nicht, ob ich das noch viel länger ertragen kann."
 
     s "Denkst du wir haben sie verloren?"
 
@@ -2325,12 +2399,18 @@ label explanationover:
     scene bg black
     with fade
 
-    "Es dauert nicht lange, bis wir bei mir ankommen.{w} Und ich kann mit Freude sagen, dass wir keine Monster oder Mädchen mit Sensen mehr begegnet sind.{w} ... Ich kann nicht glauben, dass ich mich jetzt jeden Tag darum sorgen muss.{w} Was ist nur aus meinem Leben geworden?!"
+    "Es dauert nicht lange, bis wir bei mir ankommen.{w} Und ich kann mit Freude sagen, dass wir keine Monster oder Mädchen mit Sensen mehr begegnet sind."
+    
+    "Ich kann nicht glauben, dass ich mich jetzt jeden Tag darum sorgen muss.{w} Was ist nur aus meinem Leben geworden?!"
 
-    "Als ich die Haustüre erreiche, werde ich jedoch vor einen Problem gestellt.{w} Diese beiden Mädchen bestehen darauf, mich zu beschützen, und waren gerade dabei, mich nach drinnen zu begleiten ... In MEIN Zuhause."
+    "Als ich die Haustüre erreiche, werde ich jedoch vor einen Problem gestellt.{w} Diese beiden Mädchen bestehen darauf, mich zu beschützen, und waren gerade dabei, mich nach drinnen zu begleiten ..."
+    
+    "... In MEIN Zuhause."
     play music "bgm/ominousintro.ogg"
     queue music "bgm/ominousloop.ogg"
-    "Irgendwie hab ich das Gefühl, als wären meine Eltern nicht wirklich damit einverstanden.{w} Es sind schließlich Mädchen.{w} Außerdem würde das nur noch mehr Fragen aufwerfen, und darüber hinaus will ich meine Eltern nur ungern da mitreinziehen."
+    "Irgendwie hab ich das Gefühl, als wären meine Eltern nicht wirklich damit einverstanden.{w} Es sind schließlich Mädchen.{w} Außerdem würde das nur noch mehr Fragen aufwerfen ..."
+    
+    "... und darüber hinaus will ich meine Eltern nur ungern da mitreinziehen."
 
     "Es dauerte also eine Weile und {i}jede Menge{/i} Verhandlungsgeschick, aber letztendlich konnte ich sie doch irgendwie überzeugen, dass ich zu Hause in Sicherheit bin."
 
@@ -2345,11 +2425,15 @@ label explanationover:
 
     "Mein Kopf und meine Arme tun weh.{w} Meine Beine fühlen sich an, als würden sie jeden Augenblick den Geist aufgeben.{w} Ich kann nicht glauben, dass ich noch immer stehen kann."
 
-    "Der Geruch von Essen liegt und in der Luft und das reicht aus, um mir das Wasser im Mund zusammenlaufen zu lassen.{w} Ah.{w} Genau.{w} Ich hab heute noch gar nichts gegessen.{w} Wenn ich den morgigen Tag überleben will, sollte ich das schnellstmöglich nachholen."
+    "Der Geruch von Essen liegt und in der Luft und das reicht aus, um mir das Wasser im Mund zusammenlaufen zu lassen.{w} Ah.{w} Genau.{w} Ich hab heute noch gar nichts gegessen."
+    
+    "Wenn ich den morgigen Tag überleben will, sollte ich das schnellstmöglich nachholen."
 
     "Anscheinend bin ich gerade noch rechtzeitig, da meine Eltern gerade das Essen hergerichtet haben."
 
-    "Dieses kurze Zeitfenster am Abend ist die einzige Chance, mit meinen Eltern zu essen - abgesehen von Ferien.{w} Aus dem Grund schätze ich jedes dieser Abendessen und versuche ihnen immer Gesellschaft zu leisten."
+    "Dieses kurze Zeitfenster am Abend ist die einzige Chance, mit meinen Eltern zu essen - abgesehen von Ferien."
+    
+    "Aus dem Grund schätze ich jedes dieser Abendessen und versuche ihnen immer Gesellschaft zu leisten."
 
     "Aber heute kann ich kaum noch ein Wort aussprechen.{w} Und grunze - zumindest hört es sich danach an - gerade mal in Richtung, ehe ich in den Stuhl falle ."
 
@@ -7001,7 +7085,7 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    s "Also, will die Welt weiß generell nicht mehr, was Magie ist.{w} Es ist einfach in alten Geschichts-Büchern verloren gegangen.
+    s "Also, will die Welt weiß generell nicht mehr, was Magie ist.{w} Es ist einfach in alten Geschichts-Büchern verloren gegangen."
 
     s "Also, wissen viele Leute, mit dieser Blutlinie, nicht einmal dass sie Magier sind.{w} Es ist nur etwas, das jetzt schlummert."
 
