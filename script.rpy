@@ -106,7 +106,9 @@ label start:
 
     "In diesem Gefilde mangelt es so sehr an Licht, dass ich nicht einmal meine Hand vor meinem Gesicht sehen kann."
 
-    "Die Geräuschkulisse der Umgebung ist ebenso fehlend wie das Geräusch meiner Schritte. Selbst meine verzweifelten Schreie werden unverzüglich von der Dunkelheit verschluckt, sobald sie meinen Mund verlassen."
+    "Die Geräuschkulisse der Umgebung ist ebenso fehlend wie das Geräusch meiner Schritte."
+    
+    "Selbst meine verzweifelten Schreie werden unverzüglich von der Dunkelheit verschluckt, sobald sie meinen Mund verlassen."
 
     "Ein Ödland des Nichts sozusagen.{w} Verbringt man eine längere Zeit hier, fängt man noch an, an seiner eigenen Existenz zu zweifeln."
 
@@ -988,7 +990,7 @@ label start:
 
     "Anscheinend möchte sie wirklich nicht hier sein.{w} Das war wohl alles Sayakas Idee."
 
-    teacher "Worauf starren Sie alle? {W} Komm, lass uns zurückkommen!"
+    teacher "Worauf starren Sie alle? {w} Komm, lass uns zurückkommen!"
 
     "Da wir anscheinend alle vergessen hatten, dass wir selbst Unterricht haben, bringt uns der Lehrer zurück in die Realität.{w} Vorbei ist's mit dem schönen Anblick."
 
@@ -1762,7 +1764,7 @@ label explanationover:
 
     "Sie begrüßt sie ganz lässig, als würde sie die beiden kennen.{w} Irgendwie ...{w} werd ich das Gefühl nicht los, dass sie nicht für diese Begrüßung von einem Dach gesprungen ist."
 
-    h "...lass uns zur Sache kommen, okay?"{w} Wer bist du, und was willst du?"
+    h "...lass uns zur Sache kommen, okay?{w} Wer bist du, und was willst du?"
 
     $ yuzupose='magical_2'
     $ yuzuface='happy'
@@ -3294,7 +3296,7 @@ label explanationover:
             show Hikari
             with dissolve
 
-            h "Es ist nicht meine Schuld!{w} Diese Cafeteria ist so laut und dreckig, dass ich keinen weiteren Moment darin ertragen kann. {W} Ich weiß nicht, wie Sayaka da unten freiwillig essen kann."
+            h "Es ist nicht meine Schuld!{w} Diese Cafeteria ist so laut und dreckig, dass ich keinen weiteren Moment darin ertragen kann. {w} Ich weiß nicht, wie Sayaka da unten freiwillig essen kann."
 
             h "Ich hab sowieso wichtigere Sachen zu tuhen."
 
@@ -6286,7 +6288,7 @@ label explanationover:
 
     s "'Kay.{w} Ich denke wirklich nicht dass es so schlecht war..."
 
-    $ hikaface='north
+    $ hikaface='north'
     show Hikari
 
     s "Egal, Kenta, wie wäre es wenn ich etwas koche--"
@@ -6939,7 +6941,7 @@ label explanationover:
     $ sayaface='scared'
     show Sayaka
 
-    s Schrei mich nicht an, Kenta.{w} Sheesh.{w} Komm runter, ich wollte es gerade sagen!"
+    s "Schrei mich nicht an, Kenta.{w} Sheesh.{w} Komm runter, ich wollte es gerade sagen!"
 
     "I may have lost it a little there...{w} I pull back from her, and quiet down."
 
@@ -7253,7 +7255,7 @@ label explanationover:
 
     p "M-Meine?!{w} Wie zum Teufel soll ich helfen?{w} Ihr habt doch die Zauberkräfte, nicht ich!"
 
-    h "Es ist nicht gerade ideal, dass wir uns auf dich verlassen müssen, ich weiß, aber wir haben keine Wahl. {W} Und wir haben keine Zeit mehr, nach alternativen Mitteln zu suchen."
+    h "Es ist nicht gerade ideal, dass wir uns auf dich verlassen müssen, ich weiß, aber wir haben keine Wahl. {w} Und wir haben keine Zeit mehr, nach alternativen Mitteln zu suchen."
 
     $ sayapose='school_2'
     show Sayaka
@@ -8979,7 +8981,7 @@ label explanationover:
 
         s "Ich betrachte das mal als 'nein'.{w} Komm, hoch mit dir!"
 
-        h "Du solltest dich danach nicht drängen. {W} Wenn du unsere Hilfe brauchst... {w} Alles, was du tun musst, ist es zu sagen, und ich werde glücklich sein..."
+        h "Du solltest dich danach nicht drängen. {w} Wenn du unsere Hilfe brauchst... {w} Alles, was du tun musst, ist es zu sagen, und ich werde glücklich sein..."
 
         "She trails off into a murmur inaudible to even herself, I'm sure."
 
