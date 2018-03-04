@@ -6148,27 +6148,27 @@ label explanationover:
 
     h "Ich sagte, 'kein{w} {i}einziges{/i}{w} Wort'."
 
-    "Her shoulders are visibly shaking.{w} Uh-oh.{w} The world might have survived the giant slime, but it looks like we might have someone else that's about to go on a rampage."
+    "Ihre Schultern zittern.{w} Uh.{w} Die Welt mag zwar diese riesige Kreatur überlebt haben, aber dafür haben wir jetzt jemand anderen, der kurz vor einem Wutanfall steht."
 
 
 
     s "Meine Güte, das ist ziemliches durcheinander."
 
-    "Sayaka chirps, as she slinks from behind the rock too, a grin across her face."
+    "Sayaka pfeift, als sie sich mit einem Grinsen heimlich vom Felsen entfernt."
 
-    h "S-Sayaka, nicht einmal..."
+    h "S-Sayaka, nicht einmal ..."
 
     s "Ich frage mich, was sie von all dem zu Hause denken würden, hmm?"
 
-    h "Ich habe nich nachgedacht!{w} Denn Strandball den, du nach mir geworfen hast..."
+    h "Ich habe nich nachgedacht!{w} Denn Strandball, den du nach mir geworfen hast ..."
 
-    "Sayaka clicks her tongue and nimbly evades the slime across the sand as she approaches her partner, still bearing the same smug look."
+    "Sayaka bewegt sich auf ihre Partnerin zu und weicht dabei geschickt den Schleim aus."
 
     s "Entschuldigungen, entschuldigungen!{w} Ich hätte nicht gedacht, dass einer der besten Schüler so einen Fehler machen würde."
 
     h "Es ist nicht meine Schuld!"
 
-    "Wait...{w}something doesn't make sense."
+    "Warte ...{w} Irgendwas ergibt da gerade überhaupt keinen Sinn."
 
     p "Sayaka."
 
@@ -6176,36 +6176,36 @@ label explanationover:
 
     p "Wenn du wusstest, dass das passiert, warum hast du sie dann nicht aufgehalten?"
 
-    s "Ah, ein guter Punkt.{w} Ich hätte...{w}aber..."
+    s "Ah, gutes Argument.{w} Ich hätte ...{w} aber ..."
 
     s "Wo ist da der Spaß?"
 
-    "...Her smile suddenly looks all the more devious.{w} This girl is pure evil!"
+    "...Plötzlich sieht ihr Lächeln noch hinterhältiger aus.{w} Dieses Mädchen ist das Böse in seiner reinsten Form!"
 
     h "Warum passiert soetwas immer mir?!"
 
-    "Hikari lets out a groan as she attempts to pry herself free of the sticky substance that clings to her skin.{w} ...Be strong, Hikari!"
+    "Als Hikari versucht, sich von der Substanz zu befreien, gibt sie ein Stöhnen von sich.{w} ... Sei stark, Hikari!"
 
     stop music fadeout 6.0
 
     scene bg black
     with fade
 
-    "Our fun at the beach comes to a rather abrupt and messy end, thanks to the unwanted guest having crashed the party."
+    "Dank eines unerwünschten Gastes, der die Party gesprengt hat, findet unser Spaß am Strand ein recht rasches Ende."
 
-    "Naturally, we couldn't just leave the slime there as it was, so several more hours were spent in cleaning it up to make the beach safer."
+    "Da wir den Schleim natürlich nicht einfach so liegen lassen konnten, waren wir auch noch einige Stunden damit beschäftigt, den Strand sauberzumachen."
 
-    "It wasn't a fun job.{w} At all.{w} In fact, I think some of that slime must have still had some semblance of sentience to it, as it stubbornly fought back against my best efforts to sweep it back into the ocean."
+    "Das war nicht lustig.{w} Überhaupt nicht.{w} Ich denke sogar, dass der Schleim all das noch wahrgenommen hat, wenn man bedenkt, wie schwer es war, ihn ins Meer zurückzubringen."
 
-    "Man, I can't believe I had to spend the good part of a day off sweeping up goop off the beach.{w} I can't blame Sayaka, though.{w} It's not like she knew this was going to happen when she came up with the idea."
+    "Mein Gott, ich kann nicht glauben, dass ich den halben Tag lang den Strand saubergemacht hab.{w} Sayaka kann ich aber auch nicht beschuldigen.{w} Als sie die Idee hatte, wusste sie schließlich nicht, was danach passiert."
 
-    "But, her insistence on watching Hikari make a mess of things didn't help matters!"
+    "Aber Hikari, die darauf beharrt hat, die ganze Zeit zuzusehen ... Ja, der kann man die Schuld in die Schuhe schieben!"
     play music "bgm/everydayintro.ogg" fadein 5.0
     queue music "bgm/everydayloop.ogg"
     scene town street night
     with fade
 
-    "We trudge through the streets, the day well and truly gone.{w} The sun sinks in the horizon, basking the world in a hazy, orange glow."
+    "Während der Tag langsam zu Ende geht, marschieren wir durch die Straßen.{w} Die Sonne versinkt hinter dem Horizont und die Welt färbt sich in einem orangenen Schimmer."
 
     $ sayaface='normal'
     $ hikaface='normal'
@@ -6215,99 +6215,99 @@ label explanationover:
     show Hikari at right
     with dissolve
 
-    "Nobody says anything, and I can only see an exhausted face to either side of me.{w} All the fuss at the beach really took it out of us.{w} I don't think Hikari has even said more than a few words since she was first covered in slime."
+    "Niemand sagt etwas und beide sehen sie erschöpft aus.{w} Das ganze Getue am Strand hat uns ziemlich mitgenommen.{w} Seitdem Hikari mit dem Schleim bedeckt war, hat sie nahezu kein einziges Wort gesagt, wenn ich mich nicht täusche."
 
-    "Despite the exhaustion, both of them still seem to be on guard, their eyes scanning over the shadows as we continue on."
+    "Trotz der Erschöpfung scheinen beide immer noch auf der Hut zu sein."
 
-    "Right.{w} So far with each walk home, Yuzuki has ambushed us.{w} That deranged dark angel."
+    "Genau.{w} Yuzuki hat uns am Heimweg bisher IMMER angegriffen.{w} Dieser geistesgestörte, dunkle Engel."
 
-    "It would only make sense if she were to swoop in while we were exhausted like this.{w} It'd be an easy win.{w} I don't even know if the girls have it in them to fight at the moment."
+    "Gut möglich, dass sie uns angreift, solange wir noch erschöpft sind.{w} Das wäre ein einfacher Sieg für sie.{w} Ich weiß nicht mal, ob die Mädchen im Moment überhaupt die Kraft für einen Kampf haben."
 
-    "But...{w}nothing.{w} Nothing attacks us."
+    "Aber ...{w} niemand.{w} Uns greift niemand an."
 
-    "No mad giggle from the shadows.{w} No more monsters striking from the darkness.{w} Just...{w}nothing."
+    "Kein krankes Kichern aus dem Schatten000.{w} Keine Monster, die aus der Dunkelheit heraus angreifen.{w} Gar nichts ..."
 
-    "It's bit hard to believe that after all the effort she had went through in past nights, that she would simply just let us go this time around."
+    "Es ist schwer zu glauben, dass sie sich nach all den Mühen der letzten Nächte eine solche Chance entgehen lässt."
 
-    "Unless she's deliberately trying to get us to lower our guard, and is hidden further up ahead?"
+    "Es sei denn, sie verfolgt das Ziel, dass wir mit der Zeit unachtsam werden, damit sie uns weiter vorne angreifen kann."
 
-    "Argh!{w} I'm getting paranoid now."
+    "Argh!{w} Jetzt werd ich langsam paranoid."
 
-    "At the very least, I haven't had any more headaches since the slime at the beach.{w} And usually they're the most intense when I'm confronted by Yuzuki, for whatever reason."
+    "Zumindest sind die Kopfschmerzen wieder weg.{w} Und normalerweise sind sie am stärksten, wenn Yuzuki vor uns auftaucht ... Aus welchem Grund auch immer."
 
-    "I'll trust my head.{w} It seems to be the most reliable thing when it comes to these otherworldly encounters."
+    "Ich vertraue meinem Kopf.{w} Er scheint am zuverlässigsten zu sein, wenn es um diese Begegnunen jenseits aller Vorstellungen geht."
 
     scene bg black
     with fade
 
-    "We make it home, not a single dark angel in sight."
+    "Wir schaffen es nach Hause, ohne einen einzigen dunklen Engel zu begegnen"
 
-    "I part ways with the girls with a lazy wave and a grunt, both of them responding with about the same level of enthusiasm.{w} I think we all just want to pretend today didn't happen.{w} Well, mostly Hikari."
+    "Ich verabschiede mich winkend von den beiden Mädchen, welche mir ebenso 'enthusiastisch' antworten.{w} Ich denke, wir alle möchten den heutigen Tag einfach nur vergessen.{w} Vor allem Hikari."
 
-    "I somehow get the feeling she'll probably be the one to remember it the most, however."
+    "Aber ich habe irgendwie das Gefühl, dass sie diejenige sein wird, die sich am meisten daran erinnern wird."
 
-    "The rest of the evening is a blur.{w} I think I ate dinner at some point, and maybe lazed around on the couch for a while watching a show I can't really remember much about, before finally crashing for the night."
+    "Den Rest des Abends nehme ich nur noch verschwommen wahr.{w} Ich glaube aber, ich habe noch zu Abend gegessen und mir eine Serie angeschaut, ehe ich ins Bett gegangen bin."
 
 
 
-    "As I'm dragged into my dreams, I get the feeling that something terrible is lurking within them.{w} Something I shouldn't ignore.{w} ...But, all I know is that I won't remember any of this the moment I wake up."
+    "Als ich in meine Träume gezogen werde, befürchte ich bereits, das dort etwas Schreckliches lauert.{w} Etwas, das ich nicht ignorieren sollte{w} ... Aber in dem Moment, wo ich aufwache, weiß ich überhaupt nichts mehr von diesem Traum."
 
     with Pause(3.5)
     scene bedroom day
     with wake
 
-    "Morning arrives.{w} Again.{w} My head is killing me.{w} Again."
+    "Der Morgen bricht an.{w} Erneut.{w} Mein Kopf tut extrem weh.{w} Erneut."
 
-    "I'm going to bed earlier each night, yet somehow I'm feeling more and more like garbage each time I wake up.{w} I don't get it."
+    "Ich gehe jeden Abend früher ins Bett, trotzdem bin ich jedes Mal, wenn ich aufwache, müder als am Tag zuvor."
 
-    "The only difference today is that the usual cheery rays of the morning sun are nowhere to seen.{w} In their place is the heavy sound of rain, hammering against the window."
+    "Der einzige Unterschied besteht darin, dass die Morgensonne heute nirgends zu sehen ist.{w} Stattdessen höre ich das heftige Geräusch des Regens, der gegen das Fenster hämmert."
 
-    "Pulling back the curtains, today looks to be a gloomy day.{w} Gray skies overhead cast a depressing shadow on the town below, the torrential downpour showing no signs of stopping any time soon.{w} Great!"
+    "Der heutige Tag scheint echt mies zu werden.{w} Der graue Himmel über der Stadt wirft einen deprimierenden Schatten auf die Stadt, und es scheint, als würde es noch sehr lange regnen.{w} Na toll!"
 
-    "And I have to go out in this weather and all.{w} It's not going to be a fun day, that much I can already tell."
+    "Und ich muss bei dem scheiß Wetter nach draußen.{w} Das wird kein lustiger Tag, das weiß ich jetzt schon."
 
-    "I stretch and let out a drawn out yawn, before I stagger towards the bathroom."
+    "Ich strecke mich und gähne, bevor ich mich zum Badezimmer begebe."
 
-    "Wait."
+    "Warte."
 
-    "My hand hovers over the handle as I just about stop myself from carelessly swinging the door open.{w} That was a close one!"
+    "In dem Moment, wo sich meine Hand bereits am Türknauf befindet, fällt mir etwas ein.{w} Das war echt knapp!"
 
-    "I need to approach this situation carefully.{w} Too many mistakes have been made before.{w} I've been lucky to escape with my life before, but they might not be so forgiving a second time."
+    "Ich muss vorsichtig sein.{w} Es wurden schon zu viele Fehler gemacht.{w} Ich kann von Glück sprechen, dass ich bisher immer mit dem Leben davongekommen bin."
 
-    "Okay.{w} Deep breaths.{w} I can do this."
+    "Okay.{w} Tiefe Atemzüge.{w} Ich kann das."
 
-    "I thump the door a good several times with the back of my fist."
+    "Ich klopfe mehrmals mit meiner Faust gegen die Tür."
 
-    p "Hallo?{w} Jemand zuhause?"
+    p "Hallo?{w} Ist da jemand?"
 
     "..."
 
-    "No response.{w} But I've been fooled before.{w} This proves nothing."
+    "Keine Antwort.{w} Aber ich wurde schon einmal hinter das Licht geführt.{w} Das beweist gar nichts."
 
-    "I bang on the door again, even louder than the previous time."
+    "Ich klopfe noch einmal ... Dieses Mal sogar noch lauter."
 
-    "Nothing."
+    "Keine Reaktion."
 
-    "Surely someone would have heard that if they were on the other side.{w} Which means it...{w}might be safe?"
+    "Wäre jemand auf der anderen Seite der Tür, hätte er das Klopfen bestimmt gehört.{w} Das heißt ...{w} ich kann eintreten?"
 
-    "I bring the door open a crack.{w} Just a little, and peer through."
+    "Ich öffne die Tür ein kleines Stück.{w} Und spähe dann durch die winzige Öffnung."
 
-    "So far, so good."
+    "So weit, so gut."
 
-    "I continue to open the door just a little more, and a little more...{w}until..."
+    "Ich öffne die Tür immer ein bisschen weiter ...{w} bis ..."
 
-    "I see it.{w} A most wondrous sight takes my breath away."
+    "...ich es sehe.{w} Ein wundersamer Anblick, der mir den Atem raubt."
 
-    "It's...{w}it's so beautiful.{w} It's enough to move a man to tears."
+    "Es ist so ...{w} Es ist so wunderschön.{w} Ich könnte vor Freude fast heulen."
 
-    "...The bathroom is actually empty for once.{w} No wacky misunderstandings, no awkward stares...{w} I can actually just freely use the bathroom today without the threat of being torn apart."
+    "...Das Bad ist wirklich einmal leer.{w} Keine verrückten Missverständnisse, keine peinlichen Blicke ...{w} Ich kann doch tatsächlich das Badezimmer benutzen, ohne mir um mein Leben Sorgen machen zu müssen."
 
-    "I waste no time in slipping inside and firmly locking the door.{w} I even double--triple check the lock--something they should have been doing too, but always forgot!"
+    "Hastig verschließe ich hinter mir die Tür.{w} Ich überprüfe das Schloss sogar zweifach - nein, sogar dreifach. Etwas, dass die anderen auch hätten tun sollen!"
 
     scene bg black
     with fade
 
-    "After a peaceful shower, I make my way down to the kitchen, where Hikari and Sayaka are waiting for me."
+    "Nach einer friedlichen Dusche mache ich mich auf den Weg in die Küche, wo Hikari und Sayaka bereits auf mich warten."
 
     scene kitchen day
     $ hikaface='normal'
