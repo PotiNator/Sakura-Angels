@@ -6102,7 +6102,7 @@ label explanationover:
 
     s "Sieh einfach zu."
 
-    "A mischievous grin flashes across her face.{w} I wonder if I should call out for Hikari to stop...?"
+    "Ein schelmisches Grinsen macht sich auf ihrem Gesicht breit.{w} Sollte ich Hikari vielleicht doch davon abhalten ...?"
 
     hide Sayaka
     $ hikaface='angry'
@@ -6110,35 +6110,35 @@ label explanationover:
     show Hikari at center
     with dissolve
 
-    "But as I peek out from our shelter, it's too late.{w} Hikari unleashes the magic she had built up, and it strikes the towering abomination in its center."
+    "Aber als ich aus unserem Versteck blicke, ist es bereits zu spät.{w} Hikari entfesselt all die Magie, die sie angesammelt hatte, und trifft die Abscheuligkeit mitten ins Zentrum."
 
-    "...Nothing happened?{w} The orb of light was just swallowed up by the slime, as if nothing had struck it."
+    "...Es ist nichts passiert?{w} Die Lichtkugel wurde von der Kreatur geradewegs verschluckt."
 
-    "I don't see what Sayaka was so worried about.{w} Volatile?{w} Hah, there was no reaction at--"
+    "Ich verstehe nicht, worüber sich Sayaka solche Sorgen gemacht hat.{w} Explosiv?{w} Hah, nicht mal irgendeine Reaktion--"
 
     scene bg white
     with flash
 
-    "The monster detonates without warning in a dazzling explosion of harsh light that takes over my vision.{w} Shortly after, I hear a terrified cry from Hikari."
+    "Plötzlich detoniert das Monster ohne Vorwarnung und die Explosion verdeckt kurzzeitig meine Sicht.{w} Kurz darauf höre ich Hikari aufschreien."
 
-    "As the light begins to fade, I hear the pitter-patter of something falling against the sand.{w} ...Rain?{w} No, the skies are practically clear today.{w} I think it's much worse."
+    "Als das Licht sich langsam auflöst, höre ich etwas in den Sand prasseln{w} ... Regen?{w} Nein, am Himmel ist nicht eine einzige Wolke zu sehen.{w} Ich befürchte, es ist weitaus schlimmer."
 
-    "I carefully take another look at the shore, making sure to stay well behind the rocky shelter."
+    "Ich fokussiere meinen Blick noch stärker auf das Ufer, achte aber darauf, unser Versteck nicht zu verlassen."
 
     scene cg7
     with wake
 
-    "It's...{w}it's raining slime?{w} A good amount of the vile ooze continues to coat the beach, all that remains of what was once a giant creature.{w} Huh.{w} I thought it would have put up a bigger fight."
+    "Es regnet ...{w} Schleim?{w} Ein Großteils der Kreatur bedeckt nun den Strand.{w} Hm.{w} Ich hätte mit mehr Gegenwehr gerechnet."
 
-    "And at the center of the mess is a very traumatised Hikari, coated in a great deal of the stuff."
+    "Und im Zentrum von all dem Chaos steht eine traumatisierte Hikari - voller Schlamm."
 
-    "The slime around her gives off a violent sizzle.{w} Thankfully it doesn't seem strong enough to cause any real harm, but it's ate away a good portion of her outfit.{w} ...It's really not a pretty sight."
+    "Der Schleim um sie herum knistert.{w} Glücklicherweise scheint der Schleim nicht wirklich gefährlich zu sein, aber ihr Outfit hat er dennoch weggeätzt{w} ... Kein schöner Anblick."
 
     h "..."
 
-    "She says nothing.{w} She doesn't even move.{w} She's seized up completely under the foul substance, only occasionally blinking as the situation soaks in.{w} Literally."
+    "Sie sagt kein Wort.{w} Sie bewegt sich nicht mal.{w} Sie ist vollständig unter der Substanz vergraben und blinzelt ab und zu gerade mal."
 
-    "The rain of slime finally comes to an end, making it safe to step out.{w} Though, I have to be careful not to step into any of this slime.{w} Eurgh.{w} I can't even begin to imagine how Hikari must be feeling."
+    "Der Regen hört endlich auf, sodass man aus dem Versteck kommen kann.{w} Aber ich muss aufpassen, dass ich nicht in den Schleim trete.{w} Eurgh.{w} Ich kann mir gar nicht vorstellen, wie sich Hikari gerade fühlt."
 
     p "H-Hikari, bist du ...?"
 
