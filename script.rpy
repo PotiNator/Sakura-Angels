@@ -6320,7 +6320,7 @@ label explanationover:
 
     h "Ugh, es ist schrecklich dort draußen."
 
-    "Hikari gazes out of the window, a look of disgust across her face.{w} With the laundry list of other things that annoy her, I guess it's no surprise she hates rain too."
+    "Hikari sieht mit einem Blick der Entrüstung aus dem Fenster.{w} Mit einer ziemlich langen Liste an Dingen, die sie sonst noch so ärgern, wundert es mich nicht, dass der Regen auch dazu zählt."
 
     h "Müssen wir heute wirklich in die Schule, Kenta?"
 
@@ -6329,7 +6329,7 @@ label explanationover:
     $ sayaface='joking'
     show Sayaka
 
-    "Sayaka grins dangerously as something sparkles in her eyes.{w} Uh-oh..."
+    "Sayaka grinst gefährlich - mit einem Funkeln in ihren Augen.{w} Uh ..."
 
     s "Es ist weniger schädlich als das Zeug, das du gestern abbekommen hast."
 
@@ -6338,14 +6338,14 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    "She tries her best to suppress a giggle, but fails, her laughter soon rocking the house.{w} Conversely, Hikari is less than amused."
+    "Sie versucht ihr Bestes, ein Kichern zu unterdrücken ... Vergeblich.{w} Hikari hingegen ist weniger amüsiert."
 
     $ hikaface='embarrassed'
     show Hikari
 
     h "S-Sayaka!{w} Können wir das jetzt endlich vergessen?{w} Ich war dumm, ich hab ein Fehler gemacht.{w} Große Sache!"
 
-    "Flustered, Hikari stomps a foot towards her mischievous partner.{w} We haven't even reached school yet, and they're already arguing!{w} I think that's a new record."
+    "Aufgeregt geht Hikari einen Schritt auf ihre Parnterin zu.{w} Wir sind noch nicht mal in der Schule, und die diskutieren schon wieder!{w} Ich glaube, das ist ein neuer Rekord."
 
     h "Und außerdem weiß ich noch, dass {i}du{/i} es warst, die kurz davor war mit deinen Mätzchen von der Akademie ausgeschlossen zu werden."
 
@@ -6363,7 +6363,7 @@ label explanationover:
 
     h "Scherz?!{w} Du hast fast alles in die Luft gespr--"
 
-    "Realising I am indeed still in the room, Hikari cuts herself short and clamps up.{w} Aww.{w} I guess I'll never be able to hear about this old school of theirs.{w} The 'magic' one that taught them all they know."
+    "Plötzlich bemerkt Hikari, dass auch ich noch anwesend bin, woraufhin sie still wird.{w} Aww.{w} Ich schätze, ich werde nie etwas über ihre alte Schule erfahren.{w} Die, in der sie alles über ihre Magie gelernt haben."
 
     h "Belassen wir es doch jetzt einfach dabei und ich stimme dir zu, dass wir beide einmal dumm waren, okay?"
 
@@ -6406,34 +6406,36 @@ label explanationover:
 
     p "Nein!"
 
-    "Yeah, I'm not letting her {i}or{/i} Hikari anywhere near the kitchen again.{w} Even if they do somehow manage to leave the kitchen standing, I'm sure whatever monstrosity they concoct would do more damage to me than any monster lurking out there!"
+    "Ja, ich lasse weder sie {i}noch{/i} Hikari auch nur in die Nähe der Küche.{w}"
+    
+    "Selbst wenn sie es irgendwie schaffen, die Küche heil zurückzulassen, bin ich mir sicher, dass mir ihre Kochkünste mehr Schaden zufügen würden, als es diese Monster jemals könnten."
 
-    "Sayaka heaves a dramatic sigh, purses her lips in a pout, and gives me a look that suggests I've been nothing but a massive disappointment to her.{w} Hey, I'm not the bad guy here!"
+    "Sayaka seufzt, formt einen Schmollmund und blickt mich an, als wäre ich für sie eine riesengroße Enttäuschung.{w} Hey, ich bin hier nicht der Bösewicht!"
 
     $ sayaface='smiling'
     $ sayapose='school_1'
     show Sayaka
     with dissolve
 
-    "It doesn't last long though, before her usual cheery expression takes over again.{w} I think it must be impossible to truly upset this girl."
+    "Doch es dauert nicht lange, bis ihr gewohnt fröhlicher Ausdruck zurückkehrt.{w} Ich denke, es ist unmöglich, dieses Mädchen so richtig zu verärgern."
 
     scene bg black
     with fade
 
-    "After that little dose of excitement for the morning, I quickly prepare a meal for the three of us before we set out into the town and brave the storm."
+    "Nach dieser kleinen Aufregung am Morgen bereite ich schnell eine Mahlzeit für uns zu, ehe wir uns in die Schule aufmachen."
 
     scene town street day
     with fade
 
-    "The rain shows no signs of letting up.{w} It's hard to believe that the weekend was as bright and cheerful as it was, when dark clouds have completely eclipsed the sun overhead now."
+    "Der Regen zeigt keine Anzeichen, dass er nachlässt.{w} Kaum zu glauben, dass das Wochenende so schön war und jetzt nur dunkle Wolken zu sehen sind."
 
-    "We have nothing but flimsy umbrellas to defend ourselves with, that just barely hold under the immense downpour.{w} I have my doubts if we'll even be able to make it to school dry."
+    "Wir haben lediglich unsolide Regenschirme, mit denen wir uns gegen diesen Regenschauer wehren können.{w} Ich bezweifle, dass wir trocken in der Schule ankommen."
 
-    "I'm not really sure how it got this bad all of a sudden.{w} If it keeps up throughout the day, we might even have flooding to worry about."
+    "Ich weiß echt nicht, wie das Wetter plötzlich so schirch werden konnte.{w} Wenn das so weitergeht, haben wir vielleicht sogar Überschwemmungen zu befürchten."
 
-    "...I feel a little silly for even have this cross my mind, but I can't help but feel that this is maybe the land lamenting in some way.{w} A sign of things to come.{w} I don't know I'm even thinking such nonsense, but it won't leave my head no matter how hard I try."
+    "...Ich fühle mich aufgrund des Gedanken zwar ein bisschen albern, aber vielleicht ist dieses Wetter ja ein Vorbote. Ich weiß, es ist unsinnig, aber ich kann den Gedanken trotzdem nicht abschütteln."
 
-    "Looking back up at the skies, the clouds seem even more sinister than before..."
+    "Als ich in den Himmel blicke, sehen die Wolken sogar noch düsterer aus als zuvor ..."
 
     scene bg black
     with fade
@@ -6449,16 +6451,16 @@ label explanationover:
     show Hikari at right
     with fade
 
-    "We make it to school without drowning.{w} Somehow."
+    "Wir schaffen es zur Schule, ohne am Weg dorthin abzusaufen."
 
-    s "Whew.{w} Es war ziemlich intenisv da draußen!"
+    s "Puh.{w} War ja ziemlich heftig da draußen!"
 
-    "As we enter the classroom, Sayaka shakes herself dry, her hair swishing wildly.{w} Right beside Hikari."
+    "Als wir das Klassenzimmer betreten, schüttelt Sayaka erstmal ihr Haar aus.{w} Direkt neben Hikari."
 
     $ hikaface='angry'
     show Hikari
 
-    h "Ugh, schau es dir an!{w} Du bist fast wie ein Hund!"
+    h "Ugh, schau dich bloß an!{w} Du bist fast wie ein Hund!"
 
     $ sayapose='school_2'
     show Sayaka
@@ -6466,7 +6468,7 @@ label explanationover:
 
     s "Hmm?"
 
-    "She stops and blinks innocently, the last drops of water splashing to the ground.{w} I can't tell if she's just playing dumb here, or if she really did it by accident.{w} ...That's what makes her so scary sometimes."
+    "Sie hört auf und blinzelt unschuldig.{w} Ich weiß nicht, ob sie sich nur dumm stellt, oder ob sie es wirklich unabsichtlich getan hat.{w} Und genau das macht sie so erschreckend."
 
     $ hikaface='normal'
     show Hikari
@@ -6477,42 +6479,42 @@ label explanationover:
     hide Sayaka
     with dissolve
 
-    "Hikari huffs and stomps over to her seat, with class just about to start."
+    "Hikari schnaubt und stampft zu ihrem Sitzplatz hinüber."
 
-    "I follow suit and crumple into my seat with a sigh.{w} What a depressing day it's turning out to be."
+    "Ich folge ihr und setze mich seufzend auf meinen Platz.{w} Was für ein deprimierender Tag."
 
-    "As the teacher shows up and class begins, I give one last look out the window, water streaming so heavily down the glass I can just barely make out what's on the other side."
+    "Als der Lehrer auftaucht und den Unterricht beginnt, sehe ich noch einmal aus dem Fenster ... Und sehe nur Regentropfen, die am Fenster hinunter rinnen."
 
     with Pause(2.5)
 
     "..."
 
-    "The lesson goes on, though with each passing moment, I find it more and more difficult to focus on the subject at hand, the writing on the board blurring into an incomprehensible mess."
+    "Der Unterricht dauert an, aber mir fällt es jede Sekunde schwerer, mich auf das Thema zu konzentrieren."
 
-    "I can feel it.{w} At the back of my skull.{w} That familiar, creeping pain."
+    "Ich kann es spüren.{w} Am Hinterkopf meines Schädels.{w} Dieser vertraute, schleichende Schmerz."
 
 
 
-    "Why here?{w} I've never had these headaches at school.{w} They usually only crop up when something bad is about to happen..."
+    "Warum hier?{w} Ich hatte in der Schule noch nie diese Kopfschmerzen.{w} Und sie beginnen normalerweise nur dann, wenn etwas Schlimmes passieren wird ..."
 
-    "I guess it's not a full blown headache, so I shouldn't have anything to worry about for now."
+    "Ich schätze mal, dass diese Kopfschmerzen eine andere Ursache haben, von daher sollte ich mir keine allzu großen Sorgen machen."
 
-    "Is it a warning?{w} That something's coming?{w} I don't know what to make of it at all."
+    "Oder ist es doch eine Warnung?{w} Dass etwas auf und, oder besser gesagt mich, zukommt?{w} Ich weiß nicht, was ich davon halten soll."
 
     s "Kenta?{w} Bist du okay?"
 
-    "I hear Sayaka whisper from her seat behind me, a gentle hand on my shoulder.{w} I look to my side and see Hikari giving me an equally worried glance."
+    "Ich höre, wie mir Sayaka zuflüstert, während sie ihre Hand auf meiner Schulter hat.{w} Ich schaue zu meiner Seite und sehe dort Hikari, die mir einen ebenso besorgten Blick zuwirft."
 
-    "Did I look that bad?{w} Maybe the headaches are affecting me more than I think."
+    "Hab ich es mir so dermaßen anmerken lassen?{w} VIelleicht beeinträchtigen mich die Kopfschmerzen doch mehr, als ich vermute."
 
-    "I nod my head and muster up a faint smile.{w} I can just barely even convince myself I'm fine, but it's enough to make them focus back on the lesson at hand."
+    "Ich nicke und lächle ein wenig.{w} Ich kann mich kaum selbst davon überzeugen, dass es mir gut geht, aber es reicht, damit sich zumindest die beiden wieder auf den Unterricht konzentrieren."
 
     scene bg black
     with fade
 
-    "Lunchtime arrives, and I can just barely recollect what I was taught.{w} What subject even was it...?{w} Ah, that's not important right now."
+    "Die Pause bricht an und ich kann mich an kaum was erinnern.{w} Was war das überhaupt für ein Fach ...?{w} Ah, egal, das spielt jetzt auch keine Rolle mehr."
 
-    "At least now I have the time to collect my thoughts and get a grip on the situation."
+    "Zumindest habe ich jetzt die Zeit, die ich brauche, um meine Gedanken und die Situation wieder richtig zuzuordnen."
 
     scene classroom
     $ sayaface='smiling'
@@ -6520,7 +6522,7 @@ label explanationover:
     show Sayaka at center
     with fade
 
-    s "Wir gehen uns essen holen, Kenta.{w} Willst du mit uns kommen, oder...?"
+    s "Wir holen uns was zu essen, Kenta.{w} Willst du mitkommen, oder ...?"
 
     "Having hopped out of her seat, Sayaka skips to the front of my desk and peers down at me with a grin."
 
