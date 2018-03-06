@@ -6524,20 +6524,20 @@ label explanationover:
 
     s "Wir holen uns was zu essen, Kenta.{w} Willst du mitkommen, oder ...?"
 
-    "Having hopped out of her seat, Sayaka skips to the front of my desk and peers down at me with a grin."
+    "Nachdem Sayaka von ihrem Platz aufgesprungen ist, stolziert sie grinsend zur Vorderseite meines Tisches."
 
-    "I blink.{w} It takes me a good second to register that anything has been said to me."
+    "Ich blinzle.{w} Ich brauche einen Moment, um überhaupt zu verarbeiten, dass ich gerade angesprochen wurde."
 
     p "Häh ...?{w} Oh.{w} Geht ihr ruhig vor.{w} Mir tut gerade mein Kopf ein bisschen weh ..."
 
     $ sayaface='normal'
     show Sayaka
 
-    "Sayaka offers a sympathetic look when I mention the headache."
+    "Sayaka wirft mir einen mitfühlenden Blick zu, als ich die Kopfschmerzen erwähne."
 
-    s "Kenta, wegen den Kopfschmerzen..."
+    s "Kenta, wegen den Kopfschmerzen ..."
 
-    s "Die sind..."
+    s "Die sind ..."
 
 
     $ sayaface='shocked'
@@ -6550,76 +6550,78 @@ label explanationover:
 
     s "Mmppff!"
 
-    "Hikari pops up out of nowhere and stifles Sayaka with a hand to her mouth, before she begins dragging her out of the class."
+    "Plötzlich taucht aus dem Nichts Hikari auf, die ihre Hand vor Sayakas Mund hält, ehe sie sie aus dem Klassenzimmer zieht."
 
-    h "Komm schon, Sayaka.{w} Er muss nichts davon wissen, und die Warteschlangen werden zu groß, wenn wir hier nur rumstehen!"
+    h "Komm schon, Sayaka.{w} Er muss nichts davon wissen, und wenn wir hier nur rumstehen, werden die Warteschlangen auch nicht kürzer!"
 
     s "Mmmff!"
 
-    "Sayaka's muffled cries of distress are the last thing I hear before the pair vanish into the corridor.{w} Huh."
+    "Sayakas Schreie sind das letzte, was ich höre, bevor die beiden im Flur verschwinden.{w} Hm."
 
-    "Wait...{w} 'Headaches'?{w} Does that mean she knows I've been having them frequently?"
+    "Warte ...{w} 'Kopfschmerzen'?{w} Heißt das, sie weiß, warum ich sie in letzter Zeit so oft habe?"
 
-    "And more than likely, knows the cause of them?"
+    "Was widerum heißt, dass sie auch die Ursache dahinter kennt?"
 
-    "If they know anything that will enlighten me on this bizarre series of recent events, then I really have to chase them up on it.{w} I can't let something as important as this be slipped under the rug like everything else they've tried to keep from me."
+    "Wenn sie auch nur irgendwas darüber wissen, wird es Zeit, dass ich sie an den Zahn fühle."
+    
+    "Ich kann schließlich nicht zulassen, dass etwas so Wichtiges einfach unter den Teppich geschoben wird."
 
-    "I rise up from my desk with a wobble, my legs not quite all there.{w} They should be at the cafeteria, right?"
+    "Ich stehe etwas unsicher auf den Beinen auf.{w} Sie sind in die Cafeteria gegangen, oder?"
 
-    "I start for the corridor myself, but someone catches my eye amongst the waves of students going by."
+    "Ich begebe mich ebenfalls dort hin, aber eine der Schülerinnen, die ich am Weg dorthin begegne, erregt meine Aufmerksamkeit."
 
     $ yuzuface='normal'
     $ yuzupose='school_1'
     show Yuzuki at center
     with dissolve
 
-    "Silver hair, and amber eyes, a female student marches along with a blank expression."
+    "Eine Schülerin mit silbernen Haar und bernsteinfarbene Augen."
 
-    "My head rings.{w} Where have I seen her before?"
+    "Da klingelt es in meinem Kopf.{w} Woher kenne ich sie bloß?"
 
-    "Wait...{w} Is she really...?"
+    "Warte ...{w} Ist das wirklich ...?"
 
     show cg11 with dissolve
     hide cg11 with dissolve
 
-    "There's no doubt about it.{w} She's the dark angel that has been making our lives a living hell.{w} Yet, she seems like a completely different person right now.{w} Gone is any trace of madness.{w} All I see right now is an emotionless schoolgirl."
+    "Es gibt keine Zweifel.{w} Sie ist der dunkle Engel, der mir das Leben zur Hölle macht.{w} Dennoch scheint sie im Moment eine völlig andere Person zu sein - eine ganz normale Schülerin."
 
     p "...Yuzuki?"
 
-    "Her name falls out of my mouth the moment I come to the realisation."
+    "Als es mir einfällt, entwischt ihr Name meinen Mund."
 
-    "Has she always been at this school...?{w} How did I not notice something as obvious as this before?!"
+    "Ging sie schon immer hier zur Schule ...?{w} Wie konnte ich das erst jetzt bemerken?!"
 
-    "Our eyes lock across the crowds.{w} I fear something terrible is going to happen as dread sets in...{w}but her gaze quickly flickers away before she carries on about her business."
+    "Unsere Augen blicken über die Menschenmassen.{w} Ich befürchte, dass etwas Schreckliches passieren wird ...{w} aber ihr Blick wandert genauso schnell weiter, wie er auf mich gerichtet wurde."
 
     hide Yuzuki
     with dissolve
 
-    "Huh?{w} She was so intent on getting me before, and now she wants nothing to do with me?{w} Something isn't adding up here."
+    "Häh?{w} Vorher wollte sie mich unbedingt in die Finger kriegen, und jetzt?{w} Irgendwas stimmt hier ganz und gar nicht."
 
-    "I know it's a stupid, and reckless thing to do, but I can't help but chase after her.{w} If I go to get Sayaka and Hikari, she might be gone by then."
+    "Ich weiß, dass es dumm und rücksichtlos ist, aber ich verfolge sie dennoch.{w} Wenn ich zuerst Sayaka und Hikari hole, könnte sie längst weg sein."
 
     with hpunch
 
-    "It's hard to keep up with her as the waves of students crash against me--everyone in a frenzy to get their lunch--but I just about manage to catch a glimpse of her heading for the staircase."
+    "Durch die Massen an Schülern ist es schwer, sie nicht aus den Augen zu verlieren, aber ich schaffe es irgendwie, sie dabei zu beobachten, wie sie auf die Treppen zugeht."
 
     p "Yuzuki, warte!"
 
-    "She pays me no mind, and continues to ascend the stairs."
+    "Sie schenkt mir keine Aufmerksamkeit und steigt die Treppen hinauf."
 
-    "...Why am I following her?{w} I don't know what I can possibly get out of this, beyond an early demise.{w} Yet I still insist on hiking up the stairs after her."
+    "...Warum verfolge ich sie?{w} Ich weiß nicht, was ich mir dadurch erhoffe.{w} Und dennoch bestehe ich förmlich darauf, diese Treppen ebenfalls hinaufzusteigen."
 
-    "She seems so different.{w} Maybe I'm just secretly hoping that there's more to her than the initial, crazed monster that confronted us two times before.{w} Something that will help me make sense of this mess."
+    "Sie scheint so anders zu sein.{w} Vielleicht ist es auch nur mein Wunsch, dass sie nicht dieses Monster ist, das mich bereits zweimal angegriffen hat."
 
-    "I reach the top floor, breathless after climbing the stairs two steps at a time.{w} I peer out into the corridor to try and see where she might have gone to, but there's nothing."
+    "Außer Atem erreiche ich das oberste Stockwerk.{w} Ich schaue in den Flur, um eventuell rauszufinden, wohin sie gegangen sein könnte, aber nichts."
 
-    "I'm sure I wasn't that far behind, though.{w} So where did she disappear to?!{w} I mean, this is where the stairs end.{w} Unless..."
+    "Ich bin mir aber sicher, dass ich nicht so viel Rückstand hatte.{w} Wo ist sie also hin?!{w} Ich mein, die Treppe endet hier.{w} Es sei denn ..."
 
-    "Would she really be out there?{w} In {i}this{/i} weather?!"
+    "Ist sie wirklich da draußen?{w} Bei {i}DEM{/i} Wetter?!"
 
-    "I make for the staircase again, and go up a short flight of stairs leading to the rooftop.{w} The rain sounds more violent than ever outside.{w} I can't possibly imagine someone willingly wanting to be out there.{w} But I have to check, just to be sure."
+    "Ich steige die Treppen weiter nach oben, bis ich das Dach erreiche.{w} Der Regen hört sich ja noch ärger an als vorhin.{w} Ich kann mir nicht vorstellen, dass bei dem Wetter jemand freiwillig nach draußen geht."
     stop music fadeout 3.0
-    "I fight against the raging winds and heave the door open."
+    "Ich kämpfe gegen die stürmischen Winde an und öffne die Tür."
 
     scene school roof
     with dissolve
@@ -6643,13 +6645,13 @@ label explanationover:
 
     y "Was willst du?"
 
-    "She responds bluntly.{w} I may as well be talking to a completely different person than the girl that went after my life."
+    "Sie antwortet freiheraus.{w} Vielleicht vertausche ich sie aber auch nur."
 
-    "I think carefully before opening my mouth.{w} While things are peaceful right now, it might take saying only one wrong thing to set her off."
+    "Ich denke gut über meine nächsten Worte nach.{w} Es könnte schließlich fatale Folgen haben, sage ich auch nur ein falsches Wort."
 
-    "But, I can't be too reserved.{w} I want answers!"
+    "Aber ich darf auch nicht zu zurückhaltend sein.{w} Ich möchte schließlich Antworten auf meine Fragen!"
 
-    "After hesitating for a moment, my voice initially coming out in a croak, I finally confront her."
+    "Nach einem kurzen Moment des Zögerns erhebe ich schlussendlich meine Stimme."
 
     p "Ich ...{w} Warum willst du mich unbedingt umbringen?{w} Ich versteh es einfach nicht!"
 
@@ -6657,49 +6659,49 @@ label explanationover:
 
     p "Warum ausgerechnet ich?"
 
-    "She tenses up for a moment at the sound of my voice.{w} I fear I might have said the wrong thing already, but she gradually relaxes again."
+    "Auf meine Frage hin verkrampft sie ein wenig.{w} Ich fürchte, das war schon eine falsche Frage ..."
 
-    y "Ich bin überrascht, dass du mich heute überhaupt bemerkt hast..."
+    y "Ich bin überrascht, dass du mich heute überhaupt bemerkt hast ..."
 
-    y "Sag es mir Kenta..."
+    y "Sag, Kenta ..."
 
     y "Wie lange sind wir schon in der gleichen Klasse?"
 
     p "Was ...?"
 
-    "Has she really...{w}been in the same class as me?{w} I'm sure I would have pieced together things a lot sooner if that were the case."
+    "Ist sie ...{w}wirklich in derselben Klasse wie ich?{w} Ich bin sicher, wenn das der Fall wäre, hätte ich nicht so lange gebraucht, um es zu bemerken."
 
-    "Yuzuki lets out a bitter laugh."
+    "Yuzuki gibt ein bitteres Lächeln von sich."
 
     y "Du hast es nicht einmal bemerkt, oder?"
 
     p "Ich bin mir nicht ganz sicher ..."
 
-    y "Ich kann auch ein Geist sein."
+    y "Ich kann genauso gut ein Geist sein."
 
-    y "Weißt du, wie es sich anfühlt, vollkommen unsichtbar zu sein? Wenn niemand auch nur einen Blick in meine Richtung wirft?"
+    y "Weißt du, wie es sich anfühlt, vollkommen unsichtbar zu sein? Wenn niemand auch nur einen Blick in deine Richtung wirft?"
 
-    "Her grip tightens on the fence, the wires sinking into her flesh.{w} What is she talking about...?"
+    "Kraftvoll umklammert sie den Zaun am Dach.{w} Was meint sie damit ...?"
 
-    y "Nie als Partner für Projekte ausgewählt werden...{w}niemals gebeten werden, mit jemandem Mittag zu essen...{w}im Unterricht sogar vom Lehrer ignoriert zu werden."
+    y "Nie als Partner für Projekte ausgewählt zu werden ...{w} Niemals gebeten werden, mit jemandem Mittag zu essen ...{w} Im Unterricht sogar vom Lehrer ignoriert zu werden."
 
-    y "Sie alle scheinen kleine, kleine Dinge zu sein.{w} Aber im Laufe der Jahre summieren sie sich.{w} Und langsam setzte der Hass ein."
+    y "Das scheinen alles kleine Dinge zu sein.{w} Aber im Laufe der Jahre summieren sie sich.{w} Und langsam setzt der Hass ein."
 
-    y "Menschen sind selbstsüchtig, unhöflich, arrogant."
+    y "Menschen sind selbstsüchtig, unhöflich ... arrogant."
 
-    y "Und du denkst wahrscheinlich nur, 'warum machst du dir nicht die Mühe, selbst Freunde zu finden?'"
+    y "Und du denkst wahrscheinlich nur, 'warum suchst du dir dann nicht einfach Freunde?'"
 
-    "I...{w}I guess that thought did come to mind.{w} All I can do is stand and listen as she continues, ignoring the urge to shiver."
+    "Ich ...{w} Ich denke, das wäre mein erster Gedanke gewesen."
 
-    y "Glaubst du, ich habe es nicht versucht ?!{w}Ich habe mich so sehr bemüht, mich einzufügen. {w} Um sozial zu sein, mit Leuten zu reden."
+    y "Glaubst du, ich hätte es nicht versucht?!{w} Ich habe mich so sehr bemüht, mich einzufinden.{w} Um gesellig zu sein, mit Leuten zu reden."
     
-    y "Aber nach einem gewissen Punkt sind die sozialen Kreise fest und werden zu unpassierbaren Mauern für diejenigen, die mitmachen wollen."
+    y "Aber ab einem gewissen Punkt werden die sozialen Kreise zu unpassierbaren Mauern für diejenigen, die mitmachen wollen."
 
-    y "Meine fröhlichen Grüße wurden völlig gleichgültig aufgenommen.{w} Meine Versuche, mit Klassenkameraden zu sprechen, wurden mit schmerzhaften Blicken beantwortet."
+    y "Meine fröhlichen Grüße wurden völlig gleichgültig aufgenommen.{w} Meine Versuche, mit Klassenkameraden zu sprechen, wurden mit schmerzhaften Blicken erwidert."
 
-    y "Und dann ist es wieder zu Hause, um in einem dunklen, einsamen Zuhause zu sitzen, bevor ich mich zwingen muss, wieder zur Schule zu kommen.{w} Ein Ort voller Menschen, doch hier fühle ich mich am einsamsten."
-
-    y "War es zu viel verlangt nach einem Freund zu suchen?{w} Mit jemandem, mit dem ich reden konnte, dem ich mich anvertraue und mit dem ich Spaß habe...{w}genau wie in den TV-Shows.{w} Ist das wirklich zu viel ?!"
+    y "Und dann sitze ich wieder in einem dunklen, einsamen Zuhause, bevor ich mich dazu zwingen muss, wieder zur Schule zu kommen.{w} Zwar ein Ort voller Menschen, dennoch fühle ich mich hier am einsamsten."
+    
+    y "War es zu viel verlangt, nach einem Freund zu suchen?{w} Jemandem, mit dem ich reden konnte, dem ich mich anvertraue und mit dem ich Spaß haben kann ...{w} Genau wie im Fernsehen.{w} Ist das wirklich zu viel verlangt?!"
 
     scene school roof
     $ yuzuface='normal'
@@ -6707,28 +6709,28 @@ label explanationover:
     show Yuzuki
     with dissolve
 
-    "So she's just lonely...?"
+    "Sie ist also nur einsam ...?"
 
     p "Aber warum ..."
 
 
 
-    "She cuts me off as she suddenly spins to meet me eye to eye.{w} The vacant stare is gone, and in its place one of hate.{w} Aimed directly at me."
+    "Plötzlich unterbricht sie mich.{w} Sie dreht sich um und starrt mir in die Augen.{w} Der leere Blick ist inzwischen verschwunden, an seiner Stelle ist aber nun ein Blick voller Haus zu finden."
 
-    y "Aber es tut mir nicht leid.{w} Nichts davon zählt mehr.{w} Nicht nach morgen.{w} Alles wird sich verändern."
+    y "Aber hab kein Mitleid mit mir.{w} Nichts davon zählt mehr.{w} Nicht nach dem morgigen Tag.{w} Alles wird sich verändern."
 
     p "Morgen?"
 
 
 
-    "As I ask her, a searing heat surges through my skull and forces a wince out of me."
+    "Als ich sie frage, strömt eine glühende Hitze durch meinen Schädel."
 
     $ yuzuface='smiling'
     show Yuzuki
 
-    "Yuzuki smirks at my pain."
+    "Yuzuki schmunzelt."
 
-    y "Du kannst es fühlen, oder?{w} Sie ist jetzt so nahe daran, frei zu sein.{w} Mit jedem Tag vergeht ihre Macht."
+    y "Du kannst es fühlen, oder?{w} Sie ist so nah dran, frei zu sein.{w} Ihre Macht steigt mit jedem Tag."
     
     p "Was redest du da?{w} Wer wird frei sein?!"
 
@@ -6739,28 +6741,28 @@ label explanationover:
 
     y "Oh, also haben sie es dir nicht gesagt?{w} Interessant.{w} Ich frage mich, warum sie so sehr darauf bedacht sind, es geheim zu halten?"
 
-    y "Egal, alles wird morgen Sinn machen.{w} Ich werde endlich bekommen, was ich will, und sie wird endlich bekommen, was sie will. "
+    y "Egal, morgen wird alles einen Sinn ergeben.{w} Ich werde endlich bekommen, was ich möchte, und sie wird endlich bekommen, was sie möchte. "
 
-    "Yuzuki drifts past me as I struggle to keep upright, the headache refusing to die down."
+    "Während ich damit kämpfe, aufrecht stehenzubleiben, spaziert Yuzuki einfach an mir vorbei."
 
-    y "Auf Wiedersehen für jetzt.{w} Das nächste Mal treffen wir uns als Letztes."
+    y "Auf Wiedersehen, vorerst.{w} Unser nächstes Treffen wird unser letztes sein."
 
     hide Yuzuki
     with dissolve
     stop music fadeout 6.0
     p "W-Warte, Yuzuki, was hast du--"
 
-    "It's too late.{w} She's gone."
+    "Es ist zu spät.{w} Sie ist weg."
 
-    "I'm left alone on the rooftop, in the pouring rain."
+    "Ich stehe allein auf dem Dach ... Mitten im strömenden Regen."
 
-    "I wanted to try to get to the bottom of things...{w}but if anything, I think I'm even more confused now."
+    "Eigentlich wollte ich ein paar Dingen auf den Grund gehen ...{w}aber jetzt bin ich noch verwirrter als vorher."
 
     with hpunch
 
     p "Ha-tschi!"
 
-    "...Okay, I should get back inside now."
+    "...Okay, ich sollte besser wieder reingehen."
 
     scene bg black
     with fade
@@ -6771,18 +6773,18 @@ label explanationover:
     with fade
     play music "bgm/everydayintro.ogg" fadein 5.0
     queue music "bgm/everydayloop.ogg"
-    "Soaked to the bone, I squelch into the classroom.{w} I didn't see Yuzuki on the way down, and she doesn't appear to be here, either...{w}so I have no idea where she might have vanished to."
+    "Platschnass gehe ich ins Klassenzimmer.{w} Yuzuki habe ich auf dem Weg hierher nicht mehr gesehen, aber auch hier scheint sie nicht zu sein ...{w} also keine Ahnung, wo sie hin ist."
 
-    "So I've lost her, and now I'm probably going to succumb to pneumonia.{w} Great."
+    "Das hat sich ja echt gelohnt ...{w} Da fange ich mir eine Lungenentzündung ein, und wofür?{w} Um noch verwirrter zu sein, als ich es eh schon war."
 
     $ sayaface='shocked'
     $ sayapose='school_1'
     show Sayaka
     with dissolve
 
-    s "Wahh!{w} Kenta!{w} Was auf Erden ist passiert?!"
+    s "Wahh!{w} Kenta!{w} Was um Himmels willen ist passiert?!"
 
-    "Oh.{w} I guess Sayaka came to check up on me since I was taking too long to get to the cafeteria.{w} I turn to meet her with a faint smile, my hair dripping wet."
+    "Oh.{w} Ich schätze, Sayaka ist gekommen, um nach mir zu sehen, da ich nicht in der Cafeteria war.{w} Ich drehe mich um und lächle sie mit meinem überaus nassen Haar an."
 
     p "Ich, äh ..."
 
