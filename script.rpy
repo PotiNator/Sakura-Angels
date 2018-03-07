@@ -6633,15 +6633,15 @@ label explanationover:
     play music "bgm/sadintro.ogg" fadein 2.0
     queue music "bgm/sadloop.ogg"
 
-    "There she is, standing by the fencing, gazing out over the town with a hand idly gripping the mesh.{w} Already the rain has drenched her completely, her soaked uniform clinging to her skin."
+    "Da steht sie, mit einer Hand am Geländer festhaltend.{w} Der Regen hat sie bereits völlig durchnässt."
 
-    "She seems completely unbothered by it though, as if she doesn't feel the rain at all.{w} I've only been out here for a second, and I can already feel the urge to sneeze creep up as the chilling rain makes short work of me."
+    "Sie scheint davon aber völlig unbehelligt zu sein.{w} Ich zwar erst eine Sekunde hier draußen, habe aber schon das Bedürfnis, mich von hier zu verziehen."
 
-    "Yuzuki ignores me, her amber eyes vacant."
+    "Yuzuki ignoriert mich - ihre bernsteinfarbenen Augen voller Leere."
 
-    "At the very least, she doesn't seem hostile at the moment.{w} Right now, I think the rain has a more likely chance of killing me than she does."
+    "Zumindest scheint sie mir im Moment nicht feindlich gesinnt zu sein.{w} Aktuell mache ich mir sogar mehr Sorgen darum, dass ich den Regen heil überstehe."
 
-    "I take a step toward her, my foot splashing into a sizeable puddle."
+    "Ich gehe einen Schritt auf sie zu."
 
     y "Was willst du?"
 
@@ -6788,7 +6788,7 @@ label explanationover:
 
     p "Ich, äh ..."
 
-    "If I tell her Yuzuki is here, or that I went to confront her on my own, she might worry needlessly, so I'll keep it a secret for now."
+    "Wenn ich ihr sage, dass ich Yuzuki getroffen und sie mit allem konfrontiert habe, wird sie sich nur unnötig Sorgen machen, daher halte ich vorerst mal den Mund."
 
     p "Alles in Ordnung, mach dir keine Sorgen."
 
@@ -6798,7 +6798,7 @@ label explanationover:
 
     p "Ah ...{w} Hatschi!"
 
-    "Okay, the sneeze isn't really doing me any favours."
+    "Okay, das hilft mir jetzt auch nicht wirklich weiter."
 
     $ sayaface='smiling'
     $ sayapose='school_2'
@@ -6807,66 +6807,68 @@ label explanationover:
 
     s "Komm schon, lass uns dich abtrocknen.{w} Du wirst dich noch erkälten.{w} Hikari wird ausflippen wenn sie dich so sieht!"
 
-    "Ah, true...{w} I'm lucky it was Sayaka that found me first."
+    "Ah, genau ...{w} Ich kann mich glücklich schätzen, dass mich Sayaka zuerst gefunden hat."
 
-    "I offer no resistance as Sayaka takes me by the wrist and guides me out of the classroom.{w} She doesn't question me any further on the subject either, of which I'm thankful for."
+    "Ich leiste keinen Widerstand, als Sayaka mich am Handgelenk packt und mich aus dem Klassenzimmer zieht.{w} Sie befragt mich auch nicht länger, wofür ich ihr sehr dankbar bin."
 
     scene bg black
     with fade
 
-    "Almost dying in the rain aside, the rest of the school day goes by without much more happening."
+    "Der restliche Schultag vergeht, abgesehen davon, dass man in diesem Regen fast umkommen könnte, ohne besondere Vorkommnisse."
 
-    "I catch no further sign of Yuzuki, though my headache lingers."
+    "Und obwohl meine Kopfschmerzen weiterhin andauern, kann ich Yuzuki nirgends finden."
 
-    "I try to piece together everything Yuzuki had said."
+    "Ich versuche all das, was Yuzuki gesagt hat, zu einem Großen zusammenzusetzen."
 
-    "From what I can understand, she's doing this all because...{w}she wants friends?"
+    "Soweit ich es richtig verstehe, macht sie das alles nur, weil ...{w} sie Freunde möchte?"
 
-    "It doesn't make sense.{w} How did she end up the way she is to begin with?{w} And who is this 'she' Yuzuki kept referring to?"
+    "Das ergibt keinen Sinn.{w} Wie konnte sie überhaupt so enden, wie sie jetzt ist?{w} Und wer ist diese ‚sie‘, die Yuzuki meint?"
 
-    "Someone that is somehow linked to my headaches, and by extension I can only assume she's the cause of the monsters, and everything else that has been going weird lately in my life."
+    "Jemand, die irgendwas mit meinen Kopfschmerzen zu tun hat, und von der ich auch nur vermuten kann, dass sie hinter all den Monstern und all dem steckt, was mir in den letzten Tagen passiert ist."
 
-    "Yuzuki also implied that Sayaka and Hikari know more than they're letting on.{w} Which I could tell already, but not to this extent."
+    "Darüber hinaus hat Yuzuki auch angedeutet, dass Sayaka und Hikari mehr wissen, als sie sich anmerken lassen.{w} Das wusste ich bereits, wenn auch nicht in diesem Ausmaß."
 
-    "I want to question them about all this.{w} But I'm sure I'll be met with the same silence."
+    "Ich möchte sie zu all dem befragen.{w} Aber ich bin mir sicher, dass sie mir mit demselben Schweigen begegnen werden, mit dem sie mir auch bisher geantwortet haben."
 
-    "Argh!{w} Why is everyone so damn secretive?!{w} I feel like I'm the only person in the world left out of the loop right now."
+    "Argh!{w} Warum machen sie alle so ein Geheimnis daraus?!{w} Es kommt mir so vor, als wäre ich die einzige Person, die hier nicht eingeweiht ist."
 
-    "I keep to my thoughts on the wet journey home, and before long I find myself in my room gazing listlessly at the ceiling."
+    "Während der feuchten Heimreise behalte ich meine Gedanken jedoch vorerst noch für mich."
 
     scene bedroom night
     with fade
 
-    "The rain gradually dies down as the evening settles in.{w} Things are finally calm.{w} But for how long?"
+    "Im Verlauf des Abends lässt der Regen dann allmählich nach.{w} Es wird endlich ruhig.{w} Aber wie lange?"
 
-    "Yuzuki's words are still repeating in my muddled mind.{w} Something is going to happen tomorrow.{w} Something bad.{w} And I have no idea what."
+    "Yuzukis Worte schweben noch immer in meinen Gedanken rum.{w} Morgen wird irgendetwas passieren.{w} Etwas Schlimmes.{w} Und ich hab keinen Plan, was genau."
 
-    "I glimpse out of my window.{w} The usual tent is there, albeit a little more wet than usual.{w} I feel sorry for them having to camp out there in this sort of weather..."
+    "Ich schaue aus dem Fenster.{w} Dort sehe ich das gewohnte Zelt, wenn auch etwas nasser als sonst.{w} Es tut mir irgendwie leid, dass sie in einem solchen Wetter draußen campen müssen ..."
 
-    "Those two girls...{w} They've got to know everything that I'm struggling to understand here."
+    "Diese beiden Mädchen ...{w} Sie wissen all das, was ich nicht verstehe."
 
-    "It's not fair that even though this entire situation supposedly revolves around me, I somehow know the least."
+    "Es ist nicht fair, dass ich, derjenige, um den sich alles dreht, am allerwenigsten von der ganzen Sache weiß."
 
-    "I don't know if they're doing it to protect me or what, but I'm beginning to feel like it's too late for that."
+    "Ich weiß nicht, ob sie all das machen, um mich zu beschützen oder so, aber ich fange langsam an zu glauben, dass es dafür bereits zu spät ist."
 
-    "I continue to stare at the tent.{w} It's not that late...{w} So they might still be awake."
+    "Ich blicke weiterhin auf das Zelt.{w} Es ist noch nicht so spät ...{w} Vielleicht sind sie also noch wach."
 
     "..."
 
-    "Okay.{w} Yeah.{w} I've decided.{w} I'm going to go down there and demand they explain everything to me.{w} I have to make a stand, and be assertive.{w} No more secrets.{w} No more games!"
+    "Okay.{w} Ja.{w} Ich hab mich entschieden.{w} Ich gehe da jetzt runter und verlange nach einer Erklärung.{w} Ich muss Durchsetzungsvermögen zeigen."
+    
+    "Keine Geheimnisse mehr.{w} Und auch keine Spielchen mehr!"
 
-    "I'll refuse to leave them alone until they tell me all I need to know.{w} I'll leave them no choice!"
+    "Ich weigere mich, sie in Ruhe zu lassen, solange ich nicht weiß, was Sache ist.{w} Ich lasse ihnen einfach keine andere Wahl!"
 
     scene bg black
     with fade
 
-    "Steeling myself, I slip on my shoes and sneak out into the garden.{w} Yup.{w} This is happening.{w} I'm finally going to learn everything!"
+    "Ich ziehe mir die Schuhe an und schleiche in den Garten.{w} Jup.{w} Es geschieht.{w} Ich werde endlich alles herausfinden!"
 
-    "I approach the tent, its entrance securely zipped.{w} But that won't stop me.{w} I know how these things work!"
+    "Ich nähere mich dem Zelt, dessen Eingang mit einem Reißverschluss verschlossen ist.{w} Aber das wird mich nicht aufhalten.{w} Ich weiß, wie man solche Dinger öffnet!"
 
-    "I grab hold of the zip.{w} No hesitating here.{w} I'll give them no time to stop me."
+    "Ich greife nach dem Reißverschluss.{w} Ohne zu zögern.{w} Ich gebe ihnen keine Zeit, mich aufzuhalten."
 
-    "And then, in one swift motion, I unzip the tent's door."
+    "Und dann öffne ich mit einer schnellen Bewegung den Reißverschluss."
 
     p "Okay, von nun an keine Geheimnisse mehr!{w} Ich will Antworten hören, und zwar ...{w} äh ...?"
 
@@ -6879,39 +6881,41 @@ label explanationover:
 
     h "W-Was zur Hölle denkst du was du da tust?!"
 
-    "Oh no.{w} I may have made a mistake here.{w} Apparently past experiences have taught me nothing.{w} My jaw drops, and I find myself unable to put together any form of reply at the sight before me."
+    "Och nö.{w} Ich hab hier vielleicht einen kleinen Fehler gemacht.{w} Die Fehler der Vergangenheit haben mich anscheinend nichts gelehrt."
+    
+    "Nicht in der Lage, irgendeine Antwort zu finden, lasse ich den Anblick über mich ergehen."
 
-    "Upon opening the tent, I'm greeted by the pair of them undressing in a space that looks far bigger on the inside than it does from outside."
+    "Beim Öffnen des Zeltes werden ich von den beiden bereits empfangen – halbnackt. In einem Raum, der von innen wesentlich größer aussieht, als er von außen zu sein scheint."
 
-    "A dizzying fragrance drifts forth from the tent and stirs my senses, rendering me more dazed than I already was before."
+    "Ein schwindelerregender Duft schwebt aus dem Zelt hervor und benebelt meine Sinne noch zusätzlich."
 
-    "My eyes are torn between the pair, unsure of where to settle as they flit between them.{w} They're both so, uh...{w}pleasing to the eyes."
+    "Meine Augen wissen gar nicht, wo sie hinsehen sollen.{w} Sie sind beide so, äh ...{w} hübsch anzusehen."
 
-    "While both of them are clearly embarrassed, Sayaka only seems surprised about the whole ordeal.{w} But...{w}I can see Hikari practically shaking with what I can only assume is rage."
+    "Während beide offensichtlich in Verlegenheit geraten sind, scheint Sayaka auch noch überrascht zu sein.{w} Aber ...{w} Hikari scheint auch noch zu kochen – leider vor Wut."
 
-    "This...{w}this isn't fair.{w} How was I supposed to know?!{w} They do this stuff on purpose, I swear!"
+    "Das ...{w} Das ist nicht fair.{w} Woher sollte ich das denn wissen?!{w} Das machen sie absichtlich, ich schwör‘s!"
 
     h "Kenta!"
 
-    "Hikari barks, scrambling for something within their oddly spacious tent to cover herself with."
+    "Hikari versucht, in diesem ungewöhnlich geräumigen Zelt nach etwas zu greifen, womit sie sich bedecken kann."
 
-    p "G-Genau, entschuldige, das war ..."
+    p "G-Genau, entschuldige, ich wollte doch einfach nur ..."
 
-    "The right thing to do here would be to zip the tent back up and to wait for them to get dressed, but all I can do is gawk, possibly making the situation much worse than it should be."
+    "Richtig wäre es, den Reißverschluss wieder zu schließen und zu warten, bis sie fertig umgezogen sind … aber irgendwie kann ich meinen Blick nicht abwenden."
 
-    "Curse my natural instincts!{w} I can't help but look, it's what I'm programmed to do!"
+    "Verflucht seien meine natürlichen Instinkte!{w} Das ist so, als würde es bereits im Code stehen, wäre ich ein Computerprogramm!"
 
-    h "'Einfach' was?!{w} Ein Perverser sein?!{w} Ich kann das nämlich deutlich sehen!"
+    h "'Einfach' was?!{w} Ein Perverser sein?!{w} Das kann ich nämlich eindeutig erkennen!"
 
-    "Oh god, I hope none of the neighbours can hear this."
+    "Oh Gott, ich hoffe, das hat keiner meiner Nachbarn gehört."
 
     p "Das habt ihr komplett falsch verstanden. Ich wollte lediglich--"
 
-    "She cuts me off.{w} Naturally.{w} Of course I was never going to be allowed to explain myself.{w} That's just not how it works with these girls."
+    "Sie unterbricht mich.{w} Logisch.{w} In solch einer Situation habe ich natürlich nicht das Recht, mich rechtzufertigen.{w} Das ist die Logik dieser beiden Mädchen."
 
     h "K-Keine Entschuldigungen mehr!{w} Ich habe dich letztes Mal in Ruhe gelassen, aber diesmal..."
 
-    "With a blanket covering most of her bare body, Hikari marches towards me with a scary expression, all the while Sayaka stands by."
+    "Mit einer Decke, die den größten Teil ihres nackten Körpers bedeckt, marschiert Hikari mit einem furchterregenden Blick auf mich zu."
 
     s "Vielleicht sollten wir ihn verhören?{w} Ich bin mir sicher, er würde nicht ohne einen guten Grund hier hereinkommen!"
 
@@ -6919,7 +6923,7 @@ label explanationover:
 
     p "Nein, Hikari, hör ihr zu, ich hab wirklich einen Grund, und zwar einen guten--"
 
-    "She cracks her fist."
+    "Sie ballt ihre Hand zu einer Faust zusammen."
 
     p "H-Hab doch Erbarmen mit mir!"
 
@@ -6928,9 +6932,9 @@ label explanationover:
 
     stop music 
 
-    "Her fist flies, and I soon see stars as I'm left flat on my back and gazing skywards within my garden."
+    "Ihre Faust fliegt auf mich zu … und kurz darauf sehe ich auf dem Boden liegend auch schon Sterne."
 
-    "I'm left sprawled out for a good moment before Sayaka and Hikari approach me, now fully dressed.{w} Why does everything have to be so difficult...?"
+    "Ich liege eine Weile regungslos rum, ehe Sayaka und Hikari, nun völlig bekleidet, auf mich zukommen.{w} Warum müssen sie mir alles so schwer machen ...?"
 
     scene bedroom night
     $ sayaface='smiling'
@@ -6941,15 +6945,15 @@ label explanationover:
     show Hikari at right
     with fade
 
-    "After explaining how I met Yuzuki the other day, and what she had told me, it seems I've finally convinced them to explain things."
+    "Nachdem ich von meinem Treffen mit Yuzuki erzählt habe, scheint es endlich so, als wären sie bereit, mir einige Dinge zu erklären."
 
-    "I led them to my room so we could more comfortably explain things.{w} The tent was an option...{w}but I have bad memories of that place now."
+    "Ich führte sie in mein Zimmer, damit wir die Dinge in einer gemütlichen Umgebung klären konnen.{w} Das Zelt war zwar auch eine Option ...{w} aber meine Erinnerungen sind nicht gerade positv."
 
-    "Sayaka plops down onto my bed and excitedly looks about the room, while Hikari stands by the door, still angry about before.{w} I said I was sorry!"
+    "Sayaka stürzt sich auf mein Bett und schaut aufgeregt umher. Hikari hingegen steht noch immer wütend bei der Tür.{w} Ich hab mich doch bereits entschuldigt!"
 
     s "Also das ist dein Zimmer, oder?{w} IEs ist schön, es endlich von innen sehen zu können, nachdem ich es die ganze Zeit ausgespäht habe."
 
-    "...I'll pretend I didn't hear that."
+    "...Ich tu mal so, als hätte ich das nicht gehört."
 
     h "Es ist überraschenderweise ordentlich..."
 
@@ -6963,7 +6967,7 @@ label explanationover:
 
     s "Hmm, ich frag mich was Kenta so auf seinem Computer hat..."
 
-    "Sayaka reaches over and prods at my laptop."
+    "Sayaka greift nach meinem Laptop."
 
     p "L-Leute, konzentriert euch, okay?"
 
@@ -6979,7 +6983,7 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    "Sayaka sits up straight and takes on a serious expression.{w} One that I wasn't even sure she was capable of."
+    "Sayaka nimmt einen ernsten Ausdruck an und setzt sich aufrecht hin.{w} Ich wusste gar nicht, dass sie zu so was überhaupt in der Lage ist."
 
     s "Wir wollten es dir wirklich eerzählen, Kenta.{w} Das wollten wir nicht geheim halten..."
 
@@ -6992,7 +6996,7 @@ label explanationover:
 
     h "Was ich dir {i}immernoch{/i} nicht glauben kann, dass du uns bisher nichts davon erzählt hast.{w} Weißt du, in welche Gefahr du dich gebracht hast, als du sie getroffen hat?!"
 
-    "Hikari cuts in, and stomps her way across to join Sayaka, fire in her eyes.{w} ...See, this is why I didn't tell her anything."
+    "Hikari mischt sich ein und geht zu Sayaka hinüber.{w} ... Genau deshalb hab ich ihr nichts gesagt."
 
     p "Ich weiß, es war dumm ...{w} aber es war der einzige Weg, damit ich was lern. Ihr wart schließlich nicht gerade hilfreich."
 
@@ -7003,7 +7007,7 @@ label explanationover:
     show Hikari
     with dissolve
 
-    "She falls silent.{w} Guess I got her there."
+    "Sie verstummt.{w} Jetzt hab ich sie endlich da, wo ich sie haben wollte."
 
     $ sayaface='joking'
     show Sayaka
@@ -7031,7 +7035,7 @@ label explanationover:
 
     s "Schrei mich nicht an, Kenta.{w} Sheesh.{w} Komm runter, ich wollte es gerade sagen!"
 
-    "I may have lost it a little there...{w} I pull back from her, and quiet down."
+    "Jetzt bin ich wohl ein bisschen zu weit gegangen ...{w} Ich ziehe mich ein wenig zurück und beruhige mich."
 
     $ sayaface='smiling'
     $ sayapose='school_2'
@@ -7070,14 +7074,16 @@ label explanationover:
 
     p "...Wie bitte?"
 
-    "Where on earth did they did that dig that up from?{w} I think if they came to me with that on the first day we met, I would have labelled them as crazy...{w}but after all I've seen, it's a bit easier to believe."
+    "Wo um alles in der Welt haben sie das denn aufgegabelt?{w} Hätten sie mir das bereits bei unserem ersten Treffen gesagt, hätte ich sie als verrückt abgestempelt..."
+    
+    "...Aber nach all dem, was ich bereits gesehen habe, fällt es mir leichter, das zu glauben."
 
     $ hikaface='angry'
     show Hikari
 
     h "Wie oft muss ich es dir noch sagen?{w} Du{w} hast{w} Magier{w} Blut!"
 
-    "Shouting it into my ear doesn't really help me process it better, you know..."
+    "In mein Ohr zu schreien, macht es auch nicht wirklich verständlicher ..."
 
     $ hikaface='normal'
     show Hikari
@@ -7102,14 +7108,14 @@ label explanationover:
 
     s "Ich bin froh, dass du gefragt hast!"
 
-    "Sayaka hops to her feet from the bed, taking me by surprise.{w} This girl can't sit still for more than a minute, I swear!"
+    "Sayaka springt vom Bett auf und überrascht mich dabei.{w} Dieses Mädchen kann auch nicht mal eine Minute lang still sitzenbleiben!"
 
     $ sayaface='smiling'
     show Sayaka
 
     s "Ich werde dich nicht mit der ganzen Geschichte langweilen, darum fasse ich mich kurz."
 
-    "She clears her throat, as if this were a school presentation she had been been practicing for."
+    "Sie räuspert sich, als würde sie gerade eine Präsentation in der Schule halten."
 
     s "Vor hunderten von Jahren, als die Magie noch in der Welt vorherrschte, gab es einen Magier mit ungeheurer Macht."
 
@@ -7122,7 +7128,7 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    "She frowns, and lets out a sigh."
+    "Sie runzelt die Stirn und seufzt."
 
     s "Sie wollen immer mehr Macht."
 
@@ -7134,14 +7140,14 @@ label explanationover:
 
     s "Überall, wohin sie ging, folgte die Dunkelheit und breitete sich über das Land aus, während sie ihrer Eroberung folgte"
 
-    "This is getting pretty lengthy...{w} And why do I feel like I know this person she's talking about...?"
+    "Das wird jetzt wohl länger dauern ...{w} Und warum kommt es mir so vor, als würde ich die Person kennen, von der sie spricht ...?"
 
     $ sayaface='smiling'
     show Sayaka
 
     s "Bist du noch dabei, Kenta?"
 
-    "She leans forward and raises an eyebrow as I let out a yawn."
+    "Sie lehnt sich nach vorne und gähnt dabei."
 
     p "H-Häh?{w} Ja, total!{w} Glaub ich zumindest ..."
 
@@ -7225,12 +7231,12 @@ label explanationover:
 
     s "Ich meine, dein Vater ist sicher und die Schatten haben keine Interesse an ihm.{w} Er hat {i}etwas{/i} Magie in seinem Blut aber, es ist nicht genug, um irgendwelche Fähigkeiten zu aktivieren."
 
-    "Huh...{w} That's pretty convenient."
+    "Häh ...{w} Das ist ziemlich praktisch."
 
     $ sayaface='normal'
     show Sayaka
 
-    "Sayaka stretches and lets out a tiny yawn.{w} It must have been exhausting for her to focus on one subject for so long.{w} But I think things are finally starting to make sense..."
+    "Sayaka streckt sich und gähnt dabei.{w} Es muss wirklich anstrengend für sie gewesen sein, ihre Aufmerksamkeit so lange auf ein einziges Thema zu fokussieren.{w} Aber ich denke, jetzt ergibt alles ein wenig Sinn ..."
 
     $ sayaface='smiling'
     show Sayaka
@@ -7309,7 +7315,7 @@ label explanationover:
 
     s "Nein!{w} Wir waren immer wachsam!"
 
-    "Hmm...{w} I guess I was even luckier than I thought that they had managed to save me back then."
+    "Hmm ...{w} Ich schätze, ich hatte sogar noch mehr Glück, als ich ursprünglich dachte."
 
     $ sayapose='school_1'
     $ sayaface='smiling'
@@ -7326,7 +7332,7 @@ label explanationover:
 
     h "Wir haben nachgesehen als Freizeit war...{w} Das ist selten, wenn es darum geht, auf dich aufpassen zu müssen."
 
-    "Well excuse me for existing!"
+    "Na tut mir leid, dass ich überhaupt auf die Welt gekommen bin!"
 
     h "Und es wurde schnell klar, dass sich die Dinge nicht lösen würden, wenn wir erst einmal erfahren hätten, dass dieses Siegel an Ort und Stelle langsam geschwächt ist."
 
@@ -7337,7 +7343,7 @@ label explanationover:
 
     s "Aber, wenn es so einfach wäre...{w} hätten wir es schon selbst gemacht."
 
-    "Sayaka pulls a complicated expression...{w} I don't think I'm going to like what she has to say next."
+    "Sayaka macht einen ziemlich komplizierten Gesichtsausdruck ...{w} Ich glaube kaum, dass mir das, was sie als nächstes fragen wird, gefallen wird."
 
     s "Kenta...{w} Wir...{w}wir brauchen deine Hilfe."
 
@@ -7358,7 +7364,7 @@ label explanationover:
 
 
 
-    "So, in other words, I'm really the only solution here.{w} I'm...{w}I'm not sure how to take this."
+    "Mit anderen Worten, ich bin hier der einzige, der das Problem lösen kann.{w} Ich bin nicht sicher ...{w} wie ich darauf reagieren soll."
 
     p "Ich hab von diesem Magier-Zeugs überhaupt keinen Plan.{w} Bin ich dazu überhaupt in der Lage?"
 
@@ -7367,7 +7373,7 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    "Sayaka takes a moment to ponder things, a finger held to her chin as her eyes run over me."
+    "Sayaka beobachtet mich und nimmt sich einen Moment Zeit, um über etwas nachzudenken."
 
     s "Erinnerst du dich an die Nacht, als Hikari mit diesem Tentakelschatten Spaß hatte??"
 
@@ -7408,7 +7414,9 @@ label explanationover:
 
     s "Und da du immer noch stehst, nachdem du das Ding herumgeschwungen hast, ist es sicher zu sagen, dass du das Potenzial in dir hast."
 
-    "Yikes...{w} I can't believe there was the possibility of...{w}exploding from picking up her sword.{w} What I did back then was even more reckless than I realised!"
+    "Ich kann nicht glauben, dass die Möglichkeit besteht, dass ...{w} man durch das Aufheben ihres Schwertes in Stücke zerfetzt wird."
+    
+    "Dann war das, was ich damals getan hab, ja noch rücksichtsloser, als ich ursprünglich vermutet hab!"
 
     $ sayaface='happy'
     show Sayaka
@@ -7424,7 +7432,7 @@ label explanationover:
 
     p "Wir haben also überhaupt keinen Stress, hm?"
 
-    "I try my best to keep things light hearted and force out an awkward laugh, but it's difficult after hearing all of this.{w} To think that somehow I'm both the key to unlocking this woman from her prison, and the only thing that can put her away for good."
+    "Ich versuche mein Bestes, mir all die erwähnten Dinge nicht zu sehr zu Herzen zu nehmen.{w} Kaum zu glauben, dass ich der einzige bin, der diese Frau aus diesem Gefängnis befreien und gleichzeitig für immer wegsperren kann."
 
     h "Morgen ist unsere letzte Chance, das zu stoppen, bevor es außer Kontrolle gerät."
 
@@ -7435,7 +7443,7 @@ label explanationover:
 
     h "Ich denke, du musst ein Tag in der Schule überspringen müssen, Kenta."
 
-    "...Hmm.{w} I wonder if 'out saving the world' is a valid enough excuse to miss a day of school?"
+    "...Hmm.{w} Ich frage mich, ob ‚die Welt retten‘ als Entschuldigung gut genug ist, um von der Schule fernzubleiben?"
 
     $ hikaface='normal'
     show Hikari
