@@ -5587,7 +5587,7 @@ label explanationover:
 
     s "Yoo-hoo, Kenta, hier drüben!"
 
-    "A familiar voice catches my attention.{w} Finally!"
+    "Eine mir bekannte Stimme erregt meine Aufmerksamkeit.{w} Endlich!"
 
     scene cg8
     with dissolve
@@ -7452,11 +7452,13 @@ label explanationover:
 
     p "Anderen Weg gibt's wohl keinen, oder?{w} Sonst würdet ihr mir das alles ja nicht erzählen, oder?"
 
-    "I heave out a sigh, and give my guardians a look over.{w} They've done so much for me in this past week.{w} And even more than I realised behind the scenes.{w} If anything, I owe them this."
+    "Ich seufze und schaue meine beiden Schutzengel an.{w} Sie haben in den letzten Tagen schon so viel für mich getan."
+    
+    "Vieles davon sogar im Hintergrund, wovon ich nichts mitbekommen hab.{w} Ich schulde es ihnen förmlich.
 
-    "I swallow hard.{w} I can feel my hands begin to tremble.{w} I might die if I go with them."
+    "Ich schlucke hinunter.{w} Ich spüre schon, wie meine Hände zu zittern beginnen.{w} Gehe ich mit ihnen mit, könnte ich sterben."
 
-    "But then, if we leave it, things will only get worse.{w} So..."
+    "Aber gehen wir nicht, wird es auch nicht besser.{w} Von daher ..."
 
     p "Dann hab ich wohl keine andere Wahl.{w} Ich ...{w} Ich werd beim Versiegeln helfen.{w} Wenn ihr so zuversichtlich seid, dass ich es kann."
 
@@ -7468,7 +7470,7 @@ label explanationover:
 
     s "Du wirst es tun?!"
 
-    "Sayaka looks ecstatic as she claps her hands together.{w} Was she not expecting me to help?{w} Hikari looks equally surprised.{w} Jeez, a little faith goes a long way, guys!"
+    "Sayaka klatscht ihre Hände zusammen.{w} Hat sie etwa nicht mit meiner Hilfe gerechnet?{w} Hikari sieht ebenfalls überrascht aus.{w} Leute, ein bisschen mehr Vertrauen könntet ihr schon haben!"
 
     p "Das ist das Mindeste, was ich tun kann, nachdem ihr immer euer Leben für mich riskiert habt.{w} Es ist egal, wie ich euch helfen kann, Hauptsache ich kann helfen!"
 
@@ -7486,20 +7488,20 @@ label explanationover:
 
     s "Aber dass muss später sein.{w} Es gibt viel zu tun, wenn du diese dunkle Königin besiegelst, also pass auf!"
     stop music fadeout 6.0
-    "And just when I thought the night couldn't get any longer, yet another lecture begins."
+    "Und gerade in dem Moment, wo ich dachte, die Nacht könnte nicht noch länger werden, beginnt eine weitere Erklärung."
 
     scene bg black
     with fade
 
-    "I'm sure it wasn't easy for the pair of them to teach someone like me the basics of magic--someone who only just barely was aware of its existence at all."
+    "Ich bin sicher, es war für die beiden nicht einfach, mir die Grundlagen der Magie beizubringen."
 
-    "I'm not even sure if I've got the steps down...{w}but after hours of practicing, they've assured me I've got it down."
+    "Und ich bin mir auch nicht sicher, dass ich es bereits verstanden hab ...{w} aber nach einigen Stunden des Übens, haben sie mir versichert, dass ich es verstanden hab."
 
-    "I won't be able to tell for sure until the real thing.{w} That's what scares me.{w} What if they've misjudged what I'm really capable of?{w} Or I mess up?{w} Or...{w}there's a whole range of possibilities of things messing up on the day."
+    "Ich werd es aber erst wissen, wenn es hart auf hart kommt.{w} Und das macht mir Angst.{w} Was, wenn sie mein Potential falsch eingeschätzt haben?{w} Oder wenn ich es versaue?{w} Oder ...{w} unzählige andere Möglichkeiten, die noch auftreten könnten."
 
-    "These are the thoughts that stay with me, long after the girls return to their tent to catch whatever rest they can get before the morning."
+    "Das sind alles Gedanken, die mir durch den Kopf gehen, nachdem die beiden Mädchen bereits wieder in ihr Zelt zurückgekehrt sind."
 
-    "The last thoughts I have before I finally drift off to sleep is that the toughest day of my life is now lying ahead of me."
+    "Und der letzte Gedanke, den ich vor dem Einschlafen hatte, ist, dass morgen der härteste Tag meines Lebens bevorsteht."
 
     with Pause(3.5)
     play music "bgm/everydayintro.ogg" fadein 5.0
@@ -7507,19 +7509,19 @@ label explanationover:
     scene bedroom day
     with wake
 
-    "I slowly come to my senses.{w} Morning has arrived."
+    "Ich komme langsam zur Besinnung.{w} Der Morgen ist angebrochen."
 
-    "There's no time to waste!{w} I slip out of the covers and steel myself for what's to come, feeling more awake than I ever have in previous mornings.{w} Which is surprising, seeing as I probably got at best a few hours of sleep."
+    "Wir dürfen keine Zeit verschwenden!{w} Ich fühle mich jedoch munterer als die Tage zuvor.{w} Was mich wundert, wenn man bedenkt, wie wenig Schlaf ich bekommen hab."
 
-    "I guess the fear of what's to come if I mess this up is what's keeping me going.{w} A better motivation than any other!"
+    "Ich schätze, die Angst vor dem, was passiert, wenn ich all das vermassle, bewegt mich zum Weitermachen.{w} Eine bessere Motivation gibt's gar nicht!"
 
     p "Okay, dann an die Arbeit!"
 
-    "I peer at a pair of determined eyes that stare back at me from the mirror.{w} This is the most focused I've ever been in my life."
+    "Ich blicke in die entschlossenen Augen, die mich aus dem Spiegel heraus anstarren.{w} Das ist der fokussierteste Blick, den ich je in meinem Leben gesehen hab."
 
-    "It's funny how much has changed in these past few days.{w} And it's even more weird how I seem to accept it.{w} As if, deep down, I knew all of this to begin with."
+    "Schon komisch, wie viel sich in den letzten Tagen verändert hat.{w} Und noch komischer, wie ich all das akzeptiere.{w} Es ist so, als hätte ich tief im Inneren bereits gewusst, dass all das passieren wird."
 
-    "I slip on my casual clothes and make for the dining room."
+    "Ich ziehe mich an und gehe ins Esszimmer."
 
     scene kitchen day
     $ sayaface='smiling'
@@ -7530,7 +7532,7 @@ label explanationover:
     show Hikari at right
     with dissolve
 
-    "I find the two girls waiting for me, as expected.{w} Though, I'm caught a little off-guard by the fact that they're in their battle outfits."
+    "Die beiden Mädchen warten bereits auf mich.{w} Obwohl, es überrascht mich ein wenig, dass die beiden bereits ihre Kampfanzüge an haben."
 
     s "Gut'n Morgen.{w} Hast du gut geschlafen?"
 
@@ -7542,7 +7544,7 @@ label explanationover:
 
     h "Achte darauf, gut zu essen bevor wir gehen.{w} Du wirst die Kraft brauchen."
 
-    "Right, right.{w} Of course.{w} I start for the kitchen and prepare the most simple food I can think of."
+    "Stimmt, genau.{w} Na klar.{w} Ich gehe in die Küche und mache das Einfachste, was mir auf die Schnelle einfällt."
 
     p "Was ich gestern ganz vergessen hab zu fragen ...{w} Wo ist diese 'Königin' überhaupt gefangen?"
 
@@ -7553,7 +7555,7 @@ label explanationover:
 
     p "Was?!"
 
-    "I almost drop the plate I'm holding."
+    "Vor Schock lasse ich fast das Teller fallen, das ich gerade in Händen halte."
 
     p "So nah?!"
 
@@ -7567,9 +7569,9 @@ label explanationover:
     $ hikaface='normal'
     show Hikari
 
-    "But to think she's been this close the whole time.{w} No wonder things have been getting progressively more crazy around here..."
+    "Aber dass sie bereits all die Zeit über so nah war.{w} Kein Wunder, dass es sich hier immer mehr abgespielt hat ..."
 
-    "She must be furious...{w} to have the key to her freedom just out of grasp like this."
+    "Sie muss wütend sein ...{w} In Anbetracht der Tatsache, dass der Schlüssel für ihre Freiheit zum Greifen nahe ist."
 
     $ sayapose='magical_2'
     show Sayaka
@@ -7615,26 +7617,26 @@ label explanationover:
 
     h "H-hmph.{w} Werden wir jetzt gehen oder was?!"
 
-    "Sayaka giggles and jabs at her partner's ribs.{w} I suppose it's good they can stay in such high spirits despite the task that lays before us...?"
+    "Sayaka kichert und schlägt ihrer Partnerin in die Rippen.{w} Ich vermute mal, es ist gut, dass sie trotz der bevorstehenden Aufgabe so gut gelaund sind, oder ...?"
 
     scene bg black
     with fade
     stop music fadeout 3.0
-    "We set out.{w} I let the girls lead the way as we take the lesser-travelled routes through town so as to not draw attention to their outfits."
+    "Wir gehen los.{w} Wir nehmen die Routen, auf denen weniger los ist, da wir keine Aufmerksamkeit erregen möchten."
 
-    "They offered to fly me there, as it would be much faster.{w} But...{w}hah.{w} No.{w} Walking is fine.{w} I'm sure things aren't {i}that{/i} urgent."
+    "Sie haben mir auch angeboten, dort hinzufliegen.{w} Aber ...{w} Hah.{w} Nein.{w} Zu Fuß gehen ist auch gut.{w} Ich bin sicher, dass es nicht so eine Eile hat."
 
-    "Before long, our surroundings become less urban, the buildings shrinking in number the longer we travel, until finally we cross over a fence and into the wilderness."
+    "Nach einem kurzen Spaziergang wird unsere Umgebung immer weniger innerstädtisch. Desto weiter wir gehen, desto weniger Gebäude sehen wir, ehe wir über einen Zaun und in die Wildnis marschieren."
 
     scene forest trail
     with fade
 
-    "Branches overhead shade us from the sun as we walk across the faint trail laid out across the ground.{w} Only the faintest hints of light that filter through illuminate the way."
+    "Über unserem Kopf beschützen uns Äste und Zweige vor der einstrahlenden Sonne.{w} Nur ein ganz kleiner Lichtstrahl dringt hindurch, und der erhellt uns unseren Weg."
 
     "..."
     play music "bgm/magicalgirlintro.ogg" fadein 5.0
     queue music "bgm/magicalgirlloop.ogg"
-    "I'm beginning to wonder if the girls even know the way, as we pass by a tree I swear I've seen at least three times before."
+    "Als wir an einem Baum vorbeikommen, von dem ich glaube, ihn bereits drei Mal gesehen zu haben, fange ich an, daran zu zweifeln, ob sie auch wirklich den Weg kennen."
 
     $ sayaface='smiling'
     $ sayapose='magical_1'
@@ -7646,9 +7648,9 @@ label explanationover:
 
     s "Hmmm.{w} Vielleicht hätten wir eine Karte mitnehmen sollen?"
 
-    "Well.{w} That just confirms it.{w} We're hopelessly lost!"
+    "Nun.{w} Das bestätigt das Ganze ja nur.{w} Wir sind hoffnungslos verloren!"
 
-    "Any tension that might have existed before is sucked away the moment Sayaka begins to scratch her head and glance around the place."
+    "Jede Anspannung, die noch zu spüren war, verschwindet schlagartig, als Sayaka anfängt, sich am Kopf zu kratzen und sich umzusehen."
 
     $ hikaface='angry'
     show Hikari
@@ -7691,21 +7693,21 @@ label explanationover:
     show Hikari
     with dissolve
 
-    "And here I thought the sealing part of this operation would be the most difficult part...{w} Sheesh."
+    "Und ich dachte, die Versiegelung wäre das Schwierigste an der ganzen Sache ...{w} Mein Gott."
 
     s "Okay, der Wald ist nicht so groß.{w} Glaub ich.{w} Ich bin sicher, wir finden die Höhle, wenn wir noch ein bisschen umherwandern!"
 
-    "Hasn't stumbling around randomly only made us go around in circles?{w} I fear the sun might set before we ever find this darn cave now!"
+    "Hat uns dieses 'umherwandern' nicht erst in diese Situation gebracht?{w} Ich befürchte, dass sogar die Sonne untergeht, bevor wir diese Höhle finden!"
 
-    "I know it won't help, but I join the pair in surveying the land.{w} I don't even know what I'm supposed to be looking out for, apart from..."
+    "Ich weiß, dass es nicht helfen wird, aber ich kundschafte die Gegend ebenfalls aus.{w} Ich weiß ja nicht mal, wonach ich suchen soll, abgesehen von ..."
 
     p "Eine Höhle ...?"
 
     s "Hm?{w} Ist was?"
 
-    "I squint at something in the distance.{w} A cluster of boulders that had caught my attention.{w} My eyes were practically drawn there like some kind of magnetic force was at work."
+    "Ich schiele auf etwas in der Ferne.{w} Eine Ansammlung von Felsbrocken hat meine Aufmerksamkeit erregt.{w} Meine Augen werden fast schon auf magnetische Art und Weise angezogen."
 
-    "I've never been here before...{w}yet somehow it seems familiar."
+    "Und war hier noch nie ...{w} aber dennoch kommt es mir bekannt vor."
 
     p "Können wir da kurz nachsehen?"
 
