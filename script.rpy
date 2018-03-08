@@ -7707,7 +7707,7 @@ label explanationover:
 
     "Ich schiele auf etwas in der Ferne.{w} Eine Ansammlung von Felsbrocken hat meine Aufmerksamkeit erregt.{w} Meine Augen werden fast schon auf magnetische Art und Weise angezogen."
 
-    "Und war hier noch nie ...{w} aber dennoch kommt es mir bekannt vor."
+    "Ich war hier zwar noch nie ...{w} aber dennoch kommt es mir bekannt vor."
 
     p "Können wir da kurz nachsehen?"
 
@@ -7719,7 +7719,7 @@ label explanationover:
 
     with Pause(2.5)
 
-    "We trek over to the oddly suspicious rock formation.{w} I wonder, could this really be it?"
+    "Wir wandern alle zusammen zu der merkwürdigen Felsformation hinüber.{w} Könnte es das wirklich sein?"
 
     $ sayapose='magical_1'
     show Sayaka
@@ -7727,9 +7727,9 @@ label explanationover:
 
     s "Hmm, hmm.{w} Was hast du dort drüben denn gesehen?"
 
-    "Sayaka begins to poke about the boulders, a hand to her chin."
+    "Sayaka fängt an, gegen die Felsen zu stochern und denkt dabei stark nach."
 
-    "Circling around the cluster reveals nothing too out of the ordinary, but...{w}there has to be more."
+    "Eine Runde um die Felsformation hat nichts Außergewöhnliches offenbart, aber ...{w} da muss mehr dahinterstecken."
 
     p "Weiß nicht.{w} Mir ist vorgekommen, als hätt ich was gespürt."
 
@@ -7740,7 +7740,7 @@ label explanationover:
 
     s "Aww.{w} Wir sollten echt mal nachsehen, wenn Kenta schon sagt, er sieht dort was.{w} Er ist mit der dunklen Königin doch verbunden, oder?{w} Er muss ein paar Dinge über sie wissen, wenn auch nur im Unterbewusstsein."
 
-    "She says that as she raps gently at one of the rocks with her knuckle, one eye closed to better examine it."
+    "Sagt sie, als sie mit ihren Knöchel auf den Felsen schlägt."
 
     $ hikaface='normal'
     $ sayaface='happy'
@@ -7749,28 +7749,28 @@ label explanationover:
 
     s "Oh!{w} Der scheint irgendwie locker zu sein."
 
-    "Sayaka takes a grip of the rock in question and begins to pull at it with all her might, her teeth gritting in determination."
+    "Sayaka greift nach dem lockeren Stein und versucht, ihn mit aller Kraft hervorzuziehen."
 
     $ sayaface='scared'
     show Sayaka
 
     s "Hrghh!{w} I-Ich könnte eure Hilfe hier gut gebrauchen!"
 
-    "Oh, right.{w} Yeah.{w} I should probably help!{w} It was almost amusing to see her feet wildly kicking in place with the rock refusing to budge."
+    "Ah, genau.{w} Ja.{w} Ich sollte besser helfen!{w} Es war schon fast amüsant, mitanzusehen, wie sie gegen die Felsbrocken stochert."
 
     $ sayaface='normal'
     show Sayaka
     with hpunch
 
-    "I take up the other side of the rock, and begin to push against it with what little strength I might possess."
+    "Ich gehe auf die andere Seite und versuche mit all meiner Kraft - also fast gar keiner - dagegenzudrücken."
 
     "..."
 
-    "We still don't manage to move the rock.{w} It doesn't budge.{w} At all.{w} Even with all our combined effort.{w} And I really am trying here!"
+    "Wir können ihn aber trotzdem nicht bewegen.{w} Er bewegt sich keinen Zentimeter.{w} Nicht mal mit vereinten Kräften.{w} Und ich gebe wirklich mein Bestes!"
 
-    "It certainly does feel loose, though.{w} Apparently not loose enough!"
+    "Der Felsen fühlt sich aber wirklich lose an.{w} Aber anscheinend nicht locker genug!"
 
-    "I think we could move it for sure if one last person were to..."
+    "Ich bin sicher, mit einer Person mehr würden wir es schaffen ..."
 
     $ hikaface='angry'
     show Hikari
@@ -7781,9 +7781,9 @@ label explanationover:
     show Hikari
     with dissolve
 
-    "Her sword appears in a flash.{w} Hey, wait, we're still right beside it, isn't it dangerous to just--"
+    "Plötzlich zückt sie blitzartig ihr Schwert.{w} Hey, warte, wir stehen direkt daneben, ist das nicht gefähr--"
 
-    "She strikes out without any further warning, unleashing a single, precise slash that splits the rock clean in two."
+    "Sie schlägt ohne Vorwarnung drauf ein und teilt den Fels in zwei Hälften."
 
     $ sayaface='shocked'
     show Sayaka
@@ -7795,7 +7795,7 @@ label explanationover:
     $ hikaface='normal'
     show Hikari
 
-    "We both fell backwards as the two pieces of the rock collapse opposite ways.{w} ...I feel like my hair might be just a little shorter than it was, too, after how close that was."
+    "Wir verstummen beide, als der Fels auf beiden Seiten hinunterfällt.{w} Ich hab irgendwie das Gefühl, als wäre mein Haar auf einmal etwas kürzer."
 
     $ sayaface='angry'
     show Sayaka
@@ -7812,16 +7812,16 @@ label explanationover:
     $ sayaface='normal'
     show Sayaka
 
-    "She falls silent, unable to argue there.{w} It {i}did{/i} move the rock after all."
+    "Auf einmal Stille.{w} Der Felsen wurde letzten Endes ja aus dem Weg geräumt."
 
     $ hikaface='normal'
     $ hikapose='magical_1'
     show Hikari
     with dissolve
 
-    "We both hop to our feet to join Hikari in peering over the results of her destruction as the dust begins to settle."
+    "Wir beide springen auf, um gemeinsam mit Hikari die Folgen dieser Zerstörung zu betrachten."
 
-    "I almost forget how to breathe in the excitement of it all.{w} ...Could this really be it...?"
+    "Vor all der Aufregung vergesse ich schon fast, wie man atmet.{w} Könnte es das wirklich sein ...?"
 
     "...!"
 
@@ -7830,31 +7830,31 @@ label explanationover:
     show Sayaka
     show Hikari
 
-    "We all gasp at once.{w} I knew it!{w} I'm not sure how, but somehow I knew it!"
+    "Plötzlich schnappen wir alle auf einmal nach Luft.{w} Ich wusste es!{w} Ich weiß zwar nicht wie, aber irgendwie wusste ich's!"
 
-    "Behind where the rock lay is a tunnel that trails downwards, deep into the darkness."
+    "Hinter dem Felsen liegt ein Tunnel, der tief in die Dunkelheit führt."
 
-    "There's no telling how far it might stretch, or if there's anything on the other end."
+    "Man kann nicht erkennen, wie weit sich dieser Tunnel erstreckt, oder ob er überhaupt wo hin führt."
 
-    "But, if someone went to such lengths to hide this tunnel from existence, then it has to lead {i}somewhere{/i}, right?"
+    "Aber wenn sich schon jemand die Mühe gemacht hat, ihn so gut zu verstecken, dann muss er {i}irgendwo{/i} hinführen, oder?"
 
     $ hikaface='normal'
     show Hikari
 
-    h "Ist es...{w}das wirklich?"
+    h "Ist es ...{w}das wirklich?"
 
     $ sayaface='smiling'
     show Sayaka
 
-    s "Fühlt sich echt so an!{w} Man kann die Dunkelheit förmlich sehen."
+    s "Fühlt sich echt so an!{w} Man kann die Dunkelheit förmlich spüren."
 
-    "That's not really something you should be saying so happily..."
+    "Das ist eigentlich etwas, was man nicht so fröhlich sagen sollte ..."
 
-    "She is right, though.{w} There's a foreboding sense of despair as I peer deep into the hole.{w} A heavy tension in the air, as if the sheer presence of whatever lurks down there seeks to consume us all."
+    "Aber sie hat recht.{w} Da macht sich ein Gefühl der Verzweiflung breit, wenn man in das Loch blickt.{w} Eine starke Anspannung liegt in der Luft - so, als würde uns das, was da unten lauert, verzehren wollen."
 
-    "Once we go down there...{w} This will be it.{w} We'll finally put an end to this madness, and I might finally be able to get some peace after all of this is done."
+    "Wenn wir erstmal da runtergehen ...{w} dann war's das.{w} Dann werden wir diesem Wahnsinn endlich ein Ende setzen und Frieden finden."
 
-    "...Do I really have the strength to go through with this?{w} To reseal a long forgotten evil that tormented--"
+    "...Hab ich wirklich die Kraft dazu, das durchzustehen?{w} Ein längst vergessenes Übel wiederzuversiegeln--"
 
     $ sayaface='happy'
     $ sayapose='magical_2'
@@ -7869,28 +7869,28 @@ label explanationover:
     show Hikari at center
     with dissolve
 
-    "Sayaka apparently doesn't have the decency to wait for me to battle out my internal struggles, and cuts things short as she plops down onto her knees and begins to shuffle into the hole, its size just about big for us to fit if we crawl."
+    "Sayaka hat anscheinend keine Lust darauf, bis ich meine Gedanken sortiert habe, und geht auf ihre Knie, um in das Loch zu krabbeln."
 
     h "Sie hat recht.{w} Wir können nicht noch mehr Zeit verschwenden.{w} Los geht's, Kenta!"
 
     hide Hikari
     with dissolve
 
-    "Hikari follows after Sayaka, looking somewhat more hesitant towards the whole thing compared to her partner."
+    "Hikari zögert zwar noch einen kurzen Augenblick, folgt aber gleich hinterher."
 
-    "They disappear into the darkness completely, as if consumed by the tunnel.{w} It's scary just how little light seems to shine down there."
+    "Sie verschwinden völlig in der Dunkelheit.{w} Es macht mir irgendwie Angst, so wenig Licht wie da unten scheint."
 
     "Hmm..."
 
     h "Hör auf, herumzualbern, oder du wirst zurückbleiben!"
 
-    "Hikari's harsh tones sound out from the tunnel, making it all the more frightening."
+    "Hikaris Worte, die aus dem Tunnel hallen, machen das Ganze noch gruseliger."
 
     p "Okay, okay!{w} Ich komm ja schon."
 
-    "It's not like the world is going to end just because I take an extra minute or two to prepare for diving into the heart of evil.{w} At least, I hope it isn't."
+    "Wegen einer Minute mehr oder weniger wird die Welt auch nicht untergehen.{w} Zumindest hoffe ich das."
 
-    "I drop to my knees and shuffle into the tunnel, my world quickly becoming dark as all traces of light begin to fade."
+    "Ich falle auf die Knie und krabble ebenfalls hinein."
 
     scene bg black
     with fade
