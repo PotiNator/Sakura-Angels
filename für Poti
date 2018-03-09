@@ -1,0 +1,285 @@
+ "I can just about make out the scuffling sounds of the other two crawling along ahead of me.{w} Their presence the one thing keeping me calm during all of this."
+
+    "My surroundings are dark.{w} Cold.{w} Slimy to the touch.{w} So far it hasn't been a very pleasant experience."
+
+    p "Weißt du ..."
+
+    s "Hmm, ist was?"
+
+    p "Das hab ich mir echt nicht vorgestellt, als ich daran gedacht hab, wie es wär, ein Held zu sein."
+
+    p "In einem engen, kleinen Tunnel rumkriechen ...{w} Ich hab mir das irgendwie Dramatischer vorgestellt."
+
+    "Sayaka lets out a giggle as she soldiers on ahead."
+
+    s "Ich bin sicher, vor uns warten genug dramatische Momente!{w} Wir müssen vorher nur durch die ... {i}weniger{/i}... dramatischen Momente."
+
+    s "Und hey, das ist gar nicht so schlimm.{w} Zumindest müssen wir uns nicht durch unzählige Schatten durchkämpfen."
+
+    s "Es ist zwar nicht die edelste Art und Weise, die Dinge anzugehen, aber es spart Kraft ..."
+
+    "She brings up a good point.{w} However..."
+
+    p "Aber was, wenn ...{w} {i}in{/i} diesem Tunnel Monster auf uns warten?{w} Falls das der Fall ist, können wir nicht wirklich viel tun."
+
+    h "S-Sag das nicht!{w} Ich hab nichtmal über soetwas nachgedacht..."
+
+    s "Oh, wow, du hast recht.{w} Wir wären völlig wehrlos!"
+
+    h "Sayaka!"
+
+    s "Die würden uns echt massakrieren.{w} Hikari kann hier wohl kaum ihr Schwert einsetzen und ich erst recht nicht meinen Bogen."
+
+    s "Ich frage mich, welcher Schatten durch diese Tunnel passt?{w} Oh!{w} Vielleicht irgendetwas mit Tentakel ... Ich weiß nämlich genau, dass die dich {i}lieben{/i}, Hikari!"
+
+    h "Sei ruhig!{w} Jetzt bist du einfach nur böse!"
+
+    "Hmm...{w} Maybe I should have kept my thoughts to myself?{w} Sayaka is having way too much fun with this."
+
+    s "Oder wie wär's mit--"
+
+    h "H-hiyahh!{w} Irgendwas hat mich berührt!"
+
+    "Hikari shrieks, almost bursting my eardrums in the process."
+
+    h "Warst du das, Kenta?!{w} Ich wusste, ich hätte als Letzte einsteigen sollen..."
+
+    p "Ich?!{w} Natürlich nicht!{w} Ich bin ja ganz woanders!{w} Wofür hältst du mich eigentlich?"
+
+    h "...Willst du wirklich, dass ich das beantworte, nach dem, was du in den letzten Tagen getan hast??"
+
+    p "D-Das waren Unfälle! UNFÄLLE!"
+
+    h "Naja, vielleicht war das wieder einer deiner 'Unfälle', hmm?{w} Ein Mädchen greifen whärend sie komplett hilflos ist?"
+
+    p "Komm schon, ich bin ja nicht mal in deiner Nähe!{w} ... Vielleicht bildest du dir das auch einfach nur ein?"
+
+    "I can just about hear Sayaka stifle a giggle as we continue to argue.{w} Hmmm."
+
+    play music "bgm/mischiefintro.ogg" fadein 2.0
+    queue music "bgm/mischiefloop.ogg"
+
+    h "F-Fein.{w} Wenn du es nicht warst, wer dann?{w} Es hätte nicht Sayaka sein, da sie vor mir ist."
+
+    s "Vielleicht war es ein großer, schleimiger Tentakel, der Hallo sagen wollte."
+
+    "She says it in an almost sing-song manner.{w} Okay, yeah, I see what's happening now.{w} I'm hoping Hikari will realise soon, too."
+
+    h "E-Es hätte aber nicht--kyahh!{w} Da ist es wieder!"
+
+    h "Okay, ernsthaft was ist--a-ah!"
+
+    "This bizarre series of events continues for longer than I feel is necessary, until finally I feel I have to speak up, or we might be stuck in this tunnel all day."
+
+    p "Okay, komm, Sayaka, das reicht jetzt.{w} Du hattest deinen Spaß.{w} Jetzt müssen wir uns aber wieder konzentrieren, okay?"
+
+    h "W-Was...?{w} Sayaka?{w} Aber sie hätte nicht..."
+
+    "Confirming my suspicions, Sayaka lets out another one But, she couldn't possibl of her devious laughs."
+
+    s "Aww, okay, okay.{w} Ich musste einfach.{w} Es ist einfach so leicht, sie zu ärgern!"
+
+
+
+    h "..."
+
+    "Hikari takes in a deep breath.{w} ...Uh-oh."
+
+    h "Ich werde dich umbringen, Sayaka!"
+
+    s "Da musst du mich erstmal fangen!"
+
+    "I hear the pair of them shuffle ahead at an accelerated pace, Sayaka's manic laughter trailing into the distance."
+
+    "I suppose it's good they can keep in such high spirits despite the task that lies ahead of us."
+
+    "...I really don't appreciate them just leaving me behind like this, however."
+
+    "I contemplate continuing on at my own pace, sure that I'll catch up to them eventually, but I feel something slimy lap at my hand, forcing me to break into some sort of bizarre sprint-crawl."
+
+    "I don't know if there really are things lurking around in this tunnel, but I certainly don't want to stick around to find out."
+
+    with Pause(3.0)
+
+    "I eventually manage to catch up to them, the pair seeming to have calmed down somewhat."
+
+    "I'm not sure just how long we've been trekking through this tunnel now, but it feels like it's been an eternity."
+
+    "There wasn't even any guarantee that this would lead us to where we wanted to go, and we went with blind faith, going off of my instinct alone."
+
+    "So if this turns out to be a massive waste of time, it's going to have been my fault."
+
+    "And so far, we haven't found anything to suggest we're on the right path."
+
+    "I feel despair begin to set in."
+    stop music fadeout 4.0
+    "What if we end up running into a dead end?{w} Or worse, get stuck somehow?"
+
+    "What if..."
+
+    s "Ooh, hey!{w} Ich glaube, ich seh dort vorne etwas."
+
+    h "Es ist Zeit!"
+
+    "Sayaka's cheerful voice snaps me out of dark, unnecessary thoughts.{w} I guess I really should trust my own instincts a little more sometimes."
+
+    "True to her word, I can begin to see light seep into the tunnel as we inch ever closer to our goal."
+
+    "Just a little more, and..."
+    play music "bgm/seriousintro.ogg" fadein 2.0
+    queue music "bgm/seriousloop.ogg"
+
+    scene cave
+    with fade
+
+    "I drag myself out into a much larger opening, Sayaka and Hikari already on their feet as they take the time to stretch."
+
+    $ sayaface='smiling'
+    $ sayapose='magical_1'
+    $ hikaface='normal'
+    $ hikapose='magical_1'
+    show Sayaka at left
+    show Hikari at right
+    with dissolve
+
+    s "Puh!{w} Das war mal eine Reise.{w} Wie geht es euch allen?"
+
+    $ hikaface='angry'
+    show Hikari
+
+    h "Ich bin okay.{w} Es wäre besser gewesen, wenn nicht {i}jemand{/i} mit mir da unten rumgespielt hätte."
+
+    $ sayaface='joking'
+    show Sayaka
+
+    s "Heh-hehe ...{w} Ich wollte ...{w} einfach die Stimmung hoch halten?"
+
+    $ sayaface='scared'
+    show Sayaka
+    with hpunch
+
+    "{i}Bop{/i}.{w} Wrong answer.{w} Hikari raps her partner on the head."
+
+    h "Idiot."
+
+    hide Hikari
+    hide Sayaka
+    with dissolve
+
+
+    "Finally up off of the ground, I survey my surroundings."
+
+    "It looks like we've found our way into some kind of large chamber."
+
+    "And, almost instantly, my eyes are drawn to it."
+
+    "Right in the center of the cave.{w} Glimmering in an unnatural light.{w} A crystal."
+
+    p "Das ist ..."
+
+    "I don't even need to be told what it is.{w} I already know."
+
+    "It's her.{w} The one behind all this madness.{w} The supposed 'dark queen'."
+
+    "Even just looking at the crystal is enough to make my head spin and threaten to tear open."
+
+    "I feel like I'm going to be sick.{w} My mind is set aflame with a raging cry.{w} {i}Her{/i} cry."
+
+    "A cry of sheer, burning hatred.{w} There are no words to pick up on, just an incoherent garble of screaming and curses."
+
+    "This is it.{w} We've finally reached her."
+
+    "I can stop this once and for all.{w} After this is over, I can go back to living my carefree life."
+
+    "She's the last obstacle.{w} I can..."
+
+    p "Ich kann es schaffen."
+
+    "I murmur to myself, and tighten my fists in an effort to still the trembling."
+
+    "It's funny how crazy things have turned out these past few days.{w} To think those headaches would have led to all this.{w} All those weird dreams..."
+
+    "I've never dedicated myself to anything before.{w} I've never been one to put in anything more than the minimum amount of effort required of me in life."
+
+    "Yet, here I am, risking my life, and possibly the entire world, for something I'm not even entirely sure I can pull off."
+
+    "I don't know what's gotten into me recently...{w} Those girls really are a bad influence on me.{w} Making me do such crazy things."
+
+    "I heave in an unsteady breath.{w} I can just about keep myself standing in the face of this pure evil."
+
+    "It's okay.{w} I can do this.{w} I just need to keep telling myself that."
+
+    "I can do this...{w} I can...do...this...?"
+
+    "Crap.{w} The doubts are beginning to set in."
+
+    "{i}How{/i} can I do this?!{w} I'm not a mage.{w} I don't know any magic!{w} I'm not even sure if I remembered what they told me correctly..."
+
+
+
+    with hpunch
+
+    "Someone sets their hand on my shoulder, rousing me from my thoughts."
+
+    $ sayaface='smiling'
+    $ sayapose='magical_1'
+    show Sayaka at center
+    with dissolve
+
+    s "Kenta?"
+
+    "It's Sayaka.{w} Her face is brimming with the usual optimism I've come to expect from her, even in the face of evil."
+
+    s "Mach dir keine Sorgen!{w} Wir können es schaffen.{w} Zusammen."
+
+    with hpunch
+
+    "A second hand lands on my free shoulder...{w}more awkwardly than the previous."
+
+    $ hikaface='shy'
+    show Sayaka at left
+    show Hikari at right
+    with dissolve
+
+    h "J-Ja.{w} Was sie gesagt hat."
+
+    "It's Hikari, of course.{w} Even behind the tinge of red that paints her face, I can see her limitless determination shine through."
+
+    $ hikaface='normal'
+    $ hikapose='magical_2'
+    show Hikari
+    with dissolve
+
+    h "Du musst dich vor nichts fürchten, solange du an unserer Seite bist."
+
+    p "Ja."
+
+    "I nod, their words calming me."
+
+    p "Du hast recht.{w} Wir haben es schon so weit geschafft.{w} Nur noch ein bisschen, dann ist alles vorbei."
+
+    p "Ich danke euch.{w} Für alles, was ihr für mich getan habt.{w} Ohne euch wär ich jetzt nicht hier.{w} Ich schulde euch was."
+
+    $ sayapose='magical_2'
+    show Sayaka
+    with dissolve
+
+    s "Hmmm, na ja, ich schätze, über eine Belohnung können wir reden, wenn das alles erstmal vorbei ist."
+
+    h "Eine ... Belohnung ...?"
+
+    "Hikari falls silent at the prospect.{w} ...Suspiciously so."
+
+    $ sayaface='happy'
+    show Sayaka
+
+    s "Meine Güte, Hikari, an welche Belohnung hast {i}du{/i} da gedacht?{w} Dein Gesicht leuchtet in allen möglichen Farben!"
+
+    $ hikaface='embarrassed'
+    $ hikapose='magical_2'
+    show Hikari
+    with dissolve
+
+    h "Nichts!{w} Absolut nichts!{w} Kenta's Dank ist alles, was wir brauchen.{w} W-Wir machen doch nur unseren Job."
+
+ 
