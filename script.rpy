@@ -7895,9 +7895,9 @@ label explanationover:
     scene bg black
     with fade
 
-    "I can just about make out the scuffling sounds of the other two crawling along ahead of me.{w} Their presence the one thing keeping me calm during all of this."
+    "Ich kann gerade mal die Geräusche erkennen, die die beiden Mädchen vor mir erzeugen.{w} Ihre Anwesenheit ist auch das einzige, was mich dazu bringt, nicht die Fassung zu verlieren."
 
-    "My surroundings are dark.{w} Cold.{w} Slimy to the touch.{w} So far it hasn't been a very pleasant experience."
+    "Meine Umgebung ist finster.{w} Kalt.{w} Feucht.{w} Bis jetzt war es also keine angenehme Erfahrung."
 
     p "Weißt du ..."
 
@@ -7907,7 +7907,7 @@ label explanationover:
 
     p "In einem engen, kleinen Tunnel rumkriechen ...{w} Ich hab mir das irgendwie Dramatischer vorgestellt."
 
-    "Sayaka lets out a giggle as she soldiers on ahead."
+    "Sayaka kichert."
 
     s "Ich bin sicher, vor uns warten genug dramatische Momente!{w} Wir müssen vorher nur durch die ... {i}weniger{/i}... dramatischen Momente."
 
@@ -7915,7 +7915,7 @@ label explanationover:
 
     s "Es ist zwar nicht die edelste Art und Weise, die Dinge anzugehen, aber es spart Kraft ..."
 
-    "She brings up a good point.{w} However..."
+    "Das ist ein Argument.{w} Aber trotzdem ..."
 
     p "Aber was, wenn ...{w} {i}in{/i} diesem Tunnel Monster auf uns warten?{w} Falls das der Fall ist, können wir nicht wirklich viel tun."
 
@@ -7931,13 +7931,13 @@ label explanationover:
 
     h "Sei ruhig!{w} Jetzt bist du einfach nur böse!"
 
-    "Hmm...{w} Maybe I should have kept my thoughts to myself?{w} Sayaka is having way too much fun with this."
+    "Hmm ...{w} Vielleicht hätte ich meine Gedanken für mich behalten sollen?{w} Sayaka hat hier eindeutig zu viel Spaß."
 
     s "Oder wie wär's mit--"
 
     h "H-hiyahh!{w} Irgendwas hat mich berührt!"
 
-    "Hikari shrieks, almost bursting my eardrums in the process."
+    "Hikari schreit so laut auf, dass mir dabei fast das Trommelfell zerplatzt."
 
     h "Warst du das, Kenta?!{w} Ich wusste, ich hätte als Letzte einsteigen sollen..."
 
@@ -7951,7 +7951,7 @@ label explanationover:
 
     p "Komm schon, ich bin ja nicht mal in deiner Nähe!{w} ... Vielleicht bildest du dir das auch einfach nur ein?"
 
-    "I can just about hear Sayaka stifle a giggle as we continue to argue.{w} Hmmm."
+    "Ich kann gerade noch hören, wie Sayaka ein Kichern unterdrückt.{w} Hmmm."
 
     play music "bgm/mischiefintro.ogg" fadein 2.0
     queue music "bgm/mischiefloop.ogg"
@@ -7960,19 +7960,19 @@ label explanationover:
 
     s "Vielleicht war es ein großer, schleimiger Tentakel, der Hallo sagen wollte."
 
-    "She says it in an almost sing-song manner.{w} Okay, yeah, I see what's happening now.{w} I'm hoping Hikari will realise soon, too."
+    "Sagt sie in einer fast singenden Art und Weise.{w} Okay, ja, jetzt versteh ich‘s.{w} Ich hoffe, Hikari wird es auch bald merken."
 
     h "E-Es hätte aber nicht--kyahh!{w} Da ist es wieder!"
 
     h "Okay, ernsthaft was ist--a-ah!"
 
-    "This bizarre series of events continues for longer than I feel is necessary, until finally I feel I have to speak up, or we might be stuck in this tunnel all day."
+    "Diese Serie an merkwürdigen Ereignissen dauert länger, als ich es für nötig empfinde, bis ich schlussendlich das Gefühl habe, dass ich hier ein Machtwort sprechen muss."
 
     p "Okay, komm, Sayaka, das reicht jetzt.{w} Du hattest deinen Spaß.{w} Jetzt müssen wir uns aber wieder konzentrieren, okay?"
 
     h "W-Was...?{w} Sayaka?{w} Aber sie hätte nicht..."
 
-    "Confirming my suspicions, Sayaka lets out another one But, she couldn't possibl of her devious laughs."
+    "Sayaka bemerkt meinen Verdacht, lässt aber trotzdem nicht locker."
 
     s "Aww, okay, okay.{w} Ich musste einfach.{w} Es ist einfach so leicht, sie zu ärgern!"
 
@@ -7980,56 +7980,56 @@ label explanationover:
 
     h "..."
 
-    "Hikari takes in a deep breath.{w} ...Uh-oh."
+    "Hikari holt tief Luft ...{w} Uh-Oh."
 
     h "Ich werde dich umbringen, Sayaka!"
 
     s "Da musst du mich erstmal fangen!"
 
-    "I hear the pair of them shuffle ahead at an accelerated pace, Sayaka's manic laughter trailing into the distance."
+    "Dadurch, dass sich Sayakas Lächeln immer entfernter anhört, bemerke ich, dass sie immer schneller nach vorne krabbeln."
 
-    "I suppose it's good they can keep in such high spirits despite the task that lies ahead of us."
+    "Ich betrachte es mal als positiv, dass sie trotz der bevorstehenden Aufgabe so gut gelaunt bleiben können."
 
-    "...I really don't appreciate them just leaving me behind like this, however."
+    "...Aber ich betrachte es als überaus negativ, dass sie mich einfach so zurücklassen."
 
-    "I contemplate continuing on at my own pace, sure that I'll catch up to them eventually, but I feel something slimy lap at my hand, forcing me to break into some sort of bizarre sprint-crawl."
+    "Ich denke darüber nach, in meinem eigenen Tempo weiterzukrabbeln, da ich irgendwann ohnehin bei ihnen sein werde, aber dann fühle ich plötzlich etwas Schleimiges an meiner Hand, das mich zum ‚Sprint‘ bewegt."
 
-    "I don't know if there really are things lurking around in this tunnel, but I certainly don't want to stick around to find out."
+    "Ich weiß nicht, ob in diesem Tunnel etwas auf uns lauert, aber ich will auch nicht hier bleiben, um es herauszufinden."
 
     with Pause(3.0)
 
-    "I eventually manage to catch up to them, the pair seeming to have calmed down somewhat."
+    "Schließlich schaffe ich es irgendwann, meinen Abstand aufzuholen."
 
-    "I'm not sure just how long we've been trekking through this tunnel now, but it feels like it's been an eternity."
+    "Diese Wanderung fühlt sich mittlerweile nach einer gefühlten Ewigkeit an."
 
-    "There wasn't even any guarantee that this would lead us to where we wanted to go, and we went with blind faith, going off of my instinct alone."
+    "Es gab ja nicht mal eine Garantie dafür, dass uns dieser Tunnel zum Ziel führt, und trotzdem krabbeln wir einfach weiter."
 
-    "So if this turns out to be a massive waste of time, it's going to have been my fault."
+    "Wenn sich also herausstellt, dass das alles nur Zeitverschwendung war, dann war das ganz allein meine Schuld."
 
-    "And so far, we haven't found anything to suggest we're on the right path."
+    "Und bis jetzt haben wir überhaupt nichts gefunden, was darauf hindeutet, dass wir uns auf dem richtigen Weg befinden."
 
-    "I feel despair begin to set in."
+    "Ich spüre, wie die Verzweiflung einsetzt."
     stop music fadeout 4.0
-    "What if we end up running into a dead end?{w} Or worse, get stuck somehow?"
+    "Was, wenn wir in einer Sackgasse landen?{w} Oder irgendwo steckenbleiben?"
 
-    "What if..."
+    "Was, wenn ..."
 
     s "Ooh, hey!{w} Ich glaube, ich seh dort vorne etwas."
 
     h "Es ist Zeit!"
 
-    "Sayaka's cheerful voice snaps me out of dark, unnecessary thoughts.{w} I guess I really should trust my own instincts a little more sometimes."
+    "Sayakas fröhliche Stimme reißt mich aus meinen finsteren Gedanken.{w} Ich schätze, ich sollte meinen eigenen Instinkten hin und wieder wirklich mehr vertrauen."
 
-    "True to her word, I can begin to see light seep into the tunnel as we inch ever closer to our goal."
+    "Getreu ihren Worten erkenne ich weiter vorne wirklich ein Licht."
 
-    "Just a little more, and..."
+    "Nur noch ein bisschen, und dann ..."
     play music "bgm/seriousintro.ogg" fadein 2.0
     queue music "bgm/seriousloop.ogg"
 
     scene cave
     with fade
 
-    "I drag myself out into a much larger opening, Sayaka and Hikari already on their feet as they take the time to stretch."
+    "Während Sayaka und Hikari sich bereits wieder auf ihren Beinen befinden und sich strecken, ziehe ich mich gerade in einen wesentlich größeren Raum."
 
     $ sayaface='smiling'
     $ sayapose='magical_1'
@@ -8055,7 +8055,7 @@ label explanationover:
     show Sayaka
     with hpunch
 
-    "{i}Bop{/i}.{w} Wrong answer.{w} Hikari raps her partner on the head."
+    "{i}Biep{/i}.{w} Falsche antwort.{w} Hikari schlägt ihrer Partnerin auf den Kopf."
 
     h "Idiot."
 
@@ -8064,59 +8064,59 @@ label explanationover:
     with dissolve
 
 
-    "Finally up off of the ground, I survey my surroundings."
+    "Ich sehe mich in der Umgebung um."
 
-    "It looks like we've found our way into some kind of large chamber."
+    "Sieht aus, als hätten wir eine Art große Kammer gefunden."
 
-    "And, almost instantly, my eyes are drawn to it."
+    "Und fast augenblicklich werden meine Augen angezogen."
 
-    "Right in the center of the cave.{w} Glimmering in an unnatural light.{w} A crystal."
+    "Direkt in der Mitte der Höhle.{w} In einem unnatürlichen Licht leuchtend.{w} Ein Kristall."
 
     p "Das ist ..."
 
-    "I don't even need to be told what it is.{w} I already know."
+    "Man muss mir gar nicht erst sagen, was das ist.{w} Ich weiß es bereits."
 
-    "It's her.{w} The one behind all this madness.{w} The supposed 'dark queen'."
+    "Das ist sie.{w} Die Ursache hinter all dem Wahnsinn.{w} Die vermeintliche ‚dunkle Königin‘."
 
-    "Even just looking at the crystal is enough to make my head spin and threaten to tear open."
+    "Alleine schon durch den bloßen Blick auf den Kristall fängt mein Kopf an, sich zu drehen."
 
-    "I feel like I'm going to be sick.{w} My mind is set aflame with a raging cry.{w} {i}Her{/i} cry."
+    "Ich hab das Gefühl, mir wird übel.{w} Mein Verstand ist aufgrund eines wütenden Schreis in Flammen aufgegangen.{w} {i}Ihr{/i} Schrei."
 
-    "A cry of sheer, burning hatred.{w} There are no words to pick up on, just an incoherent garble of screaming and curses."
+    "Ein Schrei voller Hass.{w} Anders kann man es nicht erklären."
+    
+    "Wir haben sie endlich erreicht."
 
-    "This is it.{w} We've finally reached her."
+    "Ich kann es ein für alle Mal zu Ende bringen.{w} Wenn das hier vorbei ist, kann ich wieder zu meinem sorgenfreien Leben zurück."
 
-    "I can stop this once and for all.{w} After this is over, I can go back to living my carefree life."
-
-    "She's the last obstacle.{w} I can..."
+    "Sie ist das letzten Hindernis.{w} Ich kann ..."
 
     p "Ich kann es schaffen."
 
-    "I murmur to myself, and tighten my fists in an effort to still the trembling."
+    "Ich rede vor mir hin und balle meine Fäuste zusammen, um mein Zittern unter Kontrolle zu halten."
 
-    "It's funny how crazy things have turned out these past few days.{w} To think those headaches would have led to all this.{w} All those weird dreams..."
+    "Schon lustig, wie verrückt die letzten Tage waren.{w} Wer hätte gedacht, dass meine Kopfschmerzen zu all dem hier führen würden?{w} Zu all diesen merkwürdigen Träumen ..."
 
-    "I've never dedicated myself to anything before.{w} I've never been one to put in anything more than the minimum amount of effort required of me in life."
+    "Ich hab mich noch nie zuvor einer Sache so sehr gewidmet wie dieser.{w} Ich hab auch noch nie mehr Anstrengungen unternommen, als minimal erforderlich waren."
 
-    "Yet, here I am, risking my life, and possibly the entire world, for something I'm not even entirely sure I can pull off."
+    "Und jetzt riskiere ich hier mein Leben, um möglicherweise die ganze Welt zu retten. Und das, obwohl ich nicht einmal weiß, ob ich es überhaupt schaffen werde."
 
-    "I don't know what's gotten into me recently...{w} Those girls really are a bad influence on me.{w} Making me do such crazy things."
+    "Ich weiß nicht, was in letzter Zeit in mich gefahren ist ...{w} Diese Mädchen haben einen echt schlechten Einfluss auf mich.{w} Dass ich so verrückte Dinge mach ..."
 
-    "I heave in an unsteady breath.{w} I can just about keep myself standing in the face of this pure evil."
+    "Ich atme unregelmäßig und kann mich gerade noch gegen dieses reine Böse behaupten."
 
-    "It's okay.{w} I can do this.{w} I just need to keep telling myself that."
+    "Es ist alles in Ordnung.{w} Ich kann das.{w} Ich muss es mir nur einreden."
 
-    "I can do this...{w} I can...do...this...?"
+    "Ich kann das ...{w} Ich ... kann ... das ...?"
 
-    "Crap.{w} The doubts are beginning to set in."
+    "Scheiße.{w} Langsam zweifle ich an mir selbst."
 
-    "{i}How{/i} can I do this?!{w} I'm not a mage.{w} I don't know any magic!{w} I'm not even sure if I remembered what they told me correctly..."
+    "{i}Wie{/i} kann ich das schaffen?!{w} Ich bin kein Magier.{w} Ich kann nicht zaubern!{w} Ich weiß ja nicht mal, ob ich mich an das, was mir die beiden beigebracht haben, noch erinnern kann ..."
 
 
 
     with hpunch
 
-    "Someone sets their hand on my shoulder, rousing me from my thoughts."
+    "Auf einmal legt jemand seine Hand auf meine Schulter."
 
     $ sayaface='smiling'
     $ sayapose='magical_1'
@@ -8125,13 +8125,13 @@ label explanationover:
 
     s "Kenta?"
 
-    "It's Sayaka.{w} Her face is brimming with the usual optimism I've come to expect from her, even in the face of evil."
+    "Es ist Sayaka.{w} Ihr Gesicht strotzt nur so von Optimismus."
 
     s "Mach dir keine Sorgen!{w} Wir können es schaffen.{w} Zusammen."
 
     with hpunch
 
-    "A second hand lands on my free shoulder...{w}more awkwardly than the previous."
+    "Dann landet auch noch eine zweite Hand auf meiner Schulter ...{w} Jedoch weitaus verlegener als die erste."
 
     $ hikaface='shy'
     show Sayaka at left
@@ -8140,7 +8140,7 @@ label explanationover:
 
     h "J-Ja.{w} Was sie gesagt hat."
 
-    "It's Hikari, of course.{w} Even behind the tinge of red that paints her face, I can see her limitless determination shine through."
+    "Es ist natürlich Hikari.{w} Trotz ihres roten Gesichts erkenne ich dahinter, wenn auch versteckt, ihre grenzenlose Entschlossenheit."
 
     $ hikaface='normal'
     $ hikapose='magical_2'
@@ -8151,7 +8151,7 @@ label explanationover:
 
     p "Ja."
 
-    "I nod, their words calming me."
+    "Ich nicke."
 
     p "Du hast recht.{w} Wir haben es schon so weit geschafft.{w} Nur noch ein bisschen, dann ist alles vorbei."
 
@@ -8165,7 +8165,7 @@ label explanationover:
 
     h "Eine ... Belohnung ...?"
 
-    "Hikari falls silent at the prospect.{w} ...Suspiciously so."
+    "Bei dieser Aussicht wird Hikari plötzlich still.{w} Mit einem misstrauischen Blick."
 
     $ sayaface='happy'
     show Sayaka
