@@ -7454,7 +7454,7 @@ label explanationover:
 
     "Ich seufze und schaue meine beiden Schutzengel an.{w} Sie haben in den letzten Tagen schon so viel für mich getan."
     
-    "Vieles davon sogar im Hintergrund, wovon ich nichts mitbekommen hab.{w} Ich schulde es ihnen förmlich.
+    "Vieles davon sogar im Hintergrund, wovon ich nichts mitbekommen hab.{w} Ich schulde es ihnen förmlich."
 
     "Ich schlucke hinunter.{w} Ich spüre schon, wie meine Hände zu zittern beginnen.{w} Gehe ich mit ihnen mit, könnte ich sterben."
 
