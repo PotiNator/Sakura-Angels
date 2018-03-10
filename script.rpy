@@ -8596,30 +8596,28 @@ label explanationover:
     scene bg black
     with fade
 
-    "And as darkness takes over, I pass out at least safe in the knowledge that I did it.{w} I actually...won."
+    "Und als die Dunkelheit die Oberhand gewinnt, falle ich ihn Ohnmacht - jedoch zumindest mit dem Gewissen darüber, was ich getan habe.{w} Ich hab wirklich ... gewonnen."
 
     with Pause(4.0)
 
     "..."
 
-    "Here I am, back in my dreams.{w} And there's nothing here.{w} She's gone.{w} For good this time, I hope."
+    "Ich falle wieder in einen Traum.{w} Und in diesem Traum ist nichts.{w} Sie ist fort.{w} Für immer, hoffe ich."
 
-    "Maybe now I can start to have more normal dreams.{w} And start to live out a more normal life again."
+    "Vielleicht habe ich ab sofort normalere Träume.{w} Und vielleicht beginnt jetzt auch ein normaler Schulalltag für mich."
 
-    "I roam the vast void with nothing to fear this time.{w} Peace.{w} At last."
+    "Ich durchstreife die unendliche Leere, ohne mich vor etwas zu fürchten.{w} Friede.{w} Endlich."
 
     scene bg white
     with wake
 
-    "I slowly come to my senses."
+    "Ich komme langsam zu mir."
 
-    "I'm on a cold, rough, uneven surface."
+    "Und befinde mich auf einer kalten und rauen Oberfläche."
 
-    "Stones scatter as I try to move my legs."
+    "Um mich herum liegen überall Steine."
 
-    "Where am I?{w} I don't..."
-
-    "I squint through a harsh light to try and make sense of things."
+    "Wo bin ich?{w} Ich kann mich an nichts ..."
 
 
 
@@ -8628,9 +8626,9 @@ label explanationover:
 
         cg "Schon ein bisschen spät, um einzuschlafen, findest du nicht?"
 
-        "A cheerful voice chirps, rousing me to my senses."
+        "Eine fröhliche Stimme bringt mich wieder zur Besinnung."
 
-        "It could be none other than..."
+        "Es ist niemand anders als ..."
 
         scene cg13_2
         with wake
@@ -8639,15 +8637,15 @@ label explanationover:
 
         p "S-Sayaka ...?"
 
-        "I mutter her name, as it seems too good to be true."
+        "Ich murmle ihren Namen vor mich hin, weil es einfach zu schön ist, um wahr zu sein."
 
         s "Jup.{w} Ich bin's!"
 
-        "She's kneeling over me, offering a helping hand with the sweetest smile I've ever seen."
+        "Sie lächelt mich mit dem süßesten Lächeln an, das ich je gesehen hab."
 
-        "Things were looking bleak back then...{w}but I never should have doubted she wouldn't pull through."
+        "Obwohl alles ziemlich aussichtlos aussah ...{w} hätte ich nie an ihr zweifeln dürfen."
 
-        "I'm so happy she's okay that I just about fight back the urge to cry."
+        "Ich bin so froh, dass es ihr gut geht, und halte gerade noch so meine Tränen zurück."
 
         p "Sayaka, ich ..."
 
@@ -8655,7 +8653,7 @@ label explanationover:
 
         s "...Die dunkle Königin versiegelt?{w} Darauf kannst du einen lassen.{w} Du hast echt gute Arbeit geleistet!"
 
-        "She beams as she takes a hold of my limp hand and gently props me up to a sitting position."
+        "Sie strahlt, als sie meine Hand nimmt und mich sanft in eine sitzende Position stützt."
 
         s "Einen Moment lang habe ich mir echt Sorgen gemacht.{w} Für kurze Zeit dachte ich, der Zauber wäre vielleicht zu viel für dich gewesen ..."
 
@@ -8671,7 +8669,7 @@ label explanationover:
 
         s "He-hehehe-hehe ..."
 
-        "She scrubs at the back of her head and gives me the same goofy grin.{w} This girl..."
+        "Sie kratzt sich am Hinterkopf und grinst mich dabei an.{w} Dieses Mädel ..."
 
         p "Ich hab mir wirklich Sorgen um dich gemacht ..."
 
@@ -8681,7 +8679,7 @@ label explanationover:
 
         s "Brauche ich für all die Tränen etwa einen Regenschirm?"
 
-        "It seems words aren't getting through to her, so..."
+        "Es scheint, als würde meine Worte keine Wirkung zeigen, also ..."
 
         scene cave
         $ sayaface='shy'
@@ -8692,44 +8690,44 @@ label explanationover:
 
         s "H-Hä?{w} Kenta?!"
 
-        "I wrap my arms around her and pull her into a tight embrace.{w} It isn't enough just to be able to see her again, I wanted to make sure she was really there."
+        "Ich ziehe sie in eine enge Umarmung.{w} Es reicht mir nicht, sie nur wiederzusehen ... Ich wollte sicherstellen, dass sie auch wirklich hier ist."
 
         p "Ich bin froh, dass es dir gut geht."
 
         s "Ich, äh ..."
 
-        "She seems to be at a loss for words, as her arms hang limply by her sides.{w} She's really making this awkward for me."
+        "Sie scheint sprachlos zu sein und lässt ihre Arme einfach hängen.{w} Das macht die ganze Situation irgendwie unangenehm."
 
         $ sayaface='happy'
         show Sayaka
 
         s "Aw, was zum Teufel!{w} Komm schon, du alter Softie."
 
-        "She brings her arms up and returns the hug, squeezing me in a similarly tight embrace.{w} ...Maybe {i}too{/i} tight."
+        "Sie hebt ihre Arme und erwidert meine Umarmung.{w} Vielleicht sogar ein bisschen {i}zu{/i} stark."
 
         $ sayaface='joking'
         show Sayaka
 
         s "Hoffen wir, dass Hikari davon nichts erfährt, hm?{w} Sonst zuckt sie noch aus."
 
-        "She stifles a giggle as she nestles into my shoulder."
+        "Sie unterdrückt sich ein Kichern, während sie sich in meine Schultern schmiegt."
 
         "Wait...{w} That's a point."
 
-        "I pull back from the hug."
+        "Ich löse mich aus der Umarmung."
 
         p "Hikari!{w} Geht es ihr gut?"
 
         $ sayaface='smiling'
         show Sayaka
 
-        "Sayaka tilts her head, looking confused for a moment."
+        "Sayaka neigt den Kopf für einen Moment verwirrt zur Seite."
 
         s "Hm?{w} Der geht’s gut!"
 
         p "Und ...{w} Yuzuki ...?"
 
-        "She musters up a small smile, which instills some amount of hope in me."
+        "Sie treibt sich zu einem kleinen Lächeln, welches mir etwas Hoffnung gibt."
 
         $ sayapose='magical_2'
         show Sayaka
@@ -8739,16 +8737,16 @@ label explanationover:
 
 
 
-        "I do as instructed and follow along, almost hand in hand before we come to our senses."
+        "Ich gehorche und folge ihr."
 
         $ sayaface='happy'
         show Sayaka
 
         s "Tada!{w} Siehst du?{w} Eine Hikari und eine Yuzuki."
 
-        "Hikari is standing guard, her sword drawn as she keeps the sharp end pointed firmly at a very...{w}tattered...{w}Yuzuki."
+        "Hikari schiebt mit gezogenem Schwert, dessen Ende auf eine zerfledderte Yuzuki zeigt, Wache."
 
-        "While unconscious, it doesn't look like Yuzuki is badly hurt.{w} She's breathing steadily, and I don't see too much damage beyond the cosmetic stuff."
+        "Abgesehen von der Bewusstlosigkeit schon sie nicht viel abbekommen zu haben.{w} Sie atmet normal und mit Ausnahme von der Kleidung kann ich auch keine Verletzungen entdecken."
 
         $ hikaface='angry'
         $ hikapose='magical_2'
@@ -8758,7 +8756,7 @@ label explanationover:
 
         h "Da seid ihr zwei!{w} Was um alles in der Welt habt ihr so lange gemacht?!"
 
-        "Yup.{w} She seems fine.{w} There isn't a scratch on her, and she's as lively as ever."
+        "Jup.{w} Der geht's gut.{w} Sie ist auch so lebendig wie eh und je."
 
         $ sayaface='joking'
         $ sayapose='magical_1'
