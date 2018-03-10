@@ -112,7 +112,7 @@ label start:
 
     "Ein Ödland des Nichts sozusagen.{w} Verbringt man eine längere Zeit hier, fängt man noch an, an seiner eigenen Existenz zu zweifeln."
 
-    "Und trotz dieses erstickenden Gefühls, weiß ich, dass ich nicht allein bin."
+    "Und trotz dieses erstickenden Gefühls weiß ich, dass ich nicht allein bin."
 
     "Mich beobachtet etwas.{w} Mich verfolgt etwas.{w} Aus den Schatten."
 
@@ -122,9 +122,9 @@ label start:
 
     "Ich weiß, dass sie nichts anderes wollen, als mich anzugreifen, aber irgendwas hält sie zurück.{w} Eine Kraft, die sie wahrlich verachten."
     
-    "Es sind unsichtbare Ketten, die sie von ihrer Absicht abhalten und in ihren Bewegungen einschränken."
+    "Es sind unsichtbare Ketten, die sie von ihrer Absicht abhalten und sie in ihren Bewegungen einschränken."
 
-    "Anfangs, als ich anfing, von diesem Ort zu träumen, waren die Augen noch weit entfernt und sahen aus wie flimmernde Sterne."
+    "Anfangs, als ich anfing von diesem Ort zu träumen, waren die Augen noch weit entfernt und sahen aus wie flimmernde Sterne."
 
     "Aber mit jeder Nacht, die verging, kamen sie näher, und das Leuchten der Augen wurde immer stärker.{w} Ich schätze, die Kraft, die sie zurückhielt, wird allmählich schwächer."
 
@@ -132,7 +132,7 @@ label start:
 
     "Ich weiß, es ist nur ein Traum, von daher sollte ich keine Angst haben ...{w} aber alles, was ich hier erlebe, ist so lebendig."
     
-    "Keiner der Schleier, die man sonst aus einem Traum kennt, scheint hier zu existieren.{w} Ich nehme alles klar und deutlich wahr."
+    "Keiner der Schleier, die man sonst aus Träumen kennt, scheint hier zu existieren.{w} Ich nehme alles klar und deutlich wahr."
 
     "Ich kann die stagnierende, eiskalte Luft um mich herum spüren, weshalb mir immer wieder ein Schauer über den Rücken läuft."
 
@@ -166,7 +166,7 @@ label start:
 
     "Ugh.{w} Mein Kopf bringt mich noch um.{w} Diese Cluster-Kopfschmerzen sind echt unerträglich."
 
-    "Jeden Morgen wache ich ungewollt auf. Dank eines Gefühls, das daran erinnert, als würde jemand mit einem Presslufthammer auf mein Gesicht schlagen."
+    "Jeden Morgen wache ich ungewollt auf. Dank eines Gefühls, das mir so vorkommt, als würde jemand mein Gesicht mit einem Presslufthammer bearbeiten."
 
 
 
@@ -182,9 +182,9 @@ label start:
 
     "Fast wie ein ...{w} Herzschlag."
 
-    "Ich habe das Gefühl, als würde sich mein Kopf in zwei Teile spalten."
+    "Es fühlt sich so an, als würde sich mein Kopf in zwei Teile spalten."
 
-    "Es ist aber komisch, dass der Schmerz, obwohl er so stark ist, nie lange andauert.{w} Bis ich mich für die Schule fertiggemacht habe, spüre ich nur noch einen leichten Schmerz im Hinterkopf."
+    "Es ist aber komisch, dass der Schmerz, obwohl er so stark ist, nie lange andauert.{w} Bis ich mich für die Schule fertiggemacht habe, spüre ich nur noch ein leichtes Pochen im Hinterkopf."
 
     "Im Großen und Ganzen betrachtet ist es also nicht {i}so{/i} schlimm.{w} Aber es ist ein lustiges Gefühl, wegen so was aufzuwachen.{w} Und auch irgendwie merkwürdig, wenn ich bedenke, dass ich mich jeden Tag so fühle."
 
@@ -194,15 +194,15 @@ label start:
 
     with hpunch
 
-    "Nach einem kurzen Kampf mit meiner Decke, schwinge ich meine Beine umher und ziehe mich irgendwie aus dem Bett.{w} Ein kurzer Blick auf meine Nachttischuhr belegt, dass es noch früh am Morgen ist.{w} ... {i}Zu{/i} früh."
+    "Nach einem kurzen Kampf mit meiner Decke schwinge ich meine Beine umher und ziehe mich irgendwie aus dem Bett.{w} Ein kurzer Blick auf meine Nachttischuhr belegt, dass es noch früh am Morgen ist.{w} ... {i}Zu{/i} früh."
 
-    "Wenn es nach mir ginge, würde die Welt erst am Nachmittag anfangen, sich zu drehen.{w} Aber wie jeder weiß, das Leben ist kein Wunschkonzert."
+    "Wenn es nach mir ginge, würde die Welt erst am Nachmittag anfangen sich zu drehen.{w} Aber, wie jeder weiß, ist das Leben kein Wunschkonzert."
 
     "Ich ziehe die Vorhänge zur Seite und lasse mein Zimmer vom Sonnenlicht erhellen.{w} Und blende mich dabei fast selbst!"
 
     "Der Rest meines Morgens besteht darin, meine Uniform anzuziehen und die Krawatte zu binden. Im Halbschlaf ist das echt nicht einfach!"
 
-    "Nachdem ich mich fast zu Tode erstickt hätte, schaffte ich es dennoch irgendwann, die Krawatte anzuziehe."
+    "Nachdem ich mich fast zu Tode erstickt hätte, schaffte ich es dennoch irgendwann, die Krawatte anzuziehen."
 
     "Da ich keinen Kamm finden konnte, müssen meine Haare mit den Händen frisiert werden.{w} Als ich in den Spiegel blicke, starrt mich jemand mit schmutzigen, schwarzen Haaren an.{w} ... Passt doch fast."
 
@@ -210,23 +210,23 @@ label start:
 
     scene kitchen day with dissolve
 
-    "Über ungleichmäßige Treppen gelange ich gefährlich hinuntern und in die Küche."
+    "Über gefährlich ungleichmäßige Treppen gelange ich hinunter und in die Küche."
 
-    "Ich werde von der Stille begrüßt.{w} ... Die Küche ist leer.{w} Aber dieser Anblick ist für mich mittlerweile alltäglich."
+    "Ich werde von Stille begrüßt.{w} ... Die Küche ist leer.{w} Aber dieser Anblick ist für mich mittlerweile alltäglich."
 
-    "Meine Eltern sind das, was man auch gern als {w}Workaholics{w} bezeichnet. Das heißt, sie verbringen mehr Zeit in ihrer Arbeit als zu Hause."
+    "Meine Eltern sind das, was man auch gern als {w}Workaholics{w} bezeichnet. Das heißt, sie verbringen mehr Zeit auf ihrer Arbeit als zu Hause."
     
     "Ich sehe sie nur abends, und sobald wir da mit dem Essen fertig sind, geht auch schon wieder jeder schlafen."
 
-    "Versteh mich nicht falsch. Ich verstehe, dass sie arbeiten müssen, dass es uns gut geht, daher hasse ich sie auch nicht.{w} Es ist bloß so ...{w} Ich weiß nicht so genau ... Einsam?"
+    "Versteh mich nicht falsch. Ich verstehe, dass sie arbeiten müssen, damit es uns gut geht, daher hasse ich sie auch nicht.{w} Es ist bloß so ...{w} Ich weiß nicht so genau ... einsam?"
 
     "Aber na ja.{w} Es bringt nichts, sich darüber Gedanken zu machen.{w} Es ist schon seit Jahren so, also keine Ahnung, warum ich jetzt wieder daran denke!"
 
-    "Das Gute an der ganzen Sache ist, dass ich lernen musste, wie man kocht.{w} Echt wahnsinnig, wie schnell man so was lernt, wenn man mal kurz davor ist, dem Hungertod zu erliegen!"
+    "Das Gute an der ganzen Sache ist, dass ich lernen musste, wie man kocht.{w} Echt verrückt, wie schnell man so was lernt, wenn man mal kurz davor ist, dem Hungertod zu erliegen!"
 
-    "Ich glaube nicht, dass ich noch genug Zeit habe, um mir etwas Prunkvolles zum Frühstück herbeizuzaubern, von daher mache ich mir nur Toast.{w} Mit Toast liegt man nie falsch."
+    "Ich glaube nicht, dass ich noch genug Zeit habe, um mir etwas Prunkvolles zum Frühstück herbeizuzaubern, von daher mache ich mir nur Toast.{w} Mit Toast macht man nie etwas falsch."
 
-    "...Okay, man {i}könnte{/i} damit falsch liegen.{w} Plötzlich werden traumatische Erinnerungen an eine Zeit, als mein Toast in Flammen aufging, in mir wach.{w} ... Ah, das war ein Tag."
+    "...Okay, man {i}könnte{/i} damit etwas falsch machen.{w} Plötzlich werden traumatische Erinnerungen an eine Zeit, als mein Toast in Flammen aufging, in mir wach.{w} ... Ah, das war vielleicht ein Tag."
 
     "Aber ich habe von meinen Fehlern gelernt.{w} Es wird kein zweites, äh ... drittes Mal mehr passieren!"
 
@@ -234,7 +234,7 @@ label start:
 
     "Nachdem ich meinen leicht verkohlten Toast verschlungen habe, werfe ich mir meine Tasche über die Schulter und gehe zur Haustür."
 
-    "Bevor ich aus dem Haus gehe, werfe ich noch einen Blick darauf.{w} Irgendwie einsam, wenn dich keiner verabschiedet ...{w} Aber ich habe es ja schon einmal gesagt, es ist morgens schon seit langer Zeit so."
+    "Bevor ich aus dem Haus gehe, werfe ich noch einen Blick zurück.{w} Irgendwie einsam, wenn dich keiner verabschiedet ...{w} Aber ich habe es ja schon einmal gesagt, es ist morgens schon seit langer Zeit so."
 
     scene town street day with dissolve
 
@@ -242,9 +242,9 @@ label start:
 
     "...Es ist alles so schrecklich."
 
-    "Ich bin nicht gerade ein Morgenmensch, von daher kann ich überhaupt nicht verstehen, wie manche Leute schon in aller Früh so fröhlich sein können ..."
+    "Ich bin nicht gerade ein Morgenmensch, darum kann ich überhaupt nicht verstehen, wie manche Leute schon in aller Früh so fröhlich sein können ..."
     
-    "Ich meine, in meinem Fall braucht es all meine Willenskraft, um überhaupt mal einen Fuß vor den anderen zu setzen."
+    "Ich meine, in meinem Fall braucht es all meine Willenskraft, um überhaupt einen Fuß vor den anderen zu setzen."
 
     "Ich muss nur hoffen, dass sich die Energie, die ich beim Frühstück zu mir genommen habe, bald bemerkbar macht. Hoffentlich noch, bevor ich die Schule erreiche."
 
@@ -258,9 +258,9 @@ label start:
 
     "Während ich meinen Kopf unten halte und meine Augen an den Boden geklebt sind, bemerke ich plötzlich, dass die lebhafte Atmosphäre auf einmal verschwunden ist."
 
-    "Die Stille hat die Oberhand gewonnen - meine Schritte sind das Einzige, das ein Geräusch erzeugt.{w} Es geht überhaupt kein Wind.{w} Häh ...{w} Das ist schon ein bisschen komisch."
+    "Die Stille hat die Oberhand gewonnen – meine Schritte sind das Einzige, das ein Geräusch erzeugt.{w} Es geht überhaupt kein Wind.{w} Hä ...{w} Das ist schon ein bisschen komisch."
 
-    "Als ich meinen Kopf erhebe, erblicken meine Augen etwas Beunruhigendes."
+    "Als ich meinen Kopf hebe, erblicken meine Augen etwas Beunruhigendes."
 
     "Die Straße ist menschenleer."
 
