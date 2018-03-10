@@ -104,7 +104,7 @@ label start:
 
     "Keine Nacht ist vergangen, ohne dass mein Bewusstsein in diesen Abgrund gezogen wurde."
 
-    "In diesem Gefilde mangelt es so sehr an Licht, dass ich nicht einmal meine Hand vor meinem Gesicht sehen kann."
+    "In diesem Gefilde ist es so finster, dass ich nicht einmal meine Hand vor meinem Gesicht sehen kann."
 
     "Die Geräuschkulisse der Umgebung ist ebenso fehlend wie das Geräusch meiner Schritte."
     
@@ -116,21 +116,21 @@ label start:
 
     "Mich beobachtet etwas.{w} Mich verfolgt etwas.{w} Aus den Schatten."
 
-    "Ich kann nicht mit Sicherheit sagen, was es ist, aber hin und wieder sehe ich etwas in der letzten Ecke meines Blickwinkels."
+    "Ich kann nicht mit Sicherheit sagen, was es ist, aber hin und wieder sehe ich etwas am äußersten Rand meines Blickfelds."
 
     "Ein Paar brennender, strahlender Augen, die auf mich fixiert sind.{w} Sie hassen mich.{w} Sie verabscheuen mich.{w} Eine überwältigende Ausstrahlung von Feindseligkeit geht von ihnen aus."
 
-    "Ich weiß, dass sie nichts anderes wollen, als mich anzugreifen, aber irgendwas hält sie zurück.{w} Eine Kraft, die sie wahrlich verachten."
+    "Ich weiß, dass sie danach lechzen, über mich herzufallen, aber irgendwas hält sie zurück.{w} Eine Kraft, die sie wahrlich verachten."
     
     "Es sind unsichtbare Ketten, die sie von ihrer Absicht abhalten und in ihren Bewegungen einschränken."
 
     "Anfangs, als ich anfing, von diesem Ort zu träumen, waren die Augen noch weit entfernt und sahen aus wie flimmernde Sterne."
 
-    "Aber mit jeder Nacht, die verging, kamen sie näher, und das Leuchten der Augen wurde immer stärker.{w} Ich schätze, die Kraft, die sie zurückhielt, wird allmählich schwächer."
+    "Aber mit jeder Nacht, die verging, kamen sie näher, und das Leuchten der Augen wurde immer stärker.{w} Ich schätze, die Kraft, die sie zurückhält, wird allmählich schwächer."
 
     "Was wird passieren, wenn mich ...{w} diese Augen ...{w} erreichen?{w} Ich erschaudere, wenn ich daran denke."
 
-    "Ich weiß, es ist nur ein Traum, von daher sollte ich keine Angst haben ...{w} aber alles, was ich hier erlebe, ist so lebendig."
+    "Ich weiß, es ist nur ein Traum, von daher sollte ich keine Angst haben ...{w} aber alles, was ich hier erlebe, wirkt so lebendig."
     
     "Keiner der Schleier, die man sonst aus einem Traum kennt, scheint hier zu existieren.{w} Ich nehme alles klar und deutlich wahr."
 
@@ -144,7 +144,7 @@ label start:
 
     "Aber heute ist etwas anders."
 
-    "Jene hasserfüllten Augen, die sich bisher aus meinem Blickfeld zu verstecken versuchten ...{w} sind plötzlich unmittelbar vor mir."
+    "Jene hasserfüllten Augen, die sich bisher vor meinem Blick zu verstecken versucht hatten ...{w} sind plötzlich unmittelbar vor mir."
 
     "Sie waren noch nie zuvor so nahe.{w} Noch nie zuvor habe ich sie so sehr angestarrt."
 
@@ -226,7 +226,7 @@ label start:
 
     "Ich glaube nicht, dass ich noch genug Zeit habe, um mir etwas Prunkvolles zum Frühstück herbeizuzaubern, von daher mache ich mir nur Toast.{w} Mit Toast liegt man nie falsch."
 
-    "...Okay, man {i}könnte{/i} damit falsch liegen.{w} Plötzlich werden traumatische Erinnerungen an eine Zeit, als mein Toast in Flammen aufging, in mir wach.{w} ... Ah, das war ein Tag."
+    "...Okay, man {i}könnte{/i} damit falsch liegen.{w} Plötzlich werden traumatische Erinnerungen an jenen Morgen, als mein Toast in Flammen aufgegangen ist, in mir wach.{w} ... Ah, das war ein Tag."
 
     "Aber ich habe von meinen Fehlern gelernt.{w} Es wird kein zweites, äh ... drittes Mal mehr passieren!"
 
@@ -258,7 +258,7 @@ label start:
 
     "Während ich meinen Kopf unten halte und meine Augen an den Boden geklebt sind, bemerke ich plötzlich, dass die lebhafte Atmosphäre auf einmal verschwunden ist."
 
-    "Die Stille hat die Oberhand gewonnen - meine Schritte sind das Einzige, das ein Geräusch erzeugt.{w} Es geht überhaupt kein Wind.{w} Häh ...{w} Das ist schon ein bisschen komisch."
+    "Die Stille hat die Oberhand gewonnen - das einzige Geräusch weit und breit ist das meiner Schritte.{w} Es geht überhaupt kein Wind.{w} Häh ...{w} Das ist schon ein bisschen komisch."
 
     "Als ich meinen Kopf erhebe, erblicken meine Augen etwas Beunruhigendes."
 
@@ -271,7 +271,7 @@ label start:
 
     "In der Hoffnung, wenigstens irgendjemanden zu treffen, eile ich vorwärts."
 
-    "Sogar die Sonnenstrahlen scheinen verblasst zu sein, wodurch alles in einen düsteren Farbton gefärbt wurde.{w} Aber ...{w} im Himmel ist weit und breit keine Wolke zu sehen."
+    "Sogar die Sonnenstrahlen scheinen verblasst zu sein, wodurch alles in einen düsteren Farbton getaucht wurde.{w} Aber ...{w} im Himmel ist weit und breit keine Wolke zu sehen."
 
     "Okay, das macht mich jetzt aber wirklich ein wenig verrückt.{w} Ich muss doch nur--"
 
