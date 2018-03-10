@@ -694,7 +694,7 @@ label start:
 
             "Meine Güte ...{w} Die beiden sind echt komisch.{w} Aber sie scheint es wirklich ernst gemeint zu haben.{w} Vielleicht war meine Entscheidung, sie als Verrückte abzustempeln, etwas voreilig."
 
-            "Ich mein, sie sind verrückt, das stimmt schon, aber vielleicht steckt ja doch ein Fünkchen Wahrheit darin.{w} Die Existenz dieses Monsters kann ich schließlich auch nicht leugnen, so schwer es mir auch fällt."
+            "Ich mein, sie sind verrückt, das stimmt schon, aber vielleicht steckt ja doch ein Fünkchen Wahrheit darin.{w} Die Existenz dieses Monsters kann ich schließlich auch nicht leugnen, so sehr ich es auch will."
 
     $ sayaface='smiling'
     $ hikaface='normal'
