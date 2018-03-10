@@ -8765,18 +8765,18 @@ label explanationover:
 
         s "Na ja.{w} Wir haben ...{w} Heh-hehehe-heh."
         stop music fadeout 5.0
-        "Sayaka hides nothing and grins sheepishly, rocking on her heels as she does so."
+        "Sayaka kennt überhaupt keine Zurückhaltung und plaudert alles aus."
 
-        "Hikari furrows her brow, the faintest traces of anger visible across her forehead.{w} I think she pieced it together..."
+        "Hikari reagiert mit einem Stirnrunzeln und in ihrem Gesicht erkennt man auch geringe Anzeichen von Wut.{w} Ich schätze, sie weiß, worum es geht ..."
 
-        h "...Ugh, vergiss es.{w} Tiere."
+        h "...Ugh, vergesst es.{w} Ihr seid ja wie Tiere."
 
         $ sayaface='normal'
         $ hikaface='normal'
         show Sayaka
         show Hikari
 
-        "Yuzuki begins to stir from her slumber, forcing the attention on her as Sayaka and Hikari stand ready for the worst."
+        "Yuzuki erwacht aus ihrem Schlummer und erregt dadurch vor allem die Aufmerksamkeit von Hikari und Sayaka, die die ganze Zeit über auf das Schlimmste vorbereitet waren."
 
 
 
@@ -8785,9 +8785,9 @@ label explanationover:
 
         tg "Während der Arbeit schlafen?{w} Was eine Überraschung.{w} Was werden wir jetzt mit dir machen?"
 
-        "I hear a familiar voice.{w} One that's stern, yet...{w}there's a surprising amount of affection to it.{w} Unusually so."
+        "Ich höre eine vertraute Stimme.{w} Eine strenge, aber dennoch ...{w} auch mit jeder Menge Zuneigung.{w} Ungewöhnlich viel Zuneigung, um ehrlich zu sein."
 
-        "I have a hunch who it could be...{w}but, I wonder...?"
+        "Ich habe schon einen Verdacht, wer es sein könnte ...{w} aber ist das wirklich möglich ...?"
 
         scene cg13_3
         with wake
@@ -8795,19 +8795,19 @@ label explanationover:
         queue music "bgm/magicalgirlloop.ogg"    
         p "Hikari ...?"
 
-        "It really is her.{w} She's okay!{w} Thank god..."
+        "Sie ist es wirklich.{w} Es geht ihr gut!{w} Gott sei Dank ..."
 
         h "Niemand anders.{w} Du hast dir auf dem Weg nach unten nicht den Kopf gestoßen, oder...?"
 
-        "Okay, yeah, it's Hikari."
+        "Okay, ja, es ist Hikari."
 
-        "Despite her usual scolding words, I can't help but there's a softer edge to them.{w} But maybe I'm just imagining things?"
+        "Trotz ihrer üblichen Schimpfwörter zeigt sie gerade einen weichen Kern.{w} Oder bilde ich mir das bloß ein?"
 
-        "And maybe I'm just imagining that smile, too, as she leans down to help me up."
+        "Und vielleicht bilde ich mir auch das Lächeln, dass sie mir bot, als sie mir aufhelfen wollte, nur ein."
 
         p "Hab ich ...{w} Ich mein ...{w} Ist es vorbei?"
 
-        "She helps me up to a sitting position as I slowly regain my senses."
+        "Sie hilft mir dabei, eine aufrechte Sitzposition einzunehmen."
 
         h "Ja.{w} Die dunkle Königin ist wieder versiegelt, dank dir."
 
@@ -8821,31 +8821,31 @@ label explanationover:
 
         "..."
 
-        "Ah, she did it again.{w} She said something super embarrassing without realising it."
+        "Ah, sie hat es schon wieder getan.{w} Sie sagte etwas sehr Peinliches, ohne es zu bemerken."
 
-        "I'm sure any moment now she'll realise her mistake, and her face will go an interesting shade of red again."
+        "Ich bin mir sicher, dass sie ihren Fehler jeden Augenblick erkennt und kurz darauf knallrot im Gesicht wird."
 
-        "Or...{w}stay as that same sincere smile that the more I look at, the more I can feel my heart begin to throb."
+        "Oder ...{w} doch nicht?"
 
-        "Okay...{w} Maybe she just didn't realise what she said?{w} I'm sure I can still get a reaction out of her somehow.{w} I just need to say something like..."
+        "Okay ...{w} Vielleicht hat sie's noch nicht gemerkt?{w} Ich bin sicher, dass ich sie noch zu einer Reaktion bewegen kann.{w} Ich muss nur etwas sagen, wie zum Beispiel ..."
 
-        p "Ihr müsst euch ja wirklich große Sorgen um mich machen, hm?"
+        p "Du musst dir ja wirklich große Sorgen um mich machen, hm?"
 
-        "Unflinching in the face of my question, she takes a moment to think things over, before..."
+        "Sie nimmt sich einen Moment Zeit, um über das, was ich gerade gesagt habe, nachzudenken ..."
 
-        h "...{w}Ja.{w} I-Ich tuh es."
+        h "...{w}Ja.{w} T-Tu ich."
 
-        "Her smile remains, even if her cheeks are flaring up."
+        "Ihr Lächeln bleibt, aber ihre Wangen werden heiß."
 
-        "What is this?!{w} Now {i}I'm{/i} the one getting all flustered here!"
+        "Was soll das?!{w} Jetzt werd ich ja noch ganz wuschig!"
 
         p "W-Was zur Hölle sagst du da?!{w} Du ...{w} Du Idiot!"
 
-        "I'm not sure if she can tell if I'm being genuine, or just making fun of her here.{w} ...I honestly can't tell myself at this point."
+        "Ich bin nicht sicher, ob sie erkennt, dass ich mich über sie lustig mache oder ob ich es doch ernst meine.{w} Kein Wunder, wenn man bedenkt, dass ich es selbst nicht weiß."
 
         h "Muss ich...{w}es wirklich aussprechen?"
 
-        "She's getting close now.{w} {i}Way{/i} too close."
+        "Sie kommt gerade echt nahe.{w} {i}Viel{/i} zu nahe."
 
         p "H-Hey, was--"
 
@@ -8855,15 +8855,15 @@ label explanationover:
         show Hikari
         with dissolve
 
-        "She yanks me up to a standing position, before she brings both of her arms around me in a warm embrace.{w} Oh.{w} {i}Ohhh.{/i}"
+        "Sie reißt mich hoch und legt beide Arme um mich.{w} Oh.{w} {i}Ohhh.{/i}"
 
-        "She doesn't say anything, and simply holds me.{w} I'm fairly sure I can feel the intense heat radiating from her face, however."
+        "Sie sagt kein Wort und hält mich einfach fest.{w} Ich bin ziemlich sicher, dass die Hitze, die ich gerade spüre, von ihrem Gesicht ausstrahlt."
 
-        "I'm almost scared to reciprocate here, in case I ruin everything.{w} She's unpredictable enough that anything I might do might end with me flat on my back again."
+        "Ich hab fast Angst davor, diese Umarmung zu erwidern, da ich damit alles ruinieren könnte.{w} Sie ist schließlich unberechenbar genug."
 
-        "We stand together awkwardly for an indeterminate amount of time.{w} I think there was supposed to be something sweet about this moment?{w} I'm not so sure anymore."
+        "Eine Zeit lang stehen wir täppisch zusammen.{w} Sollte dieser Moment eigentlich nicht herzig sein?{w} Aktuell bin ich mir nämlich nicht mehr so sicher."
 
-        "Still, I'm glad she's okay.{w} Things were looking bleak back there.{w} Both her, and--"
+        "Trotzdem bin ich froh, dass es ihr gut geht.{w} Es sah schließlich nicht gut für sie und Sayaka aus."
 
         p "Sayaka!"
 
@@ -8872,9 +8872,9 @@ label explanationover:
         $ hikaface='shocked'
         show Hikari
 
-        h "H-huh?{w} Was?!"
+        h "H-Huh?{w} Was?!"
 
-        "I awkwardly blurt out her name as Hikari stumbles backwards, at a loss for words.{w} Maybe that wasn't the best time?"
+        "Als Reaktion auf meine Worte stolpert sie sprachlos zurück.{w} Das war wohl kein günstiger Augenblick, was?"
 
         p "Äh, entschuldige ...{w} Ich mein ... Geht es Sayaka gut?"
 
@@ -8885,33 +8885,33 @@ label explanationover:
         show Hikari
         with dissolve
 
-        "She gives me a sour look before huffing out a sigh."
+        "Sie schaut mich sauer an."
 
         h "Sie ist völlig in Ordnung."
 
         p "Oh, Gott sei Dank ..."
 
-        h "Es ist der {i}andere{/i} Unruhestifter."
+        h "Sie ist beim {i}anderen{/i} Unruhestifter."
 
-        "She scoffs and throws a sneer towards some other part of the cave.{w} It's amazing how quickly I was able to turn things from heartwarming to having her revert to her usual, annoyed self."
+        "Sie dreht ihren Kopf spöttisch in eine Richtung.{w} Erstaunlich, wie schnell sie von 'herzerwärmend' zu 'verärgert' umschalten kann."
 
-        "Other troublemaker...?{w} Oh!{w} She has to mean..."
+        "Der andere Unruhestifter ...?{w} Ah!{w} Sie meint wohl ..."
 
-        p "Yuzuki?!{w} Ihr geht es auch gut?!"
+        p "Yuzuki?!{w} Geht es ihr auch gut?!"
 
         $ hikaface='angry'
         show Hikari
 
         h "Sie hat wirklich Glück, dass sie okay ist.{w} Und nach alldem was sie uns angetan hat, weiß ich nicht, ob sie das {i}verdient{/i} hat."
 
-        "She motions over somewhere."
+        "Sie geht los."
 
         $ hikaface='normal'
         show Hikari
 
         h "Komm, ich werde es dir zeigen.{w} ...Idiot."
 
-        "I follow after her as she takes off at a pace far too fast for my unsteady legs."
+        "Ich folge ihr, wenn auch ziemlich langsam."
 
         p "H-Hey, beruhig dich!"
 
@@ -8921,7 +8921,7 @@ label explanationover:
         show Hikari
         with dissolve
 
-        "She thrusts out a violent finger towards Sayaka, who is standing guard close by an unconscious Yuzuki"
+        "Sie zeigt mit ihrem Finger auf Sayaka, die neben einer bewusstlosen Yuzuki Wache schiebt."
 
         $ sayaface='happy'
         $ sayapose='magical_2'
@@ -8931,14 +8931,14 @@ label explanationover:
 
         s "Ah, da sind sie!"
 
-        "Sayaka is safe and sound, the same blinding grin on her face as always as she greets us with a friendly chirp.{w} ...That's a relief."
+        "Sayaka ist gesund und munter und sie lächelt auch.{w} Es beruhigt mich wirklich, als sie uns begrüßt."
 
-        "Yuzuki looks a bit more worse for wear, her outfit in tatters and bearing a multitude of bruises that cover her body.{w} But, the important thing is that she's alive, which I can safely say is true from the gentle rise and fall of her chest."
+        "Yuzuki hingegen sieht ein bisschen lädierter aus.{w} Aber wichtig ist doch erstmal nur, dass sie am Leben ist."
 
         $ sayaface='joking'
         show Sayaka
 
-        s "You know, you could have taken your time getting over here.{w} I understand if you two want your--ahem--alone time."
+        s "Wisst ihr, ihr hättet euch ruhig Zeit lassen können.{w} Ich kann es verstehen, wenn ihr Zeit für euch alleine haben wollt."
 
         $ sayaface='smiling'
         $ hikaface='shy'
@@ -8947,11 +8947,11 @@ label explanationover:
         show Hikari
         with dissolve
 
-        h "D-Das hätten wir getan, wenn Mister Dense hier nicht darauf bestanden hätte, direkt zu dir zu marschieren."
+        h "D-Das hätten wir getan, wenn Herr Blödmann hier nicht darauf bestanden hätte, direkt zu dir zu marschieren."
 
-        "Uhh...?{w} I'm not really sure what to make of this.{w} She continues to say such embarrassing things without a care in the world.{w} ...Is this really Hikari?"
+        "Ähh ...?{w} Jetzt bin ich aber sprachlos.{w} Sie denkt überhaupt nicht an mich, als sie diese Worte in den Mund nimmt.{w} Ist das wirklich Hikari?"
 
-        "Wait, 'dense'?!{w} Who's dense here?!"
+        "Warte, 'Blödmann'?!{w} Wer ist hier der Blödmann?!"
 
         $ sayapose='magical_1'
         $ sayaface='happy'
@@ -8965,7 +8965,7 @@ label explanationover:
 
         s "'Kyahh!{w} Geht es Kenta gut?!{w} Ich kümmer mich um ihn, du pass auf Yuzuki auf!'"
 
-        "She puffs out her chest and puts on a silly voice as she recalls the moment.{w} Is this supposed to be her Hikari impression?"
+        "Sie streckt ihre Brust heraus und miemt Hikari. Wenngleich diese Nachahmung ziemlich dürftig ausfällt."
 
         p "V-Verstehe."
 
@@ -8974,11 +8974,11 @@ label explanationover:
 
         s "Hmm?{w} Mehr hast du in einem so innigen Moment nicht zu sagen?"
 
-        "If I'm being honest, I really didn't know Hikari cared for me {i}this{/i} much.{w} I thought she was just shy in general around people before!"
+        "Ich hätte nie gedacht, dass sich Hikari so sehr um mich sorgt.{w} Ich dachte immer, sie sei generell bloß schüchtern!"
 
-        "I mean, she's always been there for me.{w} Putting her life on the line.{w} And after today...{w}I've realised there's perhaps a bit more to it than just her working out of duty."
+        "Sie war schließlich immer für mich da.{w} Und hat ihr Leben aufs Spiel gesetzt.{w} Und heute bemerke ich ...{w} dass da vielleicht auch noch etwas mehr ist."
 
-        "But, I've been through so much in these last few moments, I'm really not sure how to process it at all.{w} All I can do is stand with my mouth slightly ajar."
+        "Aber ich hab in letzter Zeit so viel durchgemacht, dass ich das erstmal alles verarbeiten muss."
 
         p "Ähhh ..."
 
@@ -8992,18 +8992,18 @@ label explanationover:
         $ sayaface='joking'
         show Sayaka
 
-        "She lets out a cackle as she jabs at Hikari's side, whose mood sours with each increasing poke.{w} Don't...{w}don't poke the wild animal, Sayaka!"
+        "Sie verpasst Hikari einen leichten Stupser.{w} Wilde Tiere verärgert man nicht, Sayaka!"
 
         s "Hmm, hmm, hmmm?"
 
-        "She continues to prod.{w} I fear for her safety."
+        "Sie stupst sie weiterhin an.{w} Ich mache mir langsam Sorgen um ihr Wohlergehen."
         stop music fadeout 4.0
         $ hikaface='angry'
         show Hikari
 
-        "Hikari opens her mouth.{w} I can see the fire in her eyes.{w} Something bad is going to happen here!"
+        "Hikari öffnet ihren Mund.{w} Ich sehe das Feuer in ihren Augen.{w} Gleich wird hier etwas Schlimmes passieren!"
 
-        h "Okay, das tut es!{w} Sayaka, Ich werde wirklich--"
+        h "Okay, das reicht!{w} Sayaka, jetzt bist du--"
 
         $ hikaface='normal'
         $ sayaface='normal'
@@ -9012,7 +9012,7 @@ label explanationover:
 
         h "Huh?"
 
-        "Yuzuki stirs, forcing the pair back into their serious mode.{w} Oh, thank god!"
+        "Plötzlich bewegt sich Yuzuki wieder, was die beiden Mädchen wieder in einen ernsten Modus versetzt.{w} Ich danke dir!"
 
 
 
@@ -9027,11 +9027,11 @@ label explanationover:
 
         cg "Jup!{w} Schau!{w} Er atmet noch."
 
-        "Something prods at my face.{w} A warm, tender touch."
+        "Irgendwas stößt mir ins Gesicht.{w} Etwas Warmes und Zärtliches."
 
         with hpunch
 
-        "...And it prods some more.{w} And more."
+        "...Und es hört einfach nicht auf."
 
         tg "Was machst du da?!{w} Du kannst ihn doch nicht einfach so anstupsen!"
 
@@ -9043,11 +9043,11 @@ label explanationover:
 
         cg "...Ein Stupser noch!"
 
-        "{i}Smush{/i}.{w} The left side of my cheek is pushed a great deal up.{w} Okay, this is weird.{w} I should probably wake up now."
+        "{i}Quetsch{/i}.{w} Meine linke Wange wird extrem stark nach oben gedrückt.{w} Okay, das ist komisch.{w} Ich sollte besser aufwachen."
 
         p "Nghh."
 
-        tg "A-ah!{w} Er wacht auf!{w} Sayaka, geh weg!"
+        tg "A-Ah!{w} Er wacht auf!{w} Sayaka, geh weg!"
 
         cg "Wahh, okay, okay!{w} Du musst mich doch nicht gleich so anbrüllen."
 
@@ -9055,41 +9055,41 @@ label explanationover:
         with wake
         play music "bgm/magicalgirlintro.ogg" fadein 2.0
         queue music "bgm/magicalgirlloop.ogg"    
-        "I awake to a familiar, comforting sight.{w} My guardian angels--Sayaka and Hikari."
+        "Ich wache auf und sehe zwei vertraute Gesichter.{w} Meine Schutzengel, Sayaka und Hikari."
 
-        "They're both perfectly fine.{w} Not a single scratch on either of them.{w} I'm...{w}I'm so glad."
+        "Es geht beiden ziemlich gut.{w} Auf beiden ist kein einziger Kratzer zu sehen.{w} Ich ...{w} Ich bin so froh."
 
         p "M-Mädels ...?"
 
-        "I have to call out to both of them, just to confirm that this is real."
+        "Ich muss sie einfach beide beim Namen nennen, um sicherzustellen, dass ich nicht träume."
 
         s "Guten Morgen!{w} Wie geht es dir?"
 
         h "Gott sei Dank geht es dir gut...{w} Du solltest uns keine Sorgen machen, Kenta!"
 
-        "They both look relieved as they offer their hands my way."
+        "Beide bieten sie mir voller Erleichterung ihre Hand an."
 
         s "Kannst du stehen?"
 
-        "...I try my best to heave myself up off the ground, but my feeble arms give way.{w} Whoops.{w} Guess that resealing business really took more out of me than I thought."
+        "...Ich gebe mein Bestes, aber meine Gliedmaßen versagen klanglos.{w} Hoppla.{w} Die Wiederversiegelung hat mich anscheinend doch mehr Kraft gekostet."
 
-        "Sayaka giggles at my attempt, while Hikari flashes me a look of concern."
+        "Sayaka kichert als Reaktion auf meinen gescheiterten Versuch. Hikari hingegen wirft mir einen Blick voller Besorgnis zu."
 
         s "Ich betrachte das mal als 'nein'.{w} Komm, hoch mit dir!"
 
         h "Du solltest dich danach nicht drängen. {w} Wenn du unsere Hilfe brauchst... {w} Alles, was du tun musst, ist es zu sagen, und ich werde glücklich sein..."
 
-        "She trails off into a murmur inaudible to even herself, I'm sure."
+        "Sie murmelt etwas vor sich hin - so leise, dass sie es wahrscheinlich selbst nicht mal hören konnte."
 
-        "Sayaka and Hikari both take up a hand of mine, and they help me up to a sitting position."
+        "Sayaka und Hikari helfen mir, eine sitzende Position einzunehmen."
 
-        "As I sit up, the fog begins to clear within my mind and I recollect my senses."
+        "Während ich mich hinsetze, wird auch mein Verstand allmählich klarer."
 
         s "Und auf.{w} Alles in Ordnung?"
 
         h "Ja, wenn es etwas gibt, was du brauchst, halte dich nicht zurück zu fragen!"
 
-        "Sayaka kneels at my side, her eyes glimmering.{w} ...As does Hikari, who kneels at my opposite side.{w} This is getting a bit weird now.{w} What is this?"
+        "Sayaka kniet mit glitzernden Augen an meiner Seite.{w} Hikari ebenso, nur halt auf der anderen Seite.{w} Das wird jetzt ein bisschen merkwürdig.{w} Was soll das werden?"
 
         p "Es geht mir, äh, entsprechend.{w} Macht euch keine Sorgen.{w} Ich bin nur ein bisschen schwach auf den Beinen."
 
@@ -9099,9 +9099,9 @@ label explanationover:
 
         h "Ganz genau.{w} Wir wurden dafür trainiert.{w} Es hätte vielleicht schlecht ausgesehen, aber ich versichere dir, alles war ... {w}unter Kontrolle!!"
 
-        "They're trying their best to assure me things were okay, but things really did look dire back then..."
+        "Sie versuchen ihr Bestes, um mir zu versichern, dass das alles kein Problem war, aber ich bin da völlig anderer Meinung ..."
 
-        "Sayaka suddenly leans in, a dangerous smile creeping upon her face."
+        "Plötzlich lehnt sich Sayaka mit einem alarmierenden Lächeln nach vorn."
 
         s "Wenn du sagst, du hast dir Sorgen um uns gemacht ...{w} Hast du dir da um irgendjemand bestimmten {i}mehr{/i} Sorgen gemacht?"
 
@@ -9117,7 +9117,7 @@ label explanationover:
 
         p "Ey, jetzt kommt schon ..."
 
-        "I'm not really sure what this has turned into.{w} Of all the times for their competitive nature to kick in..."
+        "Mich würde echt gern interessieren, wie es dazu kommen konnte.{w} Warum müssen sie ausgerechnet in einem solchen Augenblick ihre Konkurrenzfähigkeit raushängen lassen ..."
 
         scene cave
         $ sayaface='smiling'
