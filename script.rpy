@@ -344,7 +344,7 @@ label start:
             stop music fadeout 2.0
             scene town street day with fade
 
-            "Okay, nein.{w} Das war ’ne ganz schlechte Idee.{w} Das hat ja überhaupt nichts bewirkt.{w} Das Monster sieht jetzt nur noch wütender aus als vorhin."
+            "Okay, nein.{w} Das war 'ne ganz schlechte Idee.{w} Das hat ja überhaupt nichts bewirkt.{w} Das Monster sieht jetzt nur noch wütender aus als vorhin."
             play music "bgm/ominousintro.ogg" fadein 2.0 
             queue music "bgm/ominousloop.ogg"
             "Das Einzige, was mein Schlag bewirkt hat, war, dass ich mir selbst wehgetan hab.{w} Ich hoffe, ich hab mir nichts gebrochen ..."
