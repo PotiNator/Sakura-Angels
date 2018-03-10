@@ -542,7 +542,7 @@ label start:
 
     "Als sie das sagt, macht sie mit ihrem Bogen eine schwungvolle Bewegung, woraufhin dieser zwischen ihren Fingern zerbricht."
     
-    "Wenige Augenblicke später bilden sich diese Scherben hinter ihrem Rücken wieder zusammen, bis sich ein aar Flügel gebildet hat."
+    "Wenige Augenblicke später bilden sich diese Scherben hinter ihrem Rücken wieder zusammen, bis sich ein Paar Flügel gebildet hat."
 
     "Die Flügel sind zwar nicht fest mit ihr verbunden, aber sie scheinen dennoch zu funktionieren. Oder sagen wir es so, sie bewegen sich im Wind zumindest hin und her."
 
