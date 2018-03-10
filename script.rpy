@@ -392,7 +392,7 @@ label start:
     scene bg white
     with flash
 
-    "Kurz bevor mich das Monster verspeist und mein Leben zu einem Ende bringt, dringt ein strahlend helles Licht in mein Blickfeld, welches sowohl mich als auch das Monster verschlingt."
+    "Kurz bevor mich das Monster verspeist und meinem Leben ein Ende setzt, dringt ein strahlend helles Licht in mein Blickfeld, welches sowohl mich als auch das Monster verschlingt."
 
     "Das Monster bleibt regungslos stehen und schreit, ehe es vor meinen Augen 'verdampft'."
 
@@ -405,14 +405,14 @@ label start:
 
     tg "Rede nicht mit ihm!{w} Wir müssen gehen, bevor--"
 
-    "Und dann eine weitere Stimme, die weniger ...{w} fröhlich klingt.{w} Um ehrlich zu sein, klingt sie sogar eher verägert."
+    "Und dann eine weitere Stimme, die weniger ...{w} fröhlich klingt.{w} Genauer gesagt klingt sie sogar eher verägert."
 
     scene cg1 with wake
 
 
     "Kurz darauf verlasst das Licht, was meine Retter zum Vorschein bringt."
 
-    "...Wobei ...{w} ich das echt als {i}letztes{/i} erwartet hätte."
+    "...Wobei ich ...{w} das echt als {i}Letztes{/i} erwartet hätte."
 
     "Zwei Mädchen, in etwa in meinem Alter, stehen vor mir."
 
@@ -446,7 +446,7 @@ label start:
 
     tg "Als ob die Dinge nicht schlimm genug wären, dass wir uns ihm offenbaren mussten, redest du mit ihm auch noch über Sachen, die kein normaler Mensch wissen sollte.{w} Hast du den Verstand verloren?!"
 
-    "Das aggressivere Mädchen, dessen Ausdruck immer düsterer wurde, während die andere sprach, unterbrach plötzlich. Anscheinend konnte sie es nicht länger ertragen."
+    "Das aggressivere Mädchen, dessen Ausdruck immer düsterer wurde, während die andere sprach, mischte sich plötzlich ein. Anscheinend konnte sie es nicht länger ertragen."
 
     cg "Aww, aber er sieht so verwirrt aus!{w} Und denkst du nicht, dass es jetzt, wo er die Schatten schon aus erster Hand erlebt hat, ein {i}wenig{/i} zu spät ist, um wieder abzuhauen?"
 
@@ -491,7 +491,7 @@ label start:
 
     tg "Du Idiot!"
 
-    "{i}Whap!{/i} Das ernstere Mädchen 'schlägt' mir ihrer Faust auf den Kopf des anderen Mädchens, die gerade in einer 'Tut mir leid, mein Fehler'-Art und Weise ihre Zunge ausstreckt."
+    "{i}Bam!{/i} Das ernstere Mädchen 'schlägt' mir ihrer Faust auf den Kopf des anderen Mädchens, die gerade in einer 'Tut mir leid, mein Fehler'-Art und Weise ihre Zunge ausstreckt."
 
     p "Ihr kennt mich also?"
 
@@ -532,7 +532,7 @@ label start:
 
     cg "Hmmm ..."
 
-    "Sie fängt an nachzudenken.{w} Ich schätze, sie wählt die Worte, die sie gleich sagen wird, sorgfältig aus, um zu verhindern, dass ihre Partnerin wieder auszuckt."
+    "Sie fängt an nachzudenken.{w} Ich schätze, sie wählt die Worte, die sie gleich sagen wird, sorgfältig aus, um zu verhindern, dass ihre Partnerin wieder ausflippt."
 
     $ sayaface='happy'
     $ sayapose='magical_1'
@@ -683,7 +683,7 @@ label start:
             show Hikari
             with hpunch
 
-            "{i}BAM.{/i} Da landet die Faust direkt im Gesicht des fröhlichen Mädchens.{w} Und dieses Mal war es ernst gemeint, denn sie hielt kein bisschen zurück.{w} Das sah aus, als hätte es echt weh getan ..."
+            "{i}BAM.{/i} Da landet die Faust direkt im Gesicht des fröhlichen Mädchens.{w} Und dieses Mal war es ernst gemeint, denn sie hielt kein bisschen zurück.{w} Das muss echt wehgetan haben ..."
 
             tg "Halt dein Mund!{w} Soetwas habe ich nie gesagt!"
 
@@ -692,7 +692,7 @@ label start:
 
             cg "Wahh!{w} Okay, okay, schon gut!"
 
-            "Meine Güte ...{w} Die beiden sind echt komisch.{w} Aber sie schien es wirklich ernst zu meinen.{w} Vielleicht war meine Schlussfolgerung, sie als Verrückte abzustempeln, etwas voreilig."
+            "Meine Güte ...{w} Die beiden sind echt komisch.{w} Aber sie scheint es wirklich ernst gemeint zu haben.{w} Vielleicht war meine Entscheidung, sie als Verrückte abzustempeln, etwas voreilig."
 
             "Ich mein, sie sind verrückt, das stimmt schon, aber vielleicht steckt ja doch ein Fünkchen Wahrheit darin.{w} Die Existenz dieses Monsters kann ich schließlich auch nicht leugnen, so schwer es mir auch fällt."
 
