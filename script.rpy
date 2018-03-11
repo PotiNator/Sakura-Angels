@@ -8570,14 +8570,14 @@ label explanationover:
 
     "...Als Reaktion darauf gibt dieser einen letzten elektrischen Schlag von sich, ehe der Schmerz nachlässt.{w} Und auch der Geschrei."
 
-    "Die Wiederversiegelung … wurde abgeschlossen."
+    "Die Wiederversiegelung ... wurde abgeschlossen."
 
     scene cave
     with dissolve
 
     "...Du willst mich wohl verarschen.{w} Ich musste die ganze Zeit nur dagegenschlagen?!"
 
-    "I…Ich kann’s nicht fa..."
+    "I... Ich kann’s nicht fa..."
 
     "Warte.{w} Jetzt erinnere ich mich.{w} An das, was mir in dieser Nacht beigebracht wurde."
 
