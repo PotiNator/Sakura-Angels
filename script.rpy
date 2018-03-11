@@ -7336,7 +7336,7 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    s "Und das war einfach genug.{w} Du hattest keine Ahnung, dass sie existieren und wir haben uns auch von dir ferngehalten."
+    s "Und das war einfach genug.{w} Du hattest keine Idee, dass sie existieren und wir haben uns auch von dir ferngehalten."
 
     s "Und dann fingen die Dinge an, schlecht zu werden ...{w} als du den Schatten gesehen hast ...{w} wir waren wirklich überrascht!"
 
