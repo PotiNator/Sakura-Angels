@@ -5721,7 +5721,7 @@ label explanationover:
 
             "Ihr Gesicht wird noch roter, was eigentlich gar nicht mehr möglich sein sollte."
 
-            h "D-Du kannst das nicht so meinen..."
+            h "D-Du kannst das nicht so meinen ..."
 
             s "Siehst du?{w} Ich hab es dir gesagt!{w} Selbst Kenta kann nicht anders, als dich anzuschauen."
 
@@ -5735,7 +5735,7 @@ label explanationover:
 
             s "So ... neidisch!"
 
-            h "O-okay, das reicht...{w} Du kannst jetzt aufhören, S-Sayaka!"
+            h "O-okay, das reicht ...{w} Du kannst jetzt aufhören, S-Sayaka!"
 
             "Sayaka schenkt ihr überhaupt keine Aufmerksamkeit und macht weiter."
 
@@ -5787,7 +5787,7 @@ label explanationover:
 
             "Häh?{w} Warum ist Sayaka denn so aufgeregt?"
 
-            s "Garnichts...?"
+            s "Gar nichts ...?"
 
             "Ich schüttle meinen Kopf und zucke mit den Schultern.{w} Hab ich da was verpasst?"
 
@@ -5804,14 +5804,14 @@ label explanationover:
 
             "Selbst Hikari scheint beleidigt zu sein und dreht ihren Kopf einfach zur Seite.{w} Aber bei ihr braucht es dazu nicht viel, von daher wundert es mich nicht wirklich."
 
-            s "Kenta!{w} Du solltest besser hier rüberkommen.{w} Wir haben Jahre gebraucht, um diese..."
+            s "Kenta!{w} Du solltest besser hier rüberkommen.{w} Wir haben Jahre gebraucht, um diese ..."
 
             p "Nop.{w} Ich steh gerade echt auf der Leitung.{w} Worum geht's denn?"
 
             $ sayaface='angry'
             show Sayaka
 
-            s "Es...{w}es ist egal."
+            s "Es ...{w} es ist egal."
 
             "Sayaka setzt einen so beängstigenden Gesichtsausdruck auf, der dem von Hikari ähnelt.{w} Ehrlich, was hab ich bloß falsch gemacht?!"
 
@@ -5847,7 +5847,7 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    s "Hmm, was machen wir alls erstes...?"
+    s "Hmm, was machen wir als Erstes ...?"
 
     "Als sich Sayaka zu einer der Taschen aufmacht, die ich bis hierher schleppen musste, murmelt sie etwas vor sich hin."
 
@@ -5889,7 +5889,7 @@ label explanationover:
     $ sayaface='happy'
     show Sayaka
 
-    s "Oh, gut gemacht!{w} Schmeiß es wieder zurück!"
+    s "Oh, gut gemacht!{w} Schmeiß ihn wieder zurück!"
 
     "Ich werfe ihr den Ball zu.{w} Er segelt so irgendwie durch die Luft ... Gerade so weit, dass sie ihn fangen kann.{w} Das war jetzt peinlich."
 
@@ -5926,14 +5926,14 @@ label explanationover:
     show Sayaka at left
     with dissolve
 
-    s "Ich sagt dass du es fangen sollst, Hikari!{w} Ich hab dir eine faire Chance gegeben und so."
+    s "Ich sagte, dass du ihn fangen sollst, Hikari!{w} Ich hab dir eine faire Chance gegeben und so."
 
     "Sayaka seufzt übertrieben ... Mit einem alarmierenden Schimmer in ihren Augen{w} ... War das die Rache für vorhin?{w} Ich sollte mir merken, mich nie mit Sayaka anzulegen."
 
     $ hikaface='normal'
     show Hikari
 
-    h "Was?{w} Ich erinnere mich nicht..."
+    h "Was?{w} Ich erinnere mich nicht ..."
 
     "Hikari blickt verwirrt drein.{w} Sie hat noch immer keinen Plan, was gerade passiert ist.{w} Vielleicht ist es auch besser so.{w} Wir sind schließlich hier, um Spaß zu haben, und nicht um zu kämpfen!"
 
@@ -6013,7 +6013,7 @@ label explanationover:
     show Hikari at right
     with dissolve
 
-    s "Hmm?{w} Was gibts?"
+    s "Hmm?{w} Was gibt's?"
 
 
     stop music fadeout 4.0
@@ -6041,7 +6041,7 @@ label explanationover:
     with dissolve
     play music "bgm/ominousintro.ogg" fadein 2.0
     queue music "bgm/ominousloop.ogg"
-    h "Nein!{w} Schau, untem im Wasser!{w} Siehst du es nicht?"
+    h "Nein!{w} Schau, unten im Wasser!{w} Siehst du es nicht?"
 
     "Hä?{w} Im Wasser?"
 
@@ -6118,7 +6118,7 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    s "Na denk darüber nach.{w} Das Ding ist groß.{w} Und sie ist dabei, mit einer Explosion reiner Magie, den Kern zu treffen.{w} Was denkst du, was passieren wird?"
+    s "Na, denk darüber nach.{w} Das Ding ist groß.{w} Und sie ist dabei, den Kern mit einer Explosion reiner Magie zu treffen.{w} Was denkst du, was passieren wird?"
 
     "Wie zur Hölle soll ich so was denn wissen?"
 
@@ -6144,7 +6144,7 @@ label explanationover:
     show Hikari at center
     with dissolve
 
-    "Aber als ich aus unserem Versteck blicke, ist es bereits zu spät.{w} Hikari entfesselt all die Magie, die sie angesammelt hatte, und trifft die Abscheuligkeit mitten ins Zentrum."
+    "Aber als ich aus unserem Versteck blicke, ist es bereits zu spät.{w} Hikari entfesselt all die Magie, die sie angesammelt hatte, und trifft die Abscheulichkeit mitten ins Zentrum."
 
     "...Es ist nichts passiert?{w} Die Lichtkugel wurde von der Kreatur geradewegs verschluckt."
 
@@ -6155,14 +6155,14 @@ label explanationover:
 
     "Plötzlich detoniert das Monster ohne Vorwarnung und die Explosion verdeckt kurzzeitig meine Sicht.{w} Kurz darauf höre ich Hikari aufschreien."
 
-    "Als das Licht sich langsam auflöst, höre ich etwas in den Sand prasseln{w} ... Regen?{w} Nein, am Himmel ist nicht eine einzige Wolke zu sehen.{w} Ich befürchte, es ist weitaus schlimmer."
+    "Als sich das Licht langsam auflöst, höre ich etwas in den Sand prasseln{w} ... Regen?{w} Nein, am Himmel ist nicht eine einzige Wolke zu sehen.{w} Ich befürchte, es ist weitaus schlimmer."
 
     "Ich fokussiere meinen Blick noch stärker auf das Ufer, achte aber darauf, unser Versteck nicht zu verlassen."
 
     scene cg7
     with wake
 
-    "Es regnet ...{w} Schleim?{w} Ein Großteils der Kreatur bedeckt nun den Strand.{w} Hm.{w} Ich hätte mit mehr Gegenwehr gerechnet."
+    "Es regnet ...{w} Schleim?{w} Ein Großteil der Kreatur bedeckt nun den Strand.{w} Hm.{w} Ich hätte mit mehr Gegenwehr gerechnet."
 
     "Und im Zentrum von all dem Chaos steht eine traumatisierte Hikari - voller Schlamm."
 
@@ -6186,7 +6186,7 @@ label explanationover:
 
 
 
-    s "Meine Güte, das ist ziemliches durcheinander."
+    s "Meine Güte, das ist ein ziemliches Durcheinander."
 
     "Sayaka pfeift, als sie sich mit einem Grinsen heimlich vom Felsen entfernt."
 
@@ -6194,11 +6194,11 @@ label explanationover:
 
     s "Ich frage mich, was sie von all dem zu Hause denken würden, hmm?"
 
-    h "Ich habe nich nachgedacht!{w} Denn Strandball, den du nach mir geworfen hast ..."
+    h "Ich habe nicht nachgedacht!{w} Den Strandball, den du nach mir geworfen hast ..."
 
-    "Sayaka bewegt sich auf ihre Partnerin zu und weicht dabei geschickt den Schleim aus."
+    "Sayaka bewegt sich auf ihre Partnerin zu und weicht dabei geschickt dem Schleim aus."
 
-    s "Entschuldigungen, entschuldigungen!{w} Ich hätte nicht gedacht, dass einer der besten Schüler so einen Fehler machen würde."
+    s "Entschuldigungen, Entschuldigungen!{w} Ich hätte nicht gedacht, dass einer der besten Schüler so einen Fehler machen würde."
 
     h "Es ist nicht meine Schuld!"
 
@@ -6216,7 +6216,7 @@ label explanationover:
 
     "...Plötzlich sieht ihr Lächeln noch hinterhältiger aus.{w} Dieses Mädchen ist das Böse in seiner reinsten Form!"
 
-    h "Warum passiert soetwas immer mir?!"
+    h "Warum passiert so etwas immer mir?!"
 
     "Als Hikari versucht, sich von der Substanz zu befreien, gibt sie ein Stöhnen von sich.{w} ... Sei stark, Hikari!"
 
@@ -6239,7 +6239,7 @@ label explanationover:
     scene town street night
     with fade
 
-    "Während der Tag langsam zu Ende geht, marschieren wir durch die Straßen.{w} Die Sonne versinkt hinter dem Horizont und die Welt färbt sich in einem orangenen Schimmer."
+    "Während der Tag langsam zu Ende geht, marschieren wir durch die Straßen.{w} Die Sonne versinkt hinter dem Horizont und die Welt färbt sich in einen orangenen Schimmer."
 
     $ sayaface='normal'
     $ hikaface='normal'
@@ -6259,7 +6259,7 @@ label explanationover:
 
     "Aber ...{w} niemand.{w} Uns greift niemand an."
 
-    "Kein krankes Kichern aus dem Schatten000.{w} Keine Monster, die aus der Dunkelheit heraus angreifen.{w} Gar nichts ..."
+    "Kein krankes Kichern aus dem Schatten.{w} Keine Monster, die aus der Dunkelheit heraus angreifen.{w} Gar nichts ..."
 
     "Es ist schwer zu glauben, dass sie sich nach all den Mühen der letzten Nächte eine solche Chance entgehen lässt."
 
@@ -6269,12 +6269,12 @@ label explanationover:
 
     "Zumindest sind die Kopfschmerzen wieder weg.{w} Und normalerweise sind sie am stärksten, wenn Yuzuki vor uns auftaucht ... Aus welchem Grund auch immer."
 
-    "Ich vertraue meinem Kopf.{w} Er scheint am zuverlässigsten zu sein, wenn es um diese Begegnunen jenseits aller Vorstellungen geht."
+    "Ich vertraue meinem Kopf.{w} Er scheint am zuverlässigsten zu sein, wenn es um diese Begegnungen jenseits aller Vorstellungen geht."
 
     scene bg black
     with fade
 
-    "Wir schaffen es nach Hause, ohne einen einzigen dunklen Engel zu begegnen"
+    "Wir schaffen es nach Hause, ohne einem einzigen dunklen Engel zu begegnen"
 
     "Ich verabschiede mich winkend von den beiden Mädchen, welche mir ebenso 'enthusiastisch' antworten.{w} Ich denke, wir alle möchten den heutigen Tag einfach nur vergessen.{w} Vor allem Hikari."
 
@@ -6296,7 +6296,7 @@ label explanationover:
 
     "Der einzige Unterschied besteht darin, dass die Morgensonne heute nirgends zu sehen ist.{w} Stattdessen höre ich das heftige Geräusch des Regens, der gegen das Fenster hämmert."
 
-    "Der heutige Tag scheint echt mies zu werden.{w} Der graue Himmel über der Stadt wirft einen deprimierenden Schatten auf die Stadt, und es scheint, als würde es noch sehr lange regnen.{w} Na toll!"
+    "Der heutige Tag scheint echt mies zu werden.{w} Der graue Himmel über der Stadt wirft einen deprimierenden Schatten auf die Stadt und es scheint, als würde es noch sehr lange regnen.{w} Na toll!"
 
     "Und ich muss bei dem scheiß Wetter nach draußen.{w} Das wird kein lustiger Tag, das weiß ich jetzt schon."
 
@@ -6377,18 +6377,18 @@ label explanationover:
     $ hikaface='embarrassed'
     show Hikari
 
-    h "S-Sayaka!{w} Können wir das jetzt endlich vergessen?{w} Ich war dumm, ich hab ein Fehler gemacht.{w} Große Sache!"
+    h "S-Sayaka!{w} Können wir das jetzt endlich vergessen?{w} Ich war dumm, ich hab einen Fehler gemacht.{w} Große Sache!"
 
     "Aufgeregt geht Hikari einen Schritt auf ihre Parnterin zu.{w} Wir sind noch nicht mal in der Schule, und die diskutieren schon wieder!{w} Ich glaube, das ist ein neuer Rekord."
 
-    h "Und außerdem weiß ich noch, dass {i}du{/i} es warst, die kurz davor war mit deinen Mätzchen von der Akademie ausgeschlossen zu werden."
+    h "Und außerdem weiß ich noch, dass {i}du{/i} es warst, die kurz davor war, mit deinen Mätzchen von der Akademie ausgeschlossen zu werden."
 
     $ sayaface='joking'
     $ sayapose='school_1'
     show Sayaka
     with dissolve
 
-    s "Eh-heh-heh...{w} Sie mögen einfach keine guten Witze"
+    s "Eh-heh-heh ...{w} Sie mögen einfach keine guten Witze!"
 
     $ hikaface='angry'
     $ hikapose='school_1'
@@ -6404,12 +6404,12 @@ label explanationover:
     $ sayaface='smiling'
     show Sayaka
 
-    s "'Kay.{w} Ich denke wirklich nicht dass es so schlecht war..."
+    s "'Kay.{w} Ich denke wirklich nicht, dass es so schlecht war ..."
 
     $ hikaface='north'
     show Hikari
 
-    s "Egal, Kenta, wie wäre es wenn ich etwas koche--"
+    s "Egal, Kenta, wie wäre es, wenn ich etwas koche--"
 
     $ sayaface='shocked'
     show Sayaka
@@ -6423,7 +6423,7 @@ label explanationover:
     $ sayaface='scared'
     show Sayaka
 
-    s "Dieses mal wird es wirklich--"
+    s "Dieses Mal wird es wirklich--"
 
     p "Nop."
 
@@ -6533,7 +6533,7 @@ label explanationover:
 
     "Ich schätze mal, dass diese Kopfschmerzen eine andere Ursache haben, von daher sollte ich mir keine allzu großen Sorgen machen."
 
-    "Oder ist es doch eine Warnung?{w} Dass etwas auf und, oder besser gesagt mich, zukommt?{w} Ich weiß nicht, was ich davon halten soll."
+    "Oder ist es doch eine Warnung?{w} Dass etwas auf uns, oder besser gesagt mich, zukommt?{w} Ich weiß nicht, was ich davon halten soll."
 
     s "Kenta?{w} Bist du okay?"
 
@@ -6596,20 +6596,20 @@ label explanationover:
 
     "Was widerum heißt, dass sie auch die Ursache dahinter kennt?"
 
-    "Wenn sie auch nur irgendwas darüber wissen, wird es Zeit, dass ich sie an den Zahn fühle."
+    "Wenn sie auch nur irgendwas darüber wissen, wird es Zeit, dass ich ihnen an den Zahn fühle."
     
     "Ich kann schließlich nicht zulassen, dass etwas so Wichtiges einfach unter den Teppich geschoben wird."
 
     "Ich stehe etwas unsicher auf den Beinen auf.{w} Sie sind in die Cafeteria gegangen, oder?"
 
-    "Ich begebe mich ebenfalls dort hin, aber eine der Schülerinnen, die ich am Weg dorthin begegne, erregt meine Aufmerksamkeit."
+    "Ich begebe mich ebenfalls dort hin, aber eine der Schülerinnen, der ich am Weg dorthin begegne, erregt meine Aufmerksamkeit."
 
     $ yuzuface='normal'
     $ yuzupose='school_1'
     show Yuzuki at center
     with dissolve
 
-    "Eine Schülerin mit silbernen Haar und bernsteinfarbene Augen."
+    "Eine Schülerin mit silbernem Haar und bernsteinfarbenen Augen."
 
     "Da klingelt es in meinem Kopf.{w} Woher kenne ich sie bloß?"
 
@@ -6622,7 +6622,7 @@ label explanationover:
 
     p "...Yuzuki?"
 
-    "Als es mir einfällt, entwischt ihr Name meinen Mund."
+    "Als es mir einfällt, entwischt ihr Name meinem Mund."
 
     "Ging sie schon immer hier zur Schule ...?{w} Wie konnte ich das erst jetzt bemerken?!"
 
@@ -6669,7 +6669,7 @@ label explanationover:
 
     "Da steht sie, mit einer Hand am Geländer festhaltend.{w} Der Regen hat sie bereits völlig durchnässt."
 
-    "Sie scheint davon aber völlig unbehelligt zu sein.{w} Ich zwar erst eine Sekunde hier draußen, habe aber schon das Bedürfnis, mich von hier zu verziehen."
+    "Sie scheint davon aber völlig unbehelligt zu sein.{w} Ich bin zwar erst eine Sekunde hier draußen, habe aber schon das Bedürfnis, mich von hier zu verziehen."
 
     "Yuzuki ignoriert mich - ihre bernsteinfarbenen Augen voller Leere."
 
@@ -6749,7 +6749,7 @@ label explanationover:
 
 
 
-    "Plötzlich unterbricht sie mich.{w} Sie dreht sich um und starrt mir in die Augen.{w} Der leere Blick ist inzwischen verschwunden, an seiner Stelle ist aber nun ein Blick voller Haus zu finden."
+    "Plötzlich unterbricht sie mich.{w} Sie dreht sich um und starrt mir in die Augen.{w} Der leere Blick ist inzwischen verschwunden, an seiner Stelle ist aber nun ein Blick voller Hass zu finden."
 
     y "Aber hab kein Mitleid mit mir.{w} Nichts davon zählt mehr.{w} Nicht nach dem morgigen Tag.{w} Alles wird sich verändern."
 
@@ -6790,7 +6790,7 @@ label explanationover:
 
     "Ich stehe allein auf dem Dach ... Mitten im strömenden Regen."
 
-    "Eigentlich wollte ich ein paar Dingen auf den Grund gehen ...{w}aber jetzt bin ich noch verwirrter als vorher."
+    "Eigentlich wollte ich ein paar Dingen auf den Grund gehen ...{w} aber jetzt bin ich noch verwirrter als vorher."
 
     with hpunch
 
@@ -6816,7 +6816,7 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    s "Wahh!{w} Kenta!{w} Was um Himmels willen ist passiert?!"
+    s "Wahh!{w} Kenta!{w} Was um Himmels Willen ist passiert?!"
 
     "Oh.{w} Ich schätze, Sayaka ist gekommen, um nach mir zu sehen, da ich nicht in der Cafeteria war.{w} Ich drehe mich um und lächle sie mit meinem überaus nassen Haar an."
 
@@ -6826,7 +6826,7 @@ label explanationover:
 
     p "Alles in Ordnung, mach dir keine Sorgen."
 
-    s "Nichts?!{w} Kenta, du bist komplett Nass!{w} Was hast du gemacht?"
+    s "Nichts?!{w} Kenta, du bist komplett nass!{w} Was hast du gemacht?"
 
     p "Ich war eigentlich schon draußen, um was zu holen, hab aber vor lauter Eile meinen Regenschirm vergessen.{w} Aber mir wird schon nichts passieren!"
 
@@ -6913,13 +6913,13 @@ label explanationover:
 
     s "Kyahh!{w} Kenta?"
 
-    h "W-Was zur Hölle denkst du was du da tust?!"
+    h "W-Was zur Hölle denkst du, was du da tust?!"
 
     "Och nö.{w} Ich hab hier vielleicht einen kleinen Fehler gemacht.{w} Die Fehler der Vergangenheit haben mich anscheinend nichts gelehrt."
     
     "Nicht in der Lage, irgendeine Antwort zu finden, lasse ich den Anblick über mich ergehen."
 
-    "Beim Öffnen des Zeltes werden ich von den beiden bereits empfangen – halbnackt. In einem Raum, der von innen wesentlich größer aussieht, als er von außen zu sein scheint."
+    "Beim Öffnen des Zeltes werde ich von den beiden bereits empfangen – halbnackt. In einem Raum, der von innen wesentlich größer aussieht, als er von außen zu sein scheint."
 
     "Ein schwindelerregender Duft schwebt aus dem Zelt hervor und benebelt meine Sinne noch zusätzlich."
 
@@ -6947,7 +6947,7 @@ label explanationover:
 
     "Sie unterbricht mich.{w} Logisch.{w} In solch einer Situation habe ich natürlich nicht das Recht, mich rechtzufertigen.{w} Das ist die Logik dieser beiden Mädchen."
 
-    h "K-Keine Entschuldigungen mehr!{w} Ich habe dich letztes Mal in Ruhe gelassen, aber diesmal..."
+    h "K-Keine Entschuldigungen mehr!{w} Ich habe dich letztes Mal in Ruhe gelassen, aber diesmal ..."
 
     "Mit einer Decke, die den größten Teil ihres nackten Körpers bedeckt, marschiert Hikari mit einem furchterregenden Blick auf mich zu."
 
@@ -6985,7 +6985,7 @@ label explanationover:
 
     "Sayaka stürzt sich auf mein Bett und schaut aufgeregt umher. Hikari hingegen steht noch immer wütend bei der Tür.{w} Ich hab mich doch bereits entschuldigt!"
 
-    s "Also das ist dein Zimmer, oder?{w} IEs ist schön, es endlich von innen sehen zu können, nachdem ich es die ganze Zeit ausgespäht habe."
+    s "Also, das ist dein Zimmer, oder?{w} Es ist schön, es endlich von innen sehen zu können, nachdem ich es die ganze Zeit ausgespäht habe."
 
     "...Ich tu mal so, als hätte ich das nicht gehört."
 
@@ -6999,7 +6999,7 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    s "Hmm, ich frag mich was Kenta so auf seinem Computer hat..."
+    s "Hmm, ich frag mich, was Kenta so auf seinem Computer hat ..."
 
     "Sayaka greift nach meinem Laptop."
 
@@ -7019,11 +7019,11 @@ label explanationover:
 
     "Sayaka nimmt einen ernsten Ausdruck an und setzt sich aufrecht hin.{w} Ich wusste gar nicht, dass sie zu so was überhaupt in der Lage ist."
 
-    s "Wir wollten es dir wirklich eerzählen, Kenta.{w} Das wollten wir nicht geheim halten..."
+    s "Wir wollten es dir wirklich erzählen, Kenta.{w} Das wollten wir nicht geheim halten ..."
 
-    s "Wir dachten nur, wir könnten die Dinge alleine bewältigen, bevor wir dich auf alles einlassen."
+    s "Wir dachten nur, wir könnten die Dinge alleine bewältigen, bevor wir dich darüber aufklären."
 
-    s "Aber wie du von dieser Yuzuki Person gehört hast, ist die Zeit jetzt wirklich knapp."
+    s "Aber wie du von dieser Yuzuki-Person gehört hast, ist die Zeit jetzt wirklich knapp."
 
     $ hikaface='angry'
     show Hikari
@@ -7034,7 +7034,7 @@ label explanationover:
 
     p "Ich weiß, es war dumm ...{w} aber es war der einzige Weg, damit ich was lern. Ihr wart schließlich nicht gerade hilfreich."
 
-    h "Das..."
+    h "Das ..."
 
     $ hikaface='normal'
     $ hikapose='school_2'
@@ -7060,7 +7060,7 @@ label explanationover:
     show Hikari
     show Sayaka
 
-    s "Der Start etwas sehr schlimmes."
+    s "Der Start von etwas sehr schlimmem."
 
     p "Ach, echt jetzt?!{w} Jetzt hört endlich auf mit diesem mysteriösen Schwachsinn!"
 
@@ -7078,7 +7078,7 @@ label explanationover:
     play music "bgm/seriousintro.ogg" fadein 2.0
     queue music "bgm/seriousloop.ogg"
 
-    s "Sag mir Kenta, was hälst du von deiner Blutslinie?{w} Deine Vorfahren?"
+    s "Sag mir Kenta, was hälst du von deiner Blutslinie?{w} Deinen Vorfahren?"
 
     p "Ähh ...{w} Nicht wirklich viel ...{w} Inwiefern ist das überhaupt wichtig?"
 
@@ -7096,7 +7096,7 @@ label explanationover:
     $ sayaface='normal'
     show Sayaka
 
-    s "Aber...{w}wegen deinem Blut wurden wir gesendet.{w} Wenn es in die falschen Hände gerät--nammens Yuzuki's--wären wir alle in großen Schwierigkeiten."
+    s "Aber ...{w} wegen deinem Blut wurden wir gesendet.{w} Wenn es in die falschen Hände gerät--nämlich Yuzukis--wären wir alle in großen Schwierigkeiten."
 
     p "Warum {i}mein{/i} Blut ...?{w} Was ist daran so besonders?"
 
@@ -7104,11 +7104,11 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    s "Es ist vielleicht ein bisschen scher zu glauben aber, du bist...{w}nun, du bist der Nachkomme einer langen Reihe von Magiern - Menschen mit magischen Fähigkeiten."
+    s "Es ist vielleicht ein bisschen schwer zu glauben, aber du bist ...{w} nun, du bist der Nachkomme einer langen Reihe von Magiern - Menschen mit magischen Fähigkeiten."
 
     p "...Wie bitte?"
 
-    "Wo um alles in der Welt haben sie das denn aufgegabelt?{w} Hätten sie mir das bereits bei unserem ersten Treffen gesagt, hätte ich sie als verrückt abgestempelt..."
+    "Wo um alles in der Welt haben sie das denn aufgegabelt?{w} Hätten sie mir das bereits bei unserem ersten Treffen gesagt, hätte ich sie als verrückt abgestempelt ..."
     
     "...Aber nach all dem, was ich bereits gesehen habe, fällt es mir leichter, das zu glauben."
 
@@ -7117,7 +7117,7 @@ label explanationover:
 
     h "Wie oft muss ich es dir noch sagen?{w} Du{w} hast{w} Magier{w} Blut!"
 
-    "In mein Ohr zu schreien, macht es auch nicht wirklich verständlicher ..."
+    "In mein Ohr zu schreien macht es auch nicht wirklich verständlicher ..."
 
     $ hikaface='normal'
     show Hikari
@@ -7129,9 +7129,9 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    s "Also, will die Welt weiß generell nicht mehr, was Magie ist.{w} Es ist einfach in alten Geschichts-Büchern verloren gegangen."
+    s "Weil die Welt generell nicht mehr weiß, was Magie ist.{w} Es ist einfach in alten Geschichtsbüchern verloren gegangen."
 
-    s "Also, wissen viele Leute, mit dieser Blutlinie, nicht einmal dass sie Magier sind.{w} Es ist nur etwas, das jetzt schlummert."
+    s "Also wissen viele Leute mit dieser Blutlinie nicht einmal, dass sie Magier sind.{w} Es ist nur etwas, das jetzt schlummert."
 
     p "Okay.{w} Wenn also viele Leute dieses ...{w} Magierblut in sich tragen, warum ist meines dann so besonders?{w} ... Was macht es so wertvoll?"
 
@@ -7151,11 +7151,11 @@ label explanationover:
 
     "Sie räuspert sich, als würde sie gerade eine Präsentation in der Schule halten."
 
-    s "Vor hunderten von Jahren, als die Magie noch in der Welt vorherrschte, gab es einen Magier mit ungeheurer Macht."
+    s "Vor hunderten von Jahren, als die Magie noch in der Welt vorherrschte, gab es eine Magierin mit ungeheurer Macht."
 
-    s "So viel Macht, dass sie {i}der{/i} Magier zu der Zeit war.{w} Jeder hat zu ihr aufgesehen und sie war eine Inspiration für alle."
+    s "So viel Macht, dass sie {i}die{/i} Magierin zu der Zeit war.{w} Jeder hat zu ihr aufgesehen und sie war eine Inspiration für alle."
 
-    s "Aber, du weißt ja was bei den Leuten passiert, die die größte Macht der Welt haben, oder?"
+    s "Aber du weißt ja, was bei den Leuten passiert, die die größte Macht der Welt haben, oder?"
 
     $ sayaface='normal'
     $ sayapose='school_2'
@@ -7166,13 +7166,13 @@ label explanationover:
 
     s "Sie wollen immer mehr Macht."
 
-    s "Es verändert Leute.{w} Verdierbt sie."
+    s "Es verändert Leute.{w} Verdirbt sie."
 
     s "Also wollte sie über alles herschen.{w} Über jeden {i}einzelnen{/i}."
 
-    s "All der Respekt wo die Leute vor ihr hatten, wurde zu Furcht.{w} Und sie wurde Kraut auf dem Land."
+    s "All der Respekt, den die Leute vor ihr hatten, wurde zu Furcht.{w} Und sie wurde Kraut auf dem Land."
 
-    s "Überall, wohin sie ging, folgte die Dunkelheit und breitete sich über das Land aus, während sie ihrer Eroberung folgte"
+    s "Überall, wohin sie ging, folgte die Dunkelheit und breitete sich über das Land aus, während sie ihrer Eroberung folgte."
 
     "Das wird jetzt wohl länger dauern ...{w} Und warum kommt es mir so vor, als würde ich die Person kennen, von der sie spricht ...?"
 
@@ -7198,7 +7198,7 @@ label explanationover:
     show Hikari
     with dissolve
 
-    h "Im Grunde bist du mit der Person verwandt, die den Mut hat, sich gegen die dunkle Königin zu stellen und sich an ihre Stelle setzt."
+    h "Im Grunde bist du mit der Person verwandt, die den Mut hatte, sich gegen die dunkle Königin zu stellen und sie in ihre Schranken wies."
 
     $ sayaface='shocked'
     show Sayaka
@@ -7213,7 +7213,7 @@ label explanationover:
     $ sayaface='normal'
     show Sayaka
 
-    s "Aww...{w} Ich wollte es dramatisch sagen und so."
+    s "Aww ...{w} Ich wollte es dramatisch sagen und so."
 
     p "Äh, danke, Hikari."
 
@@ -7224,7 +7224,7 @@ label explanationover:
 
     h "Hmph."
 
-    p "Und...{w}Weiter?{w} Mein Vorfahre hat diese böse Königin getötet?"
+    p "Und ...{w} Weiter?{w} Mein Vorfahre hat diese böse Königin getötet?"
 
     h "Wenn er es getan hätte, würden wir nicht hier sein und ein Gespräch führen."
 
@@ -7235,9 +7235,9 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    s "Das beste was man machen konnte, war sie zu versiegeln.{w} Es war das stärkste Sigel, was er machen konnte.{w} Was uns zurück zu diesem magischen ol Blut führt, das in dir ist, Kenta."
+    s "Das beste, was man machen konnte, war sie zu versiegeln.{w} Es war das stärkste Siegel, das er machen konnte.{w} Was uns zurück zu diesem magischen, alten Blut führt, das in dir ist, Kenta."
 
-    s "Im Wesentlichen band er sein Schicksal mit ihr, wenn er sie wegsperrte.{w} Ein Siegel, das so mächtig ist, dass es nur freigeschaltet wird, wenn eine strenge Bedingung erfüllt wird!"
+    s "Im Wesentlichen band er sein Schicksal mit ihr, als er sie wegsperrte.{w} Ein Siegel, das so mächtig ist, dass es nur entfernt wird, wenn eine strenge Bedingung erfüllt wird!"
 
     p "Und ...{w} wie lautet die?"
 
@@ -7253,7 +7253,7 @@ label explanationover:
     show Hikari
     show Sayaka
 
-    s "Bingo!{w} Ihr Siegel wird nur dann wirklich entriegeln, wenn es in Kontakt mit dem Blut desjenigen kommt, der sie weggesperrt hat, oder im Nachhinein, eines seiner Nachkommen."
+    s "Bingo!{w} Ihr Siegel wird nur dann wirklich entriegelt, wenn es in Kontakt mit dem Blut desjenigen kommt, der sie weggesperrt hat, oder im Nachhinein, eines seiner Nachkommen."
 
     $ sayapose='school_1'
     show Sayaka
@@ -7263,7 +7263,7 @@ label explanationover:
 
     p "Das heißt dann also ..."
 
-    s "Ich meine, dein Vater ist sicher und die Schatten haben keine Interesse an ihm.{w} Er hat {i}etwas{/i} Magie in seinem Blut aber, es ist nicht genug, um irgendwelche Fähigkeiten zu aktivieren."
+    s "Ich meine, dein Vater ist sicher und die Schatten haben kein Interesse an ihm.{w} Er hat {i}etwas{/i} Magie in seinem Blut, aber es ist nicht genug, um irgendwelche Fähigkeiten zu aktivieren."
 
     "Häh ...{w} Das ist ziemlich praktisch."
 
@@ -7295,13 +7295,13 @@ label explanationover:
 
     h "Das bedeutet, dass das Siegel mit jedem Tag in seiner Wirksamkeit schwächer wird, und ihr Einfluss schleicht sich so langsam in die Welt ein."
 
-    s "Kenta, deine Kopfschmerzen..."
+    s "Kenta, deine Kopfschmerzen ..."
 
     p "Verstehe ...{w} Sie ruft also schon nach mir ...{w} um es metaphorisch auszudrücken?"
 
     h "Deshalb sind die Monster so gut organisiert.{w} Und warum dieses Mädchen, Yuzuki..."
 
-    h "Sie gab diesem Mädchen die Kraft, die sie aufbringen konnte, und benutzte sie als Marionette, bis sie sich schließlich selbst befreien konnte."
+    h "Sie gab diesem Mädchen die Kraft, die sie aufbringen konnte, und benutzt sie als Marionette, bis sie sich schließlich selbst befreien kann."
 
     $ hikaface='angry'
     $ hikapose='school_1'
@@ -7310,7 +7310,7 @@ label explanationover:
 
     h "Ich bin mir nicht sicher, welche Lügen sie diesem Mädchen gesagt haben muss, um sie dazu zu bringen, zu gehorchen, aber ihre Gedanken sind infiziert."
 
-    h "Und angesichts der gegenwärtigen Rate, dass ihre Niedertracht aus ihrem Gefängnis gesickert ist ... wird sie morgen noch mehr Einfluss auf die Welt bekommen."
+    h "Und angesichts der gegenwärtigen Rate, in der ihre Niedertracht aus ihrem Gefängnis gesickert ist ... wird sie morgen noch mehr Einfluss auf die Welt bekommen."
 
     h "Die Monster werden stärker und aggressiver werden...{w} Yuzuki wird auch stärker werden."
 
@@ -7336,9 +7336,9 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    s "Und das war einfach genug.{w} Du hattest keine Idee das sie exestieren und wir haben uns auch, von dir, ferngehalten."
+    s "Und das war einfach genug.{w} Du hattest keine Ahnung, dass sie existieren und wir haben uns auch von dir ferngehalten."
 
-    s "Und dann fingen die Dinge an, schlecht zu werden...{w}als du den Schatten gesehen hast...{w}wir waren wirklich überrascht!"
+    s "Und dann fingen die Dinge an, schlecht zu werden ...{w} als du den Schatten gesehen hast ...{w} wir waren wirklich überrascht!"
 
     s "Es war, als ob es auf einer Mission war, und rutschte vollkommen an unserer superwachen Wache vorbei."
 
@@ -7358,13 +7358,13 @@ label explanationover:
 
     s "Als wir gezwungen waren, uns dir zu zeigen, war klar, dass etwas nicht stimmte.{w} Überhaupt nicht."
 
-    s "Und dass war noch offensichtlicher, als uns Yuzuki angegriffen hat.{w} Er hatte eine Kraft, die wir noch nie gesehen haben!"
+    s "Und das war noch offensichtlicher, als uns Yuzuki angegriffen hat.{w} Sie hatte eine Kraft, die wir noch nie gesehen haben!"
 
     $ hikapose='school_2'
     show Hikari
     with dissolve
 
-    h "Wir haben nachgesehen als Freizeit war...{w} Das ist selten, wenn es darum geht, auf dich aufpassen zu müssen."
+    h "Wir haben nachgesehen, als Freizeit war...{w} Das ist selten, wenn es darum geht, auf dich aufpassen zu müssen."
 
     "Na tut mir leid, dass ich überhaupt auf die Welt gekommen bin!"
 
@@ -7373,13 +7373,13 @@ label explanationover:
     $ sayaface='normal'
     show Sayaka
 
-    s "Wir müssen ihr Gefängnis erneuern.{w} Es verstärken, sodass sie kein Einfluss auf diese Welt mehr hat."
+    s "Wir müssen ihr Gefängnis erneuern.{w} Es verstärken, sodass sie keinen Einfluss auf diese Welt mehr hat."
 
-    s "Aber, wenn es so einfach wäre...{w} hätten wir es schon selbst gemacht."
+    s "Aber, wenn es so einfach wäre ...{w} hätten wir es schon selbst gemacht."
 
     "Sayaka macht einen ziemlich komplizierten Gesichtsausdruck ...{w} Ich glaube kaum, dass mir das, was sie als nächstes fragen wird, gefallen wird."
 
-    s "Kenta...{w} Wir...{w}wir brauchen deine Hilfe."
+    s "Kenta ...{w} Wir ...{w} wir brauchen deine Hilfe."
 
     p "M-Meine?!{w} Wie zum Teufel soll ich helfen?{w} Ihr habt doch die Zauberkräfte, nicht ich!"
 
@@ -7394,7 +7394,7 @@ label explanationover:
     $ sayaface='scared'
     show Sayaka
 
-    s "Ich meine, technisch gesehen könnten  {i}wir{i} das Siegel, zerbrechen und sie in eine neue Falle verwickeln ...{w} Aber ich denke nicht, dass wir lange genug durchhalten würden, um das zu tun."
+    s "Ich meine, technisch gesehen könnten {i}wir{i} das Siegel zerbrechen und sie in eine neue Falle verwickeln ...{w} Aber ich denke nicht, dass wir lange genug durchhalten würden, um das zu tun."
 
 
 
@@ -7416,7 +7416,7 @@ label explanationover:
     show Hikari
     with dissolve
 
-    h "Ich hatte {i}kein{/i} Spaß!"
+    h "Ich hatte {i}keinen{/i} Spaß!"
 
     p "Kann ich mir vorstellen.{w} Aber was hat das damit zu tun?"
 
@@ -7435,16 +7435,16 @@ label explanationover:
     show Hikari
     with dissolve
 
-    h "So durchdrungen, dass jemand, der nicht in der Lage war, diese Menge an Magie zu kontrollieren, versuchen würde, sie auszuüben..."
+    h "So durchdrungen, dass, wenn jemand, der nicht in der Lage ist, diese Menge an Magie zu kontrollieren, versuchen würde, es zu führen ..."
 
     $ sayaface='smiling'
     show Sayaka
 
-    s "Sie würden explodieren.{w} Die Magie war zu viel für sie."
+    s "Sie würden explodieren.{w} Die Magie wäre zu viel für sie."
 
     p "B-BUMM?"
 
-    s "Also, vielleicht explodieren.{w} Aber es würde zumindest ein unordentliches Ende bringen."
+    s "Also, vielleicht nicht explodieren.{w} Aber es würde zumindest ein unordentliches Ende bringen."
 
     s "Und da du immer noch stehst, nachdem du das Ding herumgeschwungen hast, ist es sicher zu sagen, dass du das Potenzial in dir hast."
 
@@ -7457,12 +7457,12 @@ label explanationover:
 
     s "Also, wenn du mit diesem Schwert umgehen kannst, denke ich, dass ein wenig Versiegelungsmagie kein Problem sein sollte!"
 
-    h "Aber dann, bedeutet es auch, dass wir dorthin gehen müssen, wo sie versiegelt ist...{w} und die eine Sache mitnehmen, die sie seit Jahren beghert."
+    h "Aber dann bedeutet es auch, dass wir dorthin gehen müssen, wo sie versiegelt ist...{w} und die eine Sache mitnehmen, die sie seit Jahren beghert."
 
     $ sayaface='normal'
     show Sayaka
 
-    h "Es würde leichtsinnig sein.{w} Und ein Fehler, kann die ganze Welt in Gefahr bringen."
+    h "Es würde leichtsinnig sein.{w} Und ein Fehler kann die ganze Welt in Gefahr bringen."
 
     p "Wir haben also überhaupt keinen Stress, hm?"
 
@@ -7475,14 +7475,14 @@ label explanationover:
     show Hikari
     with dissolve
 
-    h "Ich denke, du musst ein Tag in der Schule überspringen müssen, Kenta."
+    h "Ich denke, du wirst einen Tag in der Schule überspringen müssen, Kenta."
 
     "...Hmm.{w} Ich frage mich, ob ‚die Welt retten‘ als Entschuldigung gut genug ist, um von der Schule fernzubleiben?"
 
     $ hikaface='normal'
     show Hikari
 
-    h "Das ist es, wenn du uns helfen willst.{w} Ich verstehe es, wenn du dafür nicht bereit bist...{w} Vielleicht können wir einen anderen Weg finden..."
+    h "Das ist es, wenn du uns helfen willst.{w} Ich verstehe es, wenn du dafür nicht bereit bist ...{w} Vielleicht können wir einen anderen Weg finden ..."
 
     p "Anderen Weg gibt's wohl keinen, oder?{w} Sonst würdet ihr mir das alles ja nicht erzählen, oder?"
 
@@ -7513,14 +7513,14 @@ label explanationover:
     $ sayaface='joking'
     show Sayaka
 
-    s "Du hättest gerade fast cool geklungen.{w} Fast!{w} Ich denke, wir müssen eán deinem heroischen Dialog arbeiten."
+    s "Du hättest gerade fast cool geklungen.{w} Fast!{w} Ich denke, wir müssen an deinem heroischen Dialog arbeiten."
 
     $ hikaface='normal'
     $ sayaface='normal'
     show Hikari
     show Sayaka
 
-    s "Aber dass muss später sein.{w} Es gibt viel zu tun, wenn du diese dunkle Königin besiegelst, also pass auf!"
+    s "Aber das muss später sein.{w} Es gibt viel zu tun, wenn du diese dunkle Königin versiegeln willst, also pass auf!"
     stop music fadeout 6.0
     "Und gerade in dem Moment, wo ich dachte, die Nacht könnte nicht noch länger werden, beginnt eine weitere Erklärung."
 
@@ -7589,7 +7589,7 @@ label explanationover:
 
     p "Was?!"
 
-    "Vor Schock lasse ich fast das Teller fallen, das ich gerade in Händen halte."
+    "Vor Schock lasse ich fast den Teller fallen, den ich gerade in Händen halte."
 
     p "So nah?!"
 
@@ -7598,7 +7598,7 @@ label explanationover:
 
     h "Natürlich.{w} Warum sonst denkst du, dass sich ihr Einfluss hier so leicht ausbreitet??"
 
-    p "Ich ...{w} Damit hab ich jetzt echt nicht gerechnet.{w} Aber wenn man so sieht, ist es irgendwie logisch ..."
+    p "Ich ...{w} Damit hab ich jetzt echt nicht gerechnet.{w} Aber wenn man es so sieht, ist es irgendwie logisch ..."
 
     $ hikaface='normal'
     show Hikari
@@ -7630,7 +7630,7 @@ label explanationover:
     $ hikaface='angry'
     show Hikari
 
-    h "Und nachdem können wir endlich heimgehen, nachdem alles sortiert ist.{w} Ich schwöre, ich werde verrückt, wenn ich noch ein Tag mehr an dieser Schule verbringen muss."
+    h "Und nachdem können wir endlich heimgehen, nachdem alles sortiert ist.{w} Ich schwöre, ich werde verrückt, wenn ich noch einen Tag mehr an dieser Schule verbringen muss."
 
     $ sayaface='joking'
     show Sayaka
@@ -7640,7 +7640,7 @@ label explanationover:
     $ hikaface='embarrassed'
     show Hikari
 
-    h "S-Sei nicht lächerlich!{w} Ich mach nur mein Job..."
+    h "S-Sei nicht lächerlich!{w} Ich mach nur mein Job ..."
 
     $ sayapose='magical_1'
     $ sayaface='happy'
@@ -7717,7 +7717,7 @@ label explanationover:
 
     p "Äh, Leute?{w} Muss das jetzt sein?"
 
-    h "Aber sie...{w} Fein.{w} Du hast recht.{w} Konzentrieren wir uns, Sayaka."
+    h "Aber sie ...{w} Fein.{w} Du hast recht.{w} Konzentrieren wir uns, Sayaka."
 
     $ sayaface='smiling'
     $ sayapose='magical_1'
@@ -7731,7 +7731,7 @@ label explanationover:
 
     s "Okay, der Wald ist nicht so groß.{w} Glaub ich.{w} Ich bin sicher, wir finden die Höhle, wenn wir noch ein bisschen umherwandern!"
 
-    "Hat uns dieses 'umherwandern' nicht erst in diese Situation gebracht?{w} Ich befürchte, dass sogar die Sonne untergeht, bevor wir diese Höhle finden!"
+    "Hat uns dieses 'Umherwandern' nicht erst in diese Situation gebracht?{w} Ich befürchte, dass sogar die Sonne untergeht, bevor wir diese Höhle finden!"
 
     "Ich weiß, dass es nicht helfen wird, aber ich kundschafte die Gegend ebenfalls aus.{w} Ich weiß ja nicht mal, wonach ich suchen soll, abgesehen von ..."
 
@@ -7875,7 +7875,7 @@ label explanationover:
     $ hikaface='normal'
     show Hikari
 
-    h "Ist es ...{w}das wirklich?"
+    h "Ist es ...{w} das wirklich?"
 
     $ sayaface='smiling'
     show Sayaka
@@ -7939,11 +7939,11 @@ label explanationover:
 
     p "Das hab ich mir echt nicht vorgestellt, als ich daran gedacht hab, wie es wär, ein Held zu sein."
 
-    p "In einem engen, kleinen Tunnel rumkriechen ...{w} Ich hab mir das irgendwie Dramatischer vorgestellt."
+    p "In einem engen, kleinen Tunnel rumkriechen ...{w} Ich hab mir das irgendwie dramatischer vorgestellt."
 
     "Sayaka kichert."
 
-    s "Ich bin sicher, vor uns warten genug dramatische Momente!{w} Wir müssen vorher nur durch die ... {i}weniger{/i}... dramatischen Momente."
+    s "Ich bin sicher, vor uns warten genug dramatische Momente!{w} Wir müssen vorher nur durch die ... {i}weniger{/i} ... dramatischen Momente."
 
     s "Und hey, das ist gar nicht so schlimm.{w} Zumindest müssen wir uns nicht durch unzählige Schatten durchkämpfen."
 
@@ -7953,7 +7953,7 @@ label explanationover:
 
     p "Aber was, wenn ...{w} {i}in{/i} diesem Tunnel Monster auf uns warten?{w} Falls das der Fall ist, können wir nicht wirklich viel tun."
 
-    h "S-Sag das nicht!{w} Ich hab nichtmal über soetwas nachgedacht..."
+    h "S-Sag das nicht!{w} Ich hab nichtmal über soetwas nachgedacht ..."
 
     s "Oh, wow, du hast recht.{w} Wir wären völlig wehrlos!"
 
@@ -7973,7 +7973,7 @@ label explanationover:
 
     "Hikari schreit so laut auf, dass mir dabei fast das Trommelfell zerplatzt."
 
-    h "Warst du das, Kenta?!{w} Ich wusste, ich hätte als Letzte einsteigen sollen..."
+    h "Warst du das, Kenta?!{w} Ich wusste, ich hätte als Letzte einsteigen sollen ..."
 
     p "Ich?!{w} Natürlich nicht!{w} Ich bin ja ganz woanders!{w} Wofür hältst du mich eigentlich?"
 
@@ -7981,7 +7981,7 @@ label explanationover:
 
     p "D-Das waren Unfälle! UNFÄLLE!"
 
-    h "Naja, vielleicht war das wieder einer deiner 'Unfälle', hmm?{w} Ein Mädchen greifen whärend sie komplett hilflos ist?"
+    h "Naja, vielleicht war das wieder einer deiner 'Unfälle', hmm?{w} Ein Mädchen greifen, während sie komplett hilflos ist?"
 
     p "Komm schon, ich bin ja nicht mal in deiner Nähe!{w} ... Vielleicht bildest du dir das auch einfach nur ein?"
 
@@ -7990,7 +7990,7 @@ label explanationover:
     play music "bgm/mischiefintro.ogg" fadein 2.0
     queue music "bgm/mischiefloop.ogg"
 
-    h "F-Fein.{w} Wenn du es nicht warst, wer dann?{w} Es hätte nicht Sayaka sein, da sie vor mir ist."
+    h "F-Fein.{w} Wenn du es nicht warst, wer dann?{w} Es konnte nicht Sayaka sein, da sie vor mir ist."
 
     s "Vielleicht war es ein großer, schleimiger Tentakel, der Hallo sagen wollte."
 
@@ -8004,7 +8004,7 @@ label explanationover:
 
     p "Okay, komm, Sayaka, das reicht jetzt.{w} Du hattest deinen Spaß.{w} Jetzt müssen wir uns aber wieder konzentrieren, okay?"
 
-    h "W-Was...?{w} Sayaka?{w} Aber sie hätte nicht..."
+    h "W-Was ...?{w} Sayaka?{w} Aber sie hätte nicht ..."
 
     "Sayaka bemerkt meinen Verdacht, lässt aber trotzdem nicht locker."
 
@@ -8122,7 +8122,7 @@ label explanationover:
 
     "Ich kann es ein für alle Mal zu Ende bringen.{w} Wenn das hier vorbei ist, kann ich wieder zu meinem sorgenfreien Leben zurück."
 
-    "Sie ist das letzten Hindernis.{w} Ich kann ..."
+    "Sie ist das letzte Hindernis.{w} Ich kann ..."
 
     p "Ich kann es schaffen."
 
@@ -8267,13 +8267,13 @@ label explanationover:
 
     y "Aber das ist in Ordnung.{w} Ich gebe dir ein schnelles und schmerzloses Ende."
 
-    h "Du redest nur mit dirselber!{w} Denk nicht, ich kann nicht sehen, dass du Angst hast.{w} Du weißt, dass das Ende der Linie für dich ist."
+    h "Du redest nur mit dir selber!{w} Denk nicht, ich kann nicht sehen, dass du Angst hast.{w} Du weißt, dass das Ende der Linie für dich ist."
 
-    h "Ich weiß nicht, was du von alldem willst, aber was auch für verrückte Fantasien du hast, werden zu einem Ende kommen. {w} Jetzt!"
+    h "Ich weiß nicht, was du von alldem willst, aber was für verrückte Fantasien du auch hast, sie werden zu einem Ende kommen. {w} Jetzt!"
 
     "Während ihr Schweißperlen über das Gesicht laufen, knirscht sie mit den Zähnen.{w} Sie hat also wirklich Angst ...?"
 
-    y "Halt den Mund!{w} Du weißt nichts.{w} Ich...{w}Ich brauche das!"
+    y "Halt den Mund!{w} Du weißt nichts.{w} Ich ...{w} Ich brauche das!"
 
     p "Yuzuki, es muss nicht so enden.{w} Ich weiß, du wirst mir nicht glauben, aber ich weiß, was du durchmachst.{w} Den Schmerz, den du fühlst.{w} Vielleicht können wir--"
 
@@ -8287,11 +8287,11 @@ label explanationover:
 
     "Mein Gesicht wird blass, als ein verrücktes Lachen über ihre Lippen wandert.{w} Wie kann sie bloß so was Krankes sagen?{w} ... Ich hab es wirklich versucht, aber vielleicht ist sie geistig wirklich nicht mehr zu retten?"
 
-    "Ich darf nicht so schnell aufgeben!{w} Noch ein Versucht ...{w} Vielleicht erreich ich sie ja doch?"
+    "Ich darf nicht so schnell aufgeben!{w} Noch ein Versuch ...{w} Vielleicht erreich ich sie ja doch?"
 
     p "Ich weiß, dass du kein schlechter Mensch bist, Yuzuki.{w} Du bist nur ...{w} einsam, oder?"
 
-    y "Ich bin nicht allein!{w} Mindestens...{w}Ich werde nie wieder einsam sein, wenn das einmal vorbei ist."
+    y "Ich bin nicht allein!{w} Mindestens ...{w} Ich werde nie wieder einsam sein, wenn das einmal vorbei ist."
 
     s "Kenta ...{w} Ich kann verstehen, wenn du ihr helfen möchtest, aber ...{w} nun ja, sieh sie dir an."
 
@@ -8313,11 +8313,11 @@ label explanationover:
 
     "Es gibt kein Zurück mehr.{w} Es steht für jeden zu viel auf dem Spiel."
 
-    y "Ich habe das Gefühl, dass du mich vielleicht unterschätzt.{w} Es ist wahr, ich musste bei unserer letzten Begegnung beschämend den Schwanz drehen, aber ..."
+    y "Ich habe das Gefühl, dass du mich vielleicht unterschätzt.{w} Es ist wahr, ich musste bei unserer letzten Begegnung beschämend den Schwanz einziehen, aber ..."
 
     "Yuzuki grunzt und wird auf einmal von einer dunklen Aura umgeben.{w} Das seh ich zum ersten Mal ..."
 
-    y "Wir kämpfen auf meinem Heimatmarkt.{w} Ich habe hier eine direkte Verbindung zu ihr.{w} Ich kann..{w} Ich kann sie in mir fühlen."
+    y "Wir kämpfen auf meinem Heimatmarkt.{w} Ich habe hier eine direkte Verbindung zu ihr.{w} Ich kann ...{w} Ich kann sie in mir fühlen."
 
     y "Ich kann jetzt nicht verlieren!{w} Nicht mit {i}ihr{/i} auf meiner Seite!"
 
@@ -8325,7 +8325,7 @@ label explanationover:
 
     stop music fadeout 2.0
 
-    y "Nun Dann...{w}stirb!"
+    y "Nun denn ...{w} stirb!"
 
     scene cave
 
@@ -8375,7 +8375,7 @@ label explanationover:
 
     h "Oh nein, das tust du nicht!{w} Bevor du ihn bekommst, musst du erst an {i}mir{/i} vorbei!"
 
-    y "Das kann sein...{w}vereinbart worden!"
+    y "Das kann ...{w} vereinbart werden!"
 
     "Die beiden geraten aneinander, während die Magie um sie herum förmlich zu knistern beginnt."
 
@@ -8383,7 +8383,7 @@ label explanationover:
 
     "Sie muss weit über ihre Grenzen hinausgehen, um überhaupt eine Chance gegen dieses Monster zu haben.{w} Als ihr bereits Schweiß über das Gesicht läuft, erkenne ich, dass es echt anstrengend für sie sein muss."
 
-    h "Hrghh...{w} L-Los!{w} Ich hab sie...{w}abgehalten!{w} Ihr Typen...{w}beendet das!"
+    h "Hrghh...{w} L-Los!{w} Ich hab sie ...{w} abgehalten!{w} Ihr Typen ...{w} beendet das!"
 
     "Sie zischt zähneknirschend und rutscht mit den Beinen allmählich nach hinten."
 
@@ -8401,9 +8401,9 @@ label explanationover:
 
     h "Ich sagte los!"
 
-    "Ihre Stimme dröhnt und die Mage um sie herum fängt heftig zu knistern an.{w} Ich hab sie noch nie zuvor so erlebt ..."
+    "Ihre Stimme dröhnt und die Magie um sie herum fängt heftig zu knistern an.{w} Ich hab sie noch nie zuvor so erlebt ..."
 
-    h "Oder willst du, das alles hier für nichts ist?!{w} Ich kann...{w}halte sie für eine Weile in Schach.{w} Kein Problem!"
+    h "Oder willst du, dass alles hier für nichts ist?!{w} Ich kann ...{w} sie für eine Weile in Schach halten.{w} Kein Problem!"
 
     "Das ist ..."
 
@@ -8602,7 +8602,7 @@ label explanationover:
 
     "In einem Wutanfall balle ich meine freie Hand zur Faust zusammen und schlage damit gegen den Kristall."
 
-    "...Als Reaktion darauf gibt dieser einen letzten elektrischen Schlag von sich, ehe der Schmerz nachlässt.{w} Und auch der Geschrei."
+    "...Als Reaktion darauf gibt dieser einen letzten elektrischen Schlag von sich, ehe der Schmerz nachlässt.{w} Und auch das Geschrei."
 
     "Die Wiederversiegelung ... wurde abgeschlossen."
 
