@@ -2456,7 +2456,9 @@ label explanationover:
 
     "Hm.{w} Vielleicht bin ich schon eingeschlafen."
 
-    "Als ich die Vorhänge schließe, werden meine Augen von einem bernsteinfarbenen Leuchten im Garten angezogen.{w} Ein Feuer.{w} Ein Lagerfeuer, um genau zu sein.{w} Du hast drei Möglichkeiten, um zu erraten, zu wem das Feuer gehört."
+    "Als ich die Vorhänge schließe, werden meine Augen von einem bernsteinfarbenen Leuchten im Garten angezogen."
+    
+    "Ein Feuer.{w} Ein Lagerfeuer, um genau zu sein.{w} Du hast drei Möglichkeiten, um zu erraten, zu wem das Feuer gehört."
 
     "Jup.{w} Die beiden 'magischen' Mädchen."
 
@@ -2592,7 +2594,9 @@ label explanationover:
     play music "bgm/everydayintro.ogg"
     queue music "bgm/everydayloop.ogg"
 
-    "Sayaka grinst so fröhlich wie immer, während Hikari so aussieht, als wolle sie nach dem nächstgelegenen, scharfen Objekt greifen und mich in Stücke schneiden.{w} Ich sag's noch einmal ... WARUM ist das meine Schuld?!"
+    "Sayaka grinst so fröhlich wie immer, während Hikari so aussieht, als wolle sie nach dem nächstgelegenen, scharfen Objekt greifen und mich in Stücke schneiden."
+    
+    "Ich sag's noch einmal ... WARUM ist das meine Schuld?!"
 
     p "So ...{w} Findet ihr nicht, dass ihr mir eine Erklärung schuldig seid?"
 
@@ -2621,7 +2625,9 @@ label explanationover:
 
     p "WIE BITTE?!"
 
-    "Ich werfe schnell einen Blick auf alle sichtbaren Fenster.{w} Zumindest ist keines kaputt ...{w} Mein Gott, haben sie etwa einen Stein durch irgendein Fenster geworfen?{w} Und ich dachte, Leute, die die Magie beherrschen, wären schlauer!"
+    "Ich werfe schnell einen Blick auf alle sichtbaren Fenster.{w} Zumindest ist keines kaputt ...{w} Mein Gott, haben sie etwa einen Stein durch irgendein Fenster geworfen?"
+    
+    "Und ich dachte, Leute, die die Magie beherrschen, wären schlauer!"
 
     s "Siehst du?{w} Alles ist gut."
 
@@ -3200,7 +3206,9 @@ label explanationover:
 
     p "Was weiß ich!{w} Irgendetwas.{w} Scheißegal was!{w} Ich hab euch erst gestern kennengelernt, und ihr seid schon so anhänglich.{w} Ich hätte gern etwas Platz für mich selbst!"
 
-    "Ich bin echt dankbar, dass sie hier sind.{w} Anderenfalls hätte ich den gestrigen Tag bestimmt nicht überlebt.{w} Aber das hier grenzt ja an Stalking.{w} Und vom Camping in meinem Garten möchte ich gar nicht erst anfangen!"
+    "Ich bin echt dankbar, dass sie hier sind.{w} Anderenfalls hätte ich den gestrigen Tag bestimmt nicht überlebt."
+    
+    "Aber das hier grenzt ja an Stalking.{w} Und vom Camping in meinem Garten möchte ich gar nicht erst anfangen!"
 
     $ sayaface='smiling'
     show Sayaka
@@ -3223,7 +3231,9 @@ label explanationover:
     show Hikari at center
     with dissolve
 
-    "Und so marschiert sie los und summt dabei eine fröhliche Melodie vor sich hin.{w} Hikari folgt ihr hinterher, aber nicht, ohne mir einen letzten eisigen Blick zuzuwerfen.{w} ... Irgendwie frieren meine Schultern auf einmal.{w} Brrr."
+    "Und so marschiert sie los und summt dabei eine fröhliche Melodie vor sich hin.{w} Hikari folgt ihr hinterher, aber nicht, ohne mir einen letzten eisigen Blick zuzuwerfen."
+    
+    "Irgendwie frieren meine Schultern auf einmal.{w} Brrr."
 
     hide Hikari
     with dissolve
@@ -3488,7 +3498,9 @@ label explanationover:
 
             "Huch."
 
-            "Trotz ihrer kleinen Figur, komme ich mir dank ihrer dominanten Stimme immer wieder wie eine Maus vor.{w} Sofern ich nicht so enden möchte wie das Monster, sollte ich nicht versuchen, noch mehr Infos aus ihr rauszubekommen."
+            "Trotz ihrer kleinen Figur, komme ich mir dank ihrer dominanten Stimme immer wieder wie eine Maus vor."
+            
+            "Sofern ich nicht so enden möchte wie das Monster, sollte ich nicht versuchen, noch mehr Infos aus ihr rauszubekommen."
 
             p "Okay, okay!{w} Ich hab überhaupt nichts gehört.{w} War ...{w} wohl nur der Wind oder so"
 
@@ -3503,7 +3515,9 @@ label explanationover:
 
             h "Es ist ...{w} der einfachere Weg.{w} Es hat keinen Sinn, dich in dieses Durcheinander zu ziehen, wenn wir es vermeiden können.{w} Ich wünsche niemandem ein solches Leben ..."
 
-            "Und obwohl sie noch immer kaut, wird ihr Gesichtsausdruck immer düsterer - wahrscheinlich deshalb, weil das Sandwich immer kleiner wird.{w} Ich bin mir nicht mal sicher, ob sie überhaupt weiß, dass sie gerade isst."
+            "Und obwohl sie noch immer kaut, wird ihr Gesichtsausdruck immer düsterer - wahrscheinlich deshalb, weil das Sandwich immer kleiner wird."
+            
+            "Ich bin mir nicht mal sicher, ob sie überhaupt weiß, dass sie gerade isst."
 
             "Sie denkt ein paar Momente über etwas nach, bevor sie mich mit einem ernsten Blick ansieht."
 
@@ -3521,7 +3535,9 @@ label explanationover:
 
             "Es {i}sah{/i} extrem wichtig aus, wenn ich bedenke, dass sie mich sonst nie so ernst angesehen hat.{w} Was für ein Gluck, dass die ausgerechnet jetzt auftauchen müssen."
 
-            "Jeder Anschein eines Gesprächs ist jetzt vernichtet.{w} In der Gegenwart von anderen Menschen scheint sie viel zurückhaltender zu sein.{w} Und ich denke auch, dass das, worüber wir geredet haben, nicht für diese Ohren gedacht ist."
+            "Jeder Anschein eines Gesprächs ist jetzt vernichtet.{w} In der Gegenwart von anderen Menschen scheint sie viel zurückhaltender zu sein."
+            
+            "Und ich denke auch, dass das, worüber wir geredet haben, nicht für diese Ohren gedacht ist."
 
             h "...Nebenbei, das Sandwich hat wirklich gut geschmeckt."
 
@@ -3734,7 +3750,9 @@ label explanationover:
 
             "'Wie ein normales Mädchen' ...{w} Heißt das, dass sie ihren Lebensstil nicht mag?{w} Ich kann schon einsehen, dass es mit der Zeit anstrengend werden kann, immer gegen diese Monster zu kämpfen."
 
-            "Aber sie hat diesen Lebensstil doch gewählt, oder?{w} Zumindest bin ich fest davon überzeugt.{w} Ich kann sie aber auch nicht fragen, schließlich wird sie mir heute erstmal keine Fragen mehr zu dem Thema beantworten."
+            "Aber sie hat diesen Lebensstil doch gewählt, oder?{w} Zumindest bin ich fest davon überzeugt."
+            
+            "Ich kann sie aber auch nicht fragen, schließlich wird sie mir heute erstmal keine Fragen mehr zu dem Thema beantworten."
 
             with Pause(2.5)
 
@@ -3794,9 +3812,13 @@ label explanationover:
 
     "Ein Tag mehr, ein weiterer Spaziergang nach Hause.{w} Mit meinen zwei Beschützern an meiner Seite."
 
-    "Im Vergleich zu gestern scheinen sie deutlich angespannter zu sein.{w} Aber das kann ich ihnen nicht übel nehmen.{w} Wir hatten Glück, dass sie uns nicht verfolgt hat - sonst würde ich jetzt womöglich nicht mehr leben."
+    "Im Vergleich zu gestern scheinen sie deutlich angespannter zu sein.{w} Aber das kann ich ihnen nicht übel nehmen."
+    
+    "Wir hatten Glück, dass sie uns nicht verfolgt hat - sonst würde ich jetzt womöglich nicht mehr leben."
 
-    "Die Reise nach Hause verläuft still und die Gesichter der Mädchen spiegeln ihre Entschlossenheit wider.{w} Sie scheinen bereit zu sein, beim geringsten Anzeichen von Gefahr loszustürmen, von daher möchte ich ihre Konzentration nicht unterbrechen."
+    "Die Reise nach Hause verläuft still und die Gesichter der Mädchen spiegeln ihre Entschlossenheit wider."
+    
+    "Sie scheinen bereit zu sein, beim geringsten Anzeichen von Gefahr loszustürmen, von daher möchte ich ihre Konzentration nicht unterbrechen."
 
     "Die Sonne auf dem Weg vor uns geht allmählich unter.{w} Großartig.{w} Desto größer unsere Schatten werden, desto angespannter werde ich."
 
@@ -3896,13 +3918,19 @@ label explanationover:
     with move
 
 
-    "Hikari nickt und stürzt sich auf Yuzuki, bevor diese den ersten Schritt machen kann.{w} Sayaka fliegt eine weitere Strecke nach hinten und hält bereits einen Pfeil in ihrem Bogen bereit.{w} Erlebe ich hier etwa ...{w} Teamplay?{w} Vielleicht wird das ja doch noch was."
+    "Hikari nickt und stürzt sich auf Yuzuki, bevor diese den ersten Schritt machen kann."
+    
+    "Sayaka fliegt eine weitere Strecke nach hinten und hält bereits einen Pfeil in ihrem Bogen bereit."
+    
+    "Erlebe ich hier etwa ...{w} Teamplay?{w} Vielleicht wird das ja doch noch was."
 
     y "Es ist nutzlos!"
 
     "Yuzuki reagiert blitzartig und wirbelt mit ihrer Sense herum, die auf Hikaris Schwert prallt.{w} Eine Schockwelle breitet sich in der Straße aus und zerstört Scheiben und Straßenschilder."
 
-    "Das erinnert mich teilweise an den letzten Kampf.{w} Yuzuki hat den Vorteil der rohen Gewalt, weshalb sie zweifellos zurückschlagen wird.{w} Aber Hikari scheint kein bisschen nervös zu sein.{w} Im Gegenteil, sie scheint sogar selbstsicher!"
+    "Das erinnert mich teilweise an den letzten Kampf.{w} Yuzuki hat den Vorteil der rohen Gewalt, weshalb sie zweifellos zurückschlagen wird."
+    
+    "Aber Hikari scheint kein bisschen nervös zu sein.{w} Im Gegenteil, sie scheint sogar selbstsicher!"
 
     h "Hrghh!{w} Licht, komm hervor!"
 
@@ -4191,7 +4219,9 @@ label explanationover:
 
     h "Jetzt zeig ich dir--huh?!"
 
-    "... Oder vielleicht auch nicht.{w} Das Monster ist ihr einen Schritt voraus und versucht ihre Hände zu fesseln.{w} Die Tentakel schleichen sich immer näher an sie heran und träufeln eine ätzende Substanz auf sie, die bereits mehr als die Hälfte von ihr bedeckt."
+    "... Oder vielleicht auch nicht.{w} Das Monster ist ihr einen Schritt voraus und versucht ihre Hände zu fesseln."
+    
+    "Die Tentakel schleichen sich immer näher an sie heran und träufeln eine ätzende Substanz auf sie, die bereits mehr als die Hälfte von ihr bedeckt."
 
     h "Urghh...{w} Das...{w}ist so eklich!{w} Ich denke nichtmal alle Duschen der Welt werden das Zeug in meinen Harren, rausbekommen!"
 
@@ -4699,7 +4729,9 @@ label explanationover:
 
     "Nach dem heutigen Tag bin ich für die Existenz meiner beiden Schutzengel dankbarer denn je ...{w} So merkwürdig sie auch sein mögen."
 
-    "Zuhause angekommen trennen sich unsere Wege ...{w} Wobei, ich weiß ja, dass sie nur einen Katzensprung entfernt sind, da sie sowieso wieder in meinem Garten campen werden.{w} ... Ich versteh echt nicht, wie sie es schaffen, nicht entdeckt zu werden."
+    "Zuhause angekommen trennen sich unsere Wege ...{w} Wobei, ich weiß ja, dass sie nur einen Katzensprung entfernt sind, da sie sowieso wieder in meinem Garten campen werden."
+    
+    "Ich versteh echt nicht, wie sie es schaffen, nicht entdeckt zu werden."
 
     scene kitchen night
     with fade
@@ -4731,7 +4763,9 @@ label explanationover:
 
     "Zurückhaltend blicke ich durch den Vorhang.{w} Jup.{w} Zelt.{w} Lagerfeuer.{w} Und eine Mahlzeit, die schon fast in Flammen aufgeht, die die beiden löschen wollen.{w} ... Was hab ich mir anderes erwartet?"
 
-    "Ich ziehe die Vorhänge zusammen und ignoriere die Tatsache, dass mein Garten jederzeit in Flammen aufgehen könnte.{w} Ich bin viel zu müde, um mir darüber Sorgen zu machen.{w} Wird schon schiefgehen.{w} Höchstwahrscheinlich."
+    "Ich ziehe die Vorhänge zusammen und ignoriere die Tatsache, dass mein Garten jederzeit in Flammen aufgehen könnte.{w} Ich bin viel zu müde, um mir darüber Sorgen zu machen."
+    
+    "Wird schon schiefgehen.{w} Höchstwahrscheinlich."
 
     "Die verzweifelten Schreie von den beiden vermeintlichen 'Profis' sind das letzte, was ich höre, bevor ich in die Welt der Träume versinke."
 
