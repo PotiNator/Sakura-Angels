@@ -4993,7 +4993,7 @@ label explanationover:
             "Hmmmm ... Nein.":
 
                 jump cookingprevious
-            "Ich denk darüber nach. Okay, fertig mit dem Denken. Nein.":
+            "Ich denk darüber nach. Okay, fertig. NEIN!":
 
                 jump cookingprevious
             "Klar, in Ordnung.":
