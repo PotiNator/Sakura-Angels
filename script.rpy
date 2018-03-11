@@ -9130,7 +9130,7 @@ label explanationover:
 
         p "Kann das nicht erstmal warten?{w} Wie wär's, wenn wir erstmal nach Hause gehen und--"
 
-        "I let out a sharp gasp of pain as I try to stand up.{w} Yup.{w} Still not all there, yet."
+        "Als ich versuchte, aufzustehen, schrie ich vor Schmerzen laut auf.{w} Jup.{w} Es geht noch nicht."
 
         $ sayaface='happy'
         $ sayapose='magical_2'
@@ -9139,16 +9139,16 @@ label explanationover:
 
         s "Oh, warte, ich helf dir!"
 
-        "Sayaka gladly swoops in and hooks an arm under mine."
+        "Sayaka hängt ihren Arm und meinen und hilft mir auf."
 
         $ hikaface='shy'
         show Hikari
         
         h "I-Ich kann auch helfen!"
 
-        "And, of course, Hikari takes up my other arm with just a little less grace than Sayaka."
+        "Und natürlich nimmt Hikari meinen anderen Arm - allerdings nicht so sorgsam wie Sayaka."
 
-        "Somehow, the pair are able to get me to a standing position without tearing me apart."
+        "Irgendwie schaffen es die beiden jedoch, mir aufzuhelfen, ohne mich dabei in zwei Teile zu reißen."
 
         $ sayaface='smiling'
         $ sayapose='magical_1'
@@ -9162,9 +9162,9 @@ label explanationover:
 
         h "Ugh.{w} Ist es wirklich so wichtig?{w} Ich habe ihr Leben verschont.{w} Können wir sie nicht einfach zurücklassen?"
 
-        "Sayaka and Hikari both vie for different directions as we stumble along as one just barely functional unit."
+        "Sayaka und Hikari wollen beide in unterschiedliche Richtungen gehen, was darin resultiert, dass wir wie eine nicht funktionstüchtige Einheit vor uns hin stolpern."
 
-        "Wait, are they talking about..."
+        "Warte, meinen sie vielleicht ..."
 
         p "Yuzuki?!{w} Du meinst, es geht ihr gut?"
 
@@ -9172,24 +9172,24 @@ label explanationover:
 
         stop music fadeout 5.0
 
-        "We swerve wildly as Sayaka takes command, Hikari reluctantly following along."
+        "Auf einmal übernimmt Sayaka das Kommando und Hikari folgt ihr - wenn auch nur ungern."
 
         $ sayaface='joking'
         show Sayaka
 
         s "Schau!{w} Ihr geht's gut.{w} Und ...{w} wir hätten sie besser nicht alleine lassen sollen.{w} Aber wir konnten uns einfach nicht einigen, wer dir helfen soll!"
 
-        "Slumped against a nearby rock is an unconscious Yuzuki, her outfit in tatters and her body bruised.{w} But, beyond that, she seems alive, breathing gently as she rests from what must have been a tough battle beforehand."
+        "An einen nahegelegenen Felsen angelehnt finde ich die bewusstlose Yuzuki.{w} Abergesehen von ihrer Kleidung, die zerfetzt ist, und ein paar Kratzern, scheint sie nichts abbekommen zu haben."
 
         $ sayaface='smiling'
         show Sayaka
 
-        "I begin to wonder just how long she might be out for, but already I can see her begin to stir."
+        "Ich frage mich, wie lange sie hier schon bewusstlos rumliegt.{w} Kurz darauf rührt sie sich auf einmal."
 
         $ sayaface='normal'
         show Sayaka
 
-        "Hikari and Sayaka put on their serious faces and take up defensive positions before me, leaving me to wobble on my feet as I try to stand upright on my own."
+        "Hikari und Sayaka nehmen vor mir eine Verteidigungsposition ein. Ich hingegen kann mich gerade noch so auf meinen wackeligen Beinen halten."
 
 
     scene cg17
@@ -9200,9 +9200,9 @@ label explanationover:
 
     y "Nghh..."
 
-    "She winces, and gives us all an intense look-over."
+    "Sie schreckt zurück und schaut uns an."
 
-    "Slowly, she comes to the realisation of what has happened."
+    "Langsam bemerkt sie, was passiert ist."
 
     y "Es ist...{w}Es ist vorbei, oder?{w} Ich...{w}hab verloren."
 
@@ -9210,11 +9210,11 @@ label explanationover:
 
     y "Sie ist...{w}Sie ist jetzt komplett weg.{w} Meine Königin...{w} Ich kann sie überhaupt nicht fühlen."
 
-    "She seems a lot more subdued now.{w} The madness is gone, and in its place, all I can see is a sad girl.{w} One that was misguided."
+    "Sie scheint jetzt viel verhaltener zu sein.{w} Die Verrücktheit ist weg und stattdessen sehe ich nur ein trauriges Mädchen, das fehlgeleitet wurde, vor mir."
 
     y "Aber ich war so nah!{w} Ich...{w}Ich konnte es haben...{w} Argh, verdammt!"
 
-    "She thumps a feeble fist against the floor.{w} There's no strength left at all."
+    "Sie schlägt mit ihrer Faust schwach gegen den Boden.{w} Sie hat überhaupt keine Kraft mehr."
 
     y "Na, und?{w} Sind Sie hier, um sich zu freuen?"
 
@@ -9224,9 +9224,9 @@ label explanationover:
 
     p "Sag das nicht!"
 
-    "I can't stand aside any longer while she puts herself down like this.{w} I push past Sayaka and Hikari to face her."
+    "Ich kann diesen Anblick nicht länger ertragen und dränge mich an Sayaka und Hikari vorbei, um ihr gegenüberzutreten."
 
-    "Yuzuki meets me with some surprise in her eyes, but it quickly turns to the same look of defeat she had a moment ago."
+    "Yuzuki sieht mich mit einem überraschten Blick an, welcher sich jedoch kurz darauf wieder in einen Blick der Niederlage verwandelt."
 
     y "Warum nicht?{w} Es ist die Wahrheit, nicht wahr?"
 
@@ -9240,13 +9240,13 @@ label explanationover:
 
     y "Ich habe gerade nicht nachgedacht.{w} Ich war so besessen davon, dass ich niemals daran dachte, irgendwas zu hinterfragen."
 
-    "So she isn't a bad person.{w} Just misguided.{w} And did the wrong things for an innocent enough goal.{w} I can't help but feel sorry for her...{w} for things to have ended up this way."
+    "Sie ist kein schlechter Mensch.{w} Sie wurde bloß fehlgeleitet.{w} Und sie hat die falschen Dinge getan, um ihr Ziel zu erreichen.{w} Ich habe Mitleid mit ihr ...{w} und es tut mir leid, dass es so enden musste."
 
     y "Und jetzt, mit der einzigen Chance, die ich hatte, war mein Ziel immer dahin.{w} Warum sollte ich weiterleben?{w} Es ist hoffnugslos..."
 
     s "Hmm.{w} Verstehe, verstehe."
 
-    "Sayaka cups a hand to her chin and nods to herself, as if intensely thinking about what she's been told."
+    "Auf einmal nickt Sayaka."
 
     stop music fadeout 2.0
 
@@ -9258,7 +9258,7 @@ label explanationover:
 
     s "Jup!"
 
-    "Sayaka bounces forward and extends a hand to Yuzuki, a blinding smile upon her face."
+    "Sayaka hüpft nach vorne und streckt mit einem Lächeln im Gesicht Yuzuki die Hand entgegen."
 
     s "{i}Wir werden{/i} deine Freunde, Yuzuki."
 
@@ -9277,9 +9277,9 @@ label explanationover:
     play music "bgm/magicalgirlintro.ogg" fadein 2.0
     queue music "bgm/magicalgirlloop.ogg"    
 
-    "Yuzuki is taken aback by the sudden gesture, but not as much as Hikari."
+    "Yuzuki ist erstaunt über diese abrupte Geste, aber nicht so sehr wie Hikari."
 
-    h "Eh?!{w} W-Wir werden?!"
+    h "Hä?!{w} W-Werden wir?!"
 
     y "...Wirklich!?"
 
@@ -9323,7 +9323,7 @@ label explanationover:
 
     s "{i}Stimmt's{/i}, Hikari?"
 
-    "Sayaka twists her head to meet Hikari in a most unnatural fashion, her smile widening.{w} It's like something out of a horror movie..."
+    "Sayaka verdreht ihren Kopf, um Hikari auf eine unnatürliche Art und Weise anzusprechen.{w} Das kommt wie vor wie in einem Horrorfilm ..."
 
     $ hikaface='scared'
     $ hikapose='magical_2'
@@ -9340,7 +9340,7 @@ label explanationover:
     $ yuzuface='smiling'
     show Yuzuki
 
-    "Yuzuki doesn't know how to process this.{w} Her face flickers through a range of emotions before she settles on a smile, the faint trace of tears bubbling up in the corners of her eyes."
+    "Yuzuki weiß nicht, wie sie all das verarbeiten soll.{w} Ihr Gesicht zeigt eine große Vielzahl von Emotionen, ehe sie kurz darauf mit Tränen in den Augenwinkeln zu lächeln beginnt."
 
     y "Ich...{w}Ich verdiene nichts davon.{w} Warum bist du so nett?"
 
@@ -9351,7 +9351,7 @@ label explanationover:
 
     s "Aw, sei doch nicht so.{w} Jeder verdient Freunde!{w} Wen kümmert's, dass man ein paar schlimme Dinge getan hat?{w} Wahre Freunde sehen darüber hinweg!"
 
-    "I'm not really sure if we should be fully overlooking the fact she was that twisted, dark angel before, but Sayaka still has a good point."
+    "Ich bin mir nicht sicher, ob wir die Tatsache, dass sie dieser verrückte, dunkle Engel war, einfach so ignorieren sollten, aber irgendwie hat Sayaka doch recht."
 
     $ sayaface='smiling'
     show Sayaka
@@ -9363,18 +9363,20 @@ label explanationover:
     scene bg black
     with fade
 
-    "And so, after perhaps the most dramatic moments of my life, we all exit the cave, with the hope that we never have to return."
+    "Und so verlassen wir alle gemeinsam die Höhle."
 
-    "A long-lost evil was put back in its place and we made a new friend today.{w} All in all, I'd say it's been a fairly eventful day!"
+    "Ein lange verschollenes Übel wurde beseitigt und wir haben einen neuen Freund gefunden.{w} Alles in allem würde ich sagen, dass das heute ein ziemlich ereignisreicher Tag war!"
 
-    "Thankfully, thanks to Yuzuki, we find an alternative way out of the cave that didn't involve squeezing ourselves into an impossibly small tunnel.{w} I'm not sure I could have made the journey back if that were the case."
+    "Glücklicherweise finden wir dank Yuzuki schnell den Weg aus der Höhle, ohne durch diese Tunnel krabbeln zu müssen."
+    
+    "Anderenfalls, so befürchte ich es zumindest, wären wir wahrscheinlich eh nie aus der Höhle rausgekommen."
 
-    "I can actually think clearly now.{w} The headaches are gone.{w} For good, I hope."
+    "Ich kann jetzt wieder klar denken.{w} Die Kopfschmerzen sind weg.{w} Hoffentlich für immer."
 
     scene forest trail
     with fade
 
-    "We emerge back into the forest, the warm, vibrant rays of the sun a welcome change after being in that cave for so long."
+    "Wir kommen zurück in den Wald.{w} Nachdem wir so lange in dieser Höhle waren, sind diese warmen Sonnenstrahlen wirklich eine willkommene Abwechslung."
 
     show Sayaka
     $ sayaface='happy'
@@ -9383,11 +9385,11 @@ label explanationover:
 
     s "Ahhh, endlich frische Luft!"
 
-    "Sayaka bounds out a few steps ahead to take in the crisp air.{w} Hikari and Yuzuki are trailing behind, seemingly still not comfortable with one another.{w} I guess they always had the biggest rivalry during their encounters."
+    "Sayaka läuft ein Stück nach vor, um die frische Luft 'aufzusaugen'.{w} Hikari und Yuzuki, scheinbar noch immer nicht wohlwollend zueinander, hinken hinterher."
 
     s "Nun, das hat ja nicht mal so lang gedauert, als ich vermutet hätte.{w} Sieht aus, als hätten wir den Großteil vom Tag noch vor uns!"
 
-    "She continues to radiate optimism as she takes in the sights, but I can't shake the one question that has been on my mind since we started this whole crusade."
+    "Sie strahlt weiterhin ihren typischen Optimismus aus, als sie sich sonnen lässt.{w} Ich hingegen kann eine Frage, die ich mir schon seit unserer Abreise durch den Kopf geht, einfach nicht abschütteln."
 
     p "Was ...{w} Was geschieht jetzt?"
 
@@ -9403,7 +9405,7 @@ label explanationover:
 
     s "Ohh ..."
 
-    "It seems she realises what I mean, as her smile shrinks.{w} And...{w}it seems like that reaction answered my question for me."
+    "Angesichts ihres immer kleiner werdenden Lächelns schätze ich, dass sie verstanden hat, was ich meine.{w} Und ...{w} es sieht so aus, als wäre diese Reaktion auch schon die Antwort auf meine Frage."
 
     s "Das ...{w} Na ja ..."
 
@@ -9412,9 +9414,9 @@ label explanationover:
     show Sayaka at left
     with dissolve
 
-    h "Du hast recht.{w} Unser Job {i}ist{/i} fertig hier."
+    h "Du hast recht.{w} Unser Job hier {i}ist{/i} erledigt."
 
-    "They both give me solemn looks.{w} I knew it.{w} I didn't want to accept it, but I knew this was going to happen..."
+    "Sie sehen mich beide feierlich an.{w} Ich wusste es.{w} Ich wollte es nicht akzeptieren, aber ich wusste die ganze Zeit, dass das passieren würde ..."
 
     $ yuzuface='shocked'
     $ yuzupose='magical_1'
@@ -9440,14 +9442,14 @@ label explanationover:
 
     s "Aber ich denke, wir haben uns jede Menge Urlaub verdient, den wir einlösen sollten.{w} Nicht wahr, Hikari?"
 
-    h "Urlaub?{w} Was um alles in der Welt bist du--"
+    h "Urlaub?{w} Was um alles in der Welt meinst--"
 
     $ sayaface='happy'
     $ hikaface='scared'
     show Hikari
     show Sayaka
 
-    "That smile.{w} That look.{w} It cuts Hikari off mid-sentence as she changes her mind about things.{w} I think I'm quickly learning who is the boss in this group."
+    "Dieses Lächeln.{w} Dieser Blick.{w} Hikaris Satz wird mittendrinn unterbrochen.{w} Jetzt verstehe ich, wer hier der Anführer dieser Gruppe ist."
 
     $ hikaface='normal'
     show Hikari
@@ -9465,56 +9467,56 @@ label explanationover:
 
     s "Und wir werden das Beste aus der Zeit rausholen, die wir zusammen verbringen.{w} Als Freunde!{w} Es gibt hier noch so viel, was ich versuchen möchte!"
 
-    "She trails off into a list of things she wants to do, as Hikari struggles to come to terms with their impromptu 'holiday'."
+    "Während Sayaka jede Menge Dinge aufzählt, die sie in ihrem Urlaub machen möchte, scheint sich Hikari mit dieser Idee noch immer nicht ganz abgefunden zu haben."
 
-    "I'm guessing whichever top secret magic organisation they belong to isn't going to be happy when they learn about this..."
+    "Ich schätze, diese streng geheime Organisation, der sie angehören, wird nicht ganz glücklich darüber sein ..."
 
-    "Still, I'm somewhat relieved that they'll be sticking around a bit longer.{w} Even if only for a while."
+    "Aber trotzdem bin ich froh darüber, dass wir noch etwas Zeit miteinander verbringen können.{w} Auch wenn diese Zeit nicht ewig dauern wird."
 
-    "While things have certainly been crazy these past few days...{w} I definitely can't say I hated all of it."
+    "Und obwohl die letzten Tage ziemlich verrückt waren ...{w} muss ich zugeben, dass ich es nicht wirklich gehasst habe."
 
-    "The parts where things were trying to kill me were bad, sure, but, I really had a lot of fun."
+    "Klar, die Momente, in denen ich fast umgekommen wär, waren nicht so der Burner, aber der Rest hat richtig Spaß gemacht."
 
-    "I've never really had much of a social life these days, so all these experiences had been pretty new to me in more than one way."
+    "Kurzum, es war eine neue Erfahrung für mich, auf die ich im Nachhinein lächelnd zurückblicken kann."
 
-    "They haven't just been my guardian angels, they've also been my friends.{w} Damn good ones, at that."
+    "Sie waren nicht nur meine Schutzengel, sondern auch meine Freunde.{w} Verdammt gute Freunde, um ehrlich zu sein."
 
-    "Okay, so maybe Sayaka's jokes can be a bit much, and Hikari can be a little bossy at times...{w}but that just adds to their charm."
+    "Okay, Sayakas Scherze schossen gelegentlich über das Ziel hinaus und Hikari war manchmal ein wenig zu rechthaberisch ...{w} aber es kann schließlich nicht immer alles perfekt sein."
 
     $ sayaface='happy'
     show Sayaka
 
-    "They pulled me into a completely new and unknown world when we first met.{w} And I might have been just a {i}tiny{/i} bit reluctant at first about accepting things."
+    "Sie haben mich in eine komplett neue und unbekannte Welt gezogen.{w} Und ich war anfangs vielleicht ein kleines bisschen zu zögerlich dabei, alles zu akzeptieren."
 
     $ hikaface='angry'
     show Hikari
 
-    "I wouldn't change any of these experiences for the world, though."
+    "Aber im Nachhinein würde ich diese Erfahrungen gegen nichts auf der Welt eintauschen."
 
-    "I feel they've helped shape me into a better person.{w} Pulled me out of whatever shell I might have been hiding away in these past years."
+    "Ich habe das Gefühl, als hätten sie mich zu einem besseren Menschen gemacht.{w} Als hätten sie mich aus der Hülle gezogen, in der ich mich all die Zeit über versteckt hatte."
 
     $ sayaface='joking'
     show Sayaka
 
-    "I can't help but smile as my guardians break into an argument once more.{w} I'm not even sure what started it this time."
+    "Als meine Beschützer wieder einen Streit beginnen, muss ich einfach anfangen zu lachen.{w} Ich bin mir nicht sicher, was es diesmal ist."
 
-    "I need to make sure I enjoy the little time I have left with them, before they leave.{w} Probably for good."
+    "Ich muss wirklich darauf achten, das Beste aus der Zeit zu machen, die uns noch bleibt."
 
-    "It's a bit depressing to know that this won't last forever, but then that's just all the more incentive to make this time count and create as many happy memories as possible."
+    "Es ist ein bisschen deprimierend, zu wissen, dass diese Zeit nicht ewig andauern wird, aber gleichzeitig ist es umso mehr Ansporn, sie voll und ganz auszuschöpfen."
 
-    h "Ich werde dich umbringen!"
+    h "Ich bring dich um!"
 
     $ sayaface='scared'
     show Sayaka
 
-    s "Wahh, beruhig dich, war doch bloß ein Scherz!{w} Kenta, beschütze mich!"
+    s "Wahh, beruhig dich, war doch bloß ein Scherz!{w} Kenta, beschütz mich!"
 
     $ yuzuface='scared'
     show Yuzuki
 
     y "Du bist sicherlich ein seltsamer Haufen..."
 
-    "...Yup.{w} Happy memories."
+    "...Jup.{w} Glüchliche Erinnerungen."
 
     scene bg white
     with wake
@@ -9522,21 +9524,21 @@ label explanationover:
     scene bedroom day
     with wake
 
-    "I wake up feeling better than ever.{w} No headaches.{w} No feeling of having dreamt something terrible.{w} Just...{w}bliss."
+    "Ich wache auf und fühle mich besser denn je.{w} Keine Kopfschmerzen.{w} Kein Anzeichen daran, etwas Schreckliches geträumt zu haben.{w} Lediglich ...{w} Glückseligkeit."
 
-    "It's been about a week now since we resealed the dark queen.{w} And true to their word, Sayaka and Hikari have stuck around."
+    "Es ist nun eine Woche her, seit wir die dunkle Königin wieder versiegelt haben.{w} Und Sayaka und Hikari sind - wie sie es versprochen haben - bei mir geblieben."
 
-    "They continue to go to school, and we continue to hang out, making the most of the free time we have."
+    "Sie gehen weiter zur Schule und wir hängen weiterhin gemeinsam ab."
 
-    "...They still insist on camping outside, though.{w} There was really no need for that, since there haven't been any more monster attacks."
+    "...Sie bestehen aber noch immer darauf, draußen zu campen.{w} Wobei es dafür keinen Grund mehr gab, da es seitdem keine Monsterangriffe mehr gab."
 
-    "Maybe they've just gotten too used to it?{w} Or they're just as stubborn as ever, I don't know."
+    "Vielleicht haben sie sich einfach schon daran gewöhnt?{w} Oder sie sind noch sturer geworden ... Was weiß ich."
 
-    "I guess it's not {i}that{/i} bad.{w} I'm just surprised they haven't been caught yet.{w} And when that time comes, I'm only going to say I told them so."
+    "Aber vielleicht ist es ja gar nicht mal so schlecht.{w} Es überrascht mich nur, dass sie noch nicht erwischt wurden.{w} Und wenn diese Zeit kommt, sage ich nur, 'ich hab euch gewarnt'."
     stop music fadeout 2.0
     p "Hm?"
 
-    "There's a knock at my door.{w} I wonder who it is?"
+    "Irgendjemand klopft da an meiner Tür.{w} Wer das wohl ist?"
 
 
 
