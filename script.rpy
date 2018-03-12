@@ -403,24 +403,24 @@ label start:
     queue music "bgm/magicalgirlloop.ogg"
     "Eine fröhliche Stimme zwitschert.{w} Ein willkommenes Geräusch nach dem Schrecken ...{w} dieses Monsters."
 
-    tg "Rede nicht mit ihm!{w} Wir müssen gehen, bevor--"
+    tg "Rede nicht mit ihm!{w} Wir müssen gehen, bevor –"
 
     "Und dann eine weitere Stimme, die weniger ...{w} fröhlich klingt.{w} Genauer gesagt klingt sie sogar eher verägert."
 
     scene cg1 with wake
 
 
-    "Kurz darauf verlasst das Licht, was meine Retter zum Vorschein bringt."
+    "Kurz darauf verblasst das Licht, was meine Retter zum Vorschein bringt."
 
     "...Wobei ich ...{w} das echt als {i}Letztes{/i} erwartet hätte."
 
-    "Zwei Mädchen, in etwa in meinem Alter, stehen vor mir."
+    "Zwei Mädchen, ungefähr in meinem Alter, stehen vor mir."
 
     "Ich blinzle ein paar Mal und wische meine Augen aus, in der Hoffnung, dass all das ein wenig mehr Sinn ergeben würde.{w} Das kann unmöglich wahr sein."
 
-    "Um ehrlich zu sein, glaube ich, dass mir meine Augen jetzt gerade einen größeren Streich spielen als sie es vorhin getan haben, als das Monster da war!"
+    "Um ehrlich zu sein, glaube ich, dass mir meine Augen jetzt gerade einen noch größeren Streich spielen, als sie es vorhin getan haben, als das Monster da war!"
 
-    "Diese Waffen und Kleidung, die direkt aus einem Fantasy-Buch stammen könnten, sind zu viel für mein kleines Gehirn."
+    "Diese Waffen und Kleidung, die direkt aus einem Fantasy-Roman stammen könnten, sind zu viel für mein kleines Gehirn."
 
     p "Wa...{w} Was zur Hölle war das?!"
 
@@ -434,7 +434,7 @@ label start:
 
     cg "Nicht dein eigener Schatten, du Idiot!{w} Das Ding, worum wir uns gerade gekümmert haben, bezeichnen wir als Schatten."
 
-    cg "Die physische Manifestation all des Hasses und der negativen Emotionen, die jemand in sich trägt."
+    cg "Die physische Manifestation all des Hasses und der negativen Emotionen, die ein Mensch in sich trägt."
 
     cg "Normalerweise sind sie tagsüber nicht so aggressiv, aber ...{w} Kurzum, du hattest echt Glück!"
 
@@ -442,17 +442,17 @@ label start:
 
     cg "Du bist doch nicht verletzt, oder?"
 
-    p "Nein, alles gut, aber--"
+    p "Nein, alles gut, aber –"
 
-    tg "Als ob die Dinge nicht schlimm genug wären, dass wir uns ihm offenbaren mussten, redest du mit ihm auch noch über Sachen, die kein normaler Mensch wissen sollte.{w} Hast du den Verstand verloren?!"
+    tg "Als ob es nicht schon schlimm genug gewesen wäre, dass wir uns ihm offenbaren mussten – nein, du redest mit ihm auch noch über Sachen, die kein normaler Mensch je wissen sollte.{w} Hast du den Verstand verloren?!"
 
     "Das aggressivere Mädchen, dessen Ausdruck immer düsterer wurde, während die andere sprach, mischte sich plötzlich ein. Anscheinend konnte sie es nicht länger ertragen."
 
-    cg "Aww, aber er sieht so verwirrt aus!{w} Und denkst du nicht, dass es jetzt, wo er die Schatten schon aus erster Hand erlebt hat, ein {i}wenig{/i} zu spät ist, um wieder abzuhauen?"
+    cg "Aww, aber er sieht so verwirrt aus!{w} Und denkst du nicht, dass es jetzt, da er die Schatten schon aus erster Hand erlebt hat, ein {i}wenig{/i} zu spät ist, um wieder abzuhauen?"
 
     tg "..."
 
-    "Mit verengten Augen starrt sie uns an.{w} Man erkennt, dass sie eindeutig wütend ist ...{w} aber ich glaube nicht, dass sie etwas dagegen unternehmen kann."
+    "Mit verengten Augen starrt sie uns an.{w} Man erkennt eindeutig, dass sie wütend ist ...{w} aber ich glaube nicht, dass sie etwas dagegen unternehmen kann."
 
     cg "Siehst du?{w} Du machst dir zu viele Sorgen!{w} Wir erzählen ihm nur, was er wissen muss, mehr nicht!"
 
@@ -469,7 +469,7 @@ label start:
 
     cg "Genau ... Also Kenta, wo waren wir?"
 
-    p "Äh, wir waren--"
+    p "Äh, wir waren –"
 
     "Warte ..."
 
@@ -480,7 +480,7 @@ label start:
 
     cg "Hm?{w} Oh ...{w} Ups!"
 
-    "Mit einer Hand verdeckt sie ihren Mund - so, als wolle sie versuchen, das Gesagte rückgängig zu machen.{w} Es häufen sich immer mehr Fragen an, und ich habe noch immer keine einzige Antwort erhalten!"
+    "Mit einer Hand verdeckt sie ihren Mund – so, als wolle sie versuchen, das Gesagte rückgängig zu machen.{w} Es häufen sich immer mehr Fragen an, und ich habe noch immer keine einzige Antwort erhalten!"
 
     with hpunch
     $ hikapose='magical_2'
@@ -491,7 +491,7 @@ label start:
 
     tg "Du Idiot!"
 
-    "{i}Bam!{/i} Das ernstere Mädchen 'schlägt' mir ihrer Faust auf den Kopf des anderen Mädchens, die gerade in einer 'Tut mir leid, mein Fehler'-Art und Weise ihre Zunge ausstreckt."
+    "{i}Bam!{/i} Das ernstere Mädchen 'schlägt' mir ihrer Faust auf den Kopf des anderen Mädchens, die gerade in einer 'Tut mir leid, mein Fehler'-Manier ihre Zunge ausstreckt."
 
     p "Ihr kennt mich also?"
 
@@ -501,7 +501,7 @@ label start:
     show Sayaka
     show Hikari with dissolve
 
-    "Ich hab sie noch nie in meinem Leben gesehen.{w} Und so wie sie aussehen, würde ich mich {i}auf jeden Fall{/i} an sie erinnern."
+    "Ich hab sie noch nie in meinem Leben gesehen.{w} Und so, wie sie aussehen, würde ich mich {i}auf jeden Fall{/i} an sie erinnern."
 
     $ sayapose='magical_2'
     show Sayaka with dissolve
@@ -510,11 +510,11 @@ label start:
 
     p "Ich ...?"
 
-    "Was hab ich in meinem Leben bloß falsch gemacht, dass mir so viel Aufmerksamkeit geschenkt wird?{w} Soviel ich weiß, bin ich doch nur ein normaler Schüler.{w} Der ein durchschnittliches Leben führt ..."
+    "Was hab ich in meinem Leben bloß falsch gemacht, dass mir so viel Aufmerksamkeit geschenkt wird?{w} Soviel ich weiß, bin ich doch nur ein ganz normaler Schüler.{w} Der ein durchschnittliches Leben führt ..."
     
     "Und normale Dinge macht.{w} Wobei, nach all diesen Ereignissen trifft das wohl alles nicht länger zu."
 
-    cg "Mmhmm.{w} Ich kann nicht zu viel verraten, weil du weißt schon, streng geheim und so, aber sagen wir mal so ...{w} Es liegt nicht in unserem Interesse, dass dir was zustößt."
+    cg "Mmhmm.{w} Ich kann nicht zu viel verraten, weil, du weißt schon, streng geheim und so, aber sagen wir mal so ...{w} Es liegt nicht in unserem Interesse, dass dir etwas zustößt."
 
     $ sayaface='happy'
     show Sayaka
@@ -540,17 +540,17 @@ label start:
 
     cg "Betrachte uns als deine Schutzengel, okay?"
 
-    "Als sie das sagt, macht sie mit ihrem Bogen eine schwungvolle Bewegung, woraufhin dieser kurz darauf zwischen ihren Fingern zerbricht."
+    "Als sie das sagt, macht sie mit ihrem Bogen eine schwungvolle Bewegung, woraufhin dieser zwischen ihren Fingern zerbricht."
     
-    "Wenige Augenblicke später bilden sich diese Scherben hinter ihrem Rücken wieder zusammen, bis sich ein paar Flügel gebildet hat."
+    "Wenige Augenblicke später bilden sich diese Scherben hinter ihrem Rücken wieder zusammen, bis sich ein Paar Flügel gebildet hat."
 
-    "Die Flügel, die zwar nicht fest mit ihr verbunden sind, scheinen zumindest zu funktionieren. Oder sagen wir so, sie bewegen sich im Wind zumindest hin und her."
+    "Die Flügel sind zwar nicht fest mit ihr verbunden, aber sie scheinen dennoch zu funktionieren. Oder sagen wir es so, sie bewegen sich im Wind zumindest hin und her."
 
-    "Warte, sind das buchstäblich Engel?!"
+    "Warte, sind das etwa wahrhaftig Engel?!"
 
     p "Um mal ein paar Dinge abzuklären ..."
 
-    p "Fangen wir mal von vorne an: das Ding, das mich gerade angegriffen hat - dieses Monster da - nennt ihr Schatten"
+    p "Fangen wir mal von vorne an: das Ding, das mich gerade angegriffen hat, – dieses Monster da – nennt ihr Schatten"
 
     $ sayaface='smiling'
     show Sayaka
@@ -561,19 +561,19 @@ label start:
 
     cg "Mmhmm!"
 
-    p "Denn, wenn sie mich fangen ...{w} wär das offensichtlich 'nicht gut' ... Einfach so, aus nicht näher beschriebenen Gründen?"
+    p "Denn, wenn sie mich fangen ...{w} wäre das offensichtlich 'nicht gut' ... Einfach so, aus nicht näher beschriebenen Gründen?"
 
     cg "Jup.{w} Ganz und gar nicht gut!"
 
-    p "Und ihr, wer auch immer ihr seid, agiert von den Schatten heraus und bekämpft sie, um mich zu beschützen?"
+    p "Und ihr, wer auch immer ihr seid, agiert aus den Schatten heraus und bekämpft sie, um mich zu beschützen?"
 
-    "Sie nickt begeistert.{w} Es sieht so aus, als hätte ich langsam begriffen, was hier los ist, auch wenn ich die kleinen Details noch nicht zusammenfügen konnte."
+    "Sie nickt begeistert.{w} Es sieht so aus, als hätte ich langsam begriffen, was hier los ist, auch wenn ich die kleinen Details noch nicht vollends zusammenfügen kann."
 
-    "Mit all diesem Wissen, komme ich zu dem Entschluss, dass ..."
+    "Mit all diesem Wissen komme ich zu dem Entschluss, dass ..."
 
     menu:
         "Ich muss ihnen einfach glauben.":
-            "So verrückt es auch klingt, ich kann es nicht leugnen.{w} Das Monster war eindeutig echt und ich habe auch keinen Grund, an diesen Mädchen zu zweifeln, schließlich haben sie mich gerettet."
+            "So verrückt es auch klingt, ich kann es nicht leugnen.{w} Das Monster war ohne Frage echt und ich habe auch keinen Grund, an diesen Mädchen zu zweifeln, schließlich haben sie mich gerettet."
         "Diese Mädchen spinnen doch.":
 
             p "Okay.{w} Ja.{w} Jetzt versteh ich's."
@@ -607,7 +607,7 @@ label start:
 
             "Mit diesen Worten mache ich mich wieder auf in Richtung Schule.{w} Meine Fresse, haben mich die jetzt wirklich so lang aufgehalten?{w} Wenn ich Glück hab, komm ich noch vor dem Ende der ersten Stunde in die Schule!"
 
-            cg "Hey, warte!{w} Das ist--"
+            cg "Hey, warte!{w} Das ist –"
 
             "Ich kann es mir echt nicht leisten, noch mehr von diesem Wahnsinn zu hören, deshalb ignoriere ich sie jetzt einfach und stelle ein wenig Abstand zwischen uns her."
 
@@ -627,7 +627,7 @@ label start:
             show Hikari
             with dissolve
 
-            "Ich werde von einem furcherregenden Gesicht - das Gesicht, welches vorhin noch ruhig war - konfrontiert."
+            "Ich werde von einem furcherregenden Gesicht – das Gesicht, welches vorhin noch ruhig war – konfrontiert."
 
             tg "Wirklich?{w} Ich meine ... wirklich?!{w} Bist du {i}wirklich{/i} ein so großer Idiot?!"
 
@@ -637,7 +637,7 @@ label start:
 
             tg "Es ist schon schlimm genug, dass wir uns zeigen mussten, aber jetzt tust du auch noch so, als wären wir verrückt?!"
 
-            "Mit einem finsteren Blick ballt sie ihre Fäuse zusammen und hinterlässt den Eindruck, als würde sie am liebsten zuschlagen."
+            "Mit einem finsteren Blick ballt sie ihre Fäuse zusammen und erweckt den Eindruck, dass sie am liebsten zuschlagen würde."
 
             tg "Ich weiß nicht einmal, warum wir uns um dich kümmern, wenn du uns so behandelst!{w} Vielleicht sollten wir das nächste Mal einfach zulassen, dass du gefressen wirst.{w} Hmph."
 
@@ -670,12 +670,12 @@ label start:
 
             tg "Hmph, was auch immer.{w} Er ist wirklich so dumm, wie er aussieht."
 
-            "Autsch ...{w} Ich {i}bin{/i} noch immer hier, nur damit ihr wisst!"
+            "Autsch ...{w} Ich {i}bin{/i} noch immer hier, nur damit ihr's wisst!"
 
             $ sayaface='joking'
             show Sayaka
 
-            cg "Oh?{w} Das hör ich zum ersten Mal.{w} Im Gegenteil, ich kann mich noch gut daran erinnern, dass du gesagt hast, er sieht ziemlich sü--"
+            cg "Oh?{w} Das hör ich zum ersten Mal.{w} Im Gegenteil, ich kann mich noch gut daran erinnern, dass du gesagt hast, er sieht ziemlich sü–"
 
             $ hikaface='embarrassed'
             $ sayaface='shocked'
@@ -683,9 +683,9 @@ label start:
             show Hikari
             with hpunch
 
-            "{i}BAM.{/i} Da landet die Faust direkt im Gesicht des fröhlichen Mädchens.{w} Und dieses Mal war es ernst gemeint, denn sie hielt kein bisschen zurück.{w} Das muss echt wehgetan haben ..."
+            "{i}BAM.{/i} Da landet die Faust direkt im Gesicht des fröhlichen Mädchens.{w} Und dieses Mal war es ernst gemeint, denn sie hielt sich kein bisschen zurück.{w} Das muss echt wehgetan haben ..."
 
-            tg "Halt dein Mund!{w} Soetwas habe ich nie gesagt!"
+            tg "Halt dein Mund!{w} So etwas habe ich nie gesagt!"
 
             $ sayaface='scared'
             show Sayaka
@@ -709,7 +709,7 @@ label start:
 
     "...Irgendwie gefällt mir diese Wortwahl nicht.{w} Kein bisschen."
 
-    cg "Von daher trennen sich hier erstmal unsere Wege, aber merk dir, dass wir eine Auge auf dich werfen ... Von {i}ganz nah{/i}, okay?"
+    cg "Von daher trennen sich hier erst mal unsere Wege, aber merk dir, dass wir eine Auge auf dich werfen ... Von {i}ganz nah{/i}, okay?"
 
     $ sayaface='happy'
     show Sayaka
@@ -728,16 +728,16 @@ label start:
 
     "Ist das gerade wirklich passiert?"
 
-    "Ah, pfeif drauf, das Ganze muss erstmal warten.{w} Jetzt muss ich mich erstmal auf was anderes konzentrieren: Ich komme noch zu spät zur Schule!"
+    "Ah, pfeif drauf, das Ganze muss erst mal warten.{w} Ich muss mich jetzt auf was anderes konzentrieren: Ich komme noch zu spät zur Schule!"
 
-    "Im Versuch, die verlorengegangene Zeit wieder aufzuholen, sprinte ich los, und hoffe, nicht noch einmal auf die beiden Mädchen zu treffen."
+    "Im Versuch, die verlorengegangene Zeit wieder aufzuholen, sprinte ich los, und hoffe nicht noch einmal auf die beiden Mädchen zu treffen."
     stop music fadeout 3.0
     scene bg black
     with fade
 
 
 
-    "Irgendwie geht es sich doch noch rechtzeitig aus.{w} Es kam mir vor wie ein Fotofinish - genau in dem Moment, wo die Glocke läutete!"
+    "Irgendwie geht es sich doch noch rechtzeitig aus.{w} Es kam mir vor wie ein Fotofinish – genau in dem Moment, wo die Glocke läutete!"
 
     scene classroom
     with fade
