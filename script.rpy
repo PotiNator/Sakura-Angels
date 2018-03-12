@@ -10188,39 +10188,39 @@ label explanationover:
 
         "..."
 
-        "The knock is shortly followed by another one, and another one."
+        "Dem Klopfen folgt kurz darauf ein weiteres ... und noch eins."
 
         h "Sayaka, ich bin mir sicher er hat es schon gehört!"
 
         s "Schwachsinn, man kann nie zu vorsichtig sein."
 
-        "Hmm, I really wonder who it could be..."
+        "Hmm, wer das wohl ist ..."
 
-        "I say nothing, just to see what will happen."
+        "Ich bleib einfach mal ruhig. Nur um zu sehen, was passiert."
 
         s "Hmm?{w} Nichts?{w} Vielleicht schläft er wirklich noch?"
 
-        "{i}Thump, thump, thump.{/i}{w} She hammers the door once more."
+        "{i}Klopf, klopf, klopf.{/i}{w} Sie hämmert ein weiteres Mal gegen die Tür."
 
-        h "Denkst du er ist okay...?{w} Er war wirklich müde, als wir uns letzte Nacht trennten."
+        h "Denkst du, es geht im gut ...?{w} Er war wirklich müde, als wir uns letzte Nacht getrennt haben."
 
-        "That's because I don't think the pair realise just how exhausting they've become lately."
+        "Ich schätze, die beiden bemerken gar nicht, wie anstrengend sie in den letzten Tagen geworden sind."
 
-        "Don't get me wrong, I'm happy they've stuck around for a little longer..."
+        "Irgendwie bin ich ja froh, dass sie bei mir geblieben sind, aber ..."
 
-        "But, after the resealing, they've become {i}way{/i} more competitive.{w} I'm really not sure what they're trying to prove anymore."
+        "Aber seit der Wiederversiegelung konkurrieren sie {i}noch{/i} stärker gegeneinander.{w} Ich weiß es nicht, was sie noch beweisen wollen."
 
         s "Hmm ...{w} Jetzt, wo du's sagst, er hat wirklich blass ausgesehen.{w} Vielleicht hat er sich eine tödliche Krankheit eingefangen, mit der er uns nicht konfrontieren wollte?"
 
         h "W-Was?!"
 
-        "The door handle rattles.{w} But there's some hesitation."
+        "Die Türschnalle klappert schon.{w} Aber sie geht nicht ganz nach unten."
 
         h "Aber wenn er noch schläft ...{w} Ist es wirklich okay für uns, einfach so reinzuplatzen?"
 
         s "Und ob!{w} Ich mach es die ganze Zeit.{w} Hast du ihn schon mal beim Schlafen zugesehen, Hikari?{w} Er ist so niedlich!{w} Da, ich hab ein paar Bilder davon gemacht."
 
-        "...I feel so violated.{w} I'm glad I actually am awake at this point."
+        "...Es kommt mir so vor, als wollen mich die beiden vergewaltigen.{w} Ich bin ja echt froh darüber, dass ich bereits wach bin."
 
         h "Sayaka!{w} Du hättest wirklich nicht--awww..."
 
@@ -10242,7 +10242,7 @@ label explanationover:
         play music "bgm/magicalgirlintro.ogg" fadein 2.0
         queue music "bgm/magicalgirlloop.ogg"
 
-        "The door swings open and the pair come tumbling in.{w} They really do make an entrance sometimes."
+        "Die Tür geht auf und die beiden stürzen herein.{w} Manchmal legen sie echt einen sehenswerten Auftritt hin."
 
         p "Ähh ...{w} Guten Morgen?"
 
@@ -10251,7 +10251,7 @@ label explanationover:
 
         s "Oh, hey, Kenta!"
 
-        "Sayaka speaks from under Hikari, greeting me casually."
+        "Sayaka spricht unter Hikari liegend und begrüßt mich."
 
         $ hikaface='angry'
         show Hikari
@@ -10263,7 +10263,7 @@ label explanationover:
         $ hikaface='scared'
         show Hikari
 
-        "Hikari opens her mouth to scold me further, but Sayaka catches her off-guard as she leaps to her feet."
+        "Hikari öffnet wieder ihren Mund - dieses Mal, um mich zu schimpfen - aber Sayaka erwischt sie unvorbereitet, als diese aufspringt."
 
         $ sayapose='school_2'
         show Sayaka
@@ -10283,12 +10283,12 @@ label explanationover:
 
         s "Na komm schon.{w} Hast du mich {i}gesehen{/i}?"
 
-        "She strikes a pose she must deem 'sexy', but if anything it looks like she has a bad knot in her back."
+        "Sie nimmt eine Pose ein, die sie als 'sexy' betrachtet, aber in Wirklichkeit sieht sie relativ albern aus."
 
         $ hikapose='school_2'
         show Hikari
 
-        "Hikari is less than amused, and gives her a forceful shove which sends her toppling to the ground."
+        "Hikari ist nicht gerade amüsiert und gibt ihr einen kräftigen Schubs, woraufhin sie zu Boden stürzt."
 
         $ sayaface='shocked'
         show Sayaka
