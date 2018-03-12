@@ -10302,7 +10302,7 @@ label explanationover:
         show Sayaka
         show Hikari
 
-        "Both of them light up at the mention of breakfast.{w} Ohh, maybe I should have--"
+        "Mit der Erwähnung des Frühstücks erhellt sich von beiden das Gesicht.{w} Ohh, vielleicht hätte ich das nicht einfach so--"
 
         $ hikaface='smiling'
         show Hikari
@@ -10317,16 +10317,16 @@ label explanationover:
         hide Sayaka
         hide Hikari
 
-        "Before I can say anything further, the pair of them barrel out of the room, neck and neck.{w} Oh god."
+        "Bevor ich auch nur ein weiteres Wort sagen kann, laufen die beiden Hals über Kopf aus meinem Zimmer.{w} Oh Gott."
 
         stop music fadeout 2.0
 
         scene kitchen day
         with dissolve
 
-        "I quickly follow them down, only to find I'm too late."
+        "Ich folge ihnen zügig hinterher, schaffe es aber leider nicht rechtzeitig."
 
-        "They're both in the kitchen, working on their own things as they frantically contest for space and utensils.{w} This is a nightmare."
+        "Sie sind bereits beide in der Küche und tragen dort mit den Küchenutensilien einen Kampf aus - zumindest sieht es danach aus.{w} Das ist ein Alptraum."
 
         play music "bgm/mischiefintro.ogg" fadein 2.0
         queue music "bgm/mischiefloop.ogg"
@@ -10337,7 +10337,7 @@ label explanationover:
         show Hikari at right
         with dissolve
 
-        h "H-hey, ich wollte das benutzen!"
+        h "H-Hey, das wollte ich benutzen!"
 
         $ sayaface='joking'
         show Sayaka
@@ -10354,14 +10354,14 @@ label explanationover:
         show Sayaka
         with dissolve
 
-        "I'm not even sure what either of them are trying to make.{w} It certainly doesn't look edible, though."
+        "Ich bin mir nicht einmal sicher, was das werden soll.{w} Es sieht jedenfalls nicht essbar aus."
 
         $ sayaface='joking'
         show Sayaka
 
-        "It doesn't help that I can see Sayaka sneaking extra salt into Hikari's meal while her back is turned.{w} That minx."
+        "Und die Tatsache, dass Sayaka extra Salz dazugibt, während Hikari dem Essen den Rücken zugedreht hat, macht das Ganze auch nicht besser.{w} Dieses Biest."
 
-        "I suppose I should be flattered they're doing this for me, but...{w}yeah, no.{w} I'll die if I eat either of those...{w}creations."
+        "Ich nehme an, ich sollte mich geehrt fühlen, da sie ja beide für mich kochen, aber ...{w} sicher nicht!{w} Diese {i}Kreationen{/i} werden mich noch ins Grab bringen!"
 
         hide Sayaka
         hide Hikari
@@ -10369,7 +10369,7 @@ label explanationover:
 
         y "Guten Morgen."
 
-        "Yuzuki greets me quietly from behind, almost giving me a heart attack.{w} Right.{w} I had almost forgotten she joins us in the mornings now."
+        "Und Yuzukis Begrüßung hinter meinem Rücken verpasst mir dann beinahe einen Herzinfarkt.{w} Stimmt.{w} Ich hätte fast vergessen, dass sie uns morgens jetzt immer Gesellschaft leistet."
 
         $ yuzuface='normal'
         $ yuzupose='school_1'
@@ -10380,13 +10380,13 @@ label explanationover:
 
         y "Das ist...{w}interessant."
 
-        "She watches over the spectacle with a blank look, the kitchen becoming more and more of a mess with each passing second."
+        "Sie wacht mit einem leeren Blick über das Spektakel."
 
-        "Since we started hanging out, it's been a gradual process of her opening up more to us.{w} She's still pretty quiet most of the time, and won't dive into many conversations, but I think she enjoys our company."
+        "Sie öffnet sich uns gegenüber immer mehr.{w} Zwar ist sie die meiste Zeit über noch ziemlich ruhig, und sie nimmt auch nicht oft an unseren Gesprächen teil, aber ich denke, sie schätzt unsere Gesellschaft."
 
-        "It must be tough for her to adjust to things after she's finally obtained the friends she so desired for all these years."
+        "Es muss schwer für sie sein, sich an all das zu gewöhnen. Schließlich hat sie endlich Freunde gefunden.{w} Freunde, die sie sich so lange gewünscht hatte."
 
-        "I'm sure it won't be long until she's out of her shell with Sayaka and Hikari at the helm, though.{w} They seem to be able to bring out the best in people."
+        "Ich bin mir sicher, dass es nicht mehr lange dauern wird, bis sie sich mit Hikari und Sayaka versteht.{w} Sie haben es schließlich auch geschafft, mich zu einem besseren Menschen zu machen."
 
         p "Interessant ist ein Wort dafür ..."
 
@@ -10407,7 +10407,7 @@ label explanationover:
         $ hikaface='angry'
         show Hikari
 
-        "Hikari mashes one last thing into her meal as she says so.{w} An entire egg.{w} Shell and all."
+        "Hikari gibt noch eine letzte Zutat in ihre Mahlzeit.{w} Ein ganzes Ei.{w} Mit Schale."
 
         p "Das ist, äh ...{w} großartig."
 
@@ -10418,7 +10418,7 @@ label explanationover:
 
         s "So, so, so ...{w} Wessen Speise willst du essen?"
 
-        "She proudly presents her...{w}something...{w}with a beaming smile.{w} Hikari seems more reserved, as if she might actually have some awareness about how bad the meal she's made is."
+        "Stolz präsentiert sie ihr ...{w} etwas ...{w} mit einem strahlenden Lächeln.{w} Hikari hingegen ist etwas zurückhaltender. Es ist fast so, als würde sie sich darüber im Klaren sein, wie schlecht es schmecken wird."
 
         p "Ohh ...{w} Wisst ihr was?{w} Ich hab gar keinen Hunger.{w} Ich wollte es euch ja eigentlich schon vorher sagen, aber ihr hattet es ja so eilig."
 
@@ -10440,7 +10440,7 @@ label explanationover:
 
         s "H-Häh?"
 
-        "I catch her off-guard with my sudden, desperate yell.{w} {i}Anything{/i} but that."
+        "Ich schreie sie unvorbereitet an.{w} {i}ALLES{/i}, nur das nicht."
 
         $ sayaface='smiling'
         show Sayaka
@@ -10450,14 +10450,14 @@ label explanationover:
         play music "bgm/everydayintro.ogg" fadein 2.0
         queue music "bgm/everydayloop.ogg"
 
-        "She huffs a sigh of defeat.{w} It doesn't last long, however, before her gaze settles on Yuzuki."
+        "Sie seufzt und scheint ihre Niederlage zu akzeptieren.{w} Aber es dauert nicht lange, bis sie ihre Augen auf Yuzuki fokussiert."
 
         $ sayaface='happy'
         $ sayapose='school_2'
         show Sayaka
         with dissolve
 
-        s "Ah, YuzukI!{w} Du hast bestimmt noch Hunger, oder?{w} Probier doch mal!"
+        s "Ah, Yuzuki!{w} Du hast bestimmt noch Hunger, oder?{w} Probier doch mal!"
 
         hide Sayaka
         hide Hikari
@@ -10467,7 +10467,7 @@ label explanationover:
 
         y "..."
 
-        "She makes a complicated face.{w} I think she's struggling to think of what to do in this social situation, as to not lose her newfound friends."
+        "Sie blickt verwirrt drein.{w} Ich denke, sie überlegt sich gerade, was sie in dieser Situation am besten anstellt, um keinen ihrer neuen Freunde zu verlieren."
 
         y "Ich..."
 
@@ -10476,12 +10476,12 @@ label explanationover:
 
         y "Ich passe.{w} Tut mir Leid."
 
-        "She looks to me, as if wondering if this was the right move to make.{w} I give her a small nod.{w} If you enable Sayaka and her madness, things would only get worse!"
+        "Sie schaut zu mir - als ob sie eine Bestätigung von mir wolle.{w} Ich nicke sie an.{w} Wenn du zulässt, dass Sayaka dieses wahnsinnige Spielchen weiterspielt, wird es auch nicht besser!"
 
         hide Yuzuki
         with dissolve
 
-        "Sayaka and Hikari both leave the kitchen, caring little for the mess they left in their wake.{w} Great.{w} I wonder who's going to be expected to clean that up, huh?"
+        "Sayaka und Hikari verlassen beide die Küche, ohne sich auch nur annähernd um das Chaos zu kümmern.{w} Großartig.{w} Und wer räumt jetzt auf, ha?"
 
         $ sayaface='smiling'
         $ sayapose='school_1'
@@ -10500,16 +10500,16 @@ label explanationover:
 
         s "Ja.{w} Hätte Kenta meine Kochkünste als besser bezeichnet, hätten hier ein paar Leute noch zu heulen begonnen."
 
-        "...I'd have to be alive to declare such a thing."
+        "...Dazu müsste ich nach dem Essen aber auch noch am Leben sein, um das tun zu können."
 
         $ hikaface='angry'
         $ hikapose='school_2'
         show Hikari
         with dissolve
 
-        h "Also ob!{w} Ich denke mein's hätte gewonnen!"
+        h "Als ob!{w} Ich denke mein's hätte gewonnen!"
 
-        "They butt heads again.{w} Seriously.{w} Can we not go five minutes without this?"
+        "Und da beginnen sie eine weitere Diskussion.{w} Echt jetzt.{w} Könnt ihr nicht einmal eine Ruhe geben?"
 
         p "Ähh.{w} Na kommt schon.{w} Ab in die Schule."
 
@@ -10521,11 +10521,11 @@ label explanationover:
         show Sayaka
         with dissolve
 
-        "The aggression in their eyes quickly melts as they turn back to face me."
+        "Plötzlich verschwindet von einer Sekunde auf die andere die Aggression in ihren Augen."
 
         s "Gute Idee!{w} Du solltest mir folgen, Kenta, ich kenn eine echt gute Abkürzung!"
 
-        "She bounds over and grabs hold of my hand, giving me no say in the matter."
+        "Sie packt mich an der Hand und lässt mich in der Angelegenheit kein Wörtchen mitreden."
 
         p "Äh ..."
 
@@ -10534,9 +10534,9 @@ label explanationover:
 
         h "I-Ich weiß einen noch kürzeren Schnitt!"
 
-        "That doesn't even make sense!"
+        "Das ergibt doch gar keinen Sinn!"
 
-        "Hikari takes a firm grasp of my other hand as the pair contest for me, fire in their eyes."
+        "Hikari nimmt meine andere Hand und liefert sich mit Feuer in den Augen einen heftigen Wettstreit mit Sayaka."
 
         p "Das muss echt nicht sein, oder?{w} Wollten wir nicht sowieso alle gemeinsam zur Schule gehen?"
 
@@ -10546,7 +10546,7 @@ label explanationover:
         hide Hikari
         with dissolve
 
-        "They continue to tug at me every which way as we head out the front door, Yuzuki calmly following behind."
+        "Während die beiden an mir zerren und wir zu dritt zur Vordertüre gehen, folgt uns Yuzuki ruhig hinterher."
 
         s "Weißt du ...{w} Wenn wir fliegen, sind wir sogar noch schneller!"
 
