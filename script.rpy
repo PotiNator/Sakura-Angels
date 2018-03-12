@@ -9587,15 +9587,15 @@ label explanationover:
         show Sayaka
         with dissolve
 
-        "Saying that and giving me no time to react, she swings the door open and dances into my room."
+        "Kurz darauf schwingt sie auch schon die Tür auf, wodurch sie mir keine Zeit zum Reagieren lässt."
 
-        "She looks almost disappointed with the results and lets out a sigh."
+        "Als sie mich sieht, seufzt sie gleich mal – mit einem enttäuschten Gesichtsausdruck, wenn ich es nicht falsch interpretiere."
 
         s "Aww."
 
         p "Äh, guten Morgen, Sayaka."
 
-        "I finish doing my tie.{w} Unfortunately for her, I {i}am{/i} in fact fully dressed.{w} Something of a rarity at this time of the morning, but I've learned to be wary with her on the prowl."
+        "Ich binde gerade meine Krawatte.{w} Unglücklicherweise – zumindest für sie – bin ich nicht nackt.{w} Das passiert so früh am Morgen nicht oft, aber mit der Zeit hab ich gelernt, dass man bei ihr ziemlich vorsichtig sein muss."
 
         $ sayaface='happy'
         $ sayapose='school_2'
@@ -9618,31 +9618,31 @@ label explanationover:
 
         s "Hmm.{w} Vielleicht sollte ich das nächste Mal beim Fenster reinkommen?"
 
-        "...Please don't."
+        "...Bitte nicht."
 
         $ sayaface='happy'
         show Sayaka
 
-        "Sayaka breaks into hysterics, before she begins to poke about my room."
+        "Sayaka bricht in Hysterie aus, bevor sie anfängt, in meinem Zimmer herumzuschnüffeln."
 
         $ sayaface='smiling'
         show Sayaka
 
-        "Lately she's been making it a habit to get me up in the mornings.{w} I can't tell you how scared I was the first time to wake up with her peering over with that same grin."
+        "Sie hat es sich in letzter Zeit zur Gewohnheit gemacht, mich morgens aufzuwecken.{w} Ich kann gar nicht beschreiben, wie viel Angst ich hatte, als ich zum ersten Mal aufwachte und sie mich mit einem breiten Grinsen angelächelt hat."
 
-        "She says it's because she wants to make sure I'm up on time for school, but I'm sure there must be other reasons behind it."
+        "Sie sagt, sie möchte lediglich sicherstellen, dass ich pünktlich in der Schule ankomme, aber ich bin mir ziemlich sicher, dass es da auch noch andere Gründe gibt."
 
-        "In fact, I feel like we've grown a lot closer since the events in that cave."
+        "Ich habe das Gefühl, dass wir uns seit den Vorfällen in der Höhle wesentlich näher gekommen sind."
 
-        "She's always been really friendly and affectionate, sure, but there's definitely been in increase in said friendliness and affection."
+        "Sie war schon immer sehr freundlich und anhänglich, sicher, aber diese Eigenschaften sind nun weitaus ausgeprägter."
 
-        "At lunchtimes she'll always grab me by the hand and drag me to the cafeteria, whether I like it or not.{w} And during our walks home, I can't help but feel like she's making a conscious effort to make us outpace Hikari."
+        "Mittags zum Beispiel packt sie mich an der Hand und zieht mich in die Cafeteria, ob ich möchte oder nicht.{w} Und während unserer Spaziergänge kommt es mir so vor, als würde sie alles versuchen, um mir näher zu sein als es Hikari ist."
 
-        "Maybe I'm just imagining things?{w} I don't know.{w} All I know is--"
+        "Vielleicht bilde ich mir das aber auch nur ein?{w} Ich weiß es nicht.{w} Ich weiß nur--"
 
         p "H-Hey!{w} Wer hat gesagt, dass du das anfassen kannst?!"
 
-        "She pokes at my laptop, something she's always had her eye on every time she's been in here."
+        "Sie stöbert an meinem Laptop herum – etwas, das sie immer im Auge hat, wenn sie hier ist."
 
         $ sayapose='school_2'
         show Sayaka
@@ -9665,7 +9665,7 @@ label explanationover:
 
         s "Nur ein Scherz, nur ein Scherz!{w} Ich habe es nicht mal aufgedreht."
 
-        "She swivels the laptop around my way with a grin, its screen indeed blank."
+        "Sie schwenkt den Laptop vor mich hin und her."
 
         p "O-Ohh ..."
 
@@ -9675,15 +9675,15 @@ label explanationover:
 
         "..."
 
-        "It's not classified as lying if I don't say anything.{w} I meet her head on with a blank stare."
+        "Wenn ich nichts sage, kann mir auch niemand eine Lüge vorwerfen.{w} Ich starre sie mit einem emotionslosen Gesichtsausdruck an."
 
-        "She opens her mouth to say something, no doubt to tease me further."
+        "Sie öffnet ihren Mund, um mir etwas zu sagen – ohne Zweifel etwas, mit dem sie mich weiter ärgern möchte."
 
         with hpunch
 
         h "Wir werden noch zuspät kommen, wenn ihr zwei nur rumalbert!"
 
-        "Hikari saves the day, her commanding voice enough to sound up the stairs and into my room."
+        "Hikaris Stimme, die bis nach oben durchdringt, rettet mich gerade noch rechtzeitig."
 
         $ sayaface='happy'
         show Sayaka
@@ -9693,14 +9693,14 @@ label explanationover:
         hide Sayaka
         with dissolve
 
-        "Saying that, she bounds on out and down the stairs.{w} I think she leapt the entire flight of them in one go."
+        "Sie verlässt mein Zimmer und geht die Treppe hinunter."
 
         stop music fadeout 2.0
 
         scene kitchen day
         with dissolve
 
-        "I follow shortly after, and I'm met by two additional house guests."
+        "Kurz darauf gehe auch ich nach unten, wo ich von zwei weiteren Gästen empfangen werde."
 
         $ sayaface='smiling'
         $ sayapose='school_1'
@@ -9716,11 +9716,11 @@ label explanationover:
         play music "bgm/everydayintro.ogg" fadein 2.0
         queue music "bgm/everydayloop.ogg"
 
-        "Hikari and Yuzuki stand in the dining room, at an awkward distance from one another, still yet to fully become friends."
+        "Hikari und Yuzuki stehen im Esszimmer. In Anbetracht des Abstands zwischen den beiden gehe ich mal davon aus, als hätten sie sich noch nicht miteinander angefreundet."
 
-        "Much like Sayaka and Hikari, Yuzuki apparently has no qualms with breaking into my house while I sleep to wait for me to get up."
+        "Ähnlich wie Sayaka und Hikari scheint auch Yuzuki nicht davor zurückzuschrecken, während ich schlafe, in mein Haus einzubrechen."
 
-        "...When I think about it this way, it's a bit worrying.{w} I'll just do the smart thing and ignore it."
+        "...Und das bereitet mir ernsthaft Sorgen."
 
         p "Guten Morgen, meine Lieben."
 
@@ -9736,7 +9736,7 @@ label explanationover:
 
         h "Eigentlich, will ich es garnicht hören!{w} Ich bin sicher, es war etwas unangebrachtes."
 
-        "Hey now, why am I getting lumped in with her?{w} I'm an innocent, pure-hearted boy!"
+        "Hey, warum werd ich mit ihr in einen Topf geworfen?{w} Ich bin ein unschuldiger Junge!"
 
         $ sayaface='joking'
         $ sayapose='school_2'
@@ -9750,20 +9750,20 @@ label explanationover:
 
         y "Kenta.{w} Guten Morgen."
 
-        "Yuzuki greets me quietly, a faint smile on her face."
+        "Yuzuki begrüßt mich mit einem schwachen, jedoch sanften, Lächeln im Gesicht."
 
         hide Sayaka
         hide Hikari
         show Yuzuki at center
         with dissolve
 
-        "Since we started hanging out, it's been a gradual process of her opening up more to us.{w} She's still pretty quiet most of the time, and won't dive into many conversations, but I think she enjoys our company."
+        "Sie öffnet sich uns gegenüber immer mehr.{w} Zwar ist sie die meiste Zeit über noch ziemlich ruhig, und sie nimmt auch nicht oft an unseren Gesprächen teil, aber ich denke, sie schätzt unsere Gesellschaft."
 
-        "It must be tough for her to adjust to things after she's finally obtained the friends she so desired for all these years."
+        "Es muss schwer für sie sein, sich an all das zu gewöhnen. Schließlich hat sie endlich Freunde gefunden.{w} Freunde, die sie sich so lange gewünscht hatte."
 
-        "I'm sure it won't be long until she's out of her shell with Sayaka and Hikari at the helm, though.{w} They seem to be able to bring out the best in people."
+        "Ich bin mir sicher, dass es nicht mehr lange dauern wird, bis sie sich mit Hikari und Sayaka versteht.{w} Sie haben es schließlich auch geschafft, mich zu einem besseren Menschen zu machen."
 
-        "I greet her back with a nod of my head, but my eyes are quickly fixed to Sayaka, who is heading somewhere dangerous."
+        "Ich begrüße sie mit einem Kopfnicken, allerdings werden meine Augen schnell auf Sayaka gelenkt, die auf einen gefährlichen Ort zusteuert."
 
         $ sayaface='smiling'
         $ sayapose='school_1'
@@ -9778,7 +9778,7 @@ label explanationover:
         $ sayaface='scared'
         show Sayaka
 
-        "She stops in her tracks, inches from the kitchen."
+        "Sie hält an – nur wenige Zentimeter von der Küche entfernt."
 
         s "Aw, aber ich wollte doch nur--"
 
@@ -9799,11 +9799,11 @@ label explanationover:
         $ sayaface='smiling'
         show Sayaka
 
-        "I sidle past her and enter the kitchen myself.{w} She gives me the usual pout, but, like always, it soon melts away and her smile returns."
+        "Ich gehe an ihr vorbei und betrete selbst die Küche.{w} Sie zeigt mir den üblichen Schmollmund, aber dieser verwandelt sich wie immer relativ schnell in ein Lächeln."
 
         s "Also ...{w} Darf ich zumindest ... {w}zusehen?{w} Vielleicht kann ich dann ja gleich für die Zukunft ein bisschen was lernen!"
 
-        "She gives me a look that's impossible to say no to.{w} Damn it!"
+        "Sie sieht mich mit einem Blick an, zu dem man unmöglich Nein sagen kann.{w} Gottverdammt!"
 
         p "Argh, gut, von mir aus!{w} Fass aber bloß nichts an."
 
@@ -9814,7 +9814,7 @@ label explanationover:
 
         s "Yay!"
 
-        "She watches over my shoulder.{w} Literally.{w} Her head is resting on my shoulder.{w} It makes it a bit more difficult to do things, but honestly...{w}it's not bad."
+        "Sie sieht mir über die Schulter.{w} Wortwörtlich.{w} Ihr Kopf liegt auf meiner Schulter.{w} Es macht das Ganze zwar etwas schwieriger, aber um ehrlich zu sein ...{w} es fühlt sich nicht schlecht an."
 
         scene bg black
         with fade
@@ -9833,7 +9833,7 @@ label explanationover:
 
         s "Ahh, köstlich!"
 
-        "Sayaka lets out a content sigh, having devoured her meal in record time.{w} I'm not even sure she has any time to taste with how fast she wolfs this stuff down."
+        "Nachdem sie ihre Mahlzeit in Rekordzeit veputzt hat, seufzt Sayaka mit einem zufriedenen Blick.{w} Ich frage mich, ob man überhaupt etwas vom Geschmack mitbekommt, wenn man das Essen so runterschlingt."
 
         $ sayaface='smiling'
         show Sayaka
@@ -9874,7 +9874,7 @@ label explanationover:
         show Yuzuki at right
         with dissolve
 
-        "Hikari storms on out of the front door, leaving the rest of us to scramble for our bags and shoes.{w} Maybe one day I'll finally understand her?"
+        "Während Sayaka, Yuzuki und ich noch unsere Schuhe anziehen, stürmt Hikari bereits aus dem Haus.{w} Werde ich sie eines Tages vielleicht doch noch verstehen?"
 
         $ sayaface='happy'
         show Sayaka
@@ -9885,7 +9885,7 @@ label explanationover:
         show Sayaka at center
         with dissolve
 
-        "Sayaka extends me a hand as Yuzuki shuffles on by."
+        "Als Yuzuki vorbeischlendert, streckt Sayaka mir eine Hand entgegen."
 
         p "Also den Test, den wir heute haben, würd ich wohl kaum als 'Abenteuer' bezeichnen ..."
 
@@ -9903,7 +9903,7 @@ label explanationover:
 
         s "He-hehehe-heheh ..."
 
-        "Hopeless.{w} I can't help but smile."
+        "Hoffnungslos.{w} Ich muss einfach lächeln."
 
         $ sayaface='happy'
         $ sayapose='school_1'
@@ -9912,7 +9912,7 @@ label explanationover:
 
         s "Ah, schon gut.{w} Ich werde einfach von dir abschreiben, wenn ich nicht weiter weiß!{w} Also ...{w} Auf, auf und davon!"
 
-        "She takes a firm hold of my hand and begins to drag me out of the house."
+        "Sie nimmt mich an der Hand und fängt an, mich aus dem Haus zu ziehen."
 
         p "S-Sayaka, warte, ich hab nicht mal meine Schuhe an!"
 
@@ -9938,25 +9938,25 @@ label explanationover:
         show Hikari
         with dissolve
 
-        "The handle goes down slowly, before she gradually opens the door.{w} Even as she steps in, she does so with a hand covering her eyes, like she was expecting to see something indecent or something."
+        "Sie öffnet langsam die Tür.{w} .Mit einer Hand vor ihren Augen kommt sie herein.{w} Es sieht so aus, als hätte sie damit gerechnet, dass ich in einer ungünstigen Situation vor ihr stehe."
         play music "bgm/magicalgirlintro.ogg" fadein 2.0
         queue music "bgm/magicalgirlloop.ogg"        
         $ hikaface='smiling'
         show Hikari
 
-        "Relieved to see I am in fact dressed, she greets me with a smile."
+        "Erleichtert aufgrund der Tatsache, dass ich nicht nackt bin, begrüßt sie mich mit einem Lächeln."
 
         h "Oh.{w} Guten Morgen."
 
         p "Morgen!"
 
-        "Her smile is something I'm still having to adjust to."
+        "An ihr Lächeln muss ich mich erstmal noch gewöhnen."
 
-        "Something definitely changed for us back then in the cave.{w} I don't know how to put it, but she's more...{w}friendly?"
+        "In der Höhle hat sich zwischen uns beiden eindeutig was verändert.{w} Ich weiß nicht, wie ich es ausdrücken soll, aber sie ist wesentlich ...{w} freundlicher?"
 
-        "Like, a lot of the grumpiness will still show up from time to time, but she smiles a lot more now.{w} Which is nice.{w} It definitely suits her."
+        "Ihre Verdrießlichkeit zeigt sich zwar noch immer sehr oft, aber sie lächelt mittlerweile auch viel häufiger.{w} Und das gefällt mir.{w} Es passt wirklich gut zu ihr."
 
-        "She stands by awkwardly, as if unsure what to do with herself."
+        "Sie steht unbeholfen da – als ob sie sich nicht sicher wäre, was sie nun tun soll."
 
         p "Warte ...{w} Du hast gesagt, ihr seid schon alle da und ihr habt Hunger, oder?"
 
@@ -9972,7 +9972,7 @@ label explanationover:
         $ hikaface='shocked'
         show Hikari
 
-        "Her eyes widen as she comes to the realisation.{w} {i}Yeah{/i}."
+        "Als sie es bemerkt, werden ihre Augen schnurstracks riesengroß.{w} {i}Ja{/i}."
 
         h "Vielleicht ist es noch nicht zuspät."
 
@@ -9983,7 +9983,7 @@ label explanationover:
         scene kitchen day
         with dissolve
 
-        "We both race down and are met with what we feared the most."
+        "Wir stürmen beide nach unten."
 
         show Hikari
         with dissolve
@@ -10002,23 +10002,25 @@ label explanationover:
         show Yuzuki at right
         with dissolve
 
-        "Sayaka and Yuzuki are in the kitchen.{w} Making...{w}something.{w} Maybe it started out as a bowl of cereal at some point?{w} I'm really not sure anymore."
+        "Sayaka und Yuzuki stehen in der Küche.{w} Und machen ...{w} etwas.{w} War das mal eine Schüssel mit Müsli?{w} Jetzt jedenfalls kann ich es nicht mehr sagen."
 
         s "Ooh, und gib mir das, und das auch.{w} Und davon kommt auch noch was rein!"
 
         y "Interessant.{w} Ich wusste nie, dass du so ein Auge für diese Dinge hast, Sayaka."
 
-        "Yuzuki responds calmly as she hands over whatever Sayaka instructs, only further adding to the mess.{w} She acknowledges me with a nod of her head, before returning to the mayhem."
+        "Yuzuki antwortet völlig gelassen, als sie Sayaka all die Dinge überreicht, die das Chaos noch schlimmer machen."
+        
+        "Sie dreht sich kurz um und begrüßt mich mit einem Kopfnicken, allerdings widmet sie sich dann gleich wieder dem vermeintlichen Frühstück."
 
-        "Since we started hanging out, it's been a gradual process of her opening up more to us.{w} She's still pretty quiet most of the time, and won't dive into many conversations, but I think she enjoys our company."
+        "Sie öffnet sich uns gegenüber immer mehr.{w} Zwar ist sie die meiste Zeit über noch ziemlich ruhig, und sie nimmt auch nicht oft an unseren Gesprächen teil, aber ich denke, sie schätzt unsere Gesellschaft."
 
-        "It must be tough for her to adjust to things after she's finally obtained the friends she so desired for all these years."
+        "Es muss schwer für sie sein, sich an all das zu gewöhnen. Schließlich hat sie endlich Freunde gefunden.{w} Freunde, die sie sich so lange gewünscht hatte."
 
-        "I'm sure it won't be long until she's out of her shell with Sayaka and Hikari at the helm, though.{w} They seem to be able to bring out the best in people."
+        "Ich bin mir sicher, dass es nicht mehr lange dauern wird, bis sie sich mit Hikari und Sayaka versteht.{w} Sie haben es schließlich auch geschafft, mich zu einem besseren Menschen zu machen."
 
-        "I greet her back with a nod of my head, but my eyes are quickly fixed to Sayaka, who is a high-level threat at the moment."
+        "Ich begrüße sie ebenfalls mit einem Kopfnicken, richte meine Augen aber sofort wieder auf Sayaka, die gerade eine Bedrohung für mein Wohlergehen darstellt."
 
-        "Our desperate cries go unheard.{w} They're having way too much fun here."
+        "Aber unsere verzweifelten Schreie gehen einfach unter."
 
         $ sayaface='happy'
         show Sayaka
@@ -10046,7 +10048,7 @@ label explanationover:
         show Hikari at right
         with dissolve
 
-        "Hikari leaps into action and slides over the counter, almost like an action hero would do, before she shoots a bolt of magic from her fingertips, evaporating the foul substance that Sayaka might have called 'breakfast'."
+        "Plötzlich rutscht Hikari über den Tresen, fast so wie ein Filmheld, bevor sie kurz darauf einen Blitz aus ihren Fingerspitzen schießt, der die Substanz, die Sayaka noch als 'Frückstück' bezeichnet hat, in Luft auflöst."
 
         $ hikaface='normal'
         $ hikapose='school_2'
@@ -10068,7 +10070,7 @@ label explanationover:
         play music "bgm/everydayintro.ogg" fadein 2.0
         queue music "bgm/everydayloop.ogg"
 
-        "Sayaka sighs and flaps her arms in defeat."
+        "Sayaka seufzt und lässt ihre Arme an der Seite runterhängen."
 
         s "Ich wollte doch nur lieb sein und Frühstück für euch machen, während ihr oben die Verliebten spielt."
 
@@ -10087,33 +10089,33 @@ label explanationover:
 
         h "S-Sayaka, ich werde..."
 
-        "Hikari is practically shaking at this point, her entire face flush with either anger or embarrassment.{w} Maybe...{w}both?"
+        "Hikari bebt förmlich. Ich weiß nicht, ob dieser Gesichtsausdruck Wut oder Verlegenheit darstellen soll.{w} Oder vielleicht ...{w} beides?"
 
         hide Sayaka
         show Hikari at center
         with dissolve
 
-        "Apparently proud of herself, Sayaka skips out of the kitchen with Yuzuki in tow."
+        "Anscheinend mit sich vollends zufrieden, springt Sayaka mit Yuzuki im Schlepptau aus der Küche."
 
         p "Nun.{w} Äh.{w} Sieht aus, als müssten wir uns auf dem Weg zur Schule irgendwo was zu essen kaufen."
 
         p "Ähh ...{w} H-Hikari?"
 
-        "Hikari hasn't said anything since Sayaka left.{w} She simply stands there.{w} Like a statue."
+        "Seit Sayaka gegangen ist, hat Hikari kein Wort mehr gesagt.{w} Sie steht einfach nur da.{w} Wie eine Statue."
 
         h "S-Sind...wir..."
 
         p "Hmm?"
 
-        "She mumbles, just barely audible as I lean in closer and strain my ears."
+        "Sie murmelt – kaum hörbar – vor sich hin."
 
         h "Sind wir wirklich...{w}l-lovey-dovey...?"
 
         p "Ähh.{w} Ich weiß jetzt echt nicht, wie ich darauf antworten soll.{w} {i}Sind{/i} wir das?"
 
-        "I mean, we've definitely gotten a lot closer to each other this past week, after the resealing."
+        "Ich mein, wir sind uns seit der Wiederversiegelung wesentlich näher gekommen."
 
-        "She's been a lot nicer to me, and has always tried her best to drag me out of Sayaka's grasp during the school breaks.{w} Which is a tough feat to do sometimes.{w} I think my arms might be just that extra little bit longer than before..."
+        "Sie ist seit dem viel netter zu mir und versucht ihr Bestes, mich aus Sayakas Fängen zu befreien.{w} Was manchmal eine echt schwierige Aufgabe ist.{w} Ich glaube sogar, dass meine Arme bereits länger geworden sind ..."
 
         $ hikaface='shy'
         $ hikapose='school_1'
@@ -10122,13 +10124,13 @@ label explanationover:
 
         h "Ich...{w}Ich meine...{w} Wenn du {i}willst{/i} das wir--"
 
-        "She lets out a yelp and scrubs her hands through her hair frantically, catching me off-guard."
+        "Sie fährt mit ihrer Hand durchs Haar und schreit auf."
 
         h "Ahh!{w} N--Nein!{w} Was sage ich da?!{w} Es ist Sayaka...{w} Sie kommt wirklich zu mir!"
 
         h "Kenta, i-ich hoffe du hast das nicht gehört..."
 
-        "I offer her a smile, to reassure her.{w} Sayaka can say what she wants, but I think we both already know what we are."
+        "Ich lächle sie an, um sie zu beruhigen.{w} Sayaka kann sagen, was sie will, aber ich denke, wir wissen beide, wie unsere Beziehung zueinander ist."
 
         p "Hikari, schon gut.{w} Mach dir keine Sorgen.{w} Ich bin glücklich mit der momentanen Situation."
 
@@ -10139,7 +10141,7 @@ label explanationover:
 
         h "..."
 
-        "She nods.{w} Phew.{w} I was worried I might have said something wrong there.{w} You can never know for sure with Hikari!"
+        "Sie nickt.{w} Puh.{w} Ich dachte schon, ich hätte was Falsches gesagt.{w} Bei Hikari kann man ja nie wissen!"
 
         p "Also vergessen wir das Ganze erstmal und holen wir uns was zu frühstücken!"
 
@@ -10147,14 +10149,14 @@ label explanationover:
 
         p "Okay, Mädels, wir--häh ...?"
 
-        "Sayaka and Yuzuki are already gone.{w} She really did give us time alone!"
+        "Sayaka und Yuzuki sind schon weg.{w} Sie hat uns wirklich Zeit für uns allein gegeben!"
 
         p "Wir sollten uns wohl besser beeilen.{w} So wie ich Sayaka kenn, ist sie wahrscheinlich schon meilenweit voraus."
 
         hide Hikari
         with dissolve
 
-        "I start to slip on my shoes, but something tugs at my sleeve."
+        "Ich fange an, mir meine Schuhe anzuziehen, aber plötzlich zerrt etwas an meinem Ärmel."
 
         p "Hikari ...?"
 
@@ -10162,17 +10164,17 @@ label explanationover:
         show Hikari at center
         with dissolve
 
-        "She has a bashful look about her."
+        "Sie blickt schüchtern drein."
 
         h "Können wir vielleicht in unserem eigenen Tempo gehen??{w} Ich denke, ihnen wird's auch gut gehen, ohne uns."
 
-        "Saying that, she hooks her arm around mine."
+        "Unmittelbar auf ihre Worte hängt sie ihren Arm bei meinem ein."
 
         p "O-Oh.{w} Äh, okay.{w} Klar, kein Problem!"
 
-        "I'm still struggling to adapt to this new Hikari, but I think I'm getting there."
+        "Ich hab noch Probleme damit, mich an diese neue Hikari zu gewöhnen, aber ich denke, ich komme schön langsam voran."
 
-        "Arm in arm, we head out the front door, ready to tackle whatever challenges might await us."
+        "Hand in Hand gehen wir durch die Vordertüre – bereit, jede Herausforderung anzunehmen, die uns erwartet."
 
         stop music fadeout 2.0
 
