@@ -737,7 +737,7 @@ label start:
 
 
 
-    "Irgendwie geht es sich doch noch rechtzeitig aus.{w} Es kam mir vor wie ein Fotofinish - genau in dem Moment, wo die Glocke läutete!"
+    "Irgendwie geht es sich doch noch rechtzeitig aus.{w} Es kam mir vor wie ein Fotofinish – genau in dem Moment, wo die Glocke läutete!"
 
     scene classroom
     with fade
@@ -750,7 +750,7 @@ label start:
 
     "Manchmal bin ich echt spät dran, und gelegentlich komme ich sogar erst nach dem Glockenläuten.{w} Das passiert meistens, weil ich verschlafe."
     
-    "Aber dieses Mal hätte ich ja einen richtigen Grund, wäre ich zu spät gekommen!"
+    "Aber dieses Mal hätte ich ja einen richtigen Grund gehabt, wäre ich zu spät gekommen!"
 
     "Aber nach all dem, was vorhin passiert ist, bezweifle ich, dass ich mich auf den Unterricht konzentrieren kann.{w} Ich fange an, mich zu fragen, ob ich jemals eine Erklärung für all das bekommen werde."
 
@@ -760,11 +760,11 @@ label start:
 
     "Am Hinterkopf ist noch immer ein leichter Schmerz zu spüren."
 
-    "So glücklich wie ich bin, hab ich zumindest einen Platz beim Fenster. SO kann ich zumindest nach draußen und in den blauen Himmel blicken."
+    "So glücklich wie ich bin, hab ich zumindest einen Platz beim Fenster. So kann ich zumindest nach draußen und in den blauen Himmel blicken."
 
     "Der Lehrer hält seine übliche Morgenrede und spricht über die bevorstehenden Ereignisse in unserer Schule, aber in meinen Ohren sind seine Worte nur dumpfes Gemurmel."
 
-    "Diese Mädchen kannten meinen Namen ...{w} Und egal, wie sehr ich auch nachdenke, ich kann mich nicht daran erinnern, sie jemals gesehen zu haben.{w} Zumindest {i}glaube{/i} ich, sie noch zu gesehen zu haben."
+    "Diese Mädchen kannten meinen Namen ...{w} Und egal, wie sehr ich auch nachdenke, ich kann mich nicht daran erinnern, sie jemals gesehen zu haben.{w} Zumindest {i}glaube{/i} ich, sie noch nie gesehen zu haben."
 
     "Ich denke stark nach.{w} Vielleicht sogar zu stark, in Anbetracht dessen, dass der Kopfschmerz wieder stärker wird."
 
@@ -774,9 +774,9 @@ label start:
 
     teacher "Nun, äh, ich weiß, dass es etwas plötzlich ist, aber wir haben ab heute zwei neue Schüler, die sich unserer Klasse anschließen."
 
-    "Schulwechsler?{w} Um diese Zeit?{w} Schon ein bisschen spät, die Schule zu wechseln, oder nicht?{w} Selbst der Lehrer scheint ein bisschen verwirrt zu sein, als er es ankündigt."
+    "Schulwechsler?{w} Um diese Zeit?{w} Schon ein bisschen spät, um die Schule zu wechseln, oder nicht?{w} Selbst der Lehrer scheint ein bisschen verwirrt zu sein, als er es ankündigt."
 
-    "Und nicht nur einer, sondern {i}zwei{/i}?{w} Warum hab ich bloß das Gefühl ... dass hier etwas vor sich geht?{w} Fast so, als ob es irgendwie mit den Ereignissen vorhin in Zusammenhang steht?"
+    "Und nicht nur einer, sondern {i}zwei{/i}?{w} Warum hab ich bloß das Gefühl ... dass hier etwas vor sich geht?{w} Fast so, als ob es irgendwie mit den Ereignissen von vorhin in Zusammenhang steht?"
 
     "Hah.{w} Nein.{w} Das kann unmöglich sein."
 
@@ -802,7 +802,7 @@ label start:
 
     "Sie sind es. Die beiden Mädchen, von denen ich hoffte, sie nie wieder zu sehen.{w} In meiner Schule.{w} In meinem Klassenzimmer, und noch dazu in der Schuluniform."
 
-    "Das fröhliche - äh, Sayaka - verbeugt sich höflich vor der Klasse und wirft mir ein Grinsen zu.{w} Was ...{w} Was soll das?"
+    "Das fröhliche – äh, Sayaka – verbeugt sich höflich vor der Klasse und wirft mir ein Grinsen zu.{w} Was ...{w} Was soll das?"
 
     "Das andere Mädchen ist weniger höflich und steht mit verschränkten Armen da.{w} Es sieht so aus, als sei sie nicht freiwillig hier.{w} Auch ihr Blick richtet sich auf mich, aber anstatt mich anzulächeln, starrt sie mich an."
 
@@ -813,16 +813,16 @@ label start:
     $ sayaface='happy'
     show Sayaka
 
-    h "H-Hey, l-lass das--"
+    h "H-Hey, l-lass das –"
 
     $ hikaface='embarrassed'
     hide Sayaka
     show Hikari at center
     with dissolve
 
-    "Sayaka verpasst ihr einen spielerischen Schubs, woraufhin sie in die Mitte des Klassenzimmers stolpert und alle Aufmerksamkeit erregt."
+    "Sayaka verpasst ihr einen spielerischen Schubs, woraufhin sie in die Mitte des Klassenzimmers stolpert und alle Aufmerksamkeit auf sich zieht."
 
-    "Sie sieht aus, als hätte sie vergessen, was sie sagen wollte.{w} Auch ihr Gesicht wird allmählich immer roter.{w} Da hat wohl jemand Lampenfieber."
+    "Sie sieht aus, als hätte sie vergessen, was sie sagen wollte.{w} Auch ihr Gesicht wird allmählich immer röter.{w} Da hat wohl jemand Lampenfieber."
 
     h "I-Ich bin ... {size=12}Hikari ...{w} F-Freut mich, euch k-kennenzulernen ...{/size}"
 
@@ -839,7 +839,7 @@ label start:
 
     s "Das war doch nicht schwer, oder?"
 
-    "Hikari kocht augenscheinlich innerlich nur so vor Wut.{w} Ich bin sicher, dass es mit Sicherheit nicht so ruhig geblieben wäre, wären wir hier nicht in einem Klassenzimmer."
+    "Hikari kocht augenscheinlich innerlich nur so vor Wut.{w} Ich bin sicher, dass es nicht so ruhig geblieben wäre, wären wir hier nicht in einem Klassenzimmer."
 
     stop music fadeout 4.0
     hide Sayaka
@@ -853,7 +853,7 @@ label start:
     "Wobei, das trifft sich ja eigentlich ziemlich gut.{w} Jetzt kann ich sie endlich fragen, was die ganze Scheiße soll!"
     play music "bgm/mischiefintro.ogg" fadein 1.0
     queue music "bgm/mischiefloop.ogg"
-    "Sayaka geht zum Schreibtisch hinter mir und nimmt dort platzt.{w} Hikari setzt sich zum freien Platz rechts neben mir."
+    "Sayaka geht zum Schreibtisch hinter mir und nimmt dort Platz.{w} Hikari setzt sich auf den freien Platz rechts neben mir."
 
     "Ich mache mich breit und versuche dadurch, ihre Aufmerksamkeit zu erregen, aber ich werde kurzerhand vom Lehrer daran gehindert, der wieder zu reden begann."
 
@@ -861,7 +861,7 @@ label start:
 
     "Bis dahin sind es aber noch ganze zwei Stunden ...{w} also eine halbe Ewigkeit, um es anders auszudrücken!"
 
-    "Ich drehe mich wieder nach vorne.{w} Da ich momentan sowieso nichts machen kann, konzentriere ich mich vorerst einfach auf den Lehrer und--"
+    "Ich drehe mich wieder nach vorne.{w} Da ich momentan sowieso nichts machen kann, konzentriere ich mich vorerst einfach auf den Lehrer und –"
 
     with hpunch
 
@@ -881,7 +881,7 @@ label start:
 
     "Ich schreibe meine Frage: {i}'Was macht ihr hier?'{/i}{w} Kommen wir gleich zur Sache."
 
-    "Ich reiße die Seite heraus - so kräftig, dass ich sie fast in zwei Teile gerissen hätte.{w} Jetzt stellt sich nur noch die Frage ... Wem soll ich den Zettel geben?"
+    "Ich reiße die Seite heraus – so kräftig, dass ich sie fast in zwei Teile gerissen hätte.{w} Jetzt stellt sich nur noch die Frage ... Wem soll ich den Zettel geben?"
 
     menu:
         "Sayaka.":
@@ -891,13 +891,13 @@ label start:
 
             "Ich lehne mich zurück und fange an, mit dem Stuhl zu schaukeln und lasse den Zettel auf ihren Tisch fallen.{w} Oder zumindest ...{w}{i}glaube{/i} ich, dass es ihr Tisch war."
 
-            "Nach ein oder zwei Minuten, die ich mit Däumchendrehen verbracht habe, verliere ich langsam die Hoffnung.{w} Vielleicht war das--"
+            "Nach ein oder zwei Minuten, die ich mit Däumchendrehen verbracht habe, verliere ich langsam die Hoffnung.{w} Vielleicht war das –"
 
             with hpunch
 
             "Plötzlich spüre ich etwas an meiner Schulter.{w} Es war derselbe Zettel, den ich Sayaka gab.{w} SIEG!"
 
-            "Und meiner hastig geschriebenen und kaum lesbaren Frage steht eine Antwort in einer weitaus ordentlicheren Handschrift."
+            "Unter meiner hastig geschriebenen und kaum lesbaren Frage steht eine Antwort in einer weitaus ordentlicheren Handschrift."
 
             "{i}'Wir sind hier, um dich zu beschützen, Dummerchen!'{/i}"
 
@@ -907,7 +907,7 @@ label start:
 
             "{i}'Okay, das versteh ich ja noch, aber müsst ihr mir dabei so nahe sein?{w} Wie habt ihr es überhaupt geschafft, auf diese Schule zu kommen?'{/i}"
 
-            "{i}Schon vergessen, dass du heute fast als Hundefutter geendet hättest?{w} Das wird nicht nochmal passieren, dafür sorgen wir!{w} Und wegen der Schule ...{/i}"
+            "{i}Schon vergessen, dass du heute fast als Hundefutter geendet hättest?{w} Das wird nicht noch mal passieren, dafür sorgen wir!{w} Und wegen der Schule ...{/i}"
             
             "{i}Na ja ...{w}sagen wir so, wir können ziemlich überredend sein.{w} Eh-heh-heh.{/i}"
 
