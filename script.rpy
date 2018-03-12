@@ -273,7 +273,7 @@ label start:
 
     "Sogar die Sonnenstrahlen scheinen verblasst zu sein, wodurch alles in einen düsteren Farbton getaucht wurde.{w} Aber ...{w} im Himmel ist weit und breit keine Wolke zu sehen."
 
-    "Okay, das macht mich jetzt aber wirklich ein wenig verrückt.{w} Ich muss doch nur--"
+    "Okay, das macht mich jetzt aber wirklich ein wenig verrückt.{w} Ich muss doch nur –"
 
 
 
@@ -283,7 +283,7 @@ label start:
 
     "Das ergibt doch alles keinen Sinn!"
 
-    "Verzweifelt versuche ich, mich aufrecht zu halten, während ich eine Hand an meinen Kopf halte."
+    "Verzweifelt versuche ich mich aufrecht zu halten, während ich eine Hand an meinen Kopf halte."
     
     "Im Gegensatz zu den Kopfschmerzen am Morgen, die immer schwächer werden, werden diese hier immer schlimmer!"
 
@@ -311,11 +311,11 @@ label start:
 
     scene cg20 with fade
 
-    "Ein Monster.{w} Das ist das einzige Wort, das mir gerade einfällt."
+    "Ein Monster.{w} Das ist das einzige Wort, das mir dazu einfällt."
 
     "Eine groteske Masse aus Fleisch, mit krummen Reißzähnen und roten Schlitzaugen voller Hass.{w} Am ehesten würde ich es als Hund bezeichnen, aber ich kenne keinen Hund, der dreimal so groß ist wie ich."
 
-    "Das Monster faucht und scheint dabei eine Dampf-ähnliche Substanz auszuatmen.{w} Angesichts der Haltung und der Tatsache, dass es mir den Weg versperrt, kann ich nur vermuten, dass es hinter mir her ist."
+    "Das Monster faucht und scheint dabei eine dampfähnliche Substanz auszuatmen.{w} Angesichts seiner Haltung und der Tatsache, dass es mir den Weg versperrt, kann ich nur vermuten, dass es hinter mir her ist."
 
     "Aber ...{w} warum?"
 
@@ -323,7 +323,7 @@ label start:
 
     "Unzählige Fragen gehen mir gerade durch den Kopf, aber ich bezweifle, dass sie mir irgendjemand beantworten kann. Erst recht nicht ...{w} dieses ...{w} Ding."
 
-    "Es gibt nur eine Sache, die ich in einem solchen Augenblick tun kann--"
+    "Es gibt nur eine Sache, die ich in einem solchen Augenblick tun kann –"
 
     menu:
         "Standhaft bleiben.":
@@ -334,7 +334,7 @@ label start:
             play music "bgm/battleintro.ogg" fadein 1.0
             queue music "bgm/battleloop.ogg"
 
-            "Dann balle ich meine Hand zu einer Faust, schlage blitzartig nach vorne und lande einen direkten Treffer in der Fresse des Monsters.{w} Nimm das, du scheiß Vieh!"
+            "Dann balle ich meine Hand zu einer Faust, schlage blitzartig nach vorne und lande einen direkten Treffer in die Fresse des Monsters.{w} Nimm das, du Scheißvieh!"
 
             with hpunch
             "{i}BAM!{/i}"
@@ -347,9 +347,9 @@ label start:
             "Okay, nein.{w} Das war 'ne ganz schlechte Idee.{w} Das hat ja überhaupt nichts bewirkt.{w} Das Monster sieht jetzt nur noch wütender aus als vorhin."
             play music "bgm/ominousintro.ogg" fadein 2.0 
             queue music "bgm/ominousloop.ogg"
-            "Das einzige, was mein Schlag bewirkt hat, war, dass ich mir selbst weh getan hab.{w} Ich hoffe, ich hab mir nichts gebrochen ..."
+            "Das Einzige, was mein Schlag bewirkt hat, war, dass ich mir selbst wehgetan hab.{w} Ich hoffe, ich hab mir nichts gebrochen ..."
 
-            "Ich gehe wieder ein paar Schritte zurück und schüttle meine Hand erstmal aus.{w} Das tut noch immer höllisch weh.{w} Au!"
+            "Ich gehe wieder ein paar Schritte zurück und schüttle meine Hand erst mal aus.{w} Das tut noch immer höllisch weh.{w} Au!"
 
             "...Was jetzt?"
 
@@ -378,7 +378,7 @@ label start:
 
             with hpunch
 
-            "Die Schmerzen meiner Knie ignorierend, versuche ich verzweifelt, mich aufzurichten.{w} Aber ich schaffe es nicht."
+            "Die Schmerzen in meinen Knien ignorierend, versuche ich verzweifelt, mich aufzurichten.{w} Aber ich schaffe es nicht."
 
             "Ich höre, wie das Monster hinter mir wütet."
 
