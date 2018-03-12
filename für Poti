@@ -1,0 +1,591 @@
+"Saying that and giving me no time to react, she swings the door open and dances into my room."
+
+        "She looks almost disappointed with the results and lets out a sigh."
+
+        s "Aww."
+
+        p "Äh, guten Morgen, Sayaka."
+
+        "I finish doing my tie.{w} Unfortunately for her, I {i}am{/i} in fact fully dressed.{w} Something of a rarity at this time of the morning, but I've learned to be wary with her on the prowl."
+
+        $ sayaface='happy'
+        $ sayapose='school_2'
+        show Sayaka
+        with dissolve
+
+        s "Morgen!{w} Scheint, als wäre mein Versuch, mich an dich heranzuschleichen, nach hinten losgegangen."
+
+        $ sayaface='smiling'
+        show Sayaka
+
+        s "Vielleicht werde ich schon zu berechenbar?"
+
+        p "Vielleicht."
+
+        $ sayaface='joking'
+        $ sayapose='school_1'
+        show Sayaka
+        with dissolve
+
+        s "Hmm.{w} Vielleicht sollte ich das nächste Mal beim Fenster reinkommen?"
+
+        "...Please don't."
+
+        $ sayaface='happy'
+        show Sayaka
+
+        "Sayaka breaks into hysterics, before she begins to poke about my room."
+
+        $ sayaface='smiling'
+        show Sayaka
+
+        "Lately she's been making it a habit to get me up in the mornings.{w} I can't tell you how scared I was the first time to wake up with her peering over with that same grin."
+
+        "She says it's because she wants to make sure I'm up on time for school, but I'm sure there must be other reasons behind it."
+
+        "In fact, I feel like we've grown a lot closer since the events in that cave."
+
+        "She's always been really friendly and affectionate, sure, but there's definitely been in increase in said friendliness and affection."
+
+        "At lunchtimes she'll always grab me by the hand and drag me to the cafeteria, whether I like it or not.{w} And during our walks home, I can't help but feel like she's making a conscious effort to make us outpace Hikari."
+
+        "Maybe I'm just imagining things?{w} I don't know.{w} All I know is--"
+
+        p "H-Hey!{w} Wer hat gesagt, dass du das anfassen kannst?!"
+
+        "She pokes at my laptop, something she's always had her eye on every time she's been in here."
+
+        $ sayapose='school_2'
+        show Sayaka
+        with dissolve
+
+        s "Hm?{w} Ich wollte nur nachsehen.{w} Ich mein, ein so junger und gesunder Bursche wie du, hat doch bestimmt nichts zu verstecken, hmm?"
+
+        p "Ähm.{w} Genau.{w} A-Aber wir kommen noch zu spät zur Schule, wenn du hier rumblödelst!"
+
+        $ sayapose='school_1'
+        show Sayaka
+        with dissolve
+
+        s "Mmm.{w} Ich guck dann mal schnell nach.{w} Mal sehen ...{w} Wo könnte dieser 'wichtige Schulkram'-Ordner bloß sein?{w} Oder was ist das für ein komisches Zeugs mit dem Passwort da--"
+
+        p "Sayaka!"
+
+        $ sayaface='joking'
+        show Sayaka
+
+        s "Nur ein Scherz, nur ein Scherz!{w} Ich habe es nicht mal aufgedreht."
+
+        "She swivels the laptop around my way with a grin, its screen indeed blank."
+
+        p "O-Ohh ..."
+
+        $ sayaface='smiling'
+
+        s "Aber deine Reaktion ist wirklich interessant.{w} Fast so, als hättest du wirklich einen solchen Ordner, hmm?"
+
+        "..."
+
+        "It's not classified as lying if I don't say anything.{w} I meet her head on with a blank stare."
+
+        "She opens her mouth to say something, no doubt to tease me further."
+
+        with hpunch
+
+        h "Wir werden noch zuspät kommen, wenn ihr zwei nur rumalbert!"
+
+        "Hikari saves the day, her commanding voice enough to sound up the stairs and into my room."
+
+        $ sayaface='happy'
+        show Sayaka
+
+        s "Na ja.{w} Verschieben wir das Ganze auf ein anderes Mal, hmm?{w} Glauben Sie aber ja nicht, dass Sie so einfach davonkommen, Mister!"
+
+        hide Sayaka
+        with dissolve
+
+        "Saying that, she bounds on out and down the stairs.{w} I think she leapt the entire flight of them in one go."
+
+        stop music fadeout 2.0
+
+        scene kitchen day
+        with dissolve
+
+        "I follow shortly after, and I'm met by two additional house guests."
+
+        $ sayaface='smiling'
+        $ sayapose='school_1'
+        $ hikaface='normal'
+        $ hikapose='school_1'
+        $ yuzuface='normal'
+        $ yuzupose='school_1'
+        show Yuzuki at center
+        show Hikari at right
+        show Sayaka at left
+        with dissolve
+
+        play music "bgm/everydayintro.ogg" fadein 2.0
+        queue music "bgm/everydayloop.ogg"
+
+        "Hikari and Yuzuki stand in the dining room, at an awkward distance from one another, still yet to fully become friends."
+
+        "Much like Sayaka and Hikari, Yuzuki apparently has no qualms with breaking into my house while I sleep to wait for me to get up."
+
+        "...When I think about it this way, it's a bit worrying.{w} I'll just do the smart thing and ignore it."
+
+        p "Guten Morgen, meine Lieben."
+
+        $ hikaface='angry'
+        show Hikari
+
+        h "Es ist Zeit.{w} Was wollt ihr beide jetzt tun?"
+
+        $ sayaface='happy'
+        show Sayaka
+
+        s "Nun, wenn du's {i}wirklich{/i} wissen musst ... Wir haben--"
+
+        h "Eigentlich, will ich es garnicht hören!{w} Ich bin sicher, es war etwas unangebrachtes."
+
+        "Hey now, why am I getting lumped in with her?{w} I'm an innocent, pure-hearted boy!"
+
+        $ sayaface='joking'
+        $ sayapose='school_2'
+        show Sayaka
+        with dissolve
+
+        s "Ach.{w} Dein Pech."
+
+        $ yuzuface='smiling'
+        show Yuzuki
+
+        y "Kenta.{w} Guten Morgen."
+
+        "Yuzuki greets me quietly, a faint smile on her face."
+
+        hide Sayaka
+        hide Hikari
+        show Yuzuki at center
+        with dissolve
+
+        "Since we started hanging out, it's been a gradual process of her opening up more to us.{w} She's still pretty quiet most of the time, and won't dive into many conversations, but I think she enjoys our company."
+
+        "It must be tough for her to adjust to things after she's finally obtained the friends she so desired for all these years."
+
+        "I'm sure it won't be long until she's out of her shell with Sayaka and Hikari at the helm, though.{w} They seem to be able to bring out the best in people."
+
+        "I greet her back with a nod of my head, but my eyes are quickly fixed to Sayaka, who is heading somewhere dangerous."
+
+        $ sayaface='smiling'
+        $ sayapose='school_1'
+        hide Yuzuki
+        show Sayaka at center
+        with dissolve
+
+        s "So!{w} Wer hat Lust auf Frühstück?"
+
+        p "Oh nein, das kommt gar nicht in Frage!"
+
+        $ sayaface='scared'
+        show Sayaka
+
+        "She stops in her tracks, inches from the kitchen."
+
+        s "Aw, aber ich wollte doch nur--"
+
+        p "Nop."
+
+        $ sayaface='smiling'
+        show Sayaka
+
+        s "Schon gut, schon gut.{w} Ich hab's versucht."
+
+        p "Das hast du, und ich bewundere dich auch dafür ... Aber es wird nicht passieren.{w} NIE WIEDER."
+
+        $ sayaface='shocked'
+        show Sayaka
+
+        s "Aber der Versuch war gar nicht mal so schlecht!"
+
+        $ sayaface='smiling'
+        show Sayaka
+
+        "I sidle past her and enter the kitchen myself.{w} She gives me the usual pout, but, like always, it soon melts away and her smile returns."
+
+        s "Also ...{w} Darf ich zumindest ... {w}zusehen?{w} Vielleicht kann ich dann ja gleich für die Zukunft ein bisschen was lernen!"
+
+        "She gives me a look that's impossible to say no to.{w} Damn it!"
+
+        p "Argh, gut, von mir aus!{w} Fass aber bloß nichts an."
+
+        $ sayaface='happy'
+        $ sayapose='school_2'
+        show Sayaka
+        with dissolve
+
+        s "Yay!"
+
+        "She watches over my shoulder.{w} Literally.{w} Her head is resting on my shoulder.{w} It makes it a bit more difficult to do things, but honestly...{w}it's not bad."
+
+        scene bg black
+        with fade
+        with Pause(3.0)
+        scene kitchen day
+        $ sayaface='happy'
+        $ sayapose='school_1'
+        $ hikaface='normal'
+        $ hikapose='school_1'
+        $ yuzuface='normal'
+        $ yuzupose='school_1'
+        show Sayaka at left
+        show Hikari at right
+        show Yuzuki at center
+        with fade
+
+        s "Ahh, köstlich!"
+
+        "Sayaka lets out a content sigh, having devoured her meal in record time.{w} I'm not even sure she has any time to taste with how fast she wolfs this stuff down."
+
+        $ sayaface='smiling'
+        show Sayaka
+
+        y "Ja.{w} Es war nett.{w} Ich habe nicht erwartet, dass du so ein guter Koch bist, Kenta."
+
+        $ hikaface='angry'
+        show Hikari
+
+        h "Vielleicht heute ein bisschen übertrieben.{w} Ich mache dir jedoch keine Vorwürfe, dass sich dieses {i}Ding{/i} in der Küche zu dir gesellt hat."
+
+        s "Achtung, Hikari, deine Eifersucht macht sich bemerkbar!"
+
+        $ hikaface='embarrassed'
+        $ hikapose='school_2'
+        show Hikari
+        with dissolve
+
+        h "H-Halt dein Mund!{w} Der Schwachsinn, auf den du kommst..."
+
+        $ hikaface='normal'
+        show Hikari
+
+        h "W-Wie auch immer, wir werden zu spät zur Schule kommen, wenn wir noch mehr Zeit verschwenden.."
+
+        $ sayaface='joking'
+        show Sayaka
+
+        s "Wow!{w} Ich glaube, ich habe noch nie erlebt, dass du es so eilig gehabt hast, in die Schule zu kommen, Hikari."
+
+        $ hikaface='angry'
+        show Hikari
+
+        h "Hmph!"
+
+        hide Hikari
+        show Sayaka at left
+        show Yuzuki at right
+        with dissolve
+
+        "Hikari storms on out of the front door, leaving the rest of us to scramble for our bags and shoes.{w} Maybe one day I'll finally understand her?"
+
+        $ sayaface='happy'
+        show Sayaka
+
+        s "Komm schon, ein Abenteuer wartet auf uns, Kenta!"
+
+        hide Yuzuki
+        show Sayaka at center
+        with dissolve
+
+        "Sayaka extends me a hand as Yuzuki shuffles on by."
+
+        p "Also den Test, den wir heute haben, würd ich wohl kaum als 'Abenteuer' bezeichnen ..."
+
+        $ sayaface='shocked'
+        show Sayaka
+
+        s "Warte.{w} Wir haben einen Test?!"
+
+        p "Na ja.{w} Schon.{w} Es wurde immer wieder diese Woche erwähnt!{w} Sag jetzt bloß nicht ..."
+
+        $ sayaface='joking'
+        $ sayapose='school_2'
+        show Sayaka
+        with dissolve
+
+        s "He-hehehe-heheh ..."
+
+        "Hopeless.{w} I can't help but smile."
+
+        $ sayaface='happy'
+        $ sayapose='school_1'
+        show Sayaka
+        with dissolve
+
+        s "Ah, schon gut.{w} Ich werde einfach von dir abschreiben, wenn ich nicht weiter weiß!{w} Also ...{w} Auf, auf und davon!"
+
+        "She takes a firm hold of my hand and begins to drag me out of the house."
+
+        p "S-Sayaka, warte, ich hab nicht mal meine Schuhe an!"
+
+        s "Auf geht's!"
+
+        stop music fadeout 2.0
+
+        scene bg white
+        with wake
+
+
+    if hikari > sayaka:
+
+
+        h "Kenta?{w} Bist du schon wach?{w} Jeder ist schon hier, und...{w}wir sind hungrig!"
+
+        p "Ja, kommt rein."
+
+        h "O-okay."
+
+        $ hikaface='shy'
+        $ hikapose='school_1'
+        show Hikari
+        with dissolve
+
+        "The handle goes down slowly, before she gradually opens the door.{w} Even as she steps in, she does so with a hand covering her eyes, like she was expecting to see something indecent or something."
+        play music "bgm/magicalgirlintro.ogg" fadein 2.0
+        queue music "bgm/magicalgirlloop.ogg"        
+        $ hikaface='smiling'
+        show Hikari
+
+        "Relieved to see I am in fact dressed, she greets me with a smile."
+
+        h "Oh.{w} Guten Morgen."
+
+        p "Morgen!"
+
+        "Her smile is something I'm still having to adjust to."
+
+        "Something definitely changed for us back then in the cave.{w} I don't know how to put it, but she's more...{w}friendly?"
+
+        "Like, a lot of the grumpiness will still show up from time to time, but she smiles a lot more now.{w} Which is nice.{w} It definitely suits her."
+
+        "She stands by awkwardly, as if unsure what to do with herself."
+
+        p "Warte ...{w} Du hast gesagt, ihr seid schon alle da und ihr habt Hunger, oder?"
+
+        $ hikaface='normal'
+        show Hikari
+
+        h "Huh?{w} Ja.{w} Warum?"
+
+        p "Und du, äh ...{w} und du hast Sayaka unbeaufsichtigt lassen ...?"
+
+        h "Ich bin mir nicht sicher was du..."
+
+        $ hikaface='shocked'
+        show Hikari
+
+        "Her eyes widen as she comes to the realisation.{w} {i}Yeah{/i}."
+
+        h "Vielleicht ist es noch nicht zuspät."
+
+        p "Ich hoff's doch!"
+
+        stop music fadeout 2.0
+
+        scene kitchen day
+        with dissolve
+
+        "We both race down and are met with what we feared the most."
+
+        show Hikari
+        with dissolve
+
+        h "S-Sayaka, stop!"
+
+        play music "bgm/mischiefintro.ogg" fadein 2.0
+        queue music "bgm/mischiefloop.ogg"
+
+        hide Hikari
+        $ sayaface='smiling'
+        $ sayapose='school_1'
+        $ yuzuface='normal'
+        $ yuzupose='school_1'
+        show Sayaka at left
+        show Yuzuki at right
+        with dissolve
+
+        "Sayaka and Yuzuki are in the kitchen.{w} Making...{w}something.{w} Maybe it started out as a bowl of cereal at some point?{w} I'm really not sure anymore."
+
+        s "Ooh, und gib mir das, und das auch.{w} Und davon kommt auch noch was rein!"
+
+        y "Interessant.{w} Ich wusste nie, dass du so ein Auge für diese Dinge hast, Sayaka."
+
+        "Yuzuki responds calmly as she hands over whatever Sayaka instructs, only further adding to the mess.{w} She acknowledges me with a nod of her head, before returning to the mayhem."
+
+        "Since we started hanging out, it's been a gradual process of her opening up more to us.{w} She's still pretty quiet most of the time, and won't dive into many conversations, but I think she enjoys our company."
+
+        "It must be tough for her to adjust to things after she's finally obtained the friends she so desired for all these years."
+
+        "I'm sure it won't be long until she's out of her shell with Sayaka and Hikari at the helm, though.{w} They seem to be able to bring out the best in people."
+
+        "I greet her back with a nod of my head, but my eyes are quickly fixed to Sayaka, who is a high-level threat at the moment."
+
+        "Our desperate cries go unheard.{w} They're having way too much fun here."
+
+        $ sayaface='happy'
+        show Sayaka
+
+        s "Na, ich schätze, das gehört auch hier rein.{w} ... Wahrscheinlich!"
+
+        hide Sayaka
+        hide Yuzuki
+        show Hikari at center
+        with dissolve
+
+        h "Kenta...{w} Sie hört nicht auf Vernunft.{w} Hab ich die Erlaubnis um...?"
+
+        p "B-Bitte, mach es!"
+
+        stop music fadeout 2.0
+
+        $ hikaface='angry'
+        show Hikari
+
+        h "Sayaka, bleib zurück!"
+
+        $ sayaface='shocked'
+        show Sayaka at left
+        show Hikari at right
+        with dissolve
+
+        "Hikari leaps into action and slides over the counter, almost like an action hero would do, before she shoots a bolt of magic from her fingertips, evaporating the foul substance that Sayaka might have called 'breakfast'."
+
+        $ hikaface='normal'
+        $ hikapose='school_2'
+        show Hikari
+        with dissolve
+
+        h "Phew.{w} Krise abgewendet."
+
+        s "W-Wahh!{w} Wofür war das denn?"
+
+        $ hikaface='angry'
+        show Hikari
+
+        h "Das weißt du genau!"
+
+        $ sayaface='smiling'
+        show Sayaka
+
+        play music "bgm/everydayintro.ogg" fadein 2.0
+        queue music "bgm/everydayloop.ogg"
+
+        "Sayaka sighs and flaps her arms in defeat."
+
+        s "Ich wollte doch nur lieb sein und Frühstück für euch machen, während ihr oben die Verliebten spielt."
+
+        $ hikaface='shy'
+        show Hikari
+
+        h "L-lovey-dovey?{w} Sayaka, ich denke du hast--"
+
+        $ sayaface='joking'
+        show Sayaka
+
+        s "Aww, ihr müsst es nicht vor mir verstecken.{w} Solche Dinge bekomme ich immer mit.{w} Sagt einfach was, und Yuzuki und ich werden euch Zeit für euch alleine geben."
+
+        $ hikaface='embarrassed'
+        show Hikari
+
+        h "S-Sayaka, ich werde..."
+
+        "Hikari is practically shaking at this point, her entire face flush with either anger or embarrassment.{w} Maybe...{w}both?"
+
+        hide Sayaka
+        show Hikari at center
+        with dissolve
+
+        "Apparently proud of herself, Sayaka skips out of the kitchen with Yuzuki in tow."
+
+        p "Nun.{w} Äh.{w} Sieht aus, als müssten wir uns auf dem Weg zur Schule irgendwo was zu essen kaufen."
+
+        p "Ähh ...{w} H-Hikari?"
+
+        "Hikari hasn't said anything since Sayaka left.{w} She simply stands there.{w} Like a statue."
+
+        h "S-Sind...wir..."
+
+        p "Hmm?"
+
+        "She mumbles, just barely audible as I lean in closer and strain my ears."
+
+        h "Sind wir wirklich...{w}l-lovey-dovey...?"
+
+        p "Ähh.{w} Ich weiß jetzt echt nicht, wie ich darauf antworten soll.{w} {i}Sind{/i} wir das?"
+
+        "I mean, we've definitely gotten a lot closer to each other this past week, after the resealing."
+
+        "She's been a lot nicer to me, and has always tried her best to drag me out of Sayaka's grasp during the school breaks.{w} Which is a tough feat to do sometimes.{w} I think my arms might be just that extra little bit longer than before..."
+
+        $ hikaface='shy'
+        $ hikapose='school_1'
+        show Hikari
+        with dissolve
+
+        h "Ich...{w}Ich meine...{w} Wenn du {i}willst{/i} das wir--"
+
+        "She lets out a yelp and scrubs her hands through her hair frantically, catching me off-guard."
+
+        h "Ahh!{w} N--Nein!{w} Was sage ich da?!{w} Es ist Sayaka...{w} Sie kommt wirklich zu mir!"
+
+        h "Kenta, i-ich hoffe du hast das nicht gehört..."
+
+        "I offer her a smile, to reassure her.{w} Sayaka can say what she wants, but I think we both already know what we are."
+
+        p "Hikari, schon gut.{w} Mach dir keine Sorgen.{w} Ich bin glücklich mit der momentanen Situation."
+
+        p "Lass es uns einfach, äh, langsam angehen, okay?{w} Ignorier Sayaka einfach."
+
+        $ hikaface='normal'
+        show Hikari
+
+        h "..."
+
+        "She nods.{w} Phew.{w} I was worried I might have said something wrong there.{w} You can never know for sure with Hikari!"
+
+        p "Also vergessen wir das Ganze erstmal und holen wir uns was zu frühstücken!"
+
+        h "Ja.{w} Das hört sich gut an."
+
+        p "Okay, Mädels, wir--häh ...?"
+
+        "Sayaka and Yuzuki are already gone.{w} She really did give us time alone!"
+
+        p "Wir sollten uns wohl besser beeilen.{w} So wie ich Sayaka kenn, ist sie wahrscheinlich schon meilenweit voraus."
+
+        hide Hikari
+        with dissolve
+
+        "I start to slip on my shoes, but something tugs at my sleeve."
+
+        p "Hikari ...?"
+
+        $ hikaface='smiling'
+        show Hikari at center
+        with dissolve
+
+        "She has a bashful look about her."
+
+        h "Können wir vielleicht in unserem eigenen Tempo gehen??{w} Ich denke, ihnen wird's auch gut gehen, ohne uns."
+
+        "Saying that, she hooks her arm around mine."
+
+        p "O-Oh.{w} Äh, okay.{w} Klar, kein Problem!"
+
+        "I'm still struggling to adapt to this new Hikari, but I think I'm getting there."
+
+        "Arm in arm, we head out the front door, ready to tackle whatever challenges might await us."
+
+        stop music fadeout 2.0
+
+        scene bg white
+        with wake
