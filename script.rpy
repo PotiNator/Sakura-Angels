@@ -8746,7 +8746,7 @@ label explanationover:
 
         "Sie unterdrückt sich ein Kichern, während sie sich in meine Schultern schmiegt."
 
-        "Wait...{w} That's a point."
+        "Warte ...{w} Da hat sie allerdings recht."
 
         "Ich löse mich aus der Umarmung."
 
@@ -8761,7 +8761,7 @@ label explanationover:
 
         p "Und ...{w} Yuzuki ...?"
 
-        "Sie treibt sich zu einem kleinen Lächeln, welches mir etwas Hoffnung gibt."
+        "Sie nimmt sich für ein kleines Lächeln zusammen, welches mir etwas Hoffnung gibt."
 
         $ sayapose='magical_2'
         show Sayaka
@@ -9111,7 +9111,7 @@ label explanationover:
 
         s "Ich betrachte das mal als 'nein'.{w} Komm, hoch mit dir!"
 
-        h "Du solltest dich danach nicht drängen. {w} Wenn du unsere Hilfe brauchst ... {w} Alles, was du tun musst, ist es zu sagen, und ich werde glücklich sein ..."
+        h "Du solltest dich danach nicht drängen. {w} Wenn du unsere Hilfe brauchst ... {w} Alles, was du tun musst, ist es zu sagen, und ich werde dir gerne ..."
 
         "Sie murmelt etwas vor sich hin - so leise, dass sie es wahrscheinlich selbst nicht mal hören konnte."
 
@@ -9250,7 +9250,7 @@ label explanationover:
 
     "Sie schlägt mit ihrer Faust schwach gegen den Boden.{w} Sie hat überhaupt keine Kraft mehr."
 
-    y "Na, und?{w} Seid ihr hier, um euch zu freuen?"
+    y "Na und?{w} Seid ihr hier, um euch über mich lustig zu machen?"
 
     h "Hey!!{w} Du solltest dankbar sein, dass ich dein Leben vorhin verschont habe.{w} Ich hätte dich locker in zwei Teile zerschneiden können, als dich die Kraft verlassen hat!"
 
@@ -9284,11 +9284,11 @@ label explanationover:
 
     stop music fadeout 2.0
 
-    s "Ich glaube, ich kenne da eine einfache Lösung für all das!"
+    s "Ich glaube, ich weiß da eine einfache Lösung für all das!"
 
     y "...?"
 
-    h "D-Du kennst eine?"
+    h "D-Du weißt eine?"
 
     s "Jup!"
 
@@ -9376,7 +9376,7 @@ label explanationover:
 
     "Yuzuki weiß nicht, wie sie all das verarbeiten soll.{w} Ihr Gesicht zeigt eine große Vielzahl von Emotionen, ehe sie kurz darauf mit Tränen in den Augenwinkeln zu lächeln beginnt."
 
-    y "Ich ...{w} Ich verdiene nichts davon.{w} Warum bist du so nett?"
+    y "Ich ...{w} Ich verdiene nichts davon.{w} Warum seid ihr so nett?"
 
     $ hikaface='normal'
     $ sayaface='happy'
@@ -9727,7 +9727,7 @@ label explanationover:
         $ hikaface='angry'
         show Hikari
 
-        h "Es ist Zeit.{w} Was wollt ihr beiden jetzt tun?"
+        h "Es ist Zeit.{w} Was habt ihr beiden denn getrieben?"
 
         $ sayaface='happy'
         show Sayaka
@@ -9927,7 +9927,7 @@ label explanationover:
     if hikari > sayaka:
 
 
-        h "Kenta?{w} Bist du schon wach?{w} Jeder ist schon hier, und ...{w} wir sind hungrig!"
+        h "Kenta?{w} Bist du schon wach?{w} Es sind schon alle da, und ...{w} wir sind hungrig!"
 
         p "Ja, komm rein."
 
@@ -10006,7 +10006,7 @@ label explanationover:
 
         s "Ooh, und gib mir das, und das auch.{w} Und davon kommt auch noch was rein!"
 
-        y "Interessant.{w} Ich wusste nie, dass du so ein Auge für diese Dinge hast, Sayaka."
+        y "Interessant.{w} Ich wusste nicht, dass du so ein Auge für diese Dinge hast, Sayaka."
 
         "Yuzuki antwortet völlig gelassen, als sie Sayaka all die Dinge überreicht, die das Chaos noch schlimmer machen."
         
@@ -10077,7 +10077,7 @@ label explanationover:
         $ hikaface='shy'
         show Hikari
 
-        h "L-lovey-dovey?{w} Sayaka, ich denke du hast--"
+        h "V-Verliebte?{w} Sayaka, ich denke, du hast--"
 
         $ sayaface='joking'
         show Sayaka
@@ -10109,7 +10109,7 @@ label explanationover:
 
         "Sie murmelt – kaum hörbar – vor sich hin."
 
-        h "Sind wir wirklich ...{w} l-lovey-dovey ...?"
+        h "Sind wir wirklich ...{w} v-verliebt ...?"
 
         p "Ähh.{w} Ich weiß jetzt echt nicht, wie ich darauf antworten soll.{w} {i}Sind{/i} wir das?"
 
@@ -10126,7 +10126,7 @@ label explanationover:
 
         "Sie fährt mit ihrer Hand durchs Haar und schreit auf."
 
-        h "Ahh!{w} N--Nein!{w} Was sage ich da?!{w} Es ist Sayaka ...{w} Sie kommt wirklich zu mir!"
+        h "Ahh!{w} N--Nein!{w} Was sage ich da?!{w} Es ist Sayaka ...{w} Sie beeinflusst mich wirklich!"
 
         h "Kenta, i-ich hoffe, du hast das nicht gehört ..."
 
@@ -10302,7 +10302,7 @@ label explanationover:
         show Sayaka
         show Hikari
 
-        "Mit der Erwähnung des Frühstücks erhellt sich von beiden das Gesicht.{w} Ohh, vielleicht hätte ich das nicht einfach so--"
+        "Mit der Erwähnung des Frühstücks erhellen sich die Gesichter der beiden.{w} Ohh, vielleicht hätte ich das nicht einfach so--"
 
         $ hikaface='smiling'
         show Hikari
@@ -10532,7 +10532,7 @@ label explanationover:
         $ hikaface='embarrassed'
         show Hikari
 
-        h "I-Ich weiß einen noch kürzeren Schnitt!"
+        h "I-Ich kenne einen noch kürzeren Schnitt!"
 
         "Das ergibt doch gar keinen Sinn!"
 
@@ -10540,7 +10540,7 @@ label explanationover:
 
         p "Das muss echt nicht sein, oder?{w} Wollten wir nicht sowieso alle gemeinsam zur Schule gehen?"
 
-        "...They don't listen."
+        "...Sie hören mir einfach nicht zu."
 
         hide Sayaka
         hide Hikari
