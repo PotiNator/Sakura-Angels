@@ -9548,7 +9548,7 @@ label explanationover:
     $ yuzuface='scared'
     show Yuzuki
 
-    y "Ihr seid sicherlich ein seltsamer Haufen ..."
+    y "Ihr seid ja mal ein komisches Pack ..."
 
     "...Jup.{w} Glückliche Erinnerungen."
 
