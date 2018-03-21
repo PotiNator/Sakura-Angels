@@ -901,7 +901,7 @@ label start:
 
             "{i}'Wir sind hier, um dich zu beschützen, Dummerchen!'{/i}"
 
-            "Mich beschützen?{w} Stimmt ...{w} Ich erinnere mich daran, dass sie so was wie 'Schutzengel' oder so gesagt hatten, und dass sie mich besser im Auge behalten würden ... aber das ist jetzt echt lächerlich!"
+            "Mich beschützen?{w} Stimmt ...{w} Ich erinnere mich daran, dass sie so was wie 'Schutzengel' oder so gesagt hatten und dass sie mich besser im Auge behalten würden ... aber das ist jetzt echt lächerlich!"
 
             "Ich schreibe meine Antwort drunter. Allerdings muss ich einige Wörter mehrmals schreiben, da ich vor lauter Eile ein paar Fehler eingebaut habe."
 
@@ -909,11 +909,11 @@ label start:
 
             "{i}Schon vergessen, dass du heute fast als Hundefutter geendet hättest?{w} Das wird nicht noch mal passieren, dafür sorgen wir!{w} Und wegen der Schule ...{/i}"
             
-            "{i}Na ja ...{w}sagen wir so, wir können ziemlich überredend sein.{w} Eh-heh-heh.{/i}"
+            "{i}Na ja ...{w}sagen wir so, wir können ziemlich überzeugend sein.{w} Eh-heh-heh.{/i}"
 
             "...Ernsthaft, wer schreibt heutzutage noch 'eh-heh-heh'?{w} Ach, scheiß drauf.{w} Sie hat mir zumindest geantwortet.{w} Einigermaßen."
 
-            "Jetzt, wo ich darüber nachdenke, erinnere ich mich daran, dass auch der Lehrer ein bisschen verwirrt war, als er sie vorstellte."
+            "Jetzt, wo ich darüber nachdenke, erinnere ich mich daran, dass auch der Lehrer ein bisschen verwirrt wirkte, als er sie vorstellte."
             
             "Ich wette, sie haben ihre magischen Kräfte spielen lassen.{w} Der Gedanke ist schon irgendwie gruselig ..."
 
@@ -939,7 +939,7 @@ label start:
             $ hikaface='joking'
             show Hikari
 
-            "...Zerknittert sie ihn und wirft ihn zu mir zurück.{w} ... Das war jetzt echt gemein."
+            "...zerknittert sie ihn und wirft ihn zu mir zurück.{w} ... Das war jetzt echt gemein."
 
             hide Hikari
             with dissolve
@@ -956,9 +956,9 @@ label start:
 
             "Sie haben gesagt, sie wären meine 'Schutzengel', oder?"
 
-            "Und dieser Angriff vorhin muss sie so sehr erschreckt haben, dass sie beschlossen haben, es wäre zu unsicher, sollten sie mich weiterhin aus der Ferne beobachten ...?"
+            "Und dieser Angriff vorhin muss sie so sehr erschreckt haben, dass sie beschlossen haben, es wäre zu unsicher, mich weiterhin nur aus der Ferne zu beobachten ...?"
 
-            "Das ist zumindest die logischste Erklärung, die mir einfällt.{w} Mehr fällt mir momentan nicht ein, da sich die Eiskönigin dort drüben ja weigert, mit mir zu reden."
+            "Das ist zumindest die logischste Erklärung, die mir einfällt.{w} Mehr krieg ich fürs Erste nicht heraus, weil sich die Eiskönigin dort drüben ja weigert, mit mir zu reden."
 
 
     stop music fadeout 4.0
@@ -967,7 +967,7 @@ label start:
 
     "Nach einer gefühlten Ewigkeit ertönt schlussendlich doch noch die Glocke.{w} Die erste Stunde ist endlich vorbei."
 
-    "Vor der Pause haben wir aber noch eine Stunde. Und wäre das nicht schon schlimm genug, haben wir nächste Stunde auch noch Sportunterricht."
+    "Vor der Pause haben wir aber noch eine Stunde. Und als wäre das nicht schon schlimm genug, haben wir nächste Stunde auch noch Sportunterricht."
     
     "Und da Jungen und Mädchen getrennt turnen, kann ich sowieso nicht mit ihnen reden."
 
@@ -979,37 +979,37 @@ label start:
     queue music "bgm/everydayloop.ogg"
     "Nachdem ich mir meine Sportsachen angezogen hab, stehe ich nun mit den anderen Jungs meiner Klasse am Schulhof."
     
-    "Genauso wie in der ersten Stunde, konnte ich mich auch im Sportunterricht nicht wirklich konzentrieren."
+    "Genauso wie in der ersten Stunde konnte ich mich auch im Sportunterricht nicht wirklich konzentrieren."
 
     "Ich nehme bei den Übungen teil ... mit der Begeisterung eines Zombies."
 
     "Den Rest der Stunde nehme ich nur noch verschwommen wahr, zumindest bis einige meiner Mitschüler zur Laufbahn schauen, wo gerade die Mädels unterwegs sind."
     
-    "Vor lauter Unglaubwürdigkeit, fangen einige der Schüler sogar an, sich ihre Augen auszureiben.{w} Was ist daran denn so besonders?"
+    "Vor lauter Ungläubigkeit fangen einige der Schüler sogar an, sich ihre Augen auszureiben.{w} Was ist daran denn so besonders?"
 
 
 
     p "Was guckt ihr denn alle so?"
 
-    "Ich dränge mich durch die Menge, die sich gebildet hat, damit ich einen guten Überblick habe."
+    "Ich dränge mich durch die Menge, die sich gebildet hat, um mir eine bessere Sicht zu verschaffen."
 
     p "...Das gibt's doch nicht."
 
-    "Die Mädels laufen auf der Bahn, was ja nichts Besonderes ist, aber das Besondere ist, {i}wer{/i} auf der Bahn läuft."
+    "Die Mädels laufen auf der Bahn, was ja nichts Ungewöhnliches ist, aber das Besondere ist, {i}wer{/i} auf der Bahn läuft."
 
     scene cg6
     with fade
 
-    "Sayaka flitzt förmlich über die Strecke und lässt die anderen im Staub zurück.{w} Sie läuft buchstäblich im Kreis um sie herum!"
+    "Sayaka raste förmlich über die Strecke und lässt die anderen im Staub zurück.{w} Sie läuft buchstäblich im Kreis um sie herum!"
 
-    "Sie sieht, abgesehen von den Schweißtropfen, auch kein bisschen müde oder erschöpft aus - im Gegenteil, sie lächelt sogar."
+    "Sie sieht, abgesehen von den Schweißtropfen, auch kein bisschen müde oder erschöpft aus – ganz im Gegenteil, sie lächelt sogar."
 
     "Wer es vorher noch nicht wusste, sollte spätestens jetzt erkennen, dass diese Mädchen von einer anderen Welt sind.{w} Ich bin sicher, dass sie mit ihrer Leistung gerade einen Rekord nach dem anderen bricht."
 
-    "Die anderen Mädchen versuchen mit Gesichtsausdrücken von purer Verzweiflung bis hin zu Neid, hoffnungslos mit ihr mithalten zu können."
+    "Die anderen Mädchen versuchen mit Gesichtsausdrücken von purer Verzweiflung bis hin zu Neid vergeblich, mit ihr mitzuhalten."
 
-    "Einige dieser Mädchen sind - oder besser gesagt {i}waren{/i} - die besten des Jahrgangs, wenn es ums Laufen geht, aber selbst die lässt sie alt aussehen."
-    
+    "Einige dieser Mädchen sind – oder besser gesagt {i}waren{/i} – die besten des Jahrgangs, wenn es ums Laufen geht, aber selbst die lässt sie alt aussehen."
+
     "Ich möchte nicht wissen, wie es sich anfühlt, von jemandem vorgeführt zu werden, der gerade mal einen Tag auf diese Schule geht."
 
     "Selbst meine Augen haben Probleme damit, mit ihrer Geschwindigkeit mitzuhalten.{w} Sie scheint mit jeder Runde schneller zu werden."
@@ -1018,13 +1018,13 @@ label start:
 
     "Nach dieser übermenschlichen Leistung fange ich echt an, daran zu zweifeln.{w} Ich glaube, nicht mal die besten Sportler des Landes hätten eine Chance gegen sie!"
 
-    "Und während Sayaka all die Aufmerksamkeit erregt, fehlt jemand - und zwar ihr mürrisches Gegenstück: Hikari.{w} Wenn man jetzt logisch nachdenkt ... Sollte sie nicht auch so schnell sein?"
+    "Und während Sayaka all die Aufmerksamkeit auf sich zieht, fehlt jemand – und zwar ihr mürrisches Gegenstück: Hikari.{w} Wenn man jetzt logisch nachdenkt ... Sollte sie nicht auch so schnell sein?"
 
     "Ich suche die Umgebung ab, kann sie aber nirgends finden.{w} Wo bist du bl... Oh."
 
     "Hinter den Mädchen, die verzweifelt versuchen, mit Sayaka mitzuhalten, sehe ich noch jemanden mit einem sauren Gesichtsausdruck.{w} Sie ..."
     
-    "Sie geht einfach nur, und wie immer sind ihre Arme dabei verschränkt.{w} Ich frage mich, ob ihre Arme aneinanderkleben?{w} Sie versucht doch nicht einmal zu laufen."
+    "Sie geht einfach nur, und wie immer sind ihre Arme dabei verschränkt.{w} Ob ihre Arme wohl aneinanderkleben?{w} Sie versucht ja nicht einmal zu laufen."
 
     "Anscheinend möchte sie wirklich nicht hier sein.{w} Das war wohl alles Sayakas Idee."
 
@@ -1073,14 +1073,14 @@ label start:
 
     s "Oh, das ist aber schon ein bisschen plötzlich!{w} Ich weiß nicht, was ich sagen soll ..."
 
-    p "Komm schon, hör auf rumzualbern.{w} Ich möchte einfach nur mit euch reden, und das schon seid heute morgen."
+    p "Komm schon, hör auf rumzualbern.{w} Ich möchte einfach nur mit euch reden, und das schon seit heute morgen."
 
     "Oh Gott ...{w} Es wird nicht besser, oder?{w} Irgendwie hab ich aus der Situation das wohl peinlichste Geständnis ever gemacht."
 
     $ sayaface='joking'
     show Sayaka
 
-    s "Bist du immer so stürmisch, was Mädchen anbelangt, die du gerade getroffen hast?"
+    s "Bist du immer so stürmisch, was Mädchen anbelangt, die du gerade erst getroffen hast?"
 
     "Sie kichert und streut noch mehr Salz in die bereits tiefe Wunde."
 
@@ -1094,9 +1094,10 @@ label start:
     show Sayaka
     with hpunch
 
-    s "Wh-Wha--Hey, was machst du da?"
+    s "Wa-Wa... Hey, was machst du da?"
 
-    "...Packe ich sie am Handgelenk und ziehe sie zur Tür hinaus, ob sie will oder nicht."
+
+    "...packe ich sie am Handgelenk und ziehe sie zur Tür hinaus, ob sie will oder nicht."
     
     "Nach der Vorführung von vorhin steht es aber außer Zweifel, dass sie mich einfach zu Boden werfen könnte, wenn sie wirklich dagegen wäre."
     
@@ -1118,7 +1119,7 @@ label start:
 
     "Mit meiner zweiten Hand packe ich auch Hikaris Handgelenk.{w} Zum Glück leisten sie nicht allzu viel Widerstand."
 
-    "Hikaris Beleidigungen ignorierend gehe ich weiter in Richtung Tür.{w} Ich muss nur ein stilles Örtchen finden, wo ich die beiden befragen kann.{w} Die Frage ist nur--"
+    "Hikaris Beleidigungen ignorierend gehe ich weiter in Richtung Tür.{w} Ich muss nur ein stilles Örtchen finden, wo ich die beiden befragen kann.{w} Die Frage ist nur –"
 
     stop music fadeout 7.0
 
@@ -1144,16 +1145,16 @@ label start:
 
     dg "...Schon gut."
 
-    "Sie spricht in einer eiskalten Tonlage - ebenso eiskalt, wie ihre Augen, die auf mich fokussiert sind.{w} Ui.{w} Ich schätze, sie hat einen Grund, weshalb sie so verägert aussieht ... oder zumindest hoffe ich das."
+    "Sie spricht in einer eiskalten Tonlage – ebenso eiskalt wie ihre Augen, die auf mich fokussiert sind.{w} Ui.{w} Ich schätze, sie hat einen Grund dafür, dass sie so verägert aussieht ... oder zumindest hoffe ich das."
 
     p "Ähh, o-okay."
 
     hide Yuzuki
     with dissolve
 
-    "Nachdem ich sichergestellt habe, dass es ihr gut geht, konzentriere ich mich wieder auf Hikari und Sayaka.{w} Ich will mir gar nicht vorstellen, wie das für Außenstehende gerade aussieht."
+    "Nachdem ich sichergestellt habe, dass es ihr gut geht, konzentriere ich mich wieder auf Hikari und Sayaka.{w} Ich will mir gar nicht vorstellen, wie das für Außenstehende gerade aussehen muss."
 
-    "...Und ich bin sicher, das Mädchen von vorhin starrt mir ebenfalls noch hinterher.{w} Ist sie etwa auf mich so wütend?{w} Ich mein, das war doch nur ein {i}Unfall{/i}."
+    "...Und ich bin sicher, das Mädchen von vorhin starrt mir ebenfalls noch hinterher.{w} Ist sie etwa so wütend auf mich?{w} Ich mein, das war doch nur ein {i}Unfall{/i}."
 
     "Ach, ich muss mich jetzt auf wichtigere Dinge konzentrieren.{w} Und diese zwei Dinge halte ich gerade in meinen Händen."
     play music "bgm/magicalgirlintro.ogg" fadein 5.0
@@ -1161,9 +1162,9 @@ label start:
     scene school roof
     with fade
 
-    "Als wir am Schuldach auftauchten, bin ich froh, dass wir alleine sind.{w} Theoretisch verbringen hier viele Schüler ihre Pausen, aber praktisch gesehen ist der Ort nicht sehr beliebt. Umso besser für mich!"
+    "Als wir am Schuldach ankommen, bin ich froh, dass wir alleine sind.{w} Theoretisch verbringen hier viele Schüler ihre Pausen, aber praktisch gesehen ist der Ort nicht sehr beliebt. Umso besser für mich!"
 
-    p "Okay, könnt ihr mir jetzt erstmal in aller Ruhe dieses Chaos hier erklären?"
+    p "Okay, könnt ihr mir jetzt erst mal in aller Ruhe dieses Chaos hier erklären?"
 
 
     $ sayaface='happy'
@@ -1227,9 +1228,9 @@ label rooftopexplanation:
             show Sayaka
             with dissolve
 
-            s "Also, ich bin Sayaka und das ist Hikari.{w} Hast du unsere Namen etwa schon vergessen, Dümmerchen?"
+            s "Also, ich bin Sayaka und das ist Hikari.{w} Hast du unsere Namen etwa schon vergessen, Dummerchen?"
 
-            "Das ist ja zum Haare ausreißen."
+            "Das ist ja zum Haare-Ausreißen."
 
             "Ich öffne noch einmal meinen Mund, um ihr klar und deutlich zu sagen, was ich meine, aber es scheint, als wäre sie mir einen Schritt voraus."
 
@@ -1266,7 +1267,7 @@ label rooftopexplanation:
 
             "Langsam wird ihr bewusst, was sie gerade sagte.{w} Schon amüsant zuzusehen, wie ihr für gewöhnlich mürrisches Gesicht so ganz plötzlich vor Verlegenheit rot wird."
 
-            h "I-Ich meinte-- w-wichtig für uns!{w} {i}Uns!{/i}"
+            h "I-Ich meinte – w-wichtig für uns!{w} {i}Uns!{/i}"
 
             $ sayaface='joking'
             $ hikaface='shy'
@@ -1280,13 +1281,13 @@ label rooftopexplanation:
             $ hikaface='normal'
             show Hikari
 
-            h "H-Hmph!"
+            h "H-Hmpf!"
 
             $ sayaface='shocked'
             show Sayaka
             with hpunch
 
-            s "Wahh!"
+            s "Ahh!"
 
             $ sayaface='scared'
             show Sayaka
@@ -1309,7 +1310,7 @@ label rooftopexplanation:
             $ sayaface='joking'
             show Sayaka
 
-            s "He-heh, jetzt hab ich vielleicht schon zu viel gesagt ..."
+            s "He-he, jetzt hab ich vielleicht schon zu viel gesagt ..."
 
             "Sie kratzt sich mit einem Grinsen am Hinterkopf.{w} In der Angelegenheit werd ich wahrscheinlich nichts mehr aus ihr rausbekommen ...{w} Zumindest für heute."
             
@@ -1332,7 +1333,7 @@ label rooftopexplanation:
             show Sayaka
             with dissolve
 
-            s "Also, in diesem speziellem Fall sind sie es.{w} Obwohl sie eigentlich nicht so aggresiv sind.{w} Aber sie waren schon immer da und lauern immer in den Schatten."
+            s "Also, in diesem speziellem Fall sind sie es.{w} Obwohl sie eigentlich nicht so aggressiv sind.{w} Aber sie waren schon immer da und lauern immer in den Schatten."
 
             $ sayaface='normal'
             show Sayaka
@@ -1350,15 +1351,15 @@ label rooftopexplanation:
 
             "Sie reißt sich wieder zusammen und widmet ihre Aufmerksamkeit der Realität."
 
-            s "Häh?{w} Oh, tut mir leid!{w} Keine Sorge, es ist nichts."
+            s "Hä?{w} Oh, tut mir leid!{w} Keine Sorge, es ist nichts."
 
-            p "Was hab ich verdammt nochmal getan, um diese Monster zu verärgern?"
+            p "Was hab ich verdammt noch mal getan, um diese Monster zu verärgern?"
 
-            s "Sie haben dich nicht angegriffen, weil du was getan hast, es liegt einfach daran, dass du du bist."
+            s "Sie haben dich nicht angegriffen, weil du etwas getan hast, es liegt einfach daran, dass du du bist."
 
             p "Wer ... bin ich denn?"
 
-            s "Ja, dein Blu--"
+            s "Ja, dein Blu–"
 
             $ sayaface='shocked'
             $ hikaface='angry'
@@ -1368,7 +1369,7 @@ label rooftopexplanation:
 
             h "Sayaka!"
 
-            s "Wahh!{w} Okay, okay.{w} Tut mir leid."
+            s "Ahh!{w} Okay, okay.{w} Tut mir leid."
 
             $ sayaface='smiling'
             show Sayaka
@@ -1378,15 +1379,15 @@ label rooftopexplanation:
             $ hikaface='normal'
             show Hikari
 
-            h "Er darf davon nichts wissen.{w} Es ist besser so.{w} Wie werden das Problem lösen, und dann endlich diese grausame Schule verlassen."
+            h "Er darf davon nichts wissen.{w} Es ist besser so.{w} Wie werden das Problem lösen und dann endlich diese grausame Schule verlassen."
 
             s "Mit dir macht es echt keinen Spaß{w} ... Aber du hast recht.{w} Tut mir leid, Kenta."
 
-            "Sie sieht mich entschuldigend an.{w} Und es hört sich auch so an, als würde sie es ernst meinen.{w} So, als würde sie es mir gerne sagen, es mir aber nicht sagen kann.{w} Druck auszuüben wäre jetzt wohl auch nicht richtig."
+            "Sie sieht mich entschuldigend an.{w} Und es hört sich auch so an, als würde sie es ernst meinen.{w} So, als würde sie es mir gerne sagen, es aber nicht können.{w} Druck auszuüben wäre jetzt wohl auch nicht richtig."
 
             $ q2 = True
 
-        "Wie lange werdet ihr hier bleiben?" if q3 is False:
+        "Wie lange werdet ihr hierbleiben?" if q3 is False:
             "Die Frage ist ganz wichtig.{w} Wie lange, äh, wollen sie überhaupt auf mich aufpassen?"
 
             $ sayaface='scared'
@@ -1400,7 +1401,7 @@ label rooftopexplanation:
 
             "Es ist nur ...{w} Solange die beiden in meiner Nähe sind, wird mir wahrscheinlich ein Problem nach dem anderen über den Weg laufen."
 
-            p "Ach, komm schon, so hab ich's auch nicht gemeint ..."
+            p "Ach, komm schon, so hab ich's doch nicht gemeint ..."
 
             "Plötzlich zeigt sie mir wieder ihr strahlendes Lächeln."
 
@@ -1418,7 +1419,7 @@ label rooftopexplanation:
 
             s "Wir werden nicht lange hier sein, ich verspreche es.{w} Nur, bis wir alles geregelt haben."
 
-            p "Ich schätze, ihr könnt mir nicht sagen, was ihr zuerst 'klären' müsst, oder?"
+            p "Ich schätze, ihr könnt mir nicht sagen, was ihr zuerst 'regeln' müsst, oder?"
 
             $ sayapose='school_2'
             show Sayaka
@@ -1432,11 +1433,11 @@ label rooftopexplanation:
             show Hikari
             with dissolve
 
-            h "Was, eine Woche?!{w} Würde es nach mir gehen, wären wir schon morgen weg.{w} Ich hasse diesen Ort...{w} Er ist so laut."
+            h "Was, eine Woche?!{w} Würde es nach mir gehen, wären wir schon morgen weg.{w} Ich hasse diesen Ort ...{w} Er ist so laut."
 
             s "Nun, wenn jemand nützlicher wäre und mir helfen würde, anstatt sich ständig zu beschweren, könnten wir die Dinge schneller erledigen, hmm?"
 
-            "Whoa, sie sagte das gerade, ohne ihr Lächeln auch nur ein bisschen 'aufzugeben', und auch ihr Gesichtsausdruck ist trotz der scharfen Worte noch genauso fröhlich.{w} ... Das macht mir irgendwie Angst."
+            "Oha, sie sagte das gerade, ohne ihr Lächeln auch nur ein bisschen 'aufzugeben', und auch ihr Gesichtsausdruck ist trotz der scharfen Worte noch genauso fröhlich.{w} ... Das macht mir irgendwie Angst."
 
             $ hikaface='scared'
             $ hikapose='school_1'
@@ -1450,7 +1451,7 @@ label rooftopexplanation:
             $ q3 = True
 
         "Das wär's fürs Erste." if qquit is True:
-            "Ich schätze, das reicht fürs Erste.{w} Die Glocke dürfte sowieso gleich--"
+            "Ich schätze, das reicht fürs Erste.{w} Die Glocke dürfte sowieso gleich –"
 
             "Jup.{w} Da haben wir sie ja schon."
 
@@ -1475,7 +1476,7 @@ label rooftopexplanation:
             show Hikari at center
             with dissolve
 
-            "Sayaka rast, so als wäre es ein Rennen, auf die Treppe zu, während ihre Partnerin hinter ihr herläuft und mir einen letzten Blick zuwirft."
+            "Sayaka rast so, als wäre es ein Rennen, auf die Treppe zu, während ihre Partnerin hinter ihr herläuft und mir einen letzten Blick zuwirft."
 
             "Sie bleibt stehen und blickt einen kurzen Augenblick nach unten, ehe sie ihren Kopf wieder geradeaus richtet."
 
@@ -1495,9 +1496,9 @@ label rooftopexplanation:
 
             "Ich sollte mich aber jetzt besser beeilen.{w} Ich will nicht schon wieder zu spät kommen!"
 
-            "Als ich mich auf dem Weg zur Treppe mache, macht sich plötzlich mein Magen bemerkbar.{w} Und der schreit nach Essen."
+            "Als ich mich auf dem Weg zur Treppe mache, macht sich plötzlich mein Magen bemerkbar.{w} Und er schreit nach Essen."
 
-            "Ah, stimmt. Vor lauter Fragerei hab ich komplett auf mein Essen vergessen.{w} Fuck ..."
+            "Ah, stimmt. Vor lauter Fragerei hab ich komplett mein Essen vergessen.{w} Scheiße ..."
 
             scene bg black
             with fade
@@ -1505,7 +1506,7 @@ label rooftopexplanation:
 
             jump explanationover
 
-    s "So, gibt es da noch etwas, worüber du was wissen willst?"
+    s "So, gibt es noch etwas, was du wissen willst?"
 
     $ qquit = True
 
@@ -1523,7 +1524,7 @@ label explanationover:
     "..."
     play music "bgm/everydayintro.ogg" fadein 3.0
     queue music "bgm/everydayloop.ogg"
-    "Nach all dem Wirbel heute morgen, passiert in den restlichen Stunden nicht mehr sonderlich viel.{w} Die Stunden ziehen sich wie Kaugummi."
+    "Nach all dem Wirbel heute morgen passiert in den restlichen Stunden nicht mehr sonderlich viel.{w} Die Stunden ziehen sich wie Kaugummi."
 
     "Umgeben von Sayaka und Hikari fällt es mir auch schwer, mich auf irgendwas zu konzentrieren."
 
@@ -1538,9 +1539,9 @@ label explanationover:
 
     "Mit dem letzten Glockenläuten geht der Unterricht zu Ende.{w} Der Großteil der Schüler verlässt das Klassenzimmer in Richtung Club oder Teilzeit-Job.{w} Aber ich nicht, denn ich geh nach Hause!"
 
-    "Obwohl der Beitritt zu einem Club zwar von der Schule gewünscht ist und gefördert wird, ist es - zum Glück - nicht verpflichtend.{w} Das heißt, ich kann nach dem Unterricht tun, was ich will."
+    "Obwohl der Eintritt in einen Club zwar von der Schule gewünscht ist und gefördert wird, ist er – zum Glück – nicht verpflichtend.{w} Das heißt, ich kann nach dem Unterricht tun, was ich will."
 
-    "Für andere seh ich vielleicht aus wie ein Faulpelz, aber pf, da scheiß ich drauf.{w} Sie haben ja schließlich auch recht!"
+    "Für andere seh ich vielleicht aus wie ein Faulpelz, aber pff, da scheiß ich drauf.{w} Sie haben ja schließlich auch recht!"
 
     scene bg black
     with fade
@@ -1554,7 +1555,7 @@ label explanationover:
 
     "Mit jedem Schritt, den ich durch die ruhigen Straßen mache, wird der Himmel dunkler und der Mond tritt immer deutlicher hervor."
 
-    "{i}Stampf, stampf, stampf.{/i}{w} Meine schweren Schritte hallen durch die Nacht.{w} Aber neben meinen sind auch noch andere Schritte zu hören - von zwei Personen, um genau zu sein."
+    "{i}Stampf, stampf, stampf.{/i}{w} Meine schweren Schritte hallen durch die Nacht.{w} Aber neben meinen sind auch noch andere Schritte zu hören – von zwei Personen, um genau zu sein."
     
     "Diese Schritte sind aber weitaus leiser als meine, und sie werden auch mit viel mehr Anmut gesetzt. "
 
