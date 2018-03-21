@@ -760,7 +760,7 @@ label start:
 
     "Am Hinterkopf ist noch immer ein leichter Schmerz zu spüren."
 
-    "So glücklich wie ich bin, hab ich zumindest einen Platz beim Fenster. So kann ich zumindest nach draußen und in den blauen Himmel blicken."
+    "Obwohl ich sonst immer Pech hab, gehört mir glücklicherweise ein Platz beim Fenster. So kann ich zumindest nach draußen und in den blauen Himmel blicken."
 
     "Der Lehrer hält seine übliche Morgenrede und spricht über die bevorstehenden Ereignisse in unserer Schule, aber in meinen Ohren sind seine Worte nur dumpfes Gemurmel."
 
@@ -804,7 +804,7 @@ label start:
 
     "Das fröhliche – äh, Sayaka – verbeugt sich höflich vor der Klasse und wirft mir ein Grinsen zu.{w} Was ...{w} Was soll das?"
 
-    "Das andere Mädchen ist weniger höflich und steht mit verschränkten Armen da.{w} Es sieht so aus, als sei sie nicht freiwillig hier.{w} Auch ihr Blick richtet sich auf mich, aber anstatt mich anzulächeln, starrt sie mich an."
+    "Das andere Mädchen ist weniger höflich und steht mit verschränkten Armen da.{w} Es sieht so aus, als sei sie nicht freiwillig hier.{w} Auch ihr Blick richtet sich auf mich, aber anstatt mich anzulächeln, starrt sie mich grimmig an."
 
     "Gibt sie etwa mir die Schuld dafür?{w} Es fühlt sich echt so an ..."
 
@@ -932,7 +932,7 @@ label start:
 
             "Ich bin zuversichtlich, dass sie mir antworten wird.{w} Sie schaut mich seitwärts an und hebt den Zettel mit zwei Fingern auf ..."
             
-            "Das kommt mir so vor, als würde sie glauben, sie hätte es mit einem verseuchten Zettel zu tun."
+            "Die stellt sich an, als hätte sie es mit einem verseuchten Zettel zu tun."
 
             "Sie bringt ihn in die Nähe ihres Gesicht, überfliegt ihn einmal und dann ..."
 
@@ -944,7 +944,7 @@ label start:
             hide Hikari
             with dissolve
 
-            "Was soll man dazu sagen ...{w} Das war ein Misserfolg.{w} Und ich habe das Gefühl, als würde der Lehrer nun vermehrt seine Aufmerksamkeit auf mich richten ..."
+            "Was soll man dazu sagen ...{w} Das war ein Reinfall.{w} Und ich habe das Gefühl, als würde der Lehrer nun vermehrt seine Aufmerksamkeit auf mich richten ..."
             
             "Daher ist es wahrscheinlich nicht mehr möglich, Sayaka ebenfalls noch zu fragen."
 
@@ -981,7 +981,7 @@ label start:
     
     "Genauso wie in der ersten Stunde konnte ich mich auch im Sportunterricht nicht wirklich konzentrieren."
 
-    "Ich mache die Übungen mit ... mit der Begeisterung eines Zombies."
+    "Ich nehme bei den Übungen teil ... mit der Begeisterung eines Zombies."
 
     "Den Rest der Stunde nehme ich nur noch verschwommen wahr, zumindest bis einige meiner Mitschüler zur Laufbahn schauen, wo gerade die Mädels unterwegs sind."
     
@@ -1008,8 +1008,8 @@ label start:
 
     "Die anderen Mädchen versuchen mit Gesichtsausdrücken von purer Verzweiflung bis hin zu Neid vergeblich, mit ihr mitzuhalten."
 
-    "Einige dieser Mädchen sind – oder besser gesagt {i}waren{/i} – die besten der Klasse, wenn es ums Laufen geht, aber selbst die lässt sie alt aussehen."
-    
+    "Einige dieser Mädchen sind – oder besser gesagt {i}waren{/i} – die besten des Jahrgangs, wenn es ums Laufen geht, aber selbst die lässt sie alt aussehen."
+
     "Ich möchte nicht wissen, wie es sich anfühlt, von jemandem vorgeführt zu werden, der gerade mal einen Tag auf diese Schule geht."
 
     "Selbst meine Augen haben Probleme damit, mit ihrer Geschwindigkeit mitzuhalten.{w} Sie scheint mit jeder Runde schneller zu werden."
@@ -1020,7 +1020,7 @@ label start:
 
     "Und während Sayaka all die Aufmerksamkeit auf sich zieht, fehlt jemand – und zwar ihr mürrisches Gegenstück: Hikari.{w} Wenn man jetzt logisch nachdenkt ... Sollte sie nicht auch so schnell sein?"
 
-    "Ich suche die Umgebung ab, kann sie aber nirgends finden.{w} Wo bist du bl--oh."
+    "Ich suche die Umgebung ab, kann sie aber nirgends finden.{w} Wo bist du bl... Oh."
 
     "Hinter den Mädchen, die verzweifelt versuchen, mit Sayaka mitzuhalten, sehe ich noch jemanden mit einem sauren Gesichtsausdruck.{w} Sie ..."
     
@@ -1096,7 +1096,10 @@ label start:
 
     s "Wa-Wa... Hey, was machst du da?"
 
-    "...packe ich sie am Handgelenk und ziehe sie zur Tür hinaus, ob sie will oder nicht.{w} Wäre sie aber wirklich dagegen, dann könnte sie mich, angesichts der Vorführung vorhin, jede Sekunde zu Boden werfen."
+
+    "...packe ich sie am Handgelenk und ziehe sie zur Tür hinaus, ob sie will oder nicht."
+    
+    "Nach der Vorführung von vorhin steht es aber außer Zweifel, dass sie mich einfach zu Boden werfen könnte, wenn sie wirklich dagegen wäre."
     
     "Aber ich denke, sie albert gerade nur ein wenig herum."
 
@@ -1129,7 +1132,7 @@ label start:
     with hpunch
     with hpunch
 
-    "Durch meine überschnelle Absicht, mit den beiden Mädchen das Klassenzimmer schnellstmöglich zu verlassen, stoße ich mit jemandem zusammen, der gerade durch die Tür kam."
+    "Dank meines hektischen Versuches, mit den beiden Mädchen das Klassenzimmer schnellstmöglich zu verlassen, stoße ich mit jemandem zusammen, der gerade durch die Tür kam."
 
     "Sie stolpert nach hinten und sieht ein wenig benommen aus.{w} Gott sei Dank sieht es nicht schlimm aus."
 
@@ -1309,7 +1312,7 @@ label rooftopexplanation:
 
             s "He-he, jetzt hab ich vielleicht schon zu viel gesagt ..."
 
-            "Sie kratzt sich meinem Grinsen am Hinterkopf.{w} In der Angelegenheit werd ich wahrscheinlich nichts mehr aus ihr rausbekommen ...{w} Zumindest für heute."
+            "Sie kratzt sich mit einem Grinsen am Hinterkopf.{w} In der Angelegenheit werd ich wahrscheinlich nichts mehr aus ihr rausbekommen ...{w} Zumindest für heute."
             
             "Vielleicht erzählt sie mir morgen ja mehr, sofern ich sie überraschen kann."
 
@@ -1346,7 +1349,7 @@ label rooftopexplanation:
             show Sayaka
             with dissolve
 
-            "She snaps out of her stupor, blinking back to reality."
+            "Sie reißt sich wieder zusammen und widmet ihre Aufmerksamkeit der Realität."
 
             s "Hä?{w} Oh, tut mir leid!{w} Keine Sorge, es ist nichts."
 
@@ -1376,7 +1379,7 @@ label rooftopexplanation:
             $ hikaface='normal'
             show Hikari
 
-            h "Er muss davon nichts wissen.{w} Es ist besser so.{w} Wie werden das Problem lösen und dann endlich diese grausame Schule verlassen."
+            h "Er darf davon nichts wissen.{w} Es ist besser so.{w} Wie werden das Problem lösen und dann endlich diese grausame Schule verlassen."
 
             s "Mit dir macht es echt keinen Spaß{w} ... Aber du hast recht.{w} Tut mir leid, Kenta."
 
@@ -1434,7 +1437,7 @@ label rooftopexplanation:
 
             s "Nun, wenn jemand nützlicher wäre und mir helfen würde, anstatt sich ständig zu beschweren, könnten wir die Dinge schneller erledigen, hmm?"
 
-            "Oha, sie sagte das gerade, ohne ihr Lächeln auch nur ein bisschen 'aufzugeben', und auch ihr Farbton ist trotz der scharfen Worte noch genauso fröhlich.{w} ... Das macht mir irgendwie Angst."
+            "Oha, sie sagte das gerade, ohne ihr Lächeln auch nur ein bisschen 'aufzugeben', und auch ihr Gesichtsausdruck ist trotz der scharfen Worte noch genauso fröhlich.{w} ... Das macht mir irgendwie Angst."
 
             $ hikaface='scared'
             $ hikapose='school_1'
@@ -1550,7 +1553,7 @@ label explanationover:
     scene town street night
     with fade
 
-    "Mit jedem Schritt, den ich durch die ruhigen Straßen mache, wird der Himmel dunkler und der Mond wird immer sichtbarer."
+    "Mit jedem Schritt, den ich durch die ruhigen Straßen mache, wird der Himmel dunkler und der Mond tritt immer deutlicher hervor."
 
     "{i}Stampf, stampf, stampf.{/i}{w} Meine schweren Schritte hallen durch die Nacht.{w} Aber neben meinen sind auch noch andere Schritte zu hören – von zwei Personen, um genau zu sein."
     
