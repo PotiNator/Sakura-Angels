@@ -6409,7 +6409,7 @@ label explanationover:
 
     s "'Kay.{w} Ich denke wirklich nicht, dass es so schlecht war ..."
 
-    $ hikaface='north'
+    $ hikaface='normal'
     show Hikari
 
     s "Egal, Kenta, wie wäre es, wenn ich etwas koche--"
@@ -9309,7 +9309,7 @@ label explanationover:
     show Sayaka at left
     show Hikari at right
     show Yuzuki at center
-    with dissolver
+    with dissolve
 
     play music "bgm/magicalgirlintro.ogg" fadein 2.0
     queue music "bgm/magicalgirlloop.ogg"    
