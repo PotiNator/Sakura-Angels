@@ -1537,7 +1537,7 @@ label explanationover:
     scene classroom
     with fade
 
-    "Mit dem letzten Glockenläuten geht der Unterricht zu Ende.{w} Der Großteil der Schüler verlässt das Klassenzimmer in Richtung Club oder Teilzeit-Job.{w} Aber ich nicht, denn ich geh nach Hause!"
+    "Mit dem letzten Glockenläuten geht der Unterricht zu Ende.{w} Der Großteil der Schüler verlässt das Klassenzimmer in Richtung Club oder Teilzeitjob.{w} Aber ich nicht, denn ich geh nach Hause!"
 
     "Obwohl der Eintritt in einen Club zwar von der Schule gewünscht ist und gefördert wird, ist er – zum Glück – nicht verpflichtend.{w} Das heißt, ich kann nach dem Unterricht tun, was ich will."
 
@@ -1561,7 +1561,7 @@ label explanationover:
 
     p "Schaut ...{w} Ich weiß, dass ihr mich nur beschützen wollt, aber müsst ihr dafür, äh, so {i}an mir kleben{/i}?"
 
-    "Ja.{w} Die Schritte gehören zu niemand geringeren als zu meinen selbsternannten 'Schutzengeln'.{w} Sayaka links und Hikari rechts von mir."
+    "Ja.{w} Die Schritte gehören zu niemand Geringeren als zu meinen selbsternannten 'Schutzengeln'.{w} Sayaka links und Hikari rechts von mir."
     
     "Und obwohl ihre Schultern zwar Zentimeter von meinen entfernt sind, marschieren wir im Gleichschritt."
 
@@ -1598,7 +1598,7 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    s "Aww, sei doch nicht so, Hikari.{w} Denk nicht, ich sehe nicht, wie du ihn die ganze Zeit ansiehst, wenn er wegsieht."
+    s "Och, sei doch nicht so, Hikari.{w} Denk nicht, ich sehe nicht, wie du ihn die ganze Zeit ansiehst, wenn er wegschaut."
 
     "Während sie geht, lehnt sich Sayaka etwas über mich und lächelt Hikari an.{w} Leute, die Situation wird langsam echt komisch."
 
@@ -1608,7 +1608,7 @@ label explanationover:
     show Hikari
     with dissolve
 
-    h "H-Hä?{w} Du hast gesehen, wie ... I-Ich meine, ich hab einfach nur nachgeguckt, ob der Gegner eh noch keinen Überraschungsangriff durchgeführt hat!"
+    h "H-Hä?{w} Du hast gesehen, wie ... I-Ich meine, ich hab einfach nur nachgeguckt, ob der Gegner noch keinen Überraschungsangriff durchgeführt hat!"
 
     hide Hikari
     with dissolve
@@ -1641,7 +1641,7 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    s "Hm?{w} Ich wollte ihn nur warm halten.{w} Guck, ich {i}kümmere{/i} mich um seine Gesundheit und möchte nicht, dass er eine Erkältung bekommt."
+    s "Hm?{w} Ich wollte ihn nur warm halten.{w} Schau, ich {i}kümmere{/i} mich um seine Gesundheit und möchte nicht, dass er eine Erkältung bekommt."
 
     s "Er beschwert sich nicht, also muss er es ja auch mögen!"
 
@@ -1651,7 +1651,7 @@ label explanationover:
 
     s "Siehst du~?"
 
-    p "H-Hey, das ist jetzt aber--"
+    p "H-Hey, das ist jetzt aber –"
 
     hide Sayaka
     with dissolve
@@ -1669,7 +1669,7 @@ label explanationover:
 
     "H-Ha?{w} Als Reaktion darauf krallt sich Hikari meinen anderen Arm und versucht, mich von Sayaka wegzuziehen.{w} Das ist doch hoffentlich ein Traum, oder?"
 
-    p "Mädels, ihr müsst euch echt nicht--"
+    p "Mädels, ihr müsst euch echt nicht –"
 
     hide Hikari
     with dissolve
@@ -1684,7 +1684,7 @@ label explanationover:
     show Sayaka
     with hpunch
 
-    "Sayaka zieht stärker an meinen Arm, woraufhin sie beide meine Arme fest im Griff hatten. Leider voller Entschlossenheit, sie nicht so schnell loszulassen."
+    "Sayaka zieht stärker an meinen Arm, woraufhin sie beide meiner Arme fest im Griff hatten. Leider voller Entschlossenheit, sie nicht so schnell wieder loszulassen."
 
     with hpunch
 
@@ -1709,7 +1709,7 @@ label explanationover:
     with dissolve
     with hpunch
 
-    "Ich erhebe meine Stimme - so laut, wie schon lange nicht mehr - und versuche, mein Leben zu retten!"
+    "Ich erhebe meine Stimme – so laut wie schon lange nicht mehr – und versuche, mein Leben zu retten!"
 
     "Und kurz darauf lassen sie beide meine Arme los ... Hoffentlich sind sie noch heil."
 
@@ -1737,17 +1737,17 @@ label explanationover:
 
     "Auf dem Sims eines der höchsten Gebäude der Gegend sitzt ein Mädchen."
 
-    "Silbernes Haar, das im Mondschein zu schimmern scheint, ein Outfit so finster wie die Nacht und ein beinahe engelhafter Blick{w} Als ... wäre sie eine Art Engel, der vom Himmel herabblickt."
+    "Silbernes Haar, das im Mondschein zu schimmern scheint, ein Outfit, so finster wie die Nacht, und ein beinahe engelhafter Blick{w} Als ... wäre sie eine Art Engel, der vom Himmel herabblickt."
 
     "Zumindest {i}würde{/i} würde ich sie als Engel betrachten, wäre da nicht dieses beunruhigende Grinsen, dass sie auf einmal aufgesetzt hat."
 
     dg "Ahhh.{w} Da bist du ja."
 
-    "Sie murmelt etwas vor sich hin - etwas, was ich nicht verstehen konnte.{w} Was auch immer es war, es war zumindest so lustig, dass sie selbst zu lachen beginnen musste."
+    "Sie murmelt etwas vor sich hin – etwas, was ich nicht verstehen konnte.{w} Was auch immer es war, es war zumindest so lustig, dass sie selbst zu lachen beginnen musste."
 
     "Irgendwie bekomme ich das Gefühl, als hätte ich sie schon mal gesehen ...{w} Aber wo nur?"
 
-    "Egal, wie sehr ich mich auch anstrenge, es fällt mir nicht ein."
+    "Egal wie sehr ich mich auch anstrenge, es fällt mir nicht ein."
 
     "In einem Federsturm entfalten sich hinter ihr Flügel.{w} Okay, die sind {i}eindeutig{/i} nicht heilig.{w} Ich hab ein ganz schlechtes Gefühl bei der Sache ..."
 
@@ -1757,9 +1757,9 @@ label explanationover:
     
     "Vielleicht bilde ich es mir auch nur ein, aber ihr Hauptaugenmerk scheint auf {i}mich{/i} gerichtet zu sein.{w} Sie starrt mich ja schon förmlich an."
 
-    "All das reicht, um mir leichte Schmerzen im Hinterkopf zu verpassen{w} Und dass es mir bereits eiskalt den Rücken runterläuft, muss ich ja hoffentlich nicht extra erwähnen."
+    "All das reicht, um mir leichte Schmerzen im Hinterkopf zu verpassen.{w} Und dass es mir bereits eiskalt den Rücken runterläuft, muss ich ja hoffentlich nicht extra erwähnen."
 
-    p "Eine ... Eine Freundin?"
+    p "Eine ... eine Freundin?"
 
     "Ich zwinge mich zu einem Lachen, obwohl ich die Wahrheit schon kenne.{w} Die Atmosphäre wird immer angespannter, so wie damals mit dem Monster ..."
     
@@ -1777,7 +1777,7 @@ label explanationover:
 
     s "Ahh, ich verstehe{w} ... Ich denke{w} ... Warte, sie {i}ist{/i} also ein Monster, oder?"
 
-    h "Das versuch ich rauszufinden!{w} Wenn du für eine Sekunde aufhören würdest, in mein Ohr zu schreien, könnte ich mich konzentrieren ..."
+    h "Das versuch ich rauszufinden!{w} Wenn du für eine Sekunde aufhören würdest, in mein Ohr zu schreien, könnte ich mich auch konzentrieren ..."
 
     s "Ich schreie nicht!{w} Mein Gott."
 
@@ -1802,13 +1802,13 @@ label explanationover:
 
     "Nur wenige Zentimeter vor dem Aufprall breitet sie ihre Flügel aus, wodurch sie kurzerhand zum Stillstand kommt."
     
-    "Und das geschieht von einer Sekunde auf die andere - so, als würde sie die Erdanziehungskraft komplett ignorieren."
+    "Und das geschieht von einer Sekunde auf die andere – so, als würde sie die Erdanziehungskraft komplett ignorieren."
 
-    "Selbst mit Flügel sollte das nicht machbar sein.{w} Würde eine Taube so was machen, dann wär sie jetzt platt!"
+    "Selbst mit Flügeln sollte das nicht machbar sein.{w} Würde eine Taube so was machen, dann wär sie jetzt platt!"
 
     "Aber ihre Füße berühren ja nicht mal den Boden.{w} Sie schwebt über der Oberfläche. Man könnte fast meinen, sie schreitet auf einer unsichtbaren Plattform voran."
 
-    "Ein Teil von mir ist froh, dass ihr nichts passiert ist.{w} Aber ein anderer Teil macht sich bereits Sorgen darüber, was als nächstes passiert."
+    "Ein Teil von mir ist froh, dass ihr nichts passiert ist.{w} Aber ein anderer Teil macht sich bereits Sorgen darüber, was als nächstes geschieht."
 
     $ yuzupose='magical_1'
     $ yuzuface='joking'
@@ -1817,17 +1817,17 @@ label explanationover:
     show Hikari at center
     with dissolve
 
-    "Das silberhaarige Mädchen steht vor Hikari und Sayaka.{w} Trotz ihres Lächelns lässt nichts auf mögliche böse Absichten hindeuten, und trotzdem sind die beiden Mädchen sichtlich angespannt."
+    "Das silberhaarige Mädchen steht vor Hikari und Sayaka.{w} Trotz ihres Lächelns deutet nichts auf mögliche böse Absichten hin, und dennoch sind die beiden Mädchen sichtlich angespannt."
 
 
 
     "Wenn ich versuche, mich auf sie zu konzentrieren, fängt mein Kopf wieder an zu schmerzen.{w} Hat sie ... irgendwas mit den Monstern zu tun?{w} Ich fasse mir mit einer Hand zum Kopf."
     
-    "Es kostet mir schon extrem viel Willenskraft, aufrecht stehenzubleiben."
+    "Es kostet mich schon extrem viel Willenskraft, aufrecht stehenzubleiben."
 
     dg "Guten Abend, Mädchen."
 
-    "Sie begrüßt sie ganz lässig, als würde sie die beiden kennen.{w} Irgendwie ...{w} werd ich das Gefühl nicht los, dass sie nicht für diese Begrüßung von einem Dach gesprungen ist."
+    "Sie begrüßt sie ganz lässig, als würde sie die beiden kennen.{w} Irgendwie ...{w} werd ich das Gefühl nicht los, dass sie nicht nur für diese Begrüßung von einem Dach gesprungen ist."
 
     h "...Lass uns zur Sache kommen, okay?{w} Wer bist du, und was willst du?"
 
@@ -1838,9 +1838,9 @@ label explanationover:
 
     dg "Ihr seid ja mal ein feindseliges Pack, was?"
 
-    "Sie kichert und versucht nichts, die Spannung, die in der Luft liegt, zu beseitigen."
+    "Sie kichert und versucht nichts, um die Spannung, die in der Luft liegt, zu beseitigen."
 
-    dg "Sehr Gut.{w} Ihr könnt mich Yuzuki nennen.{w} Und worauf ich es abgesehen habe ...{w} Nun ..."
+    dg "Sehr Gut.{w} Ihr könnt mich Yuzuki nennen.{w} Und worauf ich es abgesehen habe ...{w} nun ..."
 
     $ yuzuface='joking'
     show Yuzuki
@@ -1860,7 +1860,7 @@ label explanationover:
 
     "Ich wusste es.{w} Natürlich hat sie was mit diesem Schlamassel zu tun.{w} Warum auch nicht?"
 
-    "Heute ist wohl der Tag, an dem mich alles und jeder anscheinend tot sehen will."
+    "Heute ist wohl der Tag, an dem mich scheinbar alles und jeder tot sehen will."
 
     $ hikaface='normal'
     $ sayaface='normal'
@@ -1876,7 +1876,7 @@ label explanationover:
     stop music fadeout 9.0
     y "...Nein?{w} Ich denke, wir müssen die Dinge auf die harte Tour regeln, hmm?"
 
-    "Die beiden stehen mit geballten Fäusten vor mir.{w} Ich befürchte langsam, dass ich schon weiß, wie es ausgeht."
+    "Die beiden stehen mit geballten Fäusten vor mir.{w} Ich befürchte langsam, dass ich schon weiß, wie es ausgehen wird."
 
     "Die Menge an Kraft in ihren Fäusten ist so immens, dass sie die Luft um sie herum förmlich zum Knistern bringt."
 
@@ -1912,7 +1912,7 @@ label explanationover:
     show Hikari
     with dissolve
 
-    s "W-Wahh!"
+    s "Aahh!"
 
     "Der Aufprall von Metall gegen Metall löst Funken aus.{w} Hikari konnte gerade noch rechtzeitig reagieren, wodurch sie den Schlag mit dem Schwert noch gerade so abwehren konnte."
     
