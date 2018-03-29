@@ -2065,7 +2065,7 @@ label explanationover:
     show Yuzuki at left
     with moveinleft
 
-    "Ohne Vorwarnung kommt diese rasende Sturm plötzlich zum Stillstand.{w} Und während Sayaka und kurz darauf auch Hikari zu Boden gehen, steht das silberhaarige Mädchen triumphierend da."
+    "Ohne Vorwarnung kommt dieser rasende Sturm plötzlich zum Stillstand.{w} Und während Sayaka und kurz darauf auch Hikari zu Boden gehen, steht das silberhaarige Mädchen triumphierend da."
 
     stop music fadeout 6.0
     scene cg14
