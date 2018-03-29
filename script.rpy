@@ -1162,7 +1162,7 @@ label start:
     scene school roof
     with fade
 
-    "Als wir am Schuldach ankommen, bin ich froh, dass wir alleine sind.{w} Theoretisch verbringen hier viele Schüler ihre Pausen, aber praktisch gesehen ist der Ort nicht sehr beliebt. Umso besser für mich!"
+    "Als wir am Schuldach ankommen, bin ich froh, dass wir alleine sind.{w} Theoretisch sollten hier viele Schüler ihre Pausen verbringen, aber praktisch gesehen ist der Ort nicht sehr beliebt. Umso besser für mich!"
 
     p "Okay, könnt ihr mir jetzt erst mal in aller Ruhe dieses Chaos hier erklären?"
 
@@ -1577,7 +1577,7 @@ label explanationover:
     $ hikaface='angry'
     show Hikari
 
-    h "Denkst du, ich {i}mag{/i} es, dir so nah zu sein?{w} Du solltest dankbar dafür sein, dass ich das überhaupt mache."
+    h "Denkst du, mir {i}gefällt{/i} es, dir so nah zu sein?{w} Du solltest dankbar dafür sein, dass ich das überhaupt mache."
 
     $ hikapose='school_1'
     $ hikaface='normal'
@@ -1615,7 +1615,7 @@ label explanationover:
     show Sayaka
     with dissolve
 
-    s "Genau, was auch immer du sagst~"
+    s "Ja, ja, wie du meinst~"
 
     with hpunch
     with hpunch
@@ -2222,7 +2222,7 @@ label explanationover:
 
     "Wir ziehen weiter durch den Himmel und durchdringen die Wolken, als ob es das Natürlichste der Welt wäre."
 
-    "Der Wind weht an mir vorbei, unten in der Stadt flimmern die Lichter und ...{w} die Unruhe, die sich ergibt, da ich von den beiden getragen werde ..."
+    "Der Wind weht an mir vorbei, unten in der Stadt flimmern die Lichter und ...{w} ich werde unruhig ..."
     
     "Mir wird schlecht.{w} Ich weiß nicht, ob ich das noch viel länger ertragen kann."
 
@@ -2265,7 +2265,7 @@ label explanationover:
 
     s "Bist du okay?"
 
-    "Sayaka gives me a solid pat on the back, which does little in the way of helping my stomach."
+    "Sayaka gibt mir einen festen Klaps auf den Rücken, wodurch meine Magenbeschwerden wirklich ein bisschen nachlassen."
 
     p "...Hört auf ..."
 
