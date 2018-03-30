@@ -804,7 +804,9 @@ label start:
 
     "Das fröhliche – äh, Sayaka – verbeugt sich höflich vor der Klasse und wirft mir ein Grinsen zu.{w} Was ...{w} Was soll das?"
 
-    "Das andere Mädchen ist weniger höflich und steht mit verschränkten Armen da.{w} Es sieht so aus, als sei sie nicht freiwillig hier.{w} Auch ihr Blick richtet sich auf mich, aber anstatt mich anzulächeln, starrt sie mich grimmig an."
+    "Das andere Mädchen ist weniger höflich und steht mit verschränkten Armen da.{w} Es sieht so aus, als sei sie nicht freiwillig hier."
+    
+    "Auch ihr Blick richtet sich auf mich, aber anstatt mich anzulächeln, starrt sie mich grimmig an."
 
     "Gibt sie etwa mir die Schuld dafür?{w} Es fühlt sich echt so an ..."
 
