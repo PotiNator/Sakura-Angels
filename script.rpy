@@ -66,7 +66,7 @@ define dq = Character('????', color="#a00000")
 
 
 
-define teacher = Character('Teacher', color="#c8ffc8")
+define teacher = Character('Lehrer', color="#c8ffc8")
 
 
 label main_menu:
