@@ -228,7 +228,7 @@ label start:
 
     "...Okay, man {i}könnte{/i} damit falsch liegen.{w} Plötzlich werden traumatische Erinnerungen an jenen Morgen, als mein Toast in Flammen aufgegangen ist, in mir wach.{w} ... Ah, das war ein Tag."
 
-    "Aber ich habe von meinen Fehlern gelernt.{w} Es wird kein zweites, äh ... drittes Mal mehr passieren!"
+    "Aber ich habe aus meinen Fehlern gelernt.{w} Es wird kein zweites, äh ... drittes Mal mehr passieren!"
 
     with Pause(2.5)
 
@@ -271,7 +271,7 @@ label start:
 
     "In der Hoffnung, wenigstens irgendjemanden zu treffen, eile ich vorwärts."
 
-    "Sogar die Sonnenstrahlen scheinen verblasst zu sein, wodurch alles in einen düsteren Farbton getaucht wurde.{w} Aber ...{w} im Himmel ist weit und breit keine Wolke zu sehen."
+    "Sogar die Sonnenstrahlen scheinen verblasst zu sein, wodurch alles in einen düsteren Farbton getaucht wurde.{w} Aber ...{w} am Himmel ist weit und breit keine Wolke zu sehen."
 
     "Okay, das macht mich jetzt aber wirklich ein wenig verrückt.{w} Ich muss doch nur –"
 
@@ -353,7 +353,7 @@ label start:
 
             "...Was jetzt?"
 
-            "Mein Überraschungsangriff wurde mit völliger Gleichgültigkeit begegnet, und ich schätze, jetzt ist es schon zu spät, um wegzurennen."
+            "Meinem Überraschungsangriff wurde mit völliger Gleichgültigkeit begegnet, und ich schätze, jetzt ist es schon zu spät, um wegzurennen."
 
             "Das war wohl ein riesengroßer Fehler."
 
@@ -378,7 +378,7 @@ label start:
 
             with hpunch
 
-            "Die Schmerzen in meinen Knien ignorierend versuche ich verzweifelt, mich aufzurichten.{w} Aber ich schaffe es nicht."
+            "Die Schmerzen in meinen Knien ignorierend, versuche ich verzweifelt, mich aufzurichten.{w} Aber ich schaffe es nicht."
 
             "Ich höre, wie das Monster hinter mir wütet."
 
@@ -780,7 +780,7 @@ label start:
 
     "Hah.{w} Nein.{w} Das kann unmöglich sein."
 
-    teacher "Ich möchte, dass der Einzug in die Schule so reibungslos wie nur möglich verläuft. {w} Äh, wie waren nochmal eure Namen?"
+    teacher "Ich möchte, dass der Einzug in die Schule so reibungslos wie nur möglich verläuft. {w} Äh, wie waren nochmal Ihre Namen?"
 
     cg "Ich bin Sayaka ... Freut mich, euch alle kennenzulernen.{w} Ich hoffe, wir kommen alle gut miteinander aus!"
 
@@ -981,7 +981,7 @@ label start:
     
     "Genauso wie in der ersten Stunde konnte ich mich auch im Sportunterricht nicht wirklich konzentrieren."
 
-    "Ich nehme bei den Übungen teil ... mit der Begeisterung eines Zombies."
+    "Ich nehme an den Übungen teil ... Mit der Begeisterung eines Zombies."
 
     "Den Rest der Stunde nehme ich nur noch verschwommen wahr, zumindest bis einige meiner Mitschüler zur Laufbahn schauen, wo gerade die Mädels unterwegs sind."
     
@@ -1182,7 +1182,7 @@ label start:
     $ hikaface='embarrassed'
     show Hikari
 
-    h "H-Hä?{w} E-Eine L-Liebeserklärung?{w} Wer?{w} Wir beide?!"
+    h "H-Hä?{w} E-Eine L-Liebeserklärung?{w} An wen?{w} Uns zwei?!"
 
     "Was zum Teufel denken die beiden überhaupt ...{w} Ich schüttle einfach nur meinen Kopf."
 
@@ -1374,7 +1374,7 @@ label rooftopexplanation:
             $ sayaface='smiling'
             show Sayaka
 
-            "Sayaka wird von einem Schrei von Hikari unterbrochen.{w} Au ...{w} Ich schätze, ich werd es nie rausfinden.{w} Hikari möchte dieses Geheimnis anscheinend um jeden Preis geheim halten."
+            "Sayaka wird durch einen Schrei von Hikari unterbrochen.{w} Au ...{w} Ich schätze, ich werd es nie rausfinden.{w} Hikari möchte dieses Geheimnis anscheinend um jeden Preis geheim halten."
 
             $ hikaface='normal'
             show Hikari
