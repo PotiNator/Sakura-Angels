@@ -378,7 +378,7 @@ label start:
 
             with hpunch
 
-            "Die Schmerzen in meinen Knien ignorierend, versuche ich verzweifelt, mich aufzurichten.{w} Aber ich schaffe es nicht."
+            "Die Schmerzen in meinen Knien ignorierend versuche ich verzweifelt, mich aufzurichten.{w} Aber ich schaffe es nicht."
 
             "Ich höre, wie das Monster hinter mir wütet."
 
@@ -730,7 +730,7 @@ label start:
 
     "Ah, pfeif drauf, das Ganze muss erst mal warten.{w} Ich muss mich jetzt auf was anderes konzentrieren: Ich komme noch zu spät zur Schule!"
 
-    "Im Versuch, die verlorengegangene Zeit wieder aufzuholen, sprinte ich los, und hoffe nicht noch einmal auf die beiden Mädchen zu treffen."
+    "Im Versuch, die verlorengegangene Zeit wieder aufzuholen, sprinte ich los, und hoffe, nicht noch einmal auf die beiden Mädchen zu treffen."
     stop music fadeout 3.0
     scene bg black
     with fade
@@ -780,7 +780,7 @@ label start:
 
     "Hah.{w} Nein.{w} Das kann unmöglich sein."
 
-    teacher "Ich möchte, dass der Einzug in die Schule so reibungslos wie nur möglich verläuft. {w} Äh, wie waren nochmal Ihre Namen?"
+    teacher "Ich möchte, dass der Einzug in die Schule so reibungslos wie nur möglich verläuft. {w} Äh, wie waren nochmal eure Namen?"
 
     cg "Ich bin Sayaka ... Freut mich, euch alle kennenzulernen.{w} Ich hoffe, wir kommen alle gut miteinander aus!"
 
@@ -1292,7 +1292,7 @@ label rooftopexplanation:
             $ sayaface='scared'
             show Sayaka
 
-            "...Als Antwort wiederum klopf Hikari Sayaka auf die Schulter, wobei das nicht mal annähernd als Spaß gedacht war.{w} Gehören die beiden überhaupt zusammen?"
+            "...Als Antwort wiederum klopft Hikari Sayaka auf die Schulter, wobei das nicht mal annähernd als Spaß gedacht war.{w} Gehören die beiden überhaupt zusammen?"
 
             p "Wie auch immer ..."
 
@@ -1320,7 +1320,7 @@ label rooftopexplanation:
 
         "Was war das für ein Monster?" if q2 is False:
 
-            "Ich möchte mehr darüber wissen, was das ...{w}für ein Ding war, vor dem sie mich gerettet haben.{w} Ich glaube, sie haben es als 'Schatten' bezeichnet."
+            "Ich möchte mehr darüber wissen, was das ...{w} für ein Ding war, vor dem sie mich gerettet haben.{w} Ich glaube, sie haben es als 'Schatten' bezeichnet."
 
             p "Ich schätze, von diesen Dingern ... gibt es da draußen noch mehr?"
 
@@ -1379,7 +1379,7 @@ label rooftopexplanation:
             $ hikaface='normal'
             show Hikari
 
-            h "Er darf davon nichts wissen.{w} Es ist besser so.{w} Wie werden das Problem lösen und dann endlich diese grausame Schule verlassen."
+            h "Er darf davon nichts wissen.{w} Es ist besser so.{w} Wir werden das Problem lösen und dann endlich diese grausame Schule verlassen."
 
             s "Mit dir macht es echt keinen Spaß{w} ... Aber du hast recht.{w} Tut mir leid, Kenta."
 
@@ -1496,7 +1496,7 @@ label rooftopexplanation:
 
             "Ich sollte mich aber jetzt besser beeilen.{w} Ich will nicht schon wieder zu spät kommen!"
 
-            "Als ich mich auf dem Weg zur Treppe mache, macht sich plötzlich mein Magen bemerkbar.{w} Und er schreit nach Essen."
+            "Als ich mich auf den Weg zur Treppe mache, macht sich plötzlich mein Magen bemerkbar.{w} Und er schreit nach Essen."
 
             "Ah, stimmt. Vor lauter Fragerei hab ich komplett mein Essen vergessen.{w} Scheiße ..."
 
@@ -1561,7 +1561,7 @@ label explanationover:
 
     p "Schaut ...{w} Ich weiß, dass ihr mich nur beschützen wollt, aber müsst ihr dafür, äh, so {i}an mir kleben{/i}?"
 
-    "Ja.{w} Die Schritte gehören zu niemand Geringeren als zu meinen selbsternannten 'Schutzengeln'.{w} Sayaka links und Hikari rechts von mir."
+    "Ja.{w} Die Schritte gehören zu niemand Geringerem als zu meinen selbsternannten 'Schutzengeln'.{w} Sayaka links und Hikari rechts von mir."
     
     "Und obwohl ihre Schultern zwar Zentimeter von meinen entfernt sind, marschieren wir im Gleichschritt."
 
@@ -1769,7 +1769,7 @@ label explanationover:
 
     p "Aber ...{w} Okay, okay."
 
-    "Ich tu, was sie mir gesagt haben, und ziehe mich ein wenig zurück. Schließlich möchte ich in einer solchen Situation nicht mit ihnen zu streiten beginnen."
+    "Ich tu, was sie mir gesagt hat, und ziehe mich ein wenig zurück. Schließlich möchte ich in einer solchen Situation nicht mit ihnen zu streiten beginnen."
 
     s "So, mit was denkst du, haben wir es hier zu tun?"
 
@@ -2327,7 +2327,7 @@ label explanationover:
 
     "...Ups.{w} Da hab ich wohl was Falsches gesagt.{w} Sie drehen sich beide mit Feuer in den Augen zu mir.{w} Selbst die sonst so lockere Sayaka scheint jetzt wütend auf mich zu sein."
 
-    h "Hast du uns ernsthaft damit verglichen ...{w}Mit dem Ding?!"
+    h "Hast du uns ernsthaft damit verglichen ...{w} Mit dem Ding?!"
 
     p "Äh, das wollte ich nicht –"
 
@@ -2406,7 +2406,7 @@ label explanationover:
     
     "Ich kann nicht glauben, dass ich mich jetzt jeden Tag darum sorgen muss.{w} Was ist nur aus meinem Leben geworden?!"
 
-    "Als ich die Haustüre erreiche, werde ich jedoch vor einen Problem gestellt.{w} Diese beiden Mädchen bestehen darauf, mich zu beschützen, und waren gerade dabei, mich nach drinnen zu begleiten ..."
+    "Als ich die Haustüre erreiche, werde ich jedoch vor ein Problem gestellt.{w} Diese beiden Mädchen bestehen darauf, mich zu beschützen, und waren gerade dabei, mich nach drinnen zu begleiten ..."
     
     "... In MEIN Zuhause."
     play music "bgm/ominousintro.ogg"
@@ -2492,7 +2492,7 @@ label explanationover:
 
     p "Blughh ..."
 
-    "Einde Hälfte meines Verstandes sagt mir, ich solle mich einfach umdrehen und weiterschlafen, aber die andere Hälfte macht sich bereits Sorgen darüber, ob ich nicht zu spät in die Schule komme."
+    "Eine Hälfte meines Verstandes sagt mir, ich solle mich einfach umdrehen und weiterschlafen, aber die andere Hälfte macht sich bereits Sorgen darüber, ob ich nicht zu spät in die Schule komme."
 
     "Gehen ...{w} wir's an.{w} Zumindest so gut wie möglich."
 
@@ -2658,7 +2658,7 @@ label explanationover:
 
     "Hikari spricht endlich mal wieder und scheint über ihre üble Laune hinweg zu sein."
 
-    h "Es braucht schon viel Energie, um etwas Einfaches zu tun, wie beispielsweise fliegen.{w} Und wir müssen immer sicherstellen, dass wir im Falle eines Überaschungsangriffs genung Energiereserven haben."
+    h "Es braucht schon viel Energie, um etwas Einfaches zu tun, wie beispielsweise fliegen.{w} Und wir müssen immer sicherstellen, dass wir im Falle eines Überaschungsangriffs genug Energiereserven haben."
 
     h "Glaubst du wirklich, es wäre eine kluge Idee, diese kostbare Energie für so was zu verschwenden?"
 
