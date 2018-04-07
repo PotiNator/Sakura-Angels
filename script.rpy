@@ -2854,7 +2854,7 @@ label explanationover:
 
             "Augenscheinlich fertig mit dem, äh, 'Kochen', betreten die beiden den Speisesaal.{w} Sayaka hält einen Teller in ihrer Hand, von dem jede Menge Dampf – oder vielleicht auch Rauch – aufsteigt."
 
-            s "Ich hoffe du bist hungrig, Kenta!{w} Wir haben wirklich alles getan, um das zu kochen!"
+            s "Ich hoffe du bist hungrig, Kenta!{w} Wir haben wirklich unser Bestes gegeben, um das zu kochen!"
 
             "Mit einem aufrichtigen Lächeln stellt sie den Teller vor mich."
 
@@ -3364,7 +3364,7 @@ label explanationover:
             show Hikari
             with dissolve
 
-            h "Denn während Sayaka und ich den Anstand haben, unsere Kräfte vor normalen Menschen zumindest zu verbergen, kann ich nicht sagen, dass die Schatten dasselbe tun werden. Es ist schon schlimm genug, dass sie versucht haben, dich am hellichten Tag anzugreifen."
+            h "Denn während Sayaka und ich den Anstand haben, unsere Kräfte vor normalen Menschen zumindest zu verbergen, kann ich nicht versprechen, dass die Schatten dasselbe tun werden. Es ist schon schlimm genug, dass sie versucht haben, dich am hellichten Tag anzugreifen."
 
             $ hikaface='normal'
             show Hikari
@@ -3739,7 +3739,7 @@ label explanationover:
 
             s "Uns wurde die Chance gegeben, hier in der Schule etwas zu lernen und ein normales Leben zu führen."
 
-            "Na ja ...{w} Ich bin mir nicht sicher, ob man das wirklich als 'anmelden' bezeichnen kann."
+            "Na ja ...{w} Ich bin mir nicht sicher, ob man das wirklich als 'Chance' bezeichnen kann."
 
             $ sayaface='smiling'
             show Sayaka
@@ -4187,7 +4187,7 @@ label explanationover:
     show Yuzuki
     with dissolve
 
-    y "Aber mach dir keine Sorgen, ich bin nicht grausam genug, um Wege zu trennen, ohne dir etwas zum Spielen zu überlassen.{w} Bis wir uns wieder treffen!"
+    y "Aber mach dir keine Sorgen, ich bin nicht grausam genug, um abzuhauen, ohne dir etwas zum Spielen zu hinterlassen.{w} Bis wir uns wieder treffen!"
 
     hide Yuzuki
     with dissolve
@@ -4942,7 +4942,7 @@ label explanationover:
 
     s "Bist du einsam, Kenta?{w} Es ist schlecht für jemanden, sich so auszugrenzen."
 
-    s "And to add to that, your parents always seem to be away working.{w} So it's just you, all on your own."
+    s "Und dass deine Eltern anscheinend immer unterwegs sind, macht es auch nicht besser.{w} Du bist also ganz allein."
 
     "Hey, also darüber solltest du dir mal keine Sorgen machen ... Wär es anders, könntet ihr jetzt nicht mal hier sein!"
 
@@ -5305,7 +5305,7 @@ label explanationover:
 
                 s "Oh?"
 
-                p "Sayaka, what I'm trying to say is, I would be dead.{w} This stuff looks toxic."
+                p "Sayaka, ich möchte damit zum Ausdruck bringen, dass ich STERBEN würde.{w} Das Zeug sieht giftig aus."
 
                 $ sayaface='scared'
                 show Sayaka
@@ -5496,7 +5496,7 @@ label explanationover:
 
     s "Komm schon!{w} Es ist das perfekte Wetter.{w} Es wäre verrückt, {i}nicht{/i} zu gehen!"
 
-    h "Aber an den Strand zu gehen ..."
+    h "Aber an den Strand zu gehen, heißt doch ..."
 
     "Hikari versinkt in beunruhigende Gedanken.{w} Ich bin sicher, sie hat ihre eigenen Gründe, weshalb sie so sehr dagegen ist ... Und ich hab meine."
 
