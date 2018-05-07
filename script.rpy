@@ -5090,7 +5090,9 @@ label explanationover:
 
             "Ich koche schnell etwas."
 
-            "Mehrmals musste ich Sayaka von der Küche wegscheuchen, als sie versuchte, einen Fuß reinzusetzen.{w} Einmal hätte das sogar fast zu einem Herzinfarkt geführt, da sie mit dem Messer da stand, als ich mich umdrehte."
+            "Mehrmals musste ich Sayaka von der Küche wegscheuchen, als sie versuchte, einen Fuß reinzusetzen."
+            
+            "Einmal hätte das sogar fast zu einem Herzinfarkt geführt, da sie mit dem Messer da stand, als ich mich umdrehte."
 
             "Ich weiß, dass sie doch nur helfen möchte ... aber trotzdem!"
     else:
@@ -5618,7 +5620,9 @@ label explanationover:
 
     "Die Wellen des Meeres kreisen sanft am Ufer entlang.{w} Ein wundervoller Anblick.{w} ... Wär es nur nicht so heiß!"
 
-    "Überraschenderweise ist hier ziemlich wenig los.{w} Hier und dort sind ein paar Leute, aber das war's dann auch schon.{w} Ich schätze mal, die Badesaison ist schon fast wieder zu Ende.{w} Ich hoffe, wir fallen nicht zu sehr auf ..."
+    "Überraschenderweise ist hier ziemlich wenig los.{w} Hier und dort sind ein paar Leute, aber das war's dann auch schon."
+    
+    "Ich schätze mal, die Badesaison ist schon fast wieder zu Ende.{w} Ich hoffe, wir fallen nicht zu sehr auf ..."
 
     "Wo wir schon beim 'wir' sind ...{w} Wo sind die Mädchen überhaupt?{w} Ich schaue mich um.{w} Wo könnten sie nur sein ...?"
 
@@ -5703,7 +5707,9 @@ label explanationover:
 
             h "Das ist so dumm!{w} M-Mich interessiert eh nicht, was Kenta denkt."
 
-            "Sayaka klatscht kopfüber in den Sand.{w} Da sie einen kurzen Moment regungslos liegen bleibt, mache ich mir Sorgen, ob sie nicht vielleicht das Bewusstsein verloren hat.{w} Aber als ich meine Hand ausstrecke, grinst sie mich schon wieder an."
+            "Sayaka klatscht kopfüber in den Sand.{w} Da sie einen kurzen Moment regungslos liegen bleibt, mache ich mir Sorgen, ob sie nicht vielleicht das Bewusstsein verloren hat."
+            
+            "Aber als ich meine Hand ausstrecke, grinst sie mich schon wieder an."
 
             hide Hikari
             with dissolve
@@ -5880,7 +5886,9 @@ label explanationover:
 
     p "Na klar!"
 
-    "Sage ich völlig zuversichtlich, aber in Wirklichkeit habe ich sogar eine Weile gebraucht, um rauszufinden, wo die Luft reinkommt.{w} Argh, das kommt mir vor, als würde ich ein Rätsel lösen.{w} Ein echt kompliziertes Rätsel!"
+    "Sage ich völlig zuversichtlich, aber in Wirklichkeit habe ich sogar eine Weile gebraucht, um rauszufinden, wo die Luft reinkommt."
+    
+    "Argh, das kommt mir vor, als würde ich ein Rätsel lösen.{w} Ein echt kompliziertes Rätsel!"
 
     with Pause(3.5)
     with fade
@@ -6060,7 +6068,9 @@ label explanationover:
 
     "Etwas, was man nur als gigantische Masse an Schlamm bezeichnen kann, türmt sich allmählich vor uns auf."
 
-    "Eine groteske Kreatur, die plötzlich etwas öffnet, von dem  ich denke, dass es die Augen sind.{w} Mittlerweile verdeckt sie selbst die Sonne.{w} Die Kreatur ist mindestens so groß wie ein Gebäude, wenn nicht sogar noch größer!"
+    "Eine groteske Kreatur, die plötzlich etwas öffnet, von dem  ich denke, dass es die Augen sind.{w} Mittlerweile verdeckt sie selbst die Sonne."
+    
+    "Die Kreatur ist mindestens so groß wie ein Gebäude, wenn nicht sogar noch größer!"
 
     p "Und dagegen wollt ihr kämpfen?{w} ... {i}Könnt{/i} ihr dagegen überhaupt kämpfen?"
 
@@ -6236,7 +6246,9 @@ label explanationover:
 
     "Das war nicht lustig.{w} Überhaupt nicht.{w} Ich denke sogar, dass der Schleim all das noch wahrgenommen hat, wenn man bedenkt, wie schwer es war, ihn ins Meer zurückzubringen."
 
-    "Mein Gott, ich kann nicht glauben, dass ich den halben Tag lang den Strand saubergemacht hab.{w} Sayaka kann ich aber auch nicht beschuldigen.{w} Als sie die Idee hatte, wusste sie schließlich nicht, was danach passiert."
+    "Mein Gott, ich kann nicht glauben, dass ich den halben Tag lang den Strand saubergemacht hab.{w} Sayaka kann ich aber auch nicht beschuldigen."
+    
+    "Als sie die Idee hatte, wusste sie schließlich nicht, was danach passiert."
 
     "Aber Hikari, die darauf beharrt hat, die ganze Zeit zuzusehen ... Ja, der kann man die Schuld in die Schuhe schieben!"
     play music "bgm/everydayintro.ogg" fadein 5.0
@@ -6254,7 +6266,9 @@ label explanationover:
     show Hikari at right
     with dissolve
 
-    "Niemand sagt etwas und beide sehen sie erschöpft aus.{w} Das ganze Getue am Strand hat uns ziemlich mitgenommen.{w} Seitdem Hikari mit dem Schleim bedeckt war, hat sie nahezu kein einziges Wort gesagt, wenn ich mich nicht täusche."
+    "Niemand sagt etwas und beide sehen sie erschöpft aus.{w} Das ganze Getue am Strand hat uns ziemlich mitgenommen."
+    
+    "Seitdem Hikari mit dem Schleim bedeckt war, hat sie nahezu kein einziges Wort gesagt, wenn ich mich nicht täusche."
 
     "Trotz der Erschöpfung scheinen beide immer noch auf der Hut zu sein."
 
@@ -6289,7 +6303,9 @@ label explanationover:
 
 
 
-    "Als ich in meine Träume gezogen werde, befürchte ich bereits, das dort etwas Schreckliches lauert.{w} Etwas, das ich nicht ignorieren sollte{w} ... Aber in dem Moment, wo ich aufwache, weiß ich überhaupt nichts mehr von diesem Traum."
+    "Als ich in meine Träume gezogen werde, befürchte ich bereits, das dort etwas Schreckliches lauert.{w} Etwas, das ich nicht ignorieren sollte."
+    
+    "Aber in dem Moment, wo ich aufwache, weiß ich überhaupt nichts mehr von diesem Traum."
 
     with Pause(3.5)
     scene bedroom day
@@ -7471,7 +7487,9 @@ label explanationover:
 
     p "Wir haben also überhaupt keinen Stress, hm?"
 
-    "Ich versuche mein Bestes, mir all die erwähnten Dinge nicht zu sehr zu Herzen zu nehmen.{w} Kaum zu glauben, dass ich der einzige bin, der diese Frau aus diesem Gefängnis befreien und gleichzeitig für immer wegsperren kann."
+    "Ich versuche mein Bestes, mir all die erwähnten Dinge nicht zu sehr zu Herzen zu nehmen."
+    
+    "Kaum zu glauben, dass ich der einzige bin, der diese Frau aus diesem Gefängnis befreien und gleichzeitig für immer wegsperren kann."
 
     h "Morgen ist unsere letzte Chance, das zu stoppen, bevor es außer Kontrolle gerät."
 
@@ -7536,7 +7554,9 @@ label explanationover:
 
     "Und ich bin mir auch nicht sicher, dass ich es bereits verstanden hab ...{w} aber nach einigen Stunden des Übens, haben sie mir versichert, dass ich es verstanden hab."
 
-    "Ich werd es aber erst wissen, wenn es hart auf hart kommt.{w} Und das macht mir Angst.{w} Was, wenn sie mein Potential falsch eingeschätzt haben?{w} Oder wenn ich es versaue?{w} Oder ...{w} unzählige andere Möglichkeiten, die noch auftreten könnten."
+    "Ich werd es aber erst wissen, wenn es hart auf hart kommt.{w} Und das macht mir Angst.{w} Was, wenn sie mein Potential falsch eingeschätzt haben?{w} Oder wenn ich es versaue?"
+    
+    "Oder ...{w} unzählige andere Möglichkeiten, die noch auftreten könnten."
 
     "Das sind alles Gedanken, die mir durch den Kopf gehen, nachdem die beiden Mädchen bereits wieder in ihr Zelt zurückgekehrt sind."
 
@@ -8031,7 +8051,9 @@ label explanationover:
 
     "...Aber ich betrachte es als überaus negativ, dass sie mich einfach so zurücklassen."
 
-    "Ich denke darüber nach, in meinem eigenen Tempo weiterzukrabbeln, da ich irgendwann ohnehin bei ihnen sein werde, aber dann fühle ich plötzlich etwas Schleimiges an meiner Hand, das mich zum ‚Sprint‘ bewegt."
+    "Ich denke darüber nach, in meinem eigenen Tempo weiterzukrabbeln, da ich irgendwann ohnehin bei ihnen sein werde."
+    
+    "Aber dann fühle ich plötzlich etwas Schleimiges an meiner Hand, das mich zum ‚Sprint‘ bewegt."
 
     "Ich weiß nicht, ob in diesem Tunnel etwas auf uns lauert, aber ich will auch nicht hier bleiben, um es herauszufinden."
 
@@ -8423,7 +8445,11 @@ label explanationover:
 
     "Selbst Sayaka scheint nicht komplett davon überzeugt zu sein.{w} ... Mir bleibt wohl nichts anderes übrig, als einfach an Hikari zu glauben."
 
-    "Ich nicke und gemeinsam kommen wir dem Zentrum all dieses Chaos immer näher.{w} Hinter mir kann ich noch immer das Aufeinanderprallen von Magie, begleitet von schmerzhaften Schreien, hören.{w} Ich darf mich nicht umdrehen.{w} Sie wird es schon schaffen!"
+    "Ich nicke und gemeinsam kommen wir dem Zentrum all dieses Chaos immer näher."
+    
+    "Hinter mir kann ich noch immer das Aufeinanderprallen von Magie, begleitet von schmerzhaften Schreien, hören."
+    
+    "Ich darf mich nicht umdrehen.{w} Sie wird es schon schaffen!"
 
     "Wir sind fast da.{w} Nur noch ein paar Schritte, und--"
 
@@ -8583,7 +8609,9 @@ label explanationover:
 
     "Etwas, das so sicher ist, dass so etwas nie wieder vorkommen wird."
 
-    "Und dann verbinde ich dieses Gefängnis, so wie es mein Vorfahre vor mir getan hat, mit meiner eigenen Seele.{w} Ich muss mich daran binden und der einzige Schlüssel bleiben, der in der Lage ist, dieses Gefängnis zu öffnen."
+    "Und dann verbinde ich dieses Gefängnis, so wie es mein Vorfahre vor mir getan hat, mit meiner eigenen Seele."
+    
+    "Ich muss mich daran binden und der einzige Schlüssel bleiben, der in der Lage ist, dieses Gefängnis zu öffnen."
 
     "..."
 
@@ -9600,7 +9628,9 @@ label explanationover:
 
         p "Äh, guten Morgen, Sayaka."
 
-        "Ich binde gerade meine Krawatte.{w} Unglücklicherweise – zumindest für sie – bin ich nicht nackt.{w} Das passiert so früh am Morgen nicht oft, aber mit der Zeit hab ich gelernt, dass man bei ihr ziemlich vorsichtig sein muss."
+        "Ich binde gerade meine Krawatte.{w} Unglücklicherweise – zumindest für sie – bin ich nicht nackt."
+        
+        "Das passiert so früh am Morgen nicht oft, aber mit der Zeit hab ich gelernt, dass man bei ihr ziemlich vorsichtig sein muss."
 
         $ sayaface='happy'
         $ sayapose='school_2'
@@ -9633,7 +9663,9 @@ label explanationover:
         $ sayaface='smiling'
         show Sayaka
 
-        "Sie hat es sich in letzter Zeit zur Gewohnheit gemacht, mich morgens aufzuwecken.{w} Ich kann gar nicht beschreiben, wie viel Angst ich hatte, als ich zum ersten Mal aufwachte und sie mich mit einem breiten Grinsen angelächelt hat."
+        "Sie hat es sich in letzter Zeit zur Gewohnheit gemacht, mich morgens aufzuwecken."
+        
+        "Ich kann gar nicht beschreiben, wie viel Angst ich hatte, als ich zum ersten Mal aufwachte und sie mich mit einem breiten Grinsen angelächelt hat."
 
         "Sie sagt, sie möchte lediglich sicherstellen, dass ich pünktlich in der Schule ankomme, aber ich bin mir ziemlich sicher, dass es da auch noch andere Gründe gibt."
 
@@ -9641,7 +9673,9 @@ label explanationover:
 
         "Sie war schon immer sehr freundlich und anhänglich, sicher, aber diese Eigenschaften sind nun weitaus ausgeprägter."
 
-        "Mittags zum Beispiel packt sie mich an der Hand und zieht mich in die Cafeteria, ob ich möchte oder nicht.{w} Und während unserer Spaziergänge kommt es mir so vor, als würde sie alles versuchen, um mir näher zu sein als es Hikari ist."
+        "Mittags zum Beispiel packt sie mich an der Hand und zieht mich in die Cafeteria, ob ich möchte oder nicht."
+        
+        "Und während unserer Spaziergänge kommt es mir so vor, als würde sie alles versuchen, um mir näher zu sein als es Hikari ist."
 
         "Vielleicht bilde ich mir das aber auch nur ein?{w} Ich weiß es nicht.{w} Ich weiß nur--"
 
