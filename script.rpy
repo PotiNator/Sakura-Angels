@@ -138,7 +138,7 @@ label start:
 
     "Da ich so an diesen Traum gewöhnt bin, weiß ich, wie er enden wird."
     
-    "Ich werde für eine scheinbare Ewigkeit durch die Dunkelheit waten und nie etwas finden, bis endlich der Morgen anbricht und mich aus diesem Albtraum reißt."
+    "Ich werde für eine scheinbare Ewigkeit durch die Dunkelheit wandern und nie etwas finden, bis endlich der Morgen anbricht und mich aus diesem Albtraum reißt."
 
     "Zumindest ...{w} hat er für gewöhnlich so geendet."
 
