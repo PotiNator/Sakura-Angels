@@ -728,7 +728,7 @@ label start:
 
     "Ist das gerade wirklich passiert?"
 
-    "Ah, pfeif drauf, das Ganze muss erst mal warten.{w} Ich muss mich jetzt auf was anderes konzentrieren: Ich komme noch zu spät zur Schule!"
+    "Ach, pfeif drauf, das Ganze muss erst mal warten.{w} Ich muss mich jetzt auf was anderes konzentrieren: Ich komme noch zu spät zur Schule!"
 
     "Im Versuch, die verlorengegangene Zeit wieder aufzuholen, sprinte ich los, und hoffe, nicht noch einmal auf die beiden Mädchen zu treffen."
     stop music fadeout 3.0
